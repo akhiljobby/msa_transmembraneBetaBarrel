@@ -1,0 +1,234 @@
+>P52584.1 RecName: Full=Vascular endothelial growth factor homolog; Flags: Precursor
+-MKLLVGILVAVCLHQYL------------------------------------------
+-LNADSNTKGWSEV----------------------------------------------
+---------LKGSECKPRPIVVPVSETHPELTSQRFNPPCVTLMRCGGCCNDESLECVPT
+EEVNVSMELLGAS-GS-GSNGMQRLSFVEHKKCDCRPRFT--------------------
+------------------------------------------------------------
+--------------------------------------------------TTPPTTTRPP
+RRRR--------------------------------------------------------
+-----------
+>P82475.2 RecName: Full=Snake venom vascular endothelial growth factor toxin ICPP; Short=svVEGF; AltName: Full=Increasing capillary permeability protein; AltName: Full=Increasing capillary-2; Short=IC2; AltName: Full=VEGF-F
+------------------------------------------------------------
+------QVRPFPDV----------------------------------------------
+---------YQRSACQARETLVSILQEYPDEISDIFRPSCVAVLRCSGCCTDESLKCTPV
+GKHTVDMQIMRVN-PRTQSSKMEVMKFTEHTACECRPR----------------------
+------------------------------------------------------------
+---------------------------------------------------RKQGEPDGP
+K-----------------------------------------------------------
+-----EKPR--
+>Q90X23.1 RecName: Full=Snake venom vascular endothelial growth factor toxin; Short=svVEGF; AltName: Full=VEGF-F; Flags: Precursor
+MAVYLLAVAILFC------IQGWPL-----------------------------------
+-GTVQGQVMPFMEV----------------------------------------------
+---------YRHSVCQPRETLVSILEEYPGEISHIFRPSCVTALRCGGCCTDESLECTAT
+GKRSVGREIMRLS-PHKGTSEKEVMQFTEHTDCECRPRSA--------------------
+------------------------------------------------------------
+------------------------------------------------SGVNSRKHKRNP
+EEGEP-RAKFPFV-----------------------------------------------
+-----------
+>C0K3N1.1 RecName: Full=Snake venom vascular endothelial growth factor toxin barietin; Short=svVEGF; AltName: Full=VEGF-F; Flags: Precursor
+MAAYLLAVAILFC------IQGWPS-----------------------------------
+-GTVQGEVRPFMEV----------------------------------------------
+---------YQRSVCQPRETLVSILEEYPDKISKIFRPSCVAVLRCGGCCSDESLTCTSV
+GERTVELQVMQVT-PKTLSSKIKVMKFREHTACECRPRSG--------------------
+------------------------------------------------------------
+------------------------------------------------SRVNIGKHKRSP
+EEGER-EPSSPLTPGSL-------------------------------------------
+-----------
+>O73682.1 RecName: Full=Vascular endothelial growth factor A-A; Short=VEGF-A-A; Flags: Precursor
+MNLVVYLIQLFLAALLHLSAVK---AAHIP----------------------------KE
+GGKSKNDVIPFMDV----------------------------------------------
+---------YKKSACKTRELLVDIIQEYPDEIEHTYIPSCVVLMRCAGCCNDEALECVPT
+ETRNVTMEVLRVK-QR-VSQHNFQLSFTEHTKCECRPKAE--------------------
+-------------------VKAKKEN----------------------------------
+-------HCEP------------------------------------CSERRKRLYVQDP
+LTCKC-SCKFTQMQCKSRQLELNERTCRC-------------------------------
+-----EKPR--
+>P83906.1 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLTWIHWGLAALLYFHNAKVLQAAPAQ----------------------------GD
+GERQQGEVIPFLKV----------------------------------------------
+---------YERSICRPVETMVDIFQEYPDEVEYIFKPSCVALMRCGGCCNDEALECVPT
+EMYNVTMEVMKLK-PF-QSQHIHPVSFQQHSKCECRPKKD--------------------
+---------------------IRNKD----------------------------------
+------NHCEP------------------------------------CSERRKHLYKQDP
+LTCKC-SCKAPDLRCKSKQLELNERTCRC-------------------------------
+-----ERPRR-
+>C0K3N5.1 RecName: Full=Vascular endothelial growth factor A; Flags: Precursor
+MNFLLSWIHWGLAALLYFHNAKVLQAAPAQ----------------------------GD
+GDRQQGEVISFLTV----------------------------------------------
+---------YERSACRPVETMVDIFQEYPDEVEYIFKPSCVALMRCGGCCNDEALECVPT
+EVYNVTMEIMKLK-PF-QSQHIHPMSFQQHSKCECRPKKE--------------------
+-------------------VRIRQEN----------------------------------
+-------HCEP------------------------------------CSERRKHLYKQDP
+LTCKC-SCKFTDSRCKSKQLELNERTCRC-------------------------------
+-----EKPRR-
+>C0K3N4.1 RecName: Full=Vascular endothelial growth factor A; Flags: Precursor
+MNFLLTWIHWGLAALLYFHNAKVLQAAPAH----------------------------GD
+GDRQQSEVIPFMTV----------------------------------------------
+---------YERSVCRPIETMVDIFQEYPDEVEYILKPPCVALMRCGGCCNDEALECVPT
+ELYNVTMEIMKLK-PY-QSQHIHPMSFQQHSKCECRPKKE--------------------
+-------------------TRIIQEN----------------------------------
+-------HCEP------------------------------------CSERRKHLYKQDP
+LTCKC-SCKFTDSRCKSKQLELNERTCRC-------------------------------
+-----EKPRR-
+>P67860.1 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLTWIHWGLAALLYFHNAKVLQAAPAQ----------------------------GD
+GDRQQSEVIPFMTV----------------------------------------------
+---------YERSVCRPIETMVDIFQDYPDEVEYILKPPCVALMRCGGCCNDEALECVPT
+ELYNVTMEIMKLK-PY-QSQHIHPMSFQQHSKCECRPKKE--------------------
+-------------------TRIIQEKKSKREKGKGQKRKRKRGRYKPQNF----------
+-------HCEP------------------------------------CSERRKHLYKQDP
+LTCKC-SCKFTDSRCKSKQLELNERTCRC-------------------------------
+-----EKPRR-
+>Q99PS1.1 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLSWVHWTLALLLYLHHAKWSQAAPTT-----------------------------E
+GEQKAHGVVEFMDV----------------------------------------------
+---------YRRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCSDEALECVPT
+SESNITMQIMRVK-PH-QSQHIGEMSFLQHSRCECRPKKV--------------------
+--------------------RTKPEN----------------------------------
+-------HCEP------------------------------------CSERRKHLFVQDP
+QTCKC-SCKNTDSRCKARQLELNERTCRC-------------------------------
+-----DKPRR-
+>Q00731.2 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLSWVHWTLALLLYLHHAKWSQAAPTT-----------------------------E
+GEQKSHEVIKFMDV----------------------------------------------
+---------YQRSYCRPIETLVDIFQEYPDEIEYIFKPSCVPLMRCAGCCNDEALECVPT
+SESNITMQIMRIK-PH-QSQHIGEMSFLQHSRCECRPKKD--------------------
+--------------------RTKPEKKSVRGKGKGQKRKRKKSRFKSWSV----------
+-------HCEP------------------------------------CSERRKHLFVQDP
+QTCKC-SCKNTDSRCKARQLELNERTCRC-------------------------------
+-----DKPRR-
+>P16612.2 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLSWVHWTLALLLYLHHAKWSQAAPTT-----------------------------E
+GEQKAHEVVKFMDV----------------------------------------------
+---------YQRSYCRPIETLVDIFQEYPDEIEYIFKPSCVPLMRCAGCCNDEALECVPT
+SESNVTMQIMRIK-PH-QSQHIGEMSFLQHSRCECRPKKD--------------------
+--------------------RTKPEKKSVRGKGKGQKRKRKKSRFKSWSV----------
+-------HCEP------------------------------------CSERRKHLFVQDP
+QTCKC-SCKNTDSRCKARQLELNERTCRC-------------------------------
+-----DKPRR-
+>P26617.1 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF
+--------------------------APMA-----------------------------E
+GEQKPREEVKFMDV----------------------------------------------
+---------YKRSYCRPIEMLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDESLECVPT
+EEFNITMQIMRIK-PH-QGQHIGEMSFLQHSKCECRPKKE--------------------
+--------------------KARQEN----------------------------------
+-------PCGP------------------------------------CSERRKHLFVQDP
+QTCKC-SCRNTDSRCKARQLELNERTCRC-------------------------------
+-----DKPRR-
+>P50412.1 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLSWVHWSLALLLYLHHAKWSQAAPMA-----------------------------E
+GGQKPHEVMKFMDV----------------------------------------------
+---------YQRSFCRPIETLVDIFQEYPDEIEFIFKPSCVPLMRCGGCCNDESLECVPT
+EEFNITMQIMRIK-PH-QSQHIGEMSFLQHNKCECRPKKD--------------------
+--------------------KARQE-----------------------------------
+------------------------------------------------------------
+---------------------------KC-------------------------------
+-----DKPRR-
+>P15691.1 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLSWVHWSLALLLYLHHAKWSQAAPMA-----------------------------E
+GGQKPHEVVKFMDV----------------------------------------------
+---------YQRSFCRPIETLVDIFQEYPDEIEFIFKPSCVPLMRCGGCCNDESLECVPT
+EEFNITMQIMRIK-PH-QSQHIGEMSFLQHNKCECRPKKD--------------------
+--------------------KARQEN----------------------------------
+-------PCGP------------------------------------CSERRKHLFVQDP
+QTCKC-SCKNTDSRCKARQLELNERTCRC-------------------------------
+-----DKPRR-
+>Q9GKR0.1 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLSWVHWSLALLLYLHHAKWSQAAPMA-----------------------------E
+GEHKTHEVVKFMDV----------------------------------------------
+---------YQRSYCRPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPT
+AEFNITMQIMRIK-PH-QSQHIGEMSFLQHSKCECRPKKD--------------------
+--------------------KARQEN----------------------------------
+-------PCGP------------------------------------CSERRKHLFVQDP
+QTCKC-SCKNTDSRCKARQLELNERTCRC-------------------------------
+-----DKPRR-
+>P15692.2 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLSWVHWSLALLLYLHHAKWSQAAPMA----------------------------EG
+GGQNHHEVVKFMDV----------------------------------------------
+---------YQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPT
+EESNITMQIMRIK-PH-QGQHIGEMSFLQHNKCECRPKKD--------------------
+--------------------RARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMP
+WSLPGPHPCGP------------------------------------CSERRKHLFVQDP
+QTCKC-SCKNTDSRCKARQLELNERTCRC-------------------------------
+-----DKPRR-
+>P49151.1 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLSWVHWSLALLLYLHHAKWSQAAPMA-----------------------------E
+GDQKPHEVVKFMDV----------------------------------------------
+---------YQRSYCRPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPT
+EEFNITMQIMRIK-PH-QGQHIGEMSFLQHNKCECRPKKD--------------------
+--------------------RARQEN----------------------------------
+-------PCGP------------------------------------CSERRKHLFVQDP
+QTCKC-SCKNTDSRCKARQLELNERTCRC-------------------------------
+-----DKPRR-
+>Q9MYV3.1 RecName: Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; Flags: Precursor
+MNFLLSWVHWSLALLLYLHHAKWSQAAPMA-----------------------------G
+GEHKPHEVVKFMDV----------------------------------------------
+---------YQRSYCRPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPT
+EEFNITMQIMRIK-PH-QGQHIGEMSFLQHSKCECRPKKD--------------------
+--------------------RARQEKKSIRGKGKGQKRKRKKSRYKPWSV----------
+-------PCGP------------------------------------CSERRKHLFVQDP
+QTCKC-SCKNTDSRCKARQLELNERTCRC-------------------------------
+-----DKPRR-
+>P49767.1 RecName: Full=Vascular endothelial growth factor C; Short=VEGF-C; AltName: Full=Flt4 ligand; Short=Flt4-L; AltName: Full=Vascular endothelial growth factor-related protein; Short=VRP; Flags: Precursor
+--MHLLGFFSVACSLLAAALLPGPREAPAAAAAFESGLDLSDAEPDAGEATAYASKDLEE
+QLRSVSSVDELMTVLYPEYWKMYKCQLRKGGWQHNREQANLNSRTEE--TIKFAAAHYNT
+EILKSIDNEWRKTQCMPREVCIDVGKEFGVATNTFFKPPCVSVYRCGGCCNSEGLQCMNT
+STSYLSKTLFEITVPLSQGPKPVTISFANHTSCRCMSKLDVYRQVHSIIRRSLP-ATLPQ
+CQAANKTCPTNYMWNNHICRCLAQEDFMFSSDAGDDSTDGFHDICGPNKELDEETCQCVC
+RAGLRPASCGPHKELDRNSCQCVCKNKLFPSQCGANREFDENTCQCVCKRTCPRNQPLNP
+GKCAC-ECTESPQKCLLKGKKFHHQTCSC------YRRPCTNRQKACEPGFSYSEEVCRC
+VPSYWKRPQMS
+>P49767.1 RecName: Full=Vascular endothelial growth factor C; Short=VEGF-C; AltName: Full=Flt4 ligand; Short=Flt4-L; AltName: Full=Vascular endothelial growth factor-related protein; Short=VRP; Flags: Precursor
+--MHLLGFFSVACSLLAAALLPGPREAPAAAAAFESGLDLSDAEPDAGEATAYASKDLEE
+QLRSVSSVDELMTVLYPEYWKMYKCQLRKGGWQHNREQANLNSRTEE--TIKFAAAHYNT
+EILKSIDNEWRKTQCMPREVCIDVGKEFGVATNTFFKPPCVSVYRCGGCCNSEGLQCMNT
+STSYLSKTLFEITVPLSQGPKPVTISFANHTSCRCMSKLDVYRQVHSIIRRSLP-ATLPQ
+CQAANKTCPTNYMWNNHICRCLAQEDFMFSSDAGDDSTDGFHDICGPNKELDEETCQCVC
+RAGLRPASCGPHKELDRNSCQCVCKNKLFPSQCGANREFDENTCQCVCKRTCPRNQPLNP
+GKCAC-ECTESPQKCLLKGKKFHHQTCSC------YRRPCTNRQKACEPGFSYSEEVCRC
+VPSYWKRPQMS
+>P97953.1 RecName: Full=Vascular endothelial growth factor C; Short=VEGF-C; AltName: Full=Flt4 ligand; Short=Flt4-L; AltName: Full=Vascular endothelial growth factor-related protein; Short=VRP; Flags: Precursor
+--MHLLCFLSLACSLLAAALIPSPREAPATVAAFESGLGFSEAEPDGGEVKAFEGKDLEE
+QLRSVSSVDELMSVLYPDYWKMYKCQLRKGGWQ----QPTLNTRTGD--SVKFAAAHYNT
+EILKSIDNEWRKTQCMPREVCIDVGKEFGAATNTFFKPPCVSVYRCGGCCNSEGLQCMNT
+STGYLSKTLFEITVPLSQGPKPVTISFANHTSCRCMSKLDVYRQVHSIIRRSLP-ATLPQ
+CQAANKTCPTNYVWNNYMCRCLAQQDFIFYSNVEDDSTNGFHDVCGPNKELDEDTCQCVC
+KGGLRPSSCGPHKELDRDSCQCVCKNKLFPNSCGANREFDENTCQCVCKRTCPRNQPLNP
+GKCAC-ECTENTQKCFLKGKKFHHQTCSC------YRRPCANRLKHCDPGLSFSEEVCRC
+VPSYWKRPHLN
+>O35757.2 RecName: Full=Vascular endothelial growth factor C; Short=VEGF-C; AltName: Full=Flt4 ligand; Short=Flt4-L; AltName: Full=Vascular endothelial growth factor-related protein; Short=VRP; Flags: Precursor
+--MHLLCFLSLACSLLAAALIPGPREAPATVAAFESGLGFSEAEPDGGEVKGFEGKDLEE
+QLRSVSSVDELMSVLYPDYWKMYKCQLRKGGWQ----QPSLNMRTGD--TVKLAAAHYNT
+EILKSIDNEWRKTQCMPREVCIDVGKEFGAATNTFFKPPCVSVYRCGGCCNSEGLQCMNT
+STGYLSKTLFEITVPLSQGPKPVTISFANHTSCRCMSKLDVYRQVHSIIRRSLP-ATLPQ
+CQAANKTCPANYVWNNYMCQCLAQQDFIFYSNVEDDSSNGFHDVCGPNKELDEDTCQCVC
+KGGLRPSSCGPHKELDRDSCQCVCKNKLFLNSCGANREFDENTCQCVCKRTCPRNQPLNP
+GKCAC-ECTENTQKCFLKGKKFHHQTCSC------YRRPCTNRLKHCDPGLSFSEEVCRC
+VPSYWKRPHLN
+>O43915.1 RecName: Full=Vascular endothelial growth factor D; Short=VEGF-D; AltName: Full=c-Fos-induced growth factor; Short=FIGF; Flags: Precursor
+--MYREWVVVNVFMMLYVQLVQGSSNEHGPVK--------------RSSQSTLERS--EQ
+QIRAASSLEELLRITHSEDWKLWRCRLRLKSFT------SMDSRSASHRSTRFAATFYDI
+ETLKVIDEEWQRTQCSPRETCVEVASELGKSTNTFFKPPCVNVFRCGGCCNEESLICMNT
+STSYISKQLFEISVPLTSVPELVPVKVANHTGCKCLPTAP--RHPYSIIRRSIQIPEEDR
+CSHSKKLCPIDMLWDSNKCKCVLQEE---------NPLAGTEDHSHLQE-----------
+-----PALCGPHM------------------------MFDEDRCECVCKTPCPKDLIQHP
+KNCSCFECKESLETCCQKHKLFHPDTCSCEDRCPFHTRPCASGKTACAKHCRFPKEKRAA
+QGPHSRKNP--
+>O35251.1 RecName: Full=Vascular endothelial growth factor D; Short=VEGF-D; AltName: Full=c-Fos-induced growth factor; Short=FIGF; Flags: Precursor
+--MYGEWAAVNILMMSYVYLVQGFSIEHRAVK---------DVSLERSSRSVLERS--EQ
+QIRAASTLEELLQVAHSEDWKLWRCRLKLKSLA------NVDSRSTSHRSTRFAATFYDT
+ETLKVIDEEWQRTQCSPRETCVEVASELGKTTNTFFKPPCVNVFRCGGCCNEESVMCMNT
+STSYISKQLFEISVPLTSVPELVPVKIANHTGCKCLPTGP--RHPYSIIRRSIQIPEEDQ
+CPHSKKLCPVDMLWDNTKCKCVLQDE---------NPLPGTEDHSYLQE-----------
+-----PALCGPHM------------------------MFDEDRCECVCKAPCPGDLIQHP
+ENCSCFECKESLESCCQKHKMFHPDTCRS-------------------------------
+-MVFSLSP---
+>P97946.1 RecName: Full=Vascular endothelial growth factor D; Short=VEGF-D; AltName: Full=c-Fos-induced growth factor; Short=FIGF; Flags: Precursor
+--MYGEWGMGNILMMFHVYLVQGFRSEHGPVKDFSF---------ERSSRSMLERS--EQ
+QIRAASSLEELLQIAHSEDWKLWRCRLKLKSLA------SMDSRSASHRSTRFAATFYDT
+ETLKVIDEEWQRTQCSPRETCVEVASELGKTTNTFFKPPCVNVFRCGGCCNEEGVMCMNT
+STSYISKQLFEISVPLTSVPELVPVKIANHTGCKCLPTGP--RHPYSIIRRSIQTPEEDE
+CPHSKKLCPIDMLWDNTKCKCVLQDE---------TPLPGTEDHSYLQE-----------
+-----PTLCGPHM------------------------TFDEDRCECVCKAPCPGDLIQHP
+ENCSCFECKESLESCCQKHKIFHPDTCSCEDRCPFHTRTCASRKPACGKHWRFPKETRAQ
+GLYSQENP---

@@ -1,0 +1,147 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE:  ], CPU=0.21 sec, SCORE=65, Nseq=11, Len=527 
+
+P0AEA2          MQR-----LFLLVAVMLLSGCLTAPPKEAARPTLM--------------P
+P0AEA4.1        MQR-----LFLLVAVMLLSGCLTAPPKEAARPTLM--------------P
+A8AI45.2        MQR-----LLILVAVCLLSGCLTAPPKEAAKPTLM--------------P
+P0A204.1        MPR-----LLILVAVLLLSGCLTAPPKQAAKPTLM--------------P
+P27343.2        MMVKRTGAVLALLATAALSACGSTPVASTAGNYAKPIGTAPVTANPTDYS
+P41320.1        MRI-----CRSFLFLVK--KCGN------ITPTIW--------------R
+P16580.1        MA------------------------------------------------
+Q8HZM5.3        MA------------------------------------------------
+P15103.4        MA------------------------------------------------
+P46410.3        MA------------------------------------------------
+Q9N3B0.2        MSR-----LVLLISLVIVVASAAAPQCEVCKKVL----------------
+                *                                                 
+
+P0AEA2          RA----QSYKDL-------------THLPAPTGKIFVSVYNIQDETGQFK
+P0AEA4.1        RA----QSYKDL-------------THLPAPTGKIFVSVYNIQDETGQFK
+A8AI45.2        RA----QSYKDL-------------THLPMPTGKIFVSVYNIQDETGQFK
+P0A204.1        RA----QSYKDL-------------THLPAPTGKIFVSVYNIQDETGQFK
+P27343.2        SALVCLNQYART-------------NRIVAPR----IAIGRIADYTGKEE
+P41320.1        NQ----HTYKMATSASANLSKIVKKNYMELPQDGKVQAMYIWIDGTGEAV
+P16580.1        ------------TSASSHLSKAIKHMYMKLPQGEKVQAMYIWIDGTGEHL
+Q8HZM5.3        ------------TSASSHLNKGIKQVYMSLPQGEKVQAMYIWIDGTGEGL
+P15103.4        ------------TSASSHLNKGIKQVYMALPQGDKVQAMYIWIDGTGEGL
+P46410.3        ------------TSASSHLNKGIKQVYMSLPQGEKVQAMYIWIDGTGEGL
+Q9N3B0.2        ----------DD-------------VMAKVPAGDKSKP-----DAIGKVI
+                                              *      .     *  *:  
+
+P0AEA2          ---------------PYPASNFSTA-VPQSATAM----------LVTAL-
+P0AEA4.1        ---------------PYPASNFSTA-VPQSATAM----------LVTAL-
+A8AI45.2        ---------------PYPASNFSTA-VPQSATAM----------LVTAL-
+P0A204.1        ---------------PYPASNFSTA-VPQSATAM----------LVTAL-
+P27343.2        ---------------SDG---SGRK-VTQGASLM----------AVSAF-
+P41320.1        RCKTRTLDNEPKSIAELPEWNFDGSSTYQSEGSNSDMYLVPSAMFRDPFR
+P16580.1        RCKTRTLDHEPKSLEDLPEWNFDGSSTFQAEGSNSDMYLRPAAMFRDPFR
+Q8HZM5.3        RCKTRTLDSEPKGVEELPEWNFDGSSTFQSEGSNSDMYLVPAAMFRDPFR
+P15103.4        RCKTRTLDSEPKCIEELPEWNFDGSSTFQSEGSNSDMYLVPAAMFRDPFR
+P46410.3        RCKTRTLDSEPKCIEELPEWNFDGSSTFQSEGSNSDMYLVPAAMFRDPFR
+Q9N3B0.2        -----REHCETTRNKENKFCFYIGA-LPESATSI----------MNEVT-
+                                            :.                    
+
+P0AEA2          KDSRWFIPL-ERQGLQNLLNERKIIRAAQENGTVAINNRIP---------
+P0AEA4.1        KDSRWFIPL-ERQGLQNLLNERKIIRAAQENGTVAINNRIP---------
+A8AI45.2        KDSRWFIPL-ERQGLQNLLNERKIIRAAQENGTVAINNRIP---------
+P0A204.1        KDSRWFIPL-ERQGLQNLLNERKIIRAAQENGTVAMNNRIP---------
+P27343.2        AKA--GMPLVER--FDTSVSEFE-LKYANNKLISDRPNPAPDAPADFRKI
+P41320.1        RDPNKLVLC-EVLKYNRKPAESN-LRHSCQKIMSMIANEYP---------
+P16580.1        KDPNKLVLC-EVFKYNRQSADTN-LRHTCRRIMDMVSNQHP---------
+Q8HZM5.3        KDPNKLVFC-EVFKYNRKPAETN-LRHTCKRIMDMVSNQHP---------
+P15103.4        KDPNKLVFC-EVFKYNRKPAETN-LRHTCKRIMDMVSNQRP---------
+P46410.3        KDPNKLVFC-EVFKYNRKPAETN-LRHTCKRIMDMVSNQHP---------
+Q9N3B0.2        KPLSWSMPT-EKVCLE----------------------------------
+                      :   *    :                                  
+
+P0AEA2          -LQSLTAAN--IMVEGSIIGYESNVKSGGVGARYFGIGADT---------
+P0AEA4.1        -LQSLTAAN--IMVEGSIIGYESNVKSGGVGARYFGIGADT---------
+A8AI45.2        -LQSLTAAN--IMVEGSIIGYESNVKSGGVGARYFGIGADT---------
+P0A204.1        -LQSLTAAN--IMVEGSIIGYESNVKSGGVGARYFGIGADT---------
+P27343.2        LAGQVPGSD--FYVIGGITELNYNIRSAGIDAY-AG-DKDTDGLKGNFRR
+P41320.1        -WFGMEQEYTLLGTDGHPFGWPSNCFPGPQGPYYCGVGADK---------
+P16580.1        -WFGMEQEYTLLGTDGHPFGWPSNCFPGPQGPYYCGVGADK---------
+Q8HZM5.3        -WFGMEQEYTLMGTDGHPFGWPSNGFPGPQGPYYCGVGADK---------
+P15103.4        -WFGMEQEYTLMGTDGHPFGWPSNGFPGPQGPYYCGVGADK---------
+P46410.3        -WFGMEQEYTLMGTDGHPFGWPSNGFPGPQGPYYCGVGADK---------
+Q9N3B0.2        --------------------------------------------------
+                                                                  
+
+P0AEA2          QYQLDQIAVNLRVVNVSTGEILSSVNTSKTILSYEVQAGVFRFIDYQRLL
+P0AEA4.1        QYQLDQIAVNLRVVNVSTGEILSSVNTSKTILSYEVQAGVFRFIDYQRLL
+A8AI45.2        QYQLDQIAVNLRVVNVSTGEILSSVNTSKTILSYEVQAGVFRFIDYQRLL
+P0A204.1        QYQLDQIAVNLRVVNVSTGEILSSVNTSKTILSYEVQAGVFRFIDYQRLL
+P27343.2        RVFIMNIALDLRLVNTRTLEVVDVISYQKQVVGREVSAGVFDFLNG-NLF
+P41320.1        AYGRDIVEAHYRAC-LYAGIELSGTNAEVMAAQWEYQVGPCEGIQMGDHL
+P16580.1        AYGRDIVEAHYRAC-LYAGVKIGGTNAEVMPAQWEFQVGPCEGIEMGDHL
+Q8HZM5.3        AYGRDIVEAHYRAC-LYAGIKIAGTNAEVMPAQWEFQIGPCEGIDMGDHL
+P15103.4        AYGRDIVEAHYRAC-LYAGIKIGGTNAEVMPAQWEFQIGPCEGIDMGDHL
+P46410.3        AYGRDIVEAHYRAC-LYAGIKIGGTNAEVMPAQWEFQIGPCEGIDMGDHL
+Q9N3B0.2        --------------------KLKGKDAQICELKYDKPLD-WKTIDLK---
+                                     :   . .      :   .    ::     
+
+P0AEA2          --------------------------------------------------
+P0AEA4.1        --------------------------------------------------
+A8AI45.2        --------------------------------------------------
+P0A204.1        --------------------------------------------------
+P27343.2        --------------------------------------------------
+P41320.1        WISRFILHRVCEDFGIIASFDPKPIPGNWNGAGCHTNFSTKAMRDDGGLK
+P16580.1        WIARFILHRVCEDFGVIVSFDPKPIPGNWNGAGCHTNFSTKNMREDGGLK
+Q8HZM5.3        WVARFILHRVCEDFGVIATFDPKPIPGNWNGAGCHTNFSTKAMREENGLK
+P15103.4        WVARFILHRVCEDFGVIATFDPKPIPGNWNGAGCHTNFSTKAMREENGLK
+P46410.3        WVARFILHRVCEDFGVIATFDPKPIPGNWNGAGCHTNFSTKAMREENGLK
+Q9N3B0.2        --------------------------------------------------
+                                                                  
+
+P0AEA2          --------------------------------EG----------------
+P0AEA4.1        --------------------------------EG----------------
+A8AI45.2        --------------------------------EG----------------
+P0A204.1        --------------------------------EG----------------
+P27343.2        --------------------------------DI----------------
+P41320.1        YIEDSIEKLGKRHQYHIRAYDPKGGLDNARALTGHHETSNINEFSAGVAN
+P16580.1        HIEEAIEKLSKRHQYHIRAYDPKGGLDNARRLTGFHETSSIHEFSAGVAN
+Q8HZM5.3        YIEESIEKLSKRHQYHIRAYDPKGGLDNARRLTGFHETSNINDFSAGVAN
+P15103.4        YIEEAIEKLSKRHQYHIRAYDPKGGLDNARRLTGFHETSNINDFSAGVAN
+P46410.3        YIEEAIEKLSKRHQYHIRAYDPKGGLDNTRRLTGFHETSNINDFSAGVAN
+Q9N3B0.2        --------------------------------------------------
+                                                                  
+
+P0AEA2          --------------EVGY-TSNEPVMLCLMSAIETGVI--FLIN------
+P0AEA4.1        --------------EVGY-TSNEPVMLCLMSAIETGVI--FLIN------
+A8AI45.2        --------------EIGY-TSNEPVMLCLMSAIETGVI--FLIN------
+P0A204.1        --------------EIGY-TSNEPVMLCLMSAIETGVI--FLIN------
+P27343.2        --------------SAGR-GALEPMQLAVRALIERATV--EMAANLYGMP
+P41320.1        RGASIRIPRSVGQDKKGYFEDRRPSANCDPYAVTEALVRTCLLD------
+P16580.1        RGASIRIPRNVGHEKKGYFEDRGPSANCDPYAVTEALVRTCLLN------
+Q8HZM5.3        RGASIRIPRTVGQEKKGYFEDRRPSANCDPFSVTEALIRTCLLN------
+P15103.4        RGASIRIPRTVGQEKKGYFEDRRPSANCDPFAVTEALIRTCLLN------
+P46410.3        RGASIRIPRTGGQEKKGYFEDRRPSANCDPFAVTEALIRTCLLN------
+Q9N3B0.2        ------------------------------------KM--RVKE------
+                                                     :   :        
+
+P0AEA2          ----------------------------------DGI-DRGLWD------
+P0AEA4.1        ----------------------------------DGI-DRGLWD------
+A8AI45.2        ----------------------------------DGI-DRGLWD------
+P0A204.1        ----------------------------------DGI-DRGLWD------
+P27343.2        GPESCLRFDPFGDATVGQTGAFTPAYNNLGTNNAQTRDDPSRWNA-----
+P41320.1        ----------------------------------ESG-DKP---------
+P16580.1        ----------------------------------ETG-DEP---------
+Q8HZM5.3        ----------------------------------ETG-DEP---------
+P15103.4        ----------------------------------ETG-DEP---------
+P46410.3        ----------------------------------ETG-DEP---------
+Q9N3B0.2        ----------------------------------LKN-ILGEWGEVCKGC
+                                                                  
+
+P0AEA2          ---LQNKAERQNDILVKYRHMSVPPES
+P0AEA4.1        ---LQNKAERQNDILVKYRHMSVPPES
+A8AI45.2        ---LQNKAERQNDILVKYRHMSVPPES
+P0A204.1        ---LQNKADRQNDILVKYRELSVPPES
+P27343.2        ----RRDPDIRDAKRGR---------Y
+P41320.1        ---------------IEYNKN------
+P16580.1        ---------------FEY-KN------
+Q8HZM5.3        ---------------FQY-KN------
+P15103.4        ---------------FQY-KN------
+P46410.3        ---------------FQY-KN------
+Q9N3B0.2        TEKAELIKRIEE-LKPKYVKEEL----
+                                .          
+
+
+

@@ -1,0 +1,199 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE: psicoffee ], CPU=0.32 sec, SCORE=61, Nseq=11, Len=702 
+
+O18423          MSAKA----A-------------------------------EGYE----Q
+O18423.1        MSAKA----A-------------------------------EGYE----Q
+O18425.1        MSSRA----GIA-----------------------------EGYE----Q
+Q3LX99.1        MSATA----VTA-----------------------------DGLE----E
+O18424.1        MSSST----VMA-----------------------------DGFE----E
+B8F6F0.1        MNKYKKFLPLLVLIPFLASCGSDTPTRKGSKKPRPDYSKNTNGLDILMGQ
+Q0I513.1        MKKY----IVFAIIPFLFACSSSTL----NDDYDEAFAKDTQGLDILTGQ
+Q65VT8.2        MKLK--KFLVLLLIPFLYACSSDR-----SGNYDDAFAKDTNGLDLLTGQ
+A6VLS0.1        MKITLKKLLILAIVPFLYACSSD------RANYDDVFAKDTHGLDLLTGQ
+C0ZXK7.1        MTDLT----TLDAAEL------------------------AGKIH----S
+Q9CLB8.2        MKKY----IIYALIPFLFACGGTKTH--RSSQFDEAFAKDTRGLDILTGQ
+                *.                                          .    .
+
+O18423          IEVDVVAVW--------------KEGY------------------VYENR
+O18423.1        IEVDVVAVW--------------KEGY------------------VYENR
+O18425.1        IEVDVVAVW--------------KEGY------------------VYENR
+Q3LX99.1        IEVDVVAVW--------------KEGY------------------VYENR
+O18424.1        IEVDVVSVW--------------KEGY------------------AYENR
+B8F6F0.1        FSRNIDQIWGVNELLQASQKDYVKYTD------------------KYYTR
+Q0I513.1        FSHNIDQIWGVNELLVASRKDYVKYTD------------------NFYTR
+Q65VT8.2        FSQNIDQIWGVNELLVASRKDYVKYTD------------------SYYTR
+A6VLS0.1        FSQNIDQIWGVNELLVASRKDYVKYND------------------SYYTR
+C0ZXK7.1        REVSSVEVT--------------QAHLDRIAAVDTEYHAFLHVAGEQALE
+Q9CLB8.2        FSHNIDRIWGVNELLVASRKDYVKYTD------------------RFYTR
+                 . .   :               :                         .
+
+O18423          GSTSVDQKITITKGMKNVNSETRTVTATHSIGSTISTGDAFEIGSVEVSY
+O18423.1        GSTSVDQKITITKGMKNVNSETRTVTATHSIGSTISTGDAFEIGSVEVSY
+O18425.1        GSTSVEQKIKITKGMRNLNSETKTLTASHSIGSTISTGDLFEIATVDVSY
+Q3LX99.1        GDTSVEQKITMTKGMKNLNSETKTLTATHTVGRTLKVGDPFEIGSVEVSY
+O18424.1        GNSSVQQKITMTKGMKNLNSETKTLTATHTLGRTLKVGDPFEIASVEVSY
+B8F6F0.1        SHISFEDGQIIIETLADHNRLRNSIIHTLLMGSDATGIDLFASGDVPISN
+Q0I513.1        SHISFDEGSIMIETLGDKSRLYHSIIHTLLMGADAKGIDLFTSGDVPISS
+Q65VT8.2        SHISFEEGQITIETLADANRLHSAIVHTLLMGSDAKGIDLFASGDVPISS
+A6VLS0.1        SHISFDEGMITIETLADVNRLHSAIVHTLLMGSDAKGIDLFASGDTPISS
+C0ZXK7.1        AAAAVDNSLA-----------GGNEPASALAGVPIALKDIFTTTDMPTTC
+Q9CLB8.2        SHVSFDEGLITVETQSDLRHLQNAIVHILLMGSDANGIDLFASGDVPISS
+                .  :.::                        *      * *       : 
+
+O18423          SHSHEESQVS----------------------------------------
+O18423.1        SHSHEESQVS----------------------------------------
+O18425.1        SYSHEESQVS----------------------------------------
+Q3LX99.1        SFSHQESQVS----------------------------------------
+O18424.1        TFSHQKSQVS----------------------------------------
+B8F6F0.1        NPFLAGQVVD----------------------------------------
+Q0I513.1        RPFLVGLVVD----------------------------------------
+Q65VT8.2        RPFLVGQVVD----------------------------------------
+A6VLS0.1        RPFLVGQVVN----------------------------------------
+C0ZXK7.1        ASKILEGWVAPYDATLTSKLRAAGIPILGKTNLDEFAMGSSTENSAFGPT
+Q9CLB8.2        RPFLVGQVID----------------------------------------
+                        :                                         
+
+O18423          --------------------------------MTETEVYESKVIE-----
+O18423.1        --------------------------------MTETEVYESKVIE-----
+O18425.1        --------------------------------MTETEVYESKEIE-----
+Q3LX99.1        --------------------------------MTQTEVYSSQVIE-----
+O18424.1        --------------------------------MTQTEVYSSQVIE-----
+B8F6F0.1        --------------------------------QYGRSVTNVAVA------
+Q0I513.1        --------------------------------HKGKQVKNIATA------
+Q65VT8.2        --------------------------------NFGRQINNIDVA------
+A6VLS0.1        --------------------------------NFGQSITNVNVA------
+C0ZXK7.1        RNPWDVTRIPGGSGGGSAAALASRQAPLAIGTDTGGSIRQPAAVTATVGT
+Q9CLB8.2        --------------------------------HLGGSITNTTTA------
+                                                    .: .          
+
+O18423          --------------------------------------------------
+O18423.1        --------------------------------------------------
+O18425.1        --------------------------------------------------
+Q3LX99.1        --------------------------------------------------
+O18424.1        --------------------------------------------------
+B8F6F0.1        --------------------------------------------------
+Q0I513.1        --------------------------------------------------
+Q65VT8.2        --------------------------------------------------
+A6VLS0.1        --------------------------------------------------
+C0ZXK7.1        KPTYGTVSRFGLVACASSLDQGGPCGRTVLDTALLHEVIAGHDPRDSTSI
+Q9CLB8.2        --------------------------------------------------
+                                                                  
+
+O18423          --------------------------------------------------
+O18423.1        --------------------------------------------------
+O18425.1        --------------------------------------------------
+Q3LX99.1        --------------------------------------------------
+O18424.1        --------------------------------------------------
+B8F6F0.1        --------------------------------------------------
+Q0I513.1        --------------------------------------------------
+Q65VT8.2        --------------------------------------------------
+A6VLS0.1        --------------------------------------------------
+C0ZXK7.1        DAPVRPVVAAAREGAAGDLRGVKVGVVKELHSDSYQPGVIASFDAAVEQL
+Q9CLB8.2        --------------------------------------------------
+                                                                  
+
+O18423          --------------------------------------------------
+O18423.1        --------------------------------------------------
+O18425.1        --------------------------------------------------
+Q3LX99.1        --------------------------------------------------
+O18424.1        --------------------------------------------------
+B8F6F0.1        --------------------------------------------------
+Q0I513.1        --------------------------------------------------
+Q65VT8.2        --------------------------------------------------
+A6VLS0.1        --------------------------------------------------
+C0ZXK7.1        KALGAEVVEVSCPSFEHALASYYLVLPSEVSSNLARFDAMRYGLRVDEGN
+Q9CLB8.2        --------------------------------------------------
+                                                                  
+
+O18423          --------------------------------------------------
+O18423.1        --------------------------------------------------
+O18425.1        --------------------------------------------------
+Q3LX99.1        --------------------------------------------------
+O18424.1        --------------------------------------------------
+B8F6F0.1        --------------------------------------------------
+Q0I513.1        --------------------------------------------------
+Q65VT8.2        --------------------------------------------------
+A6VLS0.1        --------------------------------------------------
+C0ZXK7.1        MSADQVMAATRAAGFGPEVKRRIMIGTYALSSGYYDAYYGSALKVRTLIA
+Q9CLB8.2        --------------------------------------------------
+                                                                  
+
+O18423          ---------HTITIPPTSKFTRWQLNAD------VGGADIEYM--YLIDE
+O18423.1        ---------HTITIPPTSKFTRWQLNAD------VGGADIEYM--YLIDE
+O18425.1        ---------HTITIPPTSKFTRWQLNAD------VGGADIEYM--YLIDE
+Q3LX99.1        ---------HTVTIPPTSKFTRWKLNAD------VGGTDIEYM--YLIDE
+O18424.1        ---------HTVTIPPNKKFTRWKLNAD------VGGTGIEYM--YLIDE
+B8F6F0.1        -----------------NDFATYLLQNKLKTRRLKNGHTVTYVTIPMIAN
+Q0I513.1        -----------------SNFANYLLQNKLQTRYLTNGNPVQYVIIPMVAN
+Q65VT8.2        -----------------NSFASYLLQNRLQSRRLSNGRTVQFVSIQMIAN
+A6VLS0.1        -----------------NNFATYLIQNKLQQRRLNNGRTVQFVSIQMIAN
+C0ZXK7.1        RDFDKAYEKVDVLVSPTSPFTPWKLGEK------VG--DPLAM--YLSDL
+Q9CLB8.2        -----------------GNFANYLLQNKLQTRRLSNGHTVQYVVIPMIAN
+                                   *: : :          .      :   :   
+
+O18423          VTPIGGTQS-----IPQVITSRAKIIVGRQIIL-----------------
+O18423.1        VTPIGGTQS-----IPQVITSRAKIIVGRQIIL-----------------
+O18425.1        VTPIGGTLS-----IPQVIKSRAKILVGREIYL-----------------
+Q3LX99.1        VTPISVTQT-----IPQVIRSRAKILVGRQIHL-----------------
+O18424.1        VTAIGADLT-----IPEVNKSRAKILVGRQIHL-----------------
+B8F6F0.1        HVEVRARRY-----LPLVRQMSKRYGIDMSLILGIMEVESAFNPYAVSYA
+Q0I513.1        HVAVRAQRY-----LPLIRKAAGRYGIDESLILGIMQTESSFNPYAISYA
+Q65VT8.2        HVNVRARKY-----LSLVRQASRRYGIDESLILGIMQTESSFNPYAISYA
+A6VLS0.1        HVNIRARKY-----LPFVRKASRQYGIDESLILGIMQTESSFNPYAISYA
+C0ZXK7.1        CTLPTNLAGHCAMSVPSGLSADDNLPVGLQIMA-----------------
+Q9CLB8.2        HVAVRAQRY-----LPLVRKMARRYNMDESLILGIMQTESSFNPYAISYA
+                 .            :.       .  :. .:                   
+
+O18423          ---GKTEIRIKHAERKEYMTVVSRKS--------WPAATLGHSKLFKFVL
+O18423.1        ---GKTEIRIKHAERKEYMTVVSRKS--------WPAATLGHSKLFKFVL
+O18425.1        ---GETEIRIKHADRKEYMTVVSRKS--------WPAATLGHSKLYKFVL
+Q3LX99.1        ---GTTAVRIKHAERQEYMTVIERKK--------WPAATLGKSNLFKFVL
+O18424.1        ---GETEIRIKHAERKEYMTVISRKS--------WPAATLGNSNLFKFVL
+B8F6F0.1        NAIGLMQVVPRTAGRDIFAR-KGFGGQPNRDYLYNPSQNIDAGTMFLTIL
+Q0I513.1        NAIGLMQVVPHTAGRDVFRL-KGLNGQPSKKYLFNPAKNIDTGVAYLTLL
+Q65VT8.2        NAMGLMQVVPHTAGRDIFKL-KGRSGQPSKSYLFDPANNIDAGVSYLWIL
+A6VLS0.1        NAIGLMQVVPHSAGRDIFKM-KGRSGQPSKSYLFDPAKNVDAGTSYLWLL
+C0ZXK7.1        ---PA------M--------------------------------------
+Q9CLB8.2        NAIGLMQVVPTTAGRDIFKM-KGKGGQPSKSYLFDPEKNIDAGTSYLWLL
+                                                                  
+
+O18423          YEDWGGFRIKTLNTMYSGYEYAYSSDQGGIYFDQGTDNPKQRWAINKSLP
+O18423.1        YEDWGGFRIKTLNTMYSGYEYAYSSDQGGIYFDQGTDNPKQRWAINKSLP
+O18425.1        YEDMYGFRIKTLNTMYSGYEYAYSSDQGGIYFDQGSDNPKQRWAINKSLP
+Q3LX99.1        FEDSSGTRIKTLNTMYPGYEWAYSSDQGGVYFDESSDNPKQRWALSKALP
+O18424.1        FEDSSGIRIKTLNTMYPGYEWAYSSDQGGIYFDESSDNPKQRWALSKAMP
+B8F6F0.1        -RDEYLEGITDPTSKRYAMISAYNSGAGAVLRVFDNDKLMAIERINNLDP
+Q0I513.1        -RDKYLDGITNPTSKRFAMISAYNSGAGAVLRVFHNDRDIAINKINRLYP
+Q65VT8.2        -KNEYLAGITNPTSMRYAMISAYNSGAGAVLRVFDSDQEYAINIINRMQP
+A6VLS0.1        -RNEYLAGIQNPTSMRYAMISAYNSGAGAVLRVFSDDPDEAIYIINRMQP
+C0ZXK7.1        -------------------------------------ADERLYRVGAAYE
+Q9CLB8.2        -QNKYLDGITNPTSKRFAMISAYNSGAGAVLRVFDQDRDAAIVKINSLYP
+                                                            :.    
+
+O18423          LRHGDVVTFMNKYFTRSGLCYDDGPATNVYCLDKREDKWILEVV-G----
+O18423.1        LRHGDVVTFMNKYFTRSGLCYDDGPATNVYCLDKREDKWILEVV-G----
+O18425.1        LRHGDVVTFMNKYFTRSGLCYYDGPATDVYCLDKREDKWILEVVKP----
+Q3LX99.1        LRHGDVVTFMNKYFTNSGLCYDDGPATNVYCLDKREDKWILEVVNP----
+O18424.1        LRHGDVVTFRNNFFTNSGMCYDDGPATNVYCLEKREDKWILEVVNT----
+B8F6F0.1        SAIYRILTTAHPSSQARNYLVKVNKAQQKYRNVR----------------
+Q0I513.1        EQVYRILTTMHPSEQARNYLLKVDKAQKSYRVIK-----------NSESD
+Q65VT8.2        EQVYRILTTVHPSSQARNYLLKVDKAQRSYRRAR----------------
+A6VLS0.1        EQVYRILTTGHPSAQARNYLVKVDKAQRSYRRVR----------------
+C0ZXK7.1        AARGPIATAV----------------------------------------
+Q9CLB8.2        EQVYRILTTQHPSAQARNYLLKVDQAQKSYRVRR----------------
+                     : *                                          
+
+O18423          --
+O18423.1        --
+O18425.1        --
+Q3LX99.1        --
+O18424.1        --
+B8F6F0.1        --
+Q0I513.1        LP
+Q65VT8.2        --
+A6VLS0.1        --
+C0ZXK7.1        --
+Q9CLB8.2        --
+                  
+
+
+

@@ -1,0 +1,329 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE: psicoffee ], CPU=0.42 sec, SCORE=75, Nseq=11, Len=1206 
+
+Q06584          MAVN--DYEPGSMV--------ITHVQGGGRDIIQYIPARSSYGTPPFVP
+Q06584.3        MAVN--DYEPGSMV--------ITHVQGGGRDIIQYIPARSSYGTPPFVP
+Q06583.2        MARPIADLI-HFNS--------TTVTASG------------------DVY
+P09882.1        --------------------------------------------------
+P04419.2        MSGG--DGR-GHNT--------GAHSTSG------------------NIN
+Q47112.2        MSGG--DGR-GHNS--------GAHNTGG------------------NIN
+Q47112.2_1      MSGG--DGR-GHNS--------GAHNTGG------------------NIN
+P09883.4        MSGG--DGR-GHNT--------GAHSTSG------------------NIN
+P17998.1        MSDY--EGS-GPTEGIDYGHSMVVWPSTG------------------LIS
+P46855.1        MSNI--VY----LT--------VTGEQQG------------------SIS
+Q9LX26.1        MPIF--QW----L-------------------------------------
+                                                                  
+
+Q06584          PGPSPYVGTGM------------------QEYR-----------------
+Q06584.3        PGPSPYVGTGM------------------QEYR-----------------
+Q06583.2        YGPGGGTGIGP------------------I-AR-----------------
+P09882.1        --------------------------------------------------
+P04419.2        GGPTG-LGVGG---------------------G-----------------
+Q47112.2        GGPTG-LGGNG---------------------G-----------------
+Q47112.2_1      GGPTG-LGGNG---------------------G-----------------
+P09883.4        GGPTG-IGVSG---------------------G-----------------
+P17998.1        GGDVK-PGGSSGIAPSMPPGWGDYSPQGIALVQSVLFPGIIRRIILDKEL
+P46855.1        ------AGCGT---------------------S-----------------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          -KLRSTLDK-SHSELKKNLKNETLKEVDELKSEAGLPGKAVSANDIRDEK
+Q06584.3        -KLRSTLDK-SHSELKKNLKNETLKEVDELKSEAGLPGKAVSANDIRDEK
+Q06583.2        -PIEHGLDS-STENGWQ------------------------------EFE
+P09882.1        --------------------------------------------------
+P04419.2        -ASDGSGWS-SENNPWGGGSGSGIHWGGGSG-------------------
+Q47112.2        -ASDGSGWS-SENNPWGGGSGSGVHWGGGSG-------------------
+Q47112.2_1      -ASDGSGWS-SENNPWGGGSGSGVHWGGGSG-------------------
+P09883.4        -ASDGSGWS-SENNPWGGGSGSGIHWGGGSG-------------------
+P17998.1        EEGDWSGWSVSVHSPWGNEKVSAA--------------------------
+P46855.1        -ESTGNR--------WQSGH------------------------------
+Q9LX26.1        ---------------KRCLCGD----------------------------
+                                                                  
+
+Q06584          SIVDALMDAKAKSLKAIEDRPANLYTASDFPQKSESMYQSQLLASRKFYG
+Q06584.3        SIVDALMDAKAKSLKAIEDRPANLYTASDFPQKSESMYQSQLLASRKFYG
+Q06583.2        SYADVGV-------------------------------------------
+P09882.1        --------------------------------------------------
+P04419.2        -HGNGGG-------------------------------------------
+Q47112.2        -HGNGGG-------------------------------------------
+Q47112.2_1      -HGNGGG-------------------------------------------
+P09883.4        -RGNGGG-------------------------------------------
+P17998.1        --------------------------------------------------
+P46855.1        --------------------------------------------------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          EFLDRHMSELAKAYSADIYKAQIAILKQTSQELENKARSLEAEAQRAAAE
+Q06584.3        EFLDRHMSELAKAYSADIYKAQIAILKQTSQELENKARSLEAEAQRAAAE
+Q06583.2        ----------------------------------DPRRYVPLQVKEKRRE
+P09882.1        --------------------------------------------------
+P04419.2        --------------------------------------------------
+Q47112.2        --------------------------------------------------
+Q47112.2_1      --------------------------------------------------
+P09883.4        --------------------------------------------------
+P17998.1        --------------------------------------------------
+P46855.1        --------------------------------------------------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          VEADYKARKANVEKKVQSELDQAGNALPQLTNPTPEQWLERATQLVTQAI
+Q06584.3        VEADYKARKANVEKKVQSELDQAGNALPQLTNPTPEQWLERATQLVTQAI
+Q06583.2        IELQFRDAEKKLEASVQAELDKADAALGPAKNLAPLDVINRSLTIVGNAL
+P09882.1        --------------------------------------------------
+P04419.2        --------------------------------------------------
+Q47112.2        --------------------------------------------------
+Q47112.2_1      --------------------------------------------------
+P09883.4        --------------------------------------------------
+P17998.1        --------------------------------------------------
+P46855.1        --------------------------------------------------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          A--------NKKKLQT--ANNALIAKAPN---------------------
+Q06584.3        A--------NKKKLQT--ANNALIAKAPN---------------------
+Q06583.2        QQKNQKLLLNQKKITSLGAKNFLTRTAEEIGEQAVREGNINGPEAYMRFL
+P09882.1        --------------------------------------------------
+P04419.2        --------------------------------------------------
+Q47112.2        --------------------------------------------------
+Q47112.2_1      --------------------------------------------------
+P09883.4        --------------------------------------------------
+P17998.1        --------------------------------------------------
+P46855.1        --------------------------------------------------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          --ALEKQKATYNADLLVDEIASLQARLDKLNAETARRKEI----------
+Q06584.3        --ALEKQKATYNADLLVDEIASLQARLDKLNAETARRKEI----------
+Q06583.2        DREMEGLTAAYNVKLFTEAISSLQIRMNTLTAAKASIEAAAANKAREQAA
+P09882.1        --------------------------------------------------
+P04419.2        ----------------------------------NGNSGGGS--------
+Q47112.2        ----------------------------------NSNSG-----------
+Q47112.2_1      ----------------------------------NSNSG-----------
+P09883.4        ----------------------------------NGNSGGGS--------
+P17998.1        --------------------------------------------------
+P46855.1        --------------------------------------------------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          -----------ARQAAIRAANTYAMPANGSVVATAAGRGLIQVAQGAASL
+Q06584.3        -----------ARQAAIRAANTYAMPANGSVVATAAGRGLIQVAQGAASL
+Q06583.2        AEAKRKAEEQARQQAAIRAANTYAMPANGSVVATAAGRGLIQVAQGAASL
+P09882.1        --------------------------------------------------
+P04419.2        --------GTGGNLSAVAAPVAFGFPA-----LSTPGAGGLAVSISAGAL
+Q47112.2        ----------GGSNSSVAAPMAFGFPA-----LAAPGAGTLGISVSGEAL
+Q47112.2_1      ----------GGSNSSVAAPMAFGFPA-----LAAPGAGTLGISVSGEAL
+P09883.4        --------GTGGNLSAVAAPVAFGFPA-----LSTPGAGGLAVSISASEL
+P17998.1        -------------RTVLENGLRGGLPE-----PSRPAAVSFARL------
+P46855.1        ------------------EDEIFTFSL-----LNNINNTGLGSQFHGITF
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          AQAISDAIAVLGR-VL------------------ASAPSVMAVGFASLTY
+Q06584.3        AQAISDAIAVLGR-VL------------------ASAPSVMAVGFASLTY
+Q06583.2        AQAISDAIAVLGR-VL------------------ASAPSVMAVGFASLTY
+P09882.1        --------------------------------------------------
+P04419.2        SAAIADIMAALKG-PFKFGLWGVALYGVLPSQIAKDDPNMMSKIVTSLPA
+Q47112.2        SAAIADIFAALKG-PFKFSAWGIALYGILPSEIAKDDPNMMSKIVTSLPA
+Q47112.2_1      SAAIADIFAALKG-PFKFSAWGIALYGILPSEIAKDDPNMMSKIVTSLPA
+P09883.4        SAAIAGIIAKLKKVNLKFTPFGVVLSSLIPSEIAKDDPNMMSKIVTSLPA
+P17998.1        -------------------------------EPASGNEQKIIRLMVTQQL
+P46855.1        CKLID-----------------------------KSTPLFINSI------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          SSRTAEQWQDQTPDSVRYALGMDAAKLGLPPSVNLNAVAKASGTVDLPMR
+Q06584.3        SSRTAEQWQDQTPDSVRYALGMDAAKLGLPPSVNLNAVAKASGTVDLPMR
+Q06583.2        SSRTAEQWQDQTPDSVRYALGMDAAKLGLPPSVNLNAVAKASGTVDLPMR
+P09882.1        --------------------------------------------------
+P04419.2        DDI------------------------TES---PVSSLPLDKATVNVNVR
+Q47112.2        ETV------------------------TNV---QVSTLPLDQATVSVTKR
+Q47112.2_1      ETV------------------------TNV---QVSTLPLDQATVSVTKR
+P09883.4        DDI------------------------TES---PVSSLPLDKATVNVNVR
+P17998.1        EQV------------------------TDI---PASQLPAAGNNVPVKYR
+P46855.1        ---------------------------------------------NNNEQ
+Q9LX26.1        -----------------------------------TNITIDQAIALVDEE
+                                                                  
+
+Q06584          LTNEARGNTTTLSVVSTDGVSVPKAVPVRMAAYNA---TTG-----LYEV
+Q06584.3        LTNEARGNTTTLSVVSTDGVSVPKAVPVRMAAYNA---TTG-----LYEV
+Q06583.2        LTNEARGNTTTLSVVSTDGVSVPKAVPVRMAAYNA---TTG-----LYEV
+P09882.1        --------------------------------------------------
+P04419.2        VVDDVKDERQNISVVSG----VPMSVPVVDAKPTE---RPG-----VFTA
+Q47112.2        VTDVVKDTRQHIAVVAG----VPMSVPVVNAKPTR---TPG-----VFHA
+Q47112.2_1      VTDVVKDTRQHIAVVAG----VPMSVPVVNAKPTR---TPG-----VFHA
+P09883.4        VVDDVKDERQNISVVSG----VPMSVPVVDAKPTE---RPG-----VFTA
+P17998.1        LMDLMQNGTQYMAIIGG----IPMTVPVVDAVPVPDRSRPGTNIKDVYSA
+P46855.1        --------------------------------------------------
+Q9LX26.1        IANLRKLERGYQTNI-----------------------------------
+                                                                  
+
+Q06584          TV-PSTTAEAPPLILTWTP-ASPPGN---QNPSSTTPVVPKPVPVYEGAT
+Q06584.3        TV-PSTTAEAPPLILTWTP-ASPPGN---QNPSSTTPVVPKPVPVYEGAT
+Q06583.2        TV-PSTTAEAPPLILTWTP-ASPPGN---QNPSSTTPVVPKPVPVYEGAT
+P09882.1        --------------------------------------------------
+P04419.2        SI-PGAP----VLNISVNN-STPEVQ---TLSPGVTNNT-----------
+Q47112.2        SF-PGVP----SLTVSTVK-GLPVST---TLPRGITEDK-----------
+Q47112.2_1      SF-PGVP----SLTVSTVK-GLPVST---TLPRGITEDK-----------
+P09883.4        SI-PGAP----VLNISVND-STPAVQ---TLSPGVTNNT-----------
+P17998.1        PVSPNLP----DLVLSVGQMNTPVLSNPEIQEEGVIAET-----------
+P46855.1        ----------------------------------LFMG------------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          LTPVKATPETYPGVITLPEDLIIGFPADSGIK------------------
+Q06584.3        LTPVKATPETYPGVITLPEDLIIGFPADSGIK------------------
+Q06583.2        LTPVKATPETYPGVITLPEDLIIGFPADSGIK------------------
+P09882.1        --------------------------------------------------
+P04419.2        DKDVRPAGFTQGG---NTRDAVIRFPKDSGHN------------------
+Q47112.2        GRTAVPAGFTFGG---GSHEAVIRFPKESGQK------------------
+Q47112.2_1      GRTAVPAGFTFGG---GSHEAVIRFPKESGQK------------------
+P09883.4        DKDVRPAGFTQGG---NTRDAVIRFPKDSGHN------------------
+P17998.1        GNY-VEAGYTMSS---NNHDVIVRFPEGSDVS------------------
+P46855.1        ----------------FDFYRINRFGRL--EKYYYIQLRGAFLSAIHHQI
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          --------PIYVMFRD----------------------------------
+Q06584.3        --------PIYVMFRD----------------------------------
+Q06583.2        --------PIYVMFRD----------------------------------
+P09882.1        --------------------------------------------------
+P04419.2        --------AVYVSVSDVLSPDQVKQRQDEENRRQQEWDATHPVEAAERNY
+Q47112.2        --------PVYVSVTDVLTPAQVKQRQDEEKRLQQEWNDAHPVEVAERNY
+Q47112.2_1      --------PVYVSVTDVLTPAQVKQRQDEEKRLQQEWNDAHPVEVAERNY
+P09883.4        --------AVYVSVSDVLSPDQVKQRQDEENRRQQEWDATHPVEAAERNY
+P17998.1        --------PLYISTVEILDSNGLSQRQEAENKAKDDFRVKKEEAVARAEA
+P46855.1        IENQLDTETITISYEFILCQHLI-------------ANTEFSYLALPENY
+Q9LX26.1        -------------------------RNAENARDQTNV--QIERDSFNDTI
+                                                                  
+
+Q06584          --------------------------------------------------
+Q06584.3        --------------------------------------------------
+Q06583.2        --------------------------------------------------
+P09882.1        --------------------------------------------------
+P04419.2        ERAR--AELNQ---ANEDVA----RNQERQAKAVQVYNSRKS-ELDA-AN
+Q47112.2        EQAR--AELNQ---ANKDVA----RNQERQAKAVQVYNSRKS-ELDA-AN
+Q47112.2_1      EQAR--AELNQ---ANKDVA----RNQERQAKAVQVYNSRKS-ELDA-AN
+P09883.4        ERAR--AELNQ---ANEDVA----RNQERQAKAVQVYNSRKS-ELDA-AN
+P17998.1        EKAK--AELFSKAGVNQPPV----YTQEMMERANSVMNEQGA-LVLNNTA
+P46855.1        NRLFLPNSKNQ---TNNRFKTLNSKAIGRLLAAGGVYNGNIEGFRDT-AE
+Q9LX26.1        RLLQ--AECNL---INLEIP----TLNEEKF-------------------
+                                                                  
+
+Q06584          --------------------------------------------------
+Q06584.3        --------------------------------------------------
+Q06583.2        --------------------------------------------------
+P09882.1        ---------------------------RFAHD------------------
+P04419.2        -------------KTLADAIAEIKQFNRFAHD------------------
+Q47112.2        -------------KTLADAKAEIKQFERFARE------------------
+Q47112.2_1      -------------KTLADAKAEIKQFERFARE------------------
+P09883.4        -------------KTLADAIAEIKQFNRFAHD------------------
+P17998.1        SSVQLAMTGTGVWTAAGDIAGNISKFFSNALEKVTIPEVSPLLMRISLGA
+P46855.1        K-------------LGGDAIK-----------------------------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          --------------------------------------------------
+Q06584.3        --------------------------------------------------
+Q06583.2        --------------------------------------------------
+P09882.1        ------------PMAGGHRMWQMAGLKAQ--------------------R
+P04419.2        ------------PMAGGHRMWQMAGLKAQ--------------------R
+Q47112.2        ------------PMAAGHRMWQMAGLKAQ--------------------R
+Q47112.2_1      ------------PMAAGHRMWQMAGLKAQ--------------------R
+P09883.4        ------------PMAGGHRMWQMAGLKAQ--------------------R
+P17998.1        LWFHSEEAGAGSDIVPGRNLEAMFSLSAQMLAGQGVVIEPGATSVNLPVR
+P46855.1        --------------------------------------------------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          --------------------------------------------------
+Q06584.3        --------------------------------------------------
+Q06583.2        --------------------------------------------------
+P09882.1        AQTDVNNKQAAFDAAAKEKSDADAALSAAQERRKQKE--NKEKDAKDKLD
+P04419.2        AQTDVNNKQAAFDAAAKEKSDADAALSAAQERRKQKE--NKEKDAKDKLD
+Q47112.2        AQTDVNNKKAAFDAAAKEKSDADVALSSALERRKQKE--NKEKDAKAKLD
+Q47112.2_1      AQTDVNNKKAAFDAAAKEKSDADVALSSALERRKQKE--NKEKDAKAKLD
+P09883.4        AQTDVNNKQAAFDAAAKEKSDADAALSAAQERRKQKE--NKEKDAKDKLD
+P17998.1        GQLINSNGQLALDLLKTGNESIPAAVPVL----------NAVRDTATGLD
+P46855.1        ----------GYDQILNEKTAG-IAIATASILLTKRSNVDTYTEINS---
+Q9LX26.1        AITRLKSAKHFFGAVSSLKE--GKALECCKEMIKQVD--E---D------
+                                                                  
+
+Q06584          ---PR-----------------DVPGAATGKGQPVSGNWLGAAS--QGEG
+Q06584.3        ---PR-----------------DVPGAATGKGQPVSGNWLGAAS--QGEG
+Q06583.2        ---PR-----------------DVPGAATGKGQPVSGNWLGAAS--QGEG
+P09882.1        KESKR-----------------NKPGKATGKGKPVGDKWLDDAG--KDSG
+P04419.2        KESKR-----------------NKPGKATGKGKPVGDKWLDDAG--KDSG
+Q47112.2        KESKR-----------------NKPGKATGKGKPVNNKWLNNAG--KDLG
+Q47112.2_1      KESKR-----------------NKPGKATGKGKPVNNKWLNNAG--KDLG
+P09883.4        KESKR-----------------NKPGKATGKGKPVGDKWLDDAG--KDSG
+P17998.1        KITLPAVVGAPSRTILVNPVPQPSVPTDTGNHQPVPVTPVHTGTEVKSVE
+P46855.1        -----------------------YLGKLRGQQKL-------------LDG
+Q9LX26.1        -----------------------------GHGR-----------------
+                                             *: :                 
+
+Q06584          ----------------------------------A----PI--------P
+Q06584.3        ----------------------------------A----PI--------P
+Q06583.2        ----------------------------------A----PI--------P
+P09882.1        ----------------------------------A----PI--------P
+P04419.2        ----------------------------------A----PI--------P
+Q47112.2        ----------------------------------S----PV--------P
+Q47112.2_1      ----------------------------------S----PV--------P
+P09883.4        ----------------------------------A----PI--------P
+P17998.1        MPVTTITPVSDVGGLRDFIYWRPDAAGTGVEAVYVMLNDPLD-------S
+P46855.1        -----------------------------I---------DIIEIIYIKRP
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          SQIADKLRGKTFKNWRDFREQFWIAVANDPELSKQFNPGSLAVMRDGGAP
+Q06584.3        SQIADKLRGKTFKNWRDFREQFWIAVANDPELSKQFNPGSLAVMRDGGAP
+Q06583.2        SQIADKLRGKTFKNWRDFREQFWIAVANDPELSKQFNPGSLAVMRDGGAP
+P09882.1        DRIADKLRDKEFKNFDDFRRKFWEEVSKDPELSKQFNPGNKKRLSQGLAP
+P04419.2        DRIADKLRDKEFKNFDDFRKKFWEEVSKDPDLSKQFKGSNKTNIQKGKAP
+Q47112.2        DRIANKLRDKEFKSFDDFRKKFWEEVSKDPELSKQFSRNNNDRMKVGKAP
+Q47112.2_1      DRIANKLRDKEFKSFDDFRKKFWEEVSKDPELSKQFSRNNNDRMKVGKAP
+P09883.4        DRIADKLRDKEFKSFDDFRKAVWEEVSKDPELSKNLNPSNKSSVSKGYSP
+P17998.1        GRFSRKQLDKKYKHAGDFGISD---TKK--------NRETLTKFRDAIEE
+P46855.1        SKDLANLR-KEFN--KTVRKNFLIKLAKTSEASGRFNAEDLLRMRKGNVP
+Q9LX26.1        ------VDYKEFL-----------QMMKTGDFSN----------------
+                         * :               :                      
+
+Q06584          YVRESEQAGGRIKIEIHHKVRIADGGGVY-NMGNLVAVT-----------
+Q06584.3        YVRESEQAGGRIKIEIHHKVRIADGGGVY-NMGNLVAVT-----------
+Q06583.2        YVRESEQAGGRIKIEIHHKVRVADGGGVY-NMGNLVAVT-----------
+P09882.1        RARNKDTVGGRRSFELHHDKPISQDGGVY-DMDNLRITT-----------
+P04419.2        FARKKDQVGGRERFELHHDKPISQDGGVY-DMNNIRVTT-----------
+Q47112.2        KTRTQDVSGKRTSFELHHEKPISQNGGVY-DMDNISVVT-----------
+Q47112.2_1      KTRTQDVSGKRTSFELHHEKPISQNGGVY-DMDNISVVT-----------
+P09883.4        FTPKNQQVGGRKVYELHHDKPISQGGEVY-DMDNIRVTT-----------
+P17998.1        HLSDKDTVE------K-GTYRREKGSKVYFNPNTMNVVI-----------
+P46855.1        L-----------NYNVHHKLSLD-DGGTN-DFENLVLIENEPYHKVFTNM
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          ---------------------------PKRHIEIHKGG------------
+Q06584.3        ---------------------------PKRHIEIHKGG------------
+Q06583.2        ---------------------------PKRHIEIHKGG------------
+P09882.1        ---------------------------PKRHIDIHRG-------------
+P04419.2        ---------------------------PKRHIDIHRG-------------
+Q47112.2        ---------------------------PKRHIDIHRG-------------
+Q47112.2_1      ---------------------------PKRHIDIHRG-------------
+P09883.4        ---------------------------PKRHIDIHRG-------------
+P17998.1        ---------------------------IKSNGEFLSGWKINPDADNGRIY
+P46855.1        QSRIAKGILVGESKITPWAIPSGSIYPPMKNIMDHTK-------------
+Q9LX26.1        --------------------------------------------------
+                                                                  
+
+Q06584          -----K
+Q06584.3        -----K
+Q06583.2        -----K
+P09882.1        -----Q
+P04419.2        -----K
+Q47112.2        -----K
+Q47112.2_1      -----K
+P09883.4        -----K
+P17998.1        LETGEL
+P46855.1        ------
+Q9LX26.1        -----R
+                      
+
+
+

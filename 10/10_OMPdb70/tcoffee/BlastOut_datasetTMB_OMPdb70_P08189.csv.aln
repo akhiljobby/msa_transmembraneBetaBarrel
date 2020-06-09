@@ -1,0 +1,563 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE:  ], CPU=0.60 sec, SCORE=35, Nseq=11, Len=2109 
+
+P08189          MRNKP--------------------------FYL--LC-AFLWL-AV---
+A0A0J4Y309      MKLREIK------------------------FGL--ML-LLPWQ-EA---
+H1S6V7          MPPIQRP--------------NSDIGQM-PQLRP--LC-ALLLT-SLAG-
+A0A379UA63      MSKYIQL------------------GFR-KKYPP--LAIAIFST-SILGI
+A0A1Q3M530      MVKKPFH-----------------------------LL-LFFLC-VI---
+A0A2E2KEW1      MRIAHRI-----------------------------VK-LQLILRIL---
+A0A096DHA8      MNKQFFC-----------------------------AA-AFLWL--G---
+A0A246H459      MHCRFLP-----------------------------PL-ALGSL-AL---
+A0A1K1MPJ5      MPANSVYASLKRIKFTFFQNPTTYFAMRYKPLGKLCFL-LFMSC--L---
+A0A1H7ZD75      MQKKFTL-----------------------------LM-AFLLL-AV---
+A0A257GB14      MRGKLTL-----------------------------LA-GVCAA--A---
+                *                                                 
+
+P08189          -----SHA-----LAADSTI-------TI---------------------
+A0A0J4Y309      ---W-AAE-----AFSFN--------------RAHLH--G----------
+H1S6V7          ---W-QSNANADGGTREALQVAQLQLAQVEFESGFLNS-S----------
+A0A379UA63      LRAEDSNA-----AISQTMK-------TVAFDPTFLNTDD----------
+A0A1Q3M530      ----ASSS-----VYAQTTG-------SI---RGKITNGGPDGVGRVGVE
+A0A2E2KEW1      ----TSRT-----ARLQQRI-------SA---RHPLNDT-----------
+A0A096DHA8      ----GACH-----A--QPSI-------TI---YGLLDTA-----------
+A0A246H459      ----VAAA-----AHAQSTV-------TI---YGRLNVS-----------
+A0A1K1MPJ5      ----LATA-----A--LAQR-------TI---SGMVKDA-----------
+A0A1H7ZD75      ----L--Y-----AGAQ-DL-------AI---KGHVQDQ-----------
+A0A257GB14      ----VATP-----S--FAQN-------AQ---S-----------------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      ------AAQVDLQKYQYGNPLHAGQYRSTLSV----------------NG
+H1S6V7          ------GETVDLSRFKRGNTVQPGTYSVDIYV----------------DQ
+A0A379UA63      ------EKTVDLSRFAYGSSGIPGVYKTAMYV----------------ND
+A0A1Q3M530      IVELGERTSTDINGNYAFPSVAPGHYTLAVK------------------A
+A0A2E2KEW1      ------GLTSRLSRHCHGTPCFFLFNRTILAILFTQCKPCDSVAQNNNKS
+A0A096DHA8      ----------------VEHINHVGA--TGSG-------------------
+A0A246H459      -----------------------LEHADASHS----------------PR
+A0A1K1MPJ5      ----------------GDSSGLPGVNITVPGT----------------TT
+A0A1H7ZD75      ----------------QG-NPLPGVSISVKNT----------------SK
+A0A257GB14      ------------------A-------------------------------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      RDLAEETFVIQE--HDGQLEPCISPSLFDALQLKD-------AQWP--A-
+H1S6V7          NWVGRASVPFKAVPGTAEAQPCFNEALLKQAGVDL-------GKLP--H-
+A0A379UA63      QFINKKDIELRAR-NDKSIYPCLSTEVLKSITFNY-------DKLP--D-
+A0A1Q3M530      A------------------------------RFPE-------KQFPVAVK
+A0A2E2KEW1      G-------------------RSRRPDKRDSAMTSFRKKSFYSRPKL--LG
+A0A096DHA8      --------------------LTRIPSNA----------------------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      GTITDAKGH----------FSLQVPESAKSLTFSF--MGYTQQTLA--I-
+A0A1H7ZD75      GAITQPDGN----------FSIQAAAS-DVLVFSY--IGFVAQEVP--V-
+A0A257GB14      --------------------------------------------------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      ---------AATCL-R-FSQINKAIGWEYDS-GENVLRV-----------
+H1S6V7          -HVKVSLAEPDACV-R-LGQAIPDASTSFDF-SEQRLGL-----------
+A0A379UA63      -NF-FNQSNVEGCI-D-LQQYLPEAKVNYDS-NEQRLDI-----------
+A0A1Q3M530      PQ---GETVFNCDVYP-ISHSIGEVVVLGDR-ERMIRRESTTAARLPVSN
+A0A2E2KEW1      -----TALTLAVNHAALAAPQLEEVIVTAQKRSENLQDVPVAVSAITADQ
+A0A096DHA8      --------------------------------------------------
+A0A246H459      --------------------------------DRAV--------------
+A0A1K1MPJ5      -G---SQTTFSVSLQS-TSKGLGEVVVVGYG-TQNRRDVTGTISSIKGSD
+A0A1H7ZD75      -N---NQTTINITLQD-QNKQLNEVVVVGYG-TQRKKDITGSVSVVGEKE
+A0A257GB14      ---------------D-TGPGVQEIIVTAQRQSQRLQSVPIAISAFTKDG
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      --NMPQALLQPHYRGAVNLKK-------VDSGVPAAVLRYQANSYQS--I
+H1S6V7          --SIPQISLARNARGHVDPGQ-------WDAGVAAGMLGYNLNVYSS--R
+A0A379UA63      --VIPQLYMLKVARGTVSPQL-------WDSGIPALLLGYNINGYHS--E
+A0A1Q3M530      LENPQ---VFNVVPQQLLEQQVVTDLGQAFSNIPGAGVPIAFNQNRLVIL
+A0A2E2KEW1      LDDIGFNDIAD-IAAQVPSLIVL-----TNISPLSAT--FRIRNIGN---
+A0A096DHA8      -------------------------------GN--IPSRLGFRGRED---
+A0A246H459      ----------------------------DRESNNR--SVIGFRGVED---
+A0A1K1MPJ5      IKNLPVSDAAQAIQGKVPGVDIV-----RSDGSPGSEPNIRIRGTGT---
+A0A1H7ZD75      FASRPNTQLGSVLQGKAPGVQVL-----ASSGKPSAGLNIRIRGTSS---
+A0A257GB14      LDKQQIRNPSD-LQLSLPNITFT-----KTNF---TSSSFTIRGIGD---
+                                                                  
+
+P08189          ---------------------------------------------RGYVR
+A0A0J4Y309      VDGD--SSS----HHYLGLDASLRAFGWRLHHQSSYQAQ-EGNTHWDSIA
+H1S6V7          SQGS--SVQT---QGYLGLNTGFNLGSWHFRHDGSYTLDDKGRQKYQNIA
+A0A379UA63      MKNQ--QFN----SLYAGINAGLNIGSWYLRHNGSYSSTNSGPDSYGTIN
+A0A1Q3M530      SRGF--NVQP----K--------------FR-N--------------GLA
+A0A2E2KEW1      -AGNIPTFEP--ATG--------------LFID--------------GAF
+A0A096DHA8      -LGG--GISA----Q--------------FVLE--------------MGI
+A0A246H459      -LGD--GVQA----L--------------FQIE--------------GSL
+A0A1K1MPJ5      -INN---ADP----L--------------VIID--------------GVP
+A0A1H7ZD75      -ISS--SSNP----L--------------YVID--------------GVP
+A0A257GB14      -LCT--GVTCDSATA--------------IHIN--------------DAP
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      T--W--AE--RSVVNW--ASTLRLGQGWTDGTFFDSVSFIGGRLATDVRM
+H1S6V7          T--Y--AQ--RSLPSL--SSQLVIGESYTSGDLFDATQFRGVRVYTDDRM
+A0A379UA63      T--Y--LQ--HDVPLL--KARMLIGQSNTNGDLFDTLPFSGVQMVTDERM
+A0A1Q3M530      --AF--IQ--TSIDPV--NIERIEAIKGP---------------------
+A0A2E2KEW1      --RSRSGM--GIGDLA--DVQSVEVLKGP---------------------
+A0A096DHA8      --APDSGVLNQGGRGF--GRQSFVGLNG-P--------------------
+A0A246H459      --AL--DT--G-VGPSLANRDTRVGLQTPY--------------------
+A0A1K1MPJ5      --AT--GM--SDVNPN--DIASMEILKDAS--------------------
+A0A1H7ZD75      --TT--DT--RSLNPS--DIESVSVLKDAS--------------------
+A0A257GB14      LFAS--RL--FEGEFY--DLQQVEVLRGP---------------------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      LPGSRRGFAPSVSGVARTNARVTVTQNGALL-YEATVPP--GKFTFDDLY
+H1S6V7          LPDSLRGYAPVVRGVASSNARVTVSQNGVKL-YETTVAP--GAFEIDDLY
+A0A379UA63      LPESLRGYAPEIQGIARTNARVTVRQGELVL-YETTVTP--GVFLINDLY
+A0A1Q3M530      ---------------------------SSTL-FGASEVSYGGLINRVTK-
+A0A2E2KEW1      ---------------------------QSTL-HGKNVTA--GVISVTTK-
+A0A096DHA8      ---------------------------WGQVGLGRQYTM-----------
+A0A246H459      ----------------------------GLL-FAG---------------
+A0A1K1MPJ5      ---------------------------SSAI-YGTRAAN--GVVIITTK-
+A0A1H7ZD75      ---------------------------SAAI-YGASGAN--GVVLITTR-
+A0A257GB14      ---------------------------QGTLF-GRNATS--GVVNFRTA-
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      PTNAGGDLQVTIHEADGSQE-TFTVPYAALPGLVRAGAVY-YDLSLGYLD
+H1S6V7          PTGYGGDLIVSVKEADGSVH-SFSVPYAAVPLSLRPGTSR-YSFVAGAVR
+A0A379UA63      PTGYGGDLNVTVREADGTEQ-RFNVPYASVAQLLRPGSSR-YAITAGKLR
+A0A1Q3M530      K-PYK-EFGGEASYSMGSWELNRLTLDVNAPVNRSKTL------------
+A0A2E2KEW1      A-PSE-SLEGMVEATLGSDNLQQLKTSISGPFNHWLRGRL----------
+A0A096DHA8      ----------------LFWSMHD--ADVIGPG------------------
+A0A246H459      ---------------------------------HW---------------
+A0A1K1MPJ5      KGGYGEKTHATVNVYKGTSNARRYIPLLTAPELVQLKQER-YTNDGVAIN
+A0A1H7ZD75      KGKTG-DPRFEFNAYGGYSSVWKRMDVLNGPQYKDLMTELGYITDWNKYN
+A0A257GB14      KADLN-GFSASGDAEYGNYNSVRVRGMVNVPLGDTLAVRA----------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      EDGIAGRPGFGE--ATLQYGFNDYVSGYTGANATTDYY-STLV-------
+H1S6V7          NQQSSKNPLFTQ--GTWQHGFTNMLTGYGGFTAAEGYL-SAMG-------
+A0A379UA63      NDNVREKPMVYQ--ATWQHGLTNALTGYGGAQFSQNYY-AVQL-------
+A0A1Q3M530      ------LFRMNA--AGHSENS----FQDAG--------------------
+A0A2E2KEW1      -----SLVETHR--DAWIDNT----AGADS----DTLDSRAIR-------
+A0A096DHA8      -------MHSIANFDSYFPNA----RADN----AISYK-GTFSGLTVGMT
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      ALWQDPYYAVQR--TDWQKAL----IGTGS---TTNAD-VNLR-------
+A0A1H7ZD75      ----------QN--TNWQDEI----FRKGT---SQNYQ-LSMS-------
+A0A257GB14      -----AGFYLKR--DGYTKNL----FDNSK---IDDRDMYGLR-------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      --------------------GSAFNTYWGALAVDLSRSAAKGRERGWQ--
+H1S6V7          --------------------GGVLNTSFGALGADITQARTSIPGVKQF--
+A0A379UA63      --------------------GAAVGTPVGAVSFDITQAHARLGEEEWRNN
+A0A1Q3M530      --------------------------FTKSCAFTPSLSYQ-V-----NSK
+A0A2E2KEW1      ----------------------------AQ--LQADFSDR-LS-----AR
+A0A096DHA8      YSFGRDAVNAGPSPA---------------------GTNC-A-G----E-
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      --GGSAASNYLFSAGYYDEKGLIQNSFFKRYSFRINSEHK-L-G----SR
+A0A1H7ZD75      --GKTDKTTYYLSGGWVQQNGAIRSATMDRFNFKVNLEQK-V-N----NW
+A0A257GB14      ----------------------------GSLTWQPS--SS-T-T----IE
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      --E--------------GYR-----------------------WRVSASK
+H1S6V7          --D--------------GSS-----------------------VRLSYAK
+A0A379UA63      TRS--------------GQS-----------------------YQVSYSK
+A0A1Q3M530      LAV--------------SFD-----------------------LEH--GI
+A0A2E2KEW1      LIVGY-SEKDMNPMSGDVYLSEAAREIIANAGGRLSIANDPTDRKVEYRD
+A0A096DHA8      --------------------------------------------------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      VKV--------------GEN-----------------------LQLTYRN
+A0A1H7ZD75      LTM--------------GTN-----------------------VAYSRWH
+A0A257GB14      LMGQYFHEKDSRMRIQKQYCQEDPTG-----------------ILGCLNT
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      SF---A-SDT-----RMLV-------------------------------
+H1S6V7          NV---VPTGT-----NVSI-------------------------------
+A0A379UA63      LI---REINS-----NISL-------------------------------
+A0A1Q3M530      N----KGTS-----------------------------------------
+A0A2E2KEW1      N----TTFDSESNDVILK------------------LEYAFDKVTLTAIS
+A0A096DHA8      --------------SGTDRNACRE-W---------------SMLLKYDSA
+A0A246H459      ----------------------------------------GT--------
+A0A1K1MPJ5      S----RGFDTYSSQTGLIFSALRFNP---------------AIPVKNEDG
+A0A1H7ZD75      DVDVTDN------------------IGVD--RGGVLLGTLAT--------
+A0A257GB14      T----RGTSTT-----------NSNALLANILTSKEFFAIRG--------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      -----------SM-SHSNDGNYRSIRDA----------V------REHDR
+H1S6V7          -----------AAYRYSTAG-FFGLNDA----------MLAREQAERGLS
+A0A379UA63      -----------AAYRFSTDG-YMDFMTA----------MQTRDALQRGFS
+A0A1Q3M530      ------------PVR------FTPYTKG----------IVSQDIADMGLP
+A0A2E2KEW1      ----------SYDDYESANGV-NDVEQQSLQLADF----LDVQNGHSFSQ
+A0A096DHA8      SWGT----------ALAHDVL-KGGSGA----------------------
+A0A246H459      ---PYLLATSTLDPWYPTTAG-YMALM--------------ANGS---AP
+A0A1K1MPJ5      SWGT----------AKASNEL-GDINNP----------VFTVENIDAYSK
+A0A1H7ZD75      ---PPVIGIYNADGTFTSNPF-QDWENP----------VASTDGADRGYK
+A0A257GB14      ---LP--TAFALGSIYGPSVY-GNVVNP------ADPRVVNTDFRPTYAT
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      HPNDW----------REMTRYSATLSQQAGSG--SLS-------------
+H1S6V7          IDTVL----------RQRNRASLTLNQRLGERGGNIN-------------
+A0A379UA63      SNAIW----------RAKNRMTLTYGQGLPERWGQLY-------------
+A0A1Q3M530      YTRSF----------ASN--------------------------------
+A0A2E2KEW1      ELRFASNDNARLNWLA-----------GLFYYENTFIRG-D-----RELP
+A0A096DHA8      --------------------------------------------------
+A0A246H459      TTN--HLGNTASFDRR-----------Q----------------------
+A0A1K1MPJ5      NYRVLASVYADVQILD-----------GLSLRVNGGYDG-EIYQQYSFTP
+A0A1H7ZD75      QQRLLGNVYAEIYLLP-----------ELKFRSNFGVDY-N---------
+A0A257GB14      SETVLQGVWR-QDIGE-----------KFNLRVTGNYQRTKVDSQQDYNL
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      ------------------------------------FNGIWSEDVRH---
+H1S6V7          ------------------------------------ATT--SASTYW---
+A0A379UA63      ------------------------------------LNG--SVQNYW---
+A0A1Q3M530      --------------------------------------------------
+A0A2E2KEW1      EFIAQQDIAAYGDAVF----------DYQVSQGLLPINL----LPLTIPA
+A0A096DHA8      --------------------------------------------------
+A0A246H459      --------------------------------------Q--NIVQYW---
+A0A1K1MPJ5      AILDQTRVSANAD-----------------LWQRNENKG--AA-------
+A0A1H7ZD75      ------------NSVYDYFLDPFRTSYGRAQKGRGKNTT--DLVNYW---
+A0A257GB14      AVSDRTSYAAG-------------------LGALGAAGA--GL-------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      ------------------HR---WRSYQLGYANRYGQLNYYLYAQQSQDI
+H1S6V7          ------------------NRSGSDVSYSVGYSNAYKNISYSVSATRRSNP
+A0A379UA63      ------------------NKAGTDEQFQLGYNNQYKQLTWGISAARSFSS
+A0A1Q3M530      -----------------------NMPYNSQATNVIVQANYHISEQWNSQT
+A0A2E2KEW1      LGVAGDRGDYYVKQQTESLG-VF-----NKYDLML---------------
+A0A096DHA8      --------------------------------------------------
+A0A246H459      ------------------TPAWS---------------------------
+A0A1K1MPJ5      ------------------LGEAF-----LTYNKTF---------------
+A0A1H7ZD75      ------------------IAENT-----LSYNKTF---------------
+A0A257GB14      ------------------LGPGL-----QAYLKPA---------------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      HHRNNQVVGVSFSLPFGQAGS-----L------------TTRFNH--DKH
+H1S6V7          DGKKSTLYYLGVTIPLGGKTPM---TL------------SGNMMR--DSR
+A0A379UA63      LGAQQTNYLVSFSLPLGRDDRVATPRL------------RADLTH--DTS
+A0A1Q3M530      TISRTSSSFDGYTSQLSGRSAT---TL------------RAQVTVGKYEY
+A0A2E2KEW1      -------------------------------SEQWQLSLGLRYSY--EKK
+A0A096DHA8      --------------------------------------------------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      -------------------------------NNVHQVTLTGGYSA--QKT
+A0A1H7ZD75      -------------------------------G-KHTVGALGGVVA--QKT
+A0A257GB14      ---------ASALIPQGPAGP-----LCTSLSEPSGTGIFGGHST-CAST
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      YGSQLQ-----SSYTGSAGEKNAFS-----------------YGLTASYD
+H1S6V7          GQTQLQ-----SSLSGSAGVDNNFS-----------------YGLNANHA
+A0A379UA63      GRTGQQ-----VTLSGVSGEESQFS-----------------YGVTAMHV
+A0A1Q3M530      YTTDLQ-----QNFTGDFKL-----------------------GNLRN--
+A0A2E2KEW1      HGRIDQSNQ-----LSALGCVPPL--------------------NTNLLC
+A0A096DHA8      --------------------------------------------------
+A0A246H459      ---------------GD-----------------------SVLAGLVGRI
+A0A1K1MPJ5      HGDFFRAER--WGYTDEAADQRVLDNGTTVYNASGNYNAETAIVSGFVRA
+A0A1H7ZD75      KWESATIEK--TGFSGGSIP---TTNAGSVFVSADNTKSEKSNASFLGRI
+A0A257GB14      PLDFDRSNQTQSSWTAEG----------------------------VLTT
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      MPRENPHEASVGGNGSLRTDYAYLNASASAGRHQQ-------------QY
+H1S6V7          S-GDGSATTNGGGNIMYRSPIAELSASASAGADYQ-------------QG
+A0A379UA63      N-QN-V-GTSGTLSGNYRSVSSSLMASASTGKSYR-------------SA
+A0A1Q3M530      --------RLLVGFNYYN---------------YKAR-------------
+A0A2E2KEW1      SV------------------------------------------------
+A0A096DHA8      --------------------------------------------------
+A0A246H459      A-Y-----------------------------------------------
+A0A1K1MPJ5      F-Y-----------------------------------------------
+A0A1H7ZD75      N-Y-----------------------------------------------
+A0A257GB14      K-F-DGPFNFLLGGIYGQ---------------FKVSENSYYVNSFGLDY
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      SLGASGALV----AHQ-GGMTTTP-ELGETFAIVEAPGA----AGARVAN
+H1S6V7          SVTARGAMV----AHR-GGITLSQ-PLSETFAIVEAPGA----AGARVTN
+A0A379UA63      SAGMSGTVV----GHS-GGLTFTP-YTSDTFALVEAKGA----EGAKVSS
+A0A1Q3M530      ----RNTVN----VNT-ATVNFT---------------------------
+A0A2E2KEW1      -------------TPDGNNYDDTLDF--------E------AV-------
+A0A096DHA8      --------------------------------------------------
+A0A246H459      -------------AFN-DGE---------------------VGPNGARPQ
+A0A1K1MPJ5      -------------GYK-GKYLFTGTF--------RADGSSKFPAGNRWGY
+A0A1H7ZD75      -------------SYA-DKYLLTANF--------RADASSIFGPAHRWGY
+A0A257GB14      FNGVVGAFSALGAGLP-PAYLGTPFY--------RNNGAM--NDGYKLTT
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      RLGQPINRQGFTIIPYLDPFTDNWLDLDPQGLNDHVEIVSSS-MTVVPDS
+H1S6V7          ASGVRVDSRGYAIVPYLTPFNMNMIELDPKGLSTDVELKETS-QRVAPLA
+A0A379UA63      YPGVRIDSHGYAVVPYLNPYQMNDISIDPKGIPAQTELESTN-QKSAPYS
+A0A1Q3M530      -------------------------------------------QPLTTYY
+A0A2E2KEW1      ----------------TGSLSS--S------------------Y------
+A0A096DHA8      ----------------FGSLSQ--------------------SG------
+A0A246H459      ----------------LLSASV-------------------T-WEEGPWN
+A0A1K1MPJ5      ----------------FPAFSL--------------------GW------
+A0A1H7ZD75      ----------------FPSASV-------------------G--------
+A0A257GB14      ----------------FGIFGE-------------------AYW------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      GAAVKVKFVTRTGYPWFAHVTLPDGA-APPLGA-----------------
+H1S6V7          GSVPLLKFATASGRSALIRSRR----------------------------
+A0A379UA63      GAVVKMKYDTRQGTAVLINVTW-KGE-PVPFGA-----------------
+A0A1Q3M530      RTFSKYYVDSAAQTAAVVNTT---GC-ENTYGAYISNVSNITANLLVMLS
+A0A2E2KEW1      ---------------FLSTDTM-LYG-AIS--------------------
+A0A096DHA8      ---------------MSDKRTM-LNG-YVKFNG-----------------
+A0A246H459      LALAHEQHRDYQGPQLTDSATK-LGA-AYRFGP-----------------
+A0A1K1MPJ5      ---------------RVSDETF-FKDNVGFMSN-----------------
+A0A1H7ZD75      --------------WRISQEEF-MKG-VTAIND-----------------
+A0A257GB14      ---------------KMNDR------------------------------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      ----------------EVFDDSGRAVGAVGQGG-----------------
+H1S6V7          --------------------------------------------------
+A0A379UA63      ----------------EVLDSQGNRVGSTGQGG-----------------
+A0A1Q3M530      LRLDRFENAGTYTVSTG---------VTTGKYG-----------------
+A0A2E2KEW1      --------------------------------------------------
+A0A096DHA8      ----------------V---------KIGAGFL-----------------
+A0A246H459      ----------------G---------RLATA-------------------
+A0A1K1MPJ5      ----------------L---------KLTGGWG-----------------
+A0A1H7ZD75      ----------------L---------KLRAGWG-----------------
+A0A257GB14      ----------------L---------KLTVG-LRYNNDKKSITARTTLAS
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      ------------------------LLYARVPQADGSVSVVWGERSGQRCR
+H1S6V7          ------------------------------P-DQKSAAQRWTAMLGCTAA
+A0A379UA63      ------------------------QIYTRVTRDHDRLQVKWTETQPIQCQ
+A0A1Q3M530      ------------------------QTALSPK-----------------LG
+A0A2E2KEW1      --------------------------------------------------
+A0A096DHA8      ------------------------RRDN----------------------
+A0A246H459      --------------------------VER-------------------LR
+A0A1K1MPJ5      ------------------------QLGNQ-------------------NV
+A0A1H7ZD75      ------------------------KVGND-------------------QL
+A0A257GB14      FLVPYGTADVFDSPYVGSYDADPGLAGNQLVQQRQS---KFGEWTG-RAV
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      LA--YAIR----GD-AA------QQ-----------------------VS
+H1S6V7          --------------------------------------------------
+A0A379UA63      VS--YQLM----PV-AA------GRTAPYFN---NSTGCVSSSAETGVVG
+A0A1Q3M530      VV--YQLL----S-------ERLSLFG---NYLNGFTNQTGSDVNGNTFK
+A0A2E2KEW1      --------------------TGFKAGG---F---SLQNGTA-TDESRPYG
+A0A096DHA8      --------------------------------------------------
+A0A246H459      YETPIGAL----TRDSVFVAATWQIG------------------------
+A0A1K1MPJ5      KD--YQYL----AI-VTK-DRKYSFGG---N---PYTGIWNSSLANPSIT
+A0A1H7ZD75      GDSRYAWL----GL-VGS-GSNYPIGG---V---VLPGSTPSSFENRNLK
+A0A257GB14      LD--FQVTPDNLLY-ASY-SRGYKSGG---I---NPPLSP-IFAVPENFN
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      RGTP----HQVCR--------PG---------------------------
+H1S6V7          --------------------------------------------------
+A0A379UA63      RSEP----HIMRMSLFKQKMAMD---------------------------
+A0A1Q3M530      PEQANQFEGGMKIDLFEHKLAGTVSYYNIQVKDIVRT------DPS----
+A0A2E2KEW1      EENVTNYEIGLKSEFLDKRARVNAAAFYTEYEDFQNA------SYA----
+A0A096DHA8      ----DGYKVSPRSDLWFVGLSYPAGA---------------------WTF
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      WEKAEMTNISAEMGFFKDALNATVTWFNKKTRDMLVP------YPELDVH
+A0A1H7ZD75      WEATEQYNVGIDVAVLDSRLSFSADAYVKNTSDLLLN------VPVPKST
+A0A257GB14      PEFVNAFEIGSKNSFGNGALQLNLTGFYYKYKGLQLSRIVARTS------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      ----IKEKNMKK--------I-----------------------------
+H1S6V7          ----------------------IF--------------------------
+A0A379UA63      ----IKEKLKRK--------FRISLW------------------------
+A0A1Q3M530      N-ADYSIQN-GT-QESKGVEVDLAAQ------------------------
+A0A2E2KEW1      G-LIFVVNN-AELVTVSGVEIDSTFIL-----------------------
+A0A096DHA8      DT------------------------------------------------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      GTSTIPDQNIGQ-MSNKGWEIELAYQ------------------------
+A0A1H7ZD75      G-FDISTQNVGK-IQNKGLEFLVSSR------------------------
+A0A257GB14      ------VNDNVD-ATIYGVEAEAIVRPVRELTINMNFSYLHTEVSQDKFL
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      --------------------------------------------------
+H1S6V7          --------------------------------------------------
+A0A379UA63      --------------------------------------------------
+A0A1Q3M530      --------------------------------------------------
+A0A2E2KEW1      --------------------------------------------------
+A0A096DHA8      --------------------------------------------------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      --------------------------------------------------
+A0A1H7ZD75      --------------------------------------------------
+A0A257GB14      SNPRDFGAGRKDAVIIKDITNAANCAVASTSGNVAGVNAFVNTANQLINA
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      --------------------------------IASGVPLLLAGGYCASLS
+H1S6V7          ------------------------------LSFALPV--SQAW-------
+A0A379UA63      -----------------KAYSSLQWIVFFVLILGSGV--VQAQVTCAPYD
+A0A1Q3M530      -----------------PLSG-WQLFA--GYAY----------------N
+A0A2E2KEW1      ------------------TPS-LVANI--NLAY----------------I
+A0A096DHA8      --------------------------------------------------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      -----------------GGKKDVHYHVGVNASFIRNRV--TRLYSGTYIS
+A0A1H7ZD75      -----------------NFVGEFQWETDFNISFNRNKV--VDIVGQDIFN
+A0A257GB14      GIPDPANPGKFLVSPGANLQGTTSFPAGGGIASTGAYS--ICSVLQSVAA
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      AACQMVSGKTIEYSVNVSQASINLDV-SNRP-------------------
+H1S6V7          AGCKISDGRD-YQSISIPAMSAPTFD-PNAADGTVLFSSAGMATGIEAVV
+A0A379UA63      AS--------LPRRDTIPLAPINISAGIDIP-------------------
+A0A1Q3M530      QS--------RY--------------------------------------
+A0A2E2KEW1      DT------------------------------------------------
+A0A096DHA8      --------------------------------------------------
+A0A246H459      -A--------TSLRASFTHA------------------------------
+A0A1K1MPJ5      ST--------RYGRQNQEISR-----------------------------
+A0A1H7ZD75      AN--------VSNRGNVSLA------------------------------
+A0A257GB14      AT--------GGGAPFGG--------------------------------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      -----IGSLLYSYGGMIITNNERWEIACSGSEPGGFQSIGGSRV------
+H1S6V7          ACFPTVGRIVYAGK----------------GTPGRFN-------------
+A0A379UA63      -----VGSIIYR-G------------AWYGGDPGMYHLLCTSTR------
+A0A1Q3M530      --------------------------------------------------
+A0A2E2KEW1      ------------------------------------------I-------
+A0A096DHA8      --------------------------------------------------
+A0A246H459      ------------GEGK--------------GPAGTRVGFVAAG-------
+A0A1K1MPJ5      -----------TYEGQ---------------PIASFYGWKTNGIYQNQAA
+A0A1H7ZD75      ------------REGE---------------PLGVFYGYVAAG-------
+A0A257GB14      -------------------------------VTVEASGLPV---------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      ----------GPAGDGKP-----------------------GD-------
+H1S6V7          --------------------------------------------------
+A0A379UA63      --------------PPETVNYTYNLGIQSAPMTLANTAQYDGK-------
+A0A1Q3M530      --------------------------------------------------
+A0A2E2KEW1      -------------YDEYTG-----------------------G-------
+A0A096DHA8      ----------------QY-----------------------YR-------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      IDNDPNVAKDNNRADIKP-----------------------GD-------
+A0A1H7ZD75      -------------VDPET-----------------------GN-------
+A0A257GB14      ------------------------------------------NIRGNKLP
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      ----------IYSIDRL-------------------PGIGYSFQMGE-QD
+H1S6V7          ----------TYP-TSV-------------------PGVGVRIRSGI-DG
+A0A379UA63      ----------VYN-TTI-------------------PGIGVIISDGA-NA
+A0A1Q3M530      --------------------------------------------------
+A0A2E2KEW1      ----------QCYYGRNPDNALGQ--CD----------------------
+A0A096DHA8      ----------LQYKSNSDKGQ-------------------FMV-------
+A0A246H459      --------------DSTGSRQW----------------------------
+A0A1K1MPJ5      ----------VRFVDTDGDGKITE--SDRTNLGNPNPRMTYGIQAGVDYK
+A0A1H7ZD75      ----------MQYLDKTGKKTFAPAAEDRTIIGNPNPDFLYGLTNNFSYK
+A0A257GB14      NAPSLKFAAGVQYAAPVGALTLTP--------------------------
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      ---------------------------GINFDPLFTAWPSAPVFSGQRAF
+H1S6V7          WWP------QEVTEY--FLLPWIKFQDGWEFK--VELVKTGPITAGGE-L
+A0A379UA63      VSQSAPYANGGIRQLTMNSRYMSHMIYGSTRY--LSLIKIGPIYPGSYAL
+A0A1Q3M530      ----------------------------------KQ---IDETLNGLRPA
+A0A2E2KEW1      -------------------------------------LSGES------LP
+A0A096DHA8      --------------------------------------------------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      ---------------------------GFDLSATFAGVTGLK------LY
+A0A1H7ZD75      ---------------------------NIRLSVFLQGSQGND------MF
+A0A257GB14      -----------------------------RVDLTFNGASDGT------IF
+                                                                  
+
+P08189          --------------------------------------------------
+A0A0J4Y309      QAENKK---------PT---IYFWRIADNGGLPPPGEYCLNDYLGDIYLG
+H1S6V7          TGEIGT---------TT---L-IDHGN----------WV-----------
+A0A379UA63      NASSLP---------TA---M-IYYDNAPGYPAIPGLPV-----------
+A0A1Q3M530      ESGSAH---------QA----NFWTSYKIG--------------------
+A0A2E2KEW1      SATRFKGNIALNYYRPLFSGEF----------------------------
+A0A096DHA8      --------------------------------------------------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      NADRMQG------LDPTYSYNMYAEAMGRWHGEGTGNSMPRMSLEDANQN
+A0A1H7ZD75      NASRIET------ESMIDPRNQSTAVLRRWKTPGQVTDVPKAVANN-SDN
+A0A257GB14      NG-------------V----------------------------------
+                                                                  
+
+P08189          ----------------------------DNGCSVAAES------------
+A0A0J4Y309      GVQAMRFSVS-----------GLCIQVKSPTCKITDDS------------
+H1S6V7          --IRRIF-LTG----------SLPIKPQVPACKVLT--------------
+A0A379UA63      --VSNILEFSG----------SIN--ITAQTCT--T--------------
+A0A1Q3M530      -----RGALSGLGIGFGGNYGSKSYQTKTNTAE-----------------
+A0A2E2KEW1      --------------------------------------------------
+A0A096DHA8      --------------------------------------------------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      ARTSDRFVESG-----------NYFSLRNVTFGYTIPSRVWGKSG----I
+A0A1H7ZD75      SRISTRYVENG-----------SYMRVKSATLSYDLPADLLSRIKL----
+A0A257GB14      -------IDRV-----------PAFTQLNAQLQLDGPDKKWFIRGFIQNI
+                                                                  
+
+P08189          TNF----TVDLMENA-AKQFNNIGATTPVVPFRILLS-----PCG-----
+A0A0J4Y309      KNI----NVFLGRHN-KTAFTGLNSTTAPVPFNINLT-----NCE-----
+H1S6V7          PSV----SVPLGQIP-LKSLRGVGTTTAAQPFEIRLQ-----CSG-----
+A0A379UA63      PDI----IVPMGSYDANQDFDGVGSTTGWIKTNLELK-----NCPAFYGF
+A0A1Q3M530      --V----I---------------------IPSYLVLNSTVFYQCK-----
+A0A2E2KEW1      --------------------------YARLDYLY----------------
+A0A096DHA8      ------------LRG-TYHFSKRTAAYASLGHMKNSG-----N-------
+A0A246H459      -----------TLGA-DYTLTKRTGFYAYVSRIDNQA-----R-------
+A0A1K1MPJ5      SDI----RVYATGQN-VFMITKYKGLNPELGY------------------
+A0A1H7ZD75      KSL----RVYVTGEN-LFTFTKYTGFDPEVNFLGNST-----N-------
+A0A257GB14      TDNNSVTGLYVTDQS-SGNFTN----------------------------
+                                                                  
+
+P08189          -------------------------NAVSAVKVGFTGVADSH---NANLL
+A0A0J4Y309      -------------------------N-VGSVFMQFNATVDSAVAANE-VI
+H1S6V7          -------------------------GAQGTSIRMYMTMTDSSNWANR-TS
+A0A379UA63      YDASNTAQLFNWDQGGASHIPAPTSNTIGAYFSPNTAIVDSA---NG-IM
+A0A1Q3M530      -------------------------G-----FRLAL-------KANN---
+A0A2E2KEW1      --------------------------------------NGSA---NN-SA
+A0A096DHA8      --------------------------------------------------
+A0A246H459      --------------------------------------------------
+A0A1K1MPJ5      --------------------------------------------------
+A0A1H7ZD75      --------------------------------------------------
+A0A257GB14      --------------------------------------------------
+                                                                  
+
+P08189          ALE-NTVSAA--SGLGIQLLNEQQ-NQIPLNAPSSALS-----WTTLTPG
+A0A0J4Y309      KID-DQPEGA--SGLGVQILSAGG-ALVPLN-Q-VSQV-----WSGNKGS
+H1S6V7          TMSLSRDSNA--SGVGIQVLRGADDSLVSYGPD-SSQSNNPNQWFIGQYG
+A0A379UA63      SIDTSAPSSA--SGVGIQLGWGDG-APVPFNLS-VAQI-----LTLPRDG
+A0A1Q3M530      ------------------------------------------------VT
+A0A2E2KEW1      SLDPRAETEA--YGI--TNLRLGW-Q--------------NAQWDIAIWG
+A0A096DHA8      -----ATFSA--SS--GQ------------------------------AG
+A0A246H459      -----AAYDFAINPLGVG------------------------------VG
+A0A1K1MPJ5      -----ASDGN--LMRGVD------------------------------VA
+A0A1H7ZD75      -----ATEAN--TSMGVD------------------------------FG
+A0A257GB14      ------------------------------------------------VF
+                                                                  
+
+P08189          -KPN-TLNFYARLMATQVPVT-------AGH----------------INA
+A0A0J4Y309      -QTNYRLSYQARYIQTQPAVT-------AGE----------------ANA
+H1S6V7          -NVPVTIPFKARYVQTSSTVT-------PGV----------------AKG
+A0A379UA63      -RSNVSVPLYARYIQTDGIIT-------PGR----------------ADG
+A0A1Q3M530      -NE---KYWSARLAPQKPFNV-------V------------------GNV
+A0A2E2KEW1      KNLSD----EDAIAQTAPANVHTQVDRNIGASEGSYQAFTIAPFSAGLTA
+A0A096DHA8      -SLPV-----AGI-NQTGFG---------------------------VGI
+A0A246H459      -EKP------------TVFA---------------------------LGM
+A0A1K1MPJ5      -TYP----------QARVFT---------------------------FGA
+A0A1H7ZD75      -TYP----------QTRNLI---------------------------VGL
+A0A257GB14      -T----------L-EPRRYG---------------------------IAA
+                                                                  
+
+P08189          TATFTLEYQ
+A0A0J4Y309      SATFVVTYN
+H1S6V7          IATFTMSYQ
+A0A379UA63      KVTFTISYY
+A0A1Q3M530      SFNF-----
+A0A2E2KEW1      RRYF-----
+A0A096DHA8      RHMF-----
+A0A246H459      RHAF-----
+A0A1K1MPJ5      SMNF-----
+A0A1H7ZD75      NVSF-----
+A0A257GB14      GFKF-----
+                   *     
+
+
+

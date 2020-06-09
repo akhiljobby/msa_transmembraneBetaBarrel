@@ -1,0 +1,329 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE:  ], CPU=0.18 sec, SCORE=80, Nseq=11, Len=1238 
+
+Q54450.1        MAFS-VNYDSSFG-GYS-------IHD-----------------------
+Q54450.1_1      MAFS-VNYDSSFG-GYS-------IHD-----------------------
+Q6CJ48.1        MVN-LNGIPPRGKRNYYLAIGLEGSANK----------------------
+Q0TVK3.1        M----------------IAIGLEGSANK----------------------
+Q95V25.2        MGEI-YSP-SQSK-GFNQPYGYPMNCNLSRVFMEMTEEDRKCLEERKYWC
+Q758R9.1        MVN-LNKVQPRSGGDHYLALGIEGSANK----------------------
+Q5A6A4.1        MVVDLDKYLKPG-KDHYLALGLEGSANK----------------------
+P36132.2        MVN-LNTIPPKNGRDYYIALGLEGSANK----------------------
+Q6CCZ5.1        MTT-------------YLSLGLEGSANK----------------------
+Q7S745.1        MPD-A--------KGRRIALGCEGSANK----------------------
+Q6FLI1.1        MVD-LNGISPKN-KGYYVALGLEGSANK----------------------
+                *                         :                       
+
+Q54450.1        --------------------------------------------YLGQ--
+Q54450.1_1      --------------------------------------------YLGQ--
+Q6CJ48.1        ---------------------------------------------LGVG-
+Q0TVK3.1        ---------------------------------------------IGIG-
+Q95V25.2        FLLSSITTFCASMILVVIWRVVTHLCCQRREKEFVEPIPAPEAVQINMNG
+Q758R9.1        ---------------------------------------------LGVG-
+Q5A6A4.1        ---------------------------------------------LGVG-
+P36132.2        ---------------------------------------------LGVG-
+Q6CCZ5.1        ---------------------------------------------LGVG-
+Q7S745.1        ---------------------------------------------LGIG-
+Q6FLI1.1        ---------------------------------------------LGVG-
+                                                             :.   
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        -----IIKHPVLEKHEDSDLSYE-----------------CDVEILA---
+Q0TVK3.1        -----VISHPGPN---------------------------KTPIILS---
+Q95V25.2        SKHAPSETDPFLKQQEEKHLGWMTEAKDWAGELISGQSLTGRFLVLLVFI
+Q758R9.1        -----ILKHPMLSQHKQGSLSHD-----------------CQAEILS---
+Q5A6A4.1        -----VIKHNKGPLS------ST-----------------NRAEVLS---
+P36132.2        -----IVKHPLLPKHANSDLSYD-----------------CEAEMLS---
+Q6CCZ5.1        -----VIKHTVTDANAE----NG-----------------FSTDILS---
+Q7S745.1        -----IIAHDPIT---------------------------GEALVLS---
+Q6FLI1.1        -----VIKQFVDG---------------------------SPTEIVS---
+                                                                  
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        --------------------------------------------------
+Q0TVK3.1        --------------------------------------------------
+Q95V25.2        LSIGSLIIYFYDASFQNFQVETCIPWQDSPSQQIDLGFNIFFLVYFFIRF
+Q758R9.1        --------------------------------------------------
+Q5A6A4.1        --------------------------------------------------
+P36132.2        --------------------------------------------------
+Q6CCZ5.1        --------------------------------------------------
+Q7S745.1        --------------------------------------------------
+Q6FLI1.1        --------------------------------------------------
+                                                                  
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        --------------NIRDTYVTPPGEGFLPRDTARHHRNWVVRIIRKALT
+Q0TVK3.1        --------------NLRHTYISPPGEGFLPKDTAIHHRAWVVRLIKQAVQ
+Q95V25.2        IAASDKVWFLLEMYSWIDFFTIPPSF--VA---IYLQRNWLGFRFLRALR
+Q758R9.1        --------------NIRDTYITPPGEGFLPRDTARHHRNWVVRLVRRALV
+Q5A6A4.1        --------------NIRDTYITPPGEGFLPRDTARHHRNWVVRIIKQALA
+P36132.2        --------------NIRDTYVTPPGEGFLPRDTARHHRNWCIRLIKQALA
+Q6CCZ5.1        --------------NIRDTYITPPGEGFLPRDTARHHRNWVVRIIKRALD
+Q7S745.1        --------------NVRDTFVSPPGTGFLPKDTARHHRAYFVRVAKKALA
+Q6FLI1.1        --------------NIRDTYITPPGEGFLPRDTARHHKNWCVRLVKRALA
+                                                                  
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        EAKIDDPT-KI-------------------DVICFTRGPGM---------
+Q0TVK3.1        QAGVK-IE-DI-------------------ECICYTKGPGM---------
+Q95V25.2        LMTVPDIL-QYLNILKTSSSIRLTQLVTIFVAVCLT-GAGLVHLLENSGD
+Q758R9.1        EAGIEDPR-LL-------------------DVICFTKGPGM---------
+Q5A6A4.1        TAKIA-GK-DI-------------------DVICFTQGPGM---------
+P36132.2        EADIKSPTLDI-------------------DVICFTKGPGM---------
+Q6CCZ5.1        EAKISDPT-KL-------------------HCISFTQGPGM---------
+Q7S745.1        LSGVS-IS-EI-------------------DCICYTKGPGM---------
+Q6FLI1.1        EAGVT-PG-QL-------------------DAICFTKGPGM---------
+                                                                  
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        --GAPLHCV--------------------------VIAARTL--------
+Q0TVK3.1        --GAPLQSV--------------------------ALAARTI--------
+Q95V25.2        FFKGFINPHRITYADSVYFVLVTMSTVGYGDIYCTTLCGRLFMIFFILFG
+Q758R9.1        --GAPLHSV--------------------------VVAARTM--------
+Q5A6A4.1        --GAPLQSV--------------------------VIAARTL--------
+P36132.2        --GAPLHSV--------------------------VIAARTC--------
+Q6CCZ5.1        --GAPLQSV--------------------------VIAARTI--------
+Q7S745.1        --GGPLTSV--------------------------AVGARTL--------
+Q6FLI1.1        --GAPLHSV--------------------------VIVARTV--------
+                                                                  
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        SLMW----------------------------------------------
+Q0TVK3.1        SLLW----------------------------------------------
+Q95V25.2        LAMFASYVPEIADLIGNRQKYGGEYKGEHGKKHIVVCGHITYDSVSHFLQ
+Q758R9.1        SMLW----------------------------------------------
+Q5A6A4.1        AQLW----------------------------------------------
+P36132.2        SLLW----------------------------------------------
+Q6CCZ5.1        AQMW----------------------------------------------
+Q7S745.1        ALLW----------------------------------------------
+Q6FLI1.1        SLLW----------------------------------------------
+                                                                  
+
+Q54450.1        ---------WASTFGDVNHTNGNVT-------------------------
+Q54450.1_1      ---------WASTFGDVNHTNGNVT-------------------------
+Q6CJ48.1        ----------DIPLVGVNHCVGHIE-------------------------
+Q0TVK3.1        ----------GKPVVGVNHCVGHIE-------------------------
+Q95V25.2        DFLHEDRDDVDVEVVFLHRVVPDLELEGLFKRHFTKVEFFTGTVMDSLDL
+Q758R9.1        ----------DVPLVAVNHCIGHIE-------------------------
+Q5A6A4.1        ----------NIPIVGVNHCVGHIE-------------------------
+P36132.2        ----------DVPLVGVNHCIGHIE-------------------------
+Q6CCZ5.1        ----------GVPLVGVNHCVGHIE-------------------------
+Q7S745.1        ----------GKELVGVNHCVGHIE-------------------------
+Q6FLI1.1        ----------DVPLVPVNHCIGHIE-------------------------
+                             .  :::   .:                          
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        --------------------------------------------------
+Q0TVK3.1        --------------------------------------------------
+Q95V25.2        SRVKIGDADACLVLANKYSTNPDAEDAANIMRVISIKNYSSDIRVIVQLM
+Q758R9.1        --------------------------------------------------
+Q5A6A4.1        --------------------------------------------------
+P36132.2        --------------------------------------------------
+Q6CCZ5.1        --------------------------------------------------
+Q7S745.1        --------------------------------------------------
+Q6FLI1.1        --------------------------------------------------
+                                                                  
+
+Q54450.1        -----------------------------DANS-----GGFYGGS---LS
+Q54450.1_1      -----------------------------DANS-----GGFYGGS---LS
+Q6CJ48.1        -----------------------------MG-------------------
+Q0TVK3.1        -----------------------------MG-------------------
+Q95V25.2        QYHNKAYLLNIPSWDWKRGDDVICLAELKLGFIAQSCLAPGFSTMMANLF
+Q758R9.1        -----------------------------MG-------------------
+Q5A6A4.1        -----------------------------MG-------------------
+P36132.2        -----------------------------MG-------------------
+Q6CCZ5.1        -----------------------------MG-------------------
+Q7S745.1        -----------------------------MG-------------------
+Q6FLI1.1        -----------------------------MG-------------------
+                                              .                   
+
+Q54450.1        GSQYA-ISSTA--NQVTAFVAGGNLTYTLFNEPAHTLYGQLDSLSFGDGL
+Q54450.1_1      GSQYA-ISSTA--NQVTAFVAGGNLTYTLFNEPAHTLYGQLDSLSFGDGL
+Q6CJ48.1        ---RE-ITGAK--NPVVLYVSGGNTQVIAYSEKRYRIFGETLDIAIGNCL
+Q0TVK3.1        ---RA-ITKAD--NPVVLYVSGGNTQVIAYSAQRYRIFGETLDIAIGNCI
+Q95V25.2        A-MRSFKTSQTTPDWLNLYLCGAGMEMYTDT-LSHSFVGMTFPEAVDLLF
+Q758R9.1        ---RE-ITKAE--NPVVLYVSGGNTQVIAYSENRYRIFGETLDIAIGNCL
+Q5A6A4.1        ---RE-ITGAE--NPVVLYVSGGNTQVIAYSKQRYRIFGETLDIAIGNCL
+P36132.2        ---RE-ITKAQ--NPVVLYVSGGNTQVIAYSEKRYRIFGETLDIAIGNCL
+Q6CCZ5.1        ---RT-ITGAT--NPVVLYVSGGNTQVIAYSKQRYRIFGETLDIAVGNCL
+Q7S745.1        ---RA-ITGAS--NPVVLYVSGGNTQVIAYAEQRYRIFGETLDIAVGNCL
+Q6FLI1.1        ---RE-ITGAQ--NPVVLYVSGGNTQVIAYSNQKYRIFGETLDIAIGNCL
+                       :     : :  ::.*..          : : *     :..  :
+
+Q54450.1        SGGDT---------------------------------------------
+Q54450.1_1      SGGDT---------------------------------------------
+Q6CJ48.1        DRF-----------------------------------------------
+Q0TVK3.1        DRF-----------------------------------------------
+Q95V25.2        NRLGLLLLAIELKDEENKECNIAINPGPHIVIQPQTQGFFIAQSADEVKR
+Q758R9.1        DRF-----------------------------------------------
+Q5A6A4.1        DRF-----------------------------------------------
+P36132.2        DRF-----------------------------------------------
+Q6CCZ5.1        DRF-----------------------------------------------
+Q7S745.1        DRF-----------------------------------------------
+Q6FLI1.1        DRF-----------------------------------------------
+                .                                                 
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        --------------------------------------------------
+Q0TVK3.1        --------------------------------------------------
+Q95V25.2        AFFWCKQCHDDIKDVSLIKKCKCKNLALFRRNTKHSTAARARATDVLQQF
+Q758R9.1        --------------------------------------------------
+Q5A6A4.1        --------------------------------------------------
+P36132.2        --------------------------------------------------
+Q6CCZ5.1        --------------------------------------------------
+Q7S745.1        --------------------------------------------------
+Q6FLI1.1        --------------------------------------------------
+                                                                  
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        --------------------------------------------------
+Q0TVK3.1        --------------------------------------------------
+Q95V25.2        QPQAPAGPMGHLGQQVQLRMINQQSSTSDTHLNTKSLRFAYEIKKLMPSS
+Q758R9.1        --------------------------------------------------
+Q5A6A4.1        --------------------------------------------------
+P36132.2        --------------------------------------------------
+Q6CCZ5.1        --------------------------------------------------
+Q7S745.1        --------------------------------------------------
+Q6FLI1.1        --------------------------------------------------
+                                                                  
+
+Q54450.1        --------SPYSIQVPDVSFGGL---------------------------
+Q54450.1_1      --------SPYSIQVPDVSFGGL---------------------------
+Q6CJ48.1        ---------ARTLKIPNAPSPGY---------------------------
+Q0TVK3.1        ---------ARTLMIPNNPFPGY---------------------------
+Q95V25.2        GGRRNSMSIPPDGRGVDFSKDFEQQFQDMKYDSTGMFHWCPSRNLEDCVL
+Q758R9.1        ---------ARTLKIPNDPSPGY---------------------------
+Q5A6A4.1        ---------ARTLKIPNEPAPGY---------------------------
+P36132.2        ---------ARTLKIPNEPSPGY---------------------------
+Q6CCZ5.1        ---------ARVLKIPNAPSPGY---------------------------
+Q7S745.1        ---------ARTLEISNDPAPGY---------------------------
+Q6FLI1.1        ---------ARTLKIPNDPSPGY---------------------------
+                         .      : .                               
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        --------------------------------------------------
+Q0TVK3.1        --------------------------------------------------
+Q95V25.2        ERHQAAMTVLNGHVVVCLFADQDSPLIGLRNFIMPLRSSNFHYHELKHVV
+Q758R9.1        --------------------------------------------------
+Q5A6A4.1        --------------------------------------------------
+P36132.2        --------------------------------------------------
+Q6CCZ5.1        --------------------------------------------------
+Q7S745.1        --------------------------------------------------
+Q6FLI1.1        --------------------------------------------------
+                                                                  
+
+Q54450.1        ----------------------------NLS-----------------SL
+Q54450.1_1      ----------------------------NLS-----------------SL
+Q6CJ48.1        ----------------------------NIE-----------------QL
+Q0TVK3.1        ----------------------------NVE-----------------QL
+Q95V25.2        IVGDLEYLRKEWKTLYNLPKISILNGSPLSRADLRAVNINLCDMCVIISA
+Q758R9.1        ----------------------------NIE-----------------QL
+Q5A6A4.1        ----------------------------NIE-----------------QM
+P36132.2        ----------------------------NIE-----------------QL
+Q6CCZ5.1        ----------------------------NIE-----------------QL
+Q7S745.1        ----------------------------NIE-----------------QL
+Q6FLI1.1        ----------------------------NIE-----------------QM
+                                                                . 
+
+Q54450.1        QAQ-----------------------------------------------
+Q54450.1_1      QAQ-----------------------------------------------
+Q6CJ48.1        AKQ-----------------------------------------------
+Q0TVK3.1        AKK-----------------------------------------------
+Q95V25.2        RVPNTEDTTLADKEAILASLNIKAMQFDDTLGFFPMRHQTGDRSPLGSPI
+Q758R9.1        AKQ-----------------------------------------------
+Q5A6A4.1        AKK-----------------------------------------------
+P36132.2        AKK-----------------------------------------------
+Q6CCZ5.1        AKK-----------------------------------------------
+Q7S745.1        AKQ-----------------------------------------------
+Q6FLI1.1        ALK-----------------------------------------------
+                                                                  
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        --------------------------------------------------
+Q0TVK3.1        --------------------------------------------------
+Q95V25.2        SMQKKGAKFGTNVPMITELVNDSNVQFLDQDDDDDPDTELYLTQPFACGT
+Q758R9.1        --------------------------------------------------
+Q5A6A4.1        --------------------------------------------------
+P36132.2        --------------------------------------------------
+Q6CCZ5.1        --------------------------------------------------
+Q7S745.1        --------------------------------------------------
+Q6FLI1.1        --------------------------------------------------
+                                                                  
+
+Q54450.1        ------------------GHD-----------------------------
+Q54450.1_1      ------------------GHD-----------------------------
+Q6CJ48.1        ------------------CKNKEKLVVLPYTVKGMDLSMSGILQYIDTLA
+Q0TVK3.1        ------------------GK---NLVDLPYGVKGMDASFSGILAAADLLA
+Q95V25.2        AFAISVLDSLMSTTYFNDSAL-----------------------------
+Q758R9.1        ------------------CKNKDRLVELPYTVKGMDLSMSGILAHIDSLA
+Q5A6A4.1        ------------------GK---HLVPLPYTVKGMDLSMSGILAAIDSIA
+P36132.2        ------------------APHKENLVELPYTVKGMDLSMSGILASIDLLA
+Q6CCZ5.1        ------------------GK---KYVPLPYTVKGMDLSMSGVLQFVESLA
+Q7S745.1        ------------------GG--RVLLDLPYAVKGMDCSFSGILGRADDLA
+Q6FLI1.1        ------------------CKNKERLVELPYTVKGMDLSLSGILAYIDSLA
+                                                                  
+
+Q54450.1        --------------------------------------------------
+Q54450.1_1      --------------------------------------------------
+Q6CJ48.1        KDLFKKNLKNKLLFDSRTGEQLVTVEDLCYSLQENLFAMLVEITERAMAH
+Q0TVK3.1        KGLDESLPLEKRL-KTEEG-ELVTREDLCFSLQETIYAMLVEITERAMAH
+Q95V25.2        --------------------------------------------------
+Q758R9.1        KDLFRRNTKNYKLFDRETGKQLVTVEDLCYSLQEHLFAMLVEITERAMAH
+Q5A6A4.1        KEMFGKQ--QKKLIDEESG-EPITAEDLCFSLQETLFSMLVEITERALAH
+P36132.2        KDLFKGNKKNKILFDKTTGEQKVTVEDLCYSLQENLFAMLVEITERAMAH
+Q6CCZ5.1        KRFQAGD-----LV--VDG-HQVTAEDLCFSLQETLFAMLVEITERAMAH
+Q7S745.1        AQMKAGEP-------GPDG-EPFTPADLCFSLQETVFAMLVEITERAMAH
+Q6FLI1.1        KDLFRKNYSNKLLFDKKTHEQLVTVEDLCYALQETLFSMLVEITERAMAH
+                                                                  
+
+Q54450.1        -GVVHQVVYGLMSGDTGALETALNGILDDY-GLSVNSTFDQVAAATAVGV
+Q54450.1_1      -GVVHQVVYGLMSGDTGALETALNGILDDY-GLSVNSTFDQVAAATAVGV
+Q6CJ48.1        VNSNQVLIVGG-VGCNVRLQEMMAQMCKDRSNGQVHATDDRFCIDNGVMI
+Q0TVK3.1        VGSQQVLVVGG-VGSNERLQQMMGMMARDR-GGSVFATDERFCIDNGIMI
+Q95V25.2        -TLIRTLVTGG---ATPELELILAEGAGLR-GG--YSTPETLSNRDRCRI
+Q758R9.1        VNSNQVLIVGG-VGCNVRLQQMMASMCQSRADGQVHATDERFCIDNGVMI
+Q5A6A4.1        VDSNQVLIVGG-VGSNQRLQEMMKLMIQDRKNGQIYATDERFCIDNGIMI
+P36132.2        VNSNQVLIVGG-VGCNVRLQEMMAQMCKDRANGQVHATDNRFCIDNGVMI
+Q6CCZ5.1        VNSQQVLIVGG-VGCNERLQEMMGIMARDR-NGSVYATDERFCIDNGIMI
+Q7S745.1        VGSNQVLIVGG-VGCNERLQEMMGAMAAER-GGSVYATDERFCIDNGIMI
+Q6FLI1.1        VNSAHVLIVGG-VGCNLRLQEMMEQMCMDRANGHVYATDERFCIDNGVMI
+                    : :: *     .  *:  :        .    :* : ..      :
+
+Q54450.1        QHAD----------------------------------------------
+Q54450.1_1      QHAD----------------------------------------------
+Q6CJ48.1        AQAGLLEYR---------------------------TGHFVKD-----LS
+Q0TVK3.1        AHAGLLEYC---------------------------TGV-VTK-----ME
+Q95V25.2        AQISLQDNPYDGVVHNTTYGAMFTIALRRYGQLCIGLYRLHDQDNPDSMK
+Q758R9.1        AQAGLLQYR---------------------------MGDIVKD-----FS
+Q5A6A4.1        AHAGLLSYR---------------------------TGQ-TNQ-----LN
+P36132.2        AQAGLLEYR---------------------------MGGIVKD-----FS
+Q6CCZ5.1        AHAGLLAWR---------------------------QGF-ETK-----ME
+Q7S745.1        AHAGLLAYE---------------------------TGF-RTP-----LD
+Q6FLI1.1        AQAGLLQYR---------------------------MGDYVKD-----FK
+                 : .                                              
+
+Q54450.1        ---------------SPELLAA----------------
+Q54450.1_1      ---------------SPELLAA----------------
+Q6CJ48.1        ETIVTQ------KFRTDEVYIAWRE-------------
+Q0TVK3.1        DTTCTQ------RFRTDEVFVGWR-------------D
+Q95V25.2        RYVITNPPAELRIKNTDYVYVLEQFDPGLEYEPGKRHF
+Q758R9.1        ETVVTQ------RFRTDEVYVSWRD-------------
+Q5A6A4.1        NTVCTQ------RFRTDEVFVKWRD------------D
+P36132.2        ETVVTQ------KFRTDEVYAAWRD-------------
+Q6CCZ5.1        KTQCTQ------RFRTDEVLVDWRV-------------
+Q7S745.1        ESTCTQ------RFRTDEVFVKWR-------------D
+Q6FLI1.1        ETVVTQ------KFRTDEVLVSWRD-------------
+                               :  :                   
+
+
+

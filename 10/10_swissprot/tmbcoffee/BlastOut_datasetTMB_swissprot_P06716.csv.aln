@@ -1,0 +1,238 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE: psicoffee ], CPU=0.43 sec, SCORE=84, Nseq=11, Len=893 
+
+P06716          MSDPVRI-TNPGAESLGYD---------SDGHE-IMAVDIYVNPPRVDVF
+P06716.2        MSDPVRI-TNPGAESLGYD---------SDGHE-IMAVDIYVNPPRVDVF
+P04479.1        MSDPVRI-TNPGAESLGYD---------SDGHE-IMAVDIYVNPPRVDVF
+P21178.2        METAVAY-YKDGVP---YD---------DKGEV-IIT-----------LL
+Q47500.1        MDK-VTD-NSPDVESTESTEGSFPTVGVDTGDTITAT-----------LA
+P02978.1        METAVAY-YKDGVP---YD---------DKGQV-IIT-----------LL
+Q47502.1        MAKELSG-YGPTA-------------GESMGGTGANL-----------NQ
+Q47125.1        MDK-VTD-NSPDVESTESTEGSFPTVGVDTGDTITAT-----------LA
+P04480.1        MPG---------FN---YG---------GKGDG-TGWS--------SERG
+P05819.3        MSDNEGSVPTEGID---YG---------DT--M-VVW-----------PS
+Q47108.1        VAE-----------------------------------------------
+                :                                                 
+
+P06716          HG------------------TPPA----------WSSFGNKTIWGGNE--
+P06716.2        HG------------------TPPA----------WSSFGNKTIWGGNE--
+P04479.1        HG------------------TPPA----------WSSFGNKTIWGGNE--
+P21178.2        NG------------------NPDG----------SGSGG-----GGGT--
+Q47500.1        TG------------------TEN-------------VGG-----GGGA--
+P02978.1        NG------------------TPDG----------SGSGG-----GGGK--
+Q47502.1        QG------------------GNNNSNSGVHWGGGSGHGN-----NGGQGN
+Q47125.1        TG------------------TEN-------------VGG-----GGGA--
+P04480.1        SGPEPGGG--SHGNSGG-----HD----------RGDSSNVGNES-VT--
+P05819.3        TGRIPGGDVKPGGSSGLAPSMPPG----------WGDYSPQGIALVQS--
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          --------------------------------------------------
+P06716.2        --------------------------------------------------
+P04479.1        --------------------------------------------------
+P21178.2        --------------------------------------------------
+Q47500.1        --------------------------------------------------
+P02978.1        --------------------------------------------------
+Q47502.1        SNSSGSTSTVMKTGESYLTPWGDVVINNDGLPVMNGIVMTEENSTLVDNP
+Q47125.1        --------------------------------------------------
+P04480.1        --------------------------------------------------
+P05819.3        --------------------------------------------------
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          -------------------------------WVDDSPTRSDIEKRDK---
+P06716.2        -------------------------------WVDDSPTRSDIEKRDK---
+P04479.1        -------------------------------WVDDSPTRSDIEKRDK---
+P21178.2        -------------------------------GGSKSESSAAIHATAK---
+Q47500.1        -------------------------------FGGASESSAAIHATAK---
+P02978.1        -------------------------------GGSKSESSAAIHATAK---
+Q47502.1        FGGVSRVLNSLISDMPSLFAESSGNNNNNTASVNTAPTNAQVSDMDK---
+Q47125.1        -------------------------------FGGASESSAAIHATAK---
+P04480.1        -------------------------------VMKPGD-------------
+P05819.3        -------------------------------VLFPGIIRRIILDKELEEG
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          ------------EITAYKN--------TLSAQQKENENKRTEAGK---RL
+P06716.2        ------------EITAYKN--------TLSAQQKENENKRTEAGK---RL
+P04479.1        ------------EITAYKN--------TLSAQQKENENKRTEAGK---RL
+P21178.2        ------------WSTAQ---------------LKKTQA---EQAA---RA
+Q47500.1        ------------WSTAQ---------------LKKHQA---EQAA---RA
+P02978.1        ------------WSTAQ---------------LKKTQA---EQAA---RA
+Q47502.1        ------------SSKVV---------------SNVINE---KQKQKNKIA
+Q47125.1        ------------WSTAQ---------------LKKHQA---EQAA---RA
+P04480.1        -------SYNTPWGKVIINAAGQPTMN----------------------G
+P05819.3        DWSGWSVSVHSPWGNEKVSAARTVLENGLRGGLPEPSRPAAVSFA---RL
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          SAAIAAREKDENTLKTLRAGNADAADITRQEFRLLQAELR---EYGFRTE
+P06716.2        SAAIAAREKDENTLKTLRAGNADAADITRQEFRLLQAELR---EYGFRTE
+P04479.1        SAAIAAREKDENTLKTLRAGNADAADITRQEFRLLQAELR---EYGFRTE
+P21178.2        KAAAEAQAKAKANRDA----------LTQHLKDIVNEALR---HNSTH-P
+Q47500.1        AAAEAALAKAKSQRDA----------LTQRLKDIVNDALR---ANAARSP
+P02978.1        KAAAEAQAKAKANRDA----------LTQRLKDIVNEALR---HNASRTP
+Q47502.1        TQISEK-QKK-----------------IEE----MKKVFK---HHSY--H
+Q47125.1        AAAEAALAKAKSQRDA----------LTQRLKDIVNDALR---ANAARSP
+P04480.1        TVMTADNSSMVPYGRG----------FTRVLNSLVNNPVSPAGQNGGKSP
+P05819.3        EPA--SGNEQKIIRLM----------VTQQLEQVTDIPA-----------
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          IAGYDALRL------HTESRMLFADADS--------------LRISPRE-
+P06716.2        IAGYDALRL------HTESRMLFADADS--------------LRISPRE-
+P04479.1        IAGYDALRL------HTESRMLFADADS--------------LRISPRE-
+P21178.2        EVI-D--LL------MPIMQRCRQKQSG--------------CALQKQKK
+Q47500.1        SVT-D--LA------HANNMAMQAEAER--------------LRLAKAEQ
+P02978.1        SAT-E--LA------HANNAAMQAEDER--------------LRLAKAEE
+Q47502.1        GIT-D--LERDVDELQKKSNQLDADISK--------------LNSYKNT-
+Q47125.1        SVT-D--LA------HANNMAMQAEAER--------------LRLAKAEQ
+P04480.1        VQT-A--VE------NYL---------MVQSGNLPPGYWLSNGKVMTEVR
+P05819.3        --------------------------------------------------
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          -AR-------------------SLIEQAEKRQKDAQNADKKA--------
+P06716.2        -AR-------------------SLIEQAEKRQKDAQNADKKA--------
+P04479.1        -AR-------------------SLIEQAEKRQKDAQNADKKA--------
+P21178.2        KPV-------------------KKRKRAEKSFQEAEQRRKEI--------
+Q47500.1        KAR-------------------EEAEAAEKALREAERQRDEI--------
+P02978.1        KAR-------------------KEAEAAEKAFQEAEQRRKEI--------
+Q47502.1        -LQ-------------------SKIG-----DVNKQKEAEEK--------
+Q47125.1        KAR-------------------EEAEAAEKALREAERQRDEI--------
+P04480.1        EERTSGGGGKNGNERTWTVKVPREVPQLTASYNEGMRIRQEAADRARAEA
+P05819.3        --------------------------------------------------
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          -ADMLAEYERRKGILDTRLSELEKNGGAALAVLDAQQARLLGQQTRNDRA
+P06716.2        -ADMLAEYERRKGILDTRLSELEKNGGAALAVLDAQQARLLGQQTRNDRA
+P04479.1        -ADMLAEYERRKGILDTRLSELEKNGGAALAVLDAQQARLLGQQTRNDRA
+P21178.2        -EKEQAETERQLKLA-----EDEEKRLAA--------------LSEEARA
+Q47500.1        -ARQQAETAHLLAMAE--AAEAEKNRQDS--------------LDEEHRA
+P02978.1        -EREKAETERQLKLA-----EAEEKRLAA--------------LSEEAKA
+Q47502.1        -ARENAEVAE----------------HET--------------LNEEKQA
+Q47125.1        -ARQQAETAHLLAMAE--AAEAEKNRQDS--------------LDEEHRA
+P04480.1        NARALAEEEARAIASGK--SKAEFDAGKRVEAAQ--------------AA
+P05819.3        -SQLPAAG--NNVPVKYRLTDLMQNGTQYMAIIGGIP-----------MT
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          ISEARNKLS-----SVTESLNTAR----------------NALTRAEQQL
+P06716.2        ISEARNKLS-----SVTESLNTAR----------------NALTRAEQQL
+P04479.1        ISEARNKLS-----SVTESLKTAR----------------NALTRAEQQL
+P21178.2        VEVAQKNLA-----AAQSELAKVD-----EEINTLNTRLSSSIHARDAET
+Q47500.1        VEVAEKKLA-----EAKAELAKAE----------------SDVQSKQAIV
+P02978.1        VEIAQKKLS-----AAQSEVVKMD-----GEIKTLNSRLSSSIHARDAEM
+Q47502.1        VAEAEKRLA-----EAKAELAKAE----------------SDVQSKQATV
+Q47125.1        VEVAEKKLA-----EAKAELAKAE----------------SDVQSKQAIV
+P04480.1        INTAQLNVN-----NLSGAVSAAN-----Q-----------VITQKQAEM
+P05819.3        -VPVVDAVPVPDRSRPGTNIKDVYSAPVSP-----------NLPDLVLSV
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          TQ--------QKNTPDGKTI-VSPEKFPGRSSTNHSIVVSGDPRFAGTIK
+P06716.2        TQ--------QKNTPDGKTI-VSPEKFPGRSSTNHSIVVSGDPRFAGTIK
+P04479.1        TQ--------QKNTPDGKTI-VSPEKFPGRSSTNHSIVVSGDPRFAGTIK
+P21178.2        NTLSGKRNELDQASAKYKELDERVKLL----SPRANDPLQSRPFFEATR-
+Q47500.1        SRVAGEL-ENAQKSVD-----V---------------KVTGFPGWRDVQ-
+P02978.1        KTLAGKRNELAQASAKYKELDELVKKL----SPRANDPLQNRPFFEATR-
+Q47502.1        SRVAGEL-ENAQKSVD-----V---------------KVTGFPGWRDVQ-
+Q47125.1        SRVAGEL-ENAQKSVD-----V---------------KVTGFPGWRDVQ-
+P04480.1        TPLKNEL-AAANQRVQET---LKF----------INDPIRSRIHFNMRS-
+P05819.3        ----------------------GQ----------MNTPVRSNPEIQEDG-
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          ITTSAVIDNRANLNYLLSHSGLDYKRNILNDRNPVVTEDVEGDKKIYNAE
+P06716.2        ITTSAVIDNRANLNYLLSHSGLDYKRNILNDRNPVVTEDVEGDKKIYNAE
+P04479.1        ITTSAVIDNRANLNYLLTHSGLDYKRNILNDRNPVVTEDVEGDKKIYNAE
+P21178.2        --------------------------------------------------
+Q47500.1        --------------------------------------------------
+P02978.1        --------------------------------------------------
+Q47502.1        --------------------------------------------------
+Q47125.1        --------------------------------------------------
+P04480.1        --------------------GLIR-----------AQHNVDTKQNEINAA
+P05819.3        --------------------VISE-----------TGNYVEAGYTMSSNN
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          VAEWDKLRQ--RLLDARNKI--------------TSAESAVNSARNNLSA
+P06716.2        VAEWDKLRQ--RLLDARNKI--------------TSAESAVNSARNNLSA
+P04479.1        VAEWDKLRQ--RLLDARNKI--------------TSAESAINSARNNVSA
+P21178.2        ----LRARRGDEMEEKQKQVTATETRLNQISSEINGIQEAISQANNKRST
+Q47500.1        ----KKLER--QLQDKKNEY--------------SSVTNALNSAVSIRDA
+P02978.1        ----RRVGAGKIREEKQKQVTASETRINRINADITQIQKAISQVSNNRNA
+Q47502.1        ----KKLQR--QLEAKQAEY--------------SAVENELKNAVSFRDG
+Q47125.1        ----KKLER--QLQDKKNEY--------------SSVTNALNSAVSIRDA
+P04480.1        VANRDALNS--QLSQANNIL--------------QNARNEKSAADAALSA
+P05819.3        HDVIVRFPE--GSGVSPLYI--------------SAVEILDSNSLSQRQE
+Q47108.1        --------------------------------------------------
+                                                                  
+
+P06716          RTNEQKHANDALNALLKEKENIRNQLSGINQKIA----EEKRKQDELKAT
+P06716.2        RTNEQKHANDALNALLKEKENIRNQLSGINQKIA----EEKRKQDELKAT
+P04479.1        RTNEQKHANDALNALLKEKENIRSQLADINQKIA----EEKRKRDEINMV
+P21178.2        AVSRIHDAEDNLKT---AQT-----------------------NLLNSQI
+Q47500.1        KKTDVQNAEIKLKE---AKD-----------------------ALEKSQV
+P02978.1        GIARVHEAEENLKK---AQN-----------------------NLLNSQI
+Q47502.1        KAAEVKEAEQKLKE---AQD-----------------------ALEKSQI
+Q47125.1        KKTEVQNAEIKLKE---AKD-----------------------ALEKSQV
+P04480.1        ATAQRLQAEAALRAAAEAAEKARQRQAEEAERQRQAMEVAEKAKDERELL
+P05819.3        AENNAKD-DFRVKKE--------------------------QENDEKTVL
+Q47108.1        -----------------------------------------KAKDERELL
+                                                                  
+
+P06716          KDAINFTTEFLKSVSEKYGAKAEQLAREMAGQ---AKGKKIRNVEEALKT
+P06716.2        KDAINFTTEFLKSVSEKYGAKAEQLAREMAGQ---AKGKKIRNVEEALKT
+P04479.1        KDAIKLTSDFYRTIYDEFGKQASELAKELASV---SQGKQIKSVDDALNA
+P21178.2        KDAVDATVSFYQTLSEKYGEKYSKMAQELADK---SKGKKISNVNEALAA
+Q47500.1        KDSVDTMVGFYQYITEQYGEKYSRIAQDLAEK---AKGSKFSSVDEALAA
+P02978.1        KDAVDATVSFYQTLTEKYGEKYSKMAQELADK---SKGKKIGNVNEALAA
+Q47502.1        KDAVDTMVGFYQYITEQYGEKYAKIAQDLAEK---SKGKKIQGVDEALAA
+Q47125.1        KDSVDTMVGFYQYITEQYGEKYSRIAQDLAEK---AKGSKFNSVDEALAA
+P04480.1        EKTSELIAGMGDKIGEHLGDKYKAIAKDIADNIKNFQGKTIRSFDDAMAS
+P05819.3        TKTSEVIISVGDKVGEYLGDKYKALSREIAENINNFQGKTIRSYDDAMSS
+Q47108.1        EKTSELIAGMGDKIGEHLGDKYKAIAKDIADNIKNFQGKTIRSFDDAMAS
+                 .: .    .   : :  * :   :::::*      :*. : . ::*: :
+
+P06716          YEKYRADINKKINAKDRAAIAAALESVKLSDISSNLNRFSRGLGYAGKFT
+P06716.2        YEKYRADINKKINAKDRAAIAAALESVKLSDISSNLNRFSRGLGYAGKFT
+P04479.1        FDKFRNNLNKKYNIQDRMAISKALEAINQVHMAENFKLFSKAFGFTGKVI
+P21178.2        FEKYKDVLNKKFSKADRDAIFNALEAVKYEDWAKHLDQFAKYLKITGHVS
+Q47500.1        FEKYKNVLDKKISKVDRDAIFNALESVNYDELSKNLTKISKSLKITSRVS
+P02978.1        FEKYKDVLNKKFSKADRDAIFNALASVKYDDWAKHLDQFAKYLKITGHVS
+Q47502.1        FEKYKNVLDKKFSKVDRDAIFNALESVNYDELSKNLTKISKSLKITSRVS
+Q47125.1        FEKYKNVLDKKFSKVDRDDIFNALESITYDEWAKHLEKISRALKVTGYLS
+P04480.1        LNKITANPAMKINKADRDALVNAWKHVDAQDMANKLGNLSKAFKVADVVM
+P05819.3        INKLMANPSLKINATDKEAIVNAWKAFNAEDMGNKFAALGKTFKAADYAI
+Q47108.1        LNKITANPAMKINKADRDALVNAWKHVDAQDMANKLGNLSKAFKVADVVM
+                 :*       * .  *:  :  *   .   . ..::  :.: :  :.   
+
+P06716          SLADWITEFGKAVRTENWRPLFVKTETIIAGNAATALVALVFSILTGSA-
+P06716.2        SLADWITEFGKAVRTENWRPLFVKTETIIAGNAATALVALVFSILTGSA-
+P04479.1        ERYDVAVELQKAVKTDNWRPFFVKLESLAAGRAASAVTAWAFSVMLGTP-
+P21178.2        FGYDVVSDILKIKDTGDWKPLFLTLEKKAVDAGVSYVVVLLFSVLAGTT-
+Q47500.1        FLYDVGSDFKNAIETGNWRPLFVTLEKSAVDVGVAKIVALMFSFIVGVP-
+P02978.1        FGYDVVSDILKIKDTGDWKPLFLTLEKKAADAGVSYVVALLFSLLAGTT-
+Q47502.1        FLYDVGSDFKNAIETGNWRPLFVTLEKSAVDVGVAKIVALMFSFIVGVP-
+Q47125.1        FGYDVWDGTLKGLKTGDWKPLFVTLEKSAVDFGVAKIVALMFSFIVGAP-
+P04480.1        KVEKVREKSIEGYETGNWGPLMLEVESWVLSGIASSVALGIFSATLGAYA
+P05819.3        KANNIREKSIEGYQTGNWGPLMLEVESWVISGMASAVALSLFSLTLGSAL
+Q47108.1        KVEKVREKSIEGYETGNWGPLMLEVESWVLSGIASSVALGIFSATLGAYA
+                   .      :   * :* *:::  *.   .  .: :.   **   *   
+
+P06716          ---------LGIIGYGLLMAVTGALIDESLVEKANKFW-GI--
+P06716.2        ---------LGIIGYGLLMAVTGALIDESLVEKANKFW-GI--
+P04479.1        ---------VGILGFAIIMAAVSALVNDKFIEQVNKLI-GI--
+P21178.2        ---------LGIWGIAIVTGILCAFIDKNKLNTINEVL-GI--
+Q47500.1        ---------LGFWGIAIVTGIVSSYIGDDELNKLNELL-GI--
+P02978.1        ---------LGIWGIAIVTGILCSYIDKNKLNTINEVL-GI--
+Q47502.1        ---------LGFWGIAIVTGIVSSYIGDDELSKLNELL-GI--
+Q47125.1        ---------LGFWGIAIITGIVSSYIGDDELNKLNELL-GI--
+P04480.1        LSLGVPAIAVGIAGI-LLAAVVGALIDDKFADALNNEIIRPAH
+P05819.3        IAFGLSATVVGFVGV-VIAGAIGAFIDDKFVDELNHKII---K
+Q47108.1        LSLGVPAIAVGIAGI-LLAAVVGALIDDKFADALNNEIIRPAH
+                         :*: *  :: .   : :...  .  *.       
+
+
+

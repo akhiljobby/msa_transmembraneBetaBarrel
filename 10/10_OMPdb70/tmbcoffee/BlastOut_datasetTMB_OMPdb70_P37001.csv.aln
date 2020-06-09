@@ -1,0 +1,108 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE: psicoffee ], CPU=0.23 sec, SCORE=93, Nseq=11, Len=359 
+
+P37001          MNVSKYVA------------------------------------------
+A0A377B155      MNVSKYVA------------------------------------------
+A0A156D1J5      MGQWEWLGGDATYCCTDDWWHGYCTVIVDVSYSRTLQIVTSTLKMSTACA
+U2MN31          MAIMPVSF------------------------IS----------------
+A0A0D1MNE5      MSFLFLIP------------------------------------------
+E5B3H1          MRGLFV--------------------------------------------
+A0A1X3S4H6      MLLKLAVP------------------------SR----------------
+A0A2V1YJP2      MRKIST--------------------------------------------
+H8NW96          MHIVNIRN------------------------VI--R-------------
+D2C1B0          MRLILISH------------------------SR----------------
+I0QT02          MRNFKKTP------------------------LA----------------
+                *                                                 
+
+P37001          ------------------------IFS--FVF------------------
+A0A377B155      ------------------------IFS--FVF------------------
+A0A156D1J5      YSGMQFMYRQTILRNGMVIRNNTHAVKRSFKYSVLRSAPNTKYGNGIVIV
+U2MN31          ------------------------CSS--YLI---ALSVT--CTLHASD-
+A0A0D1MNE5      ------------------------------LS------------------
+E5B3H1          --------------------------------------------------
+A0A1X3S4H6      ------------------------CLP--LLS---VLSAP---VMAEK--
+A0A2V1YJP2      --------------------------------------------------
+H8NW96          ------------------------EII--FFG---AISVS--ASASAN--
+D2C1B0          ------------------------LFA--LSA---LFLIPTFDSLSAENT
+I0QT02          ------------------------LIL--GLC---LLASP--V--LAE--
+                                                                  
+
+P37001          ----------------IQLISVG---------------------------
+A0A377B155      ----------------IQLTSVG---------------------------
+A0A156D1J5      RIKFPLILLFIIAQLSFASAVNA---------------------------
+U2MN31          -----------HEDDPWINPDNAWRVSGPFLLCFSGNSINFRQISDKCLM
+A0A0D1MNE5      ----------------WGTASAA---------------------------
+E5B3H1          -------------------------------CCVTHFP------------
+A0A1X3S4H6      ----------VDSNNVSVNASEQ---------------------------
+A0A2V1YJP2      --------------------------------------------------
+H8NW96          ----------NSGTNPVSDPDTI---------------------------
+D2C1B0          LTDSTTLIDRTTQSDSTTQRDSK---------------------------
+I0QT02          ----------NS-IPGVTSESST---------------------------
+                                                                  
+
+P37001          --------------------------------------KVFANADEWMTT
+A0A377B155      --------------------------------------KVFANADEWMTT
+A0A156D1J5      --------------------------------------QSNTADKSWFTT
+U2MN31          SCHHKNCVTGMIVVNRYVSTAFAGCFLIVAGVSSAQADTTTQAIKSGWNT
+A0A0D1MNE5      --------------------------------------LLRDHVEEGYTT
+E5B3H1          --------GSCKTTMKLKSVLYLLMLLNCLGLKSAHAATLVHGISTSWHS
+A0A1X3S4H6      --------------------------------------ETTSSGTGFWQR
+A0A2V1YJP2      --------------------LITLITTTVFSVFSVHSATLVETVNAGWDN
+H8NW96          --------------------------------------QYKSLAANVWSD
+D2C1B0          --------------------------------------TRRDPAPSFWQR
+I0QT02          --------------------------------------EQPSGFSGWWSS
+                                                                  
+
+P37001          FRENIAQTWQQPEHYDLYIPAITWHARFAYDKEKTDRYNERPWGGGFGLS
+A0A377B155      FRENIAQTWQQPEHYDLYIPAITWHARFAYDKEKTDRYNERPWGGGFGLS
+A0A156D1J5      FTDNVAQTWNEPEHYDLYIPAITWHARFAYDKEKTDRYNERPWGAGFGQS
+U2MN31          FTDNVAQTWSQPQNYDFYLPAITWHNRWTYDQEHIDRYNERPWGAGGGIS
+A0A0D1MNE5      LRDNVVETWNDPQHYDLYVPMITWHARYAYDHDKAKSYNENPWGAGFGQS
+E5B3H1          FSNSVSQTWNEPQTFDLYMPALTWHNRWTYDADKIDRYNERPWGAGGGMS
+A0A1X3S4H6      AKTNLSMTWNSPQSYDLYVPAITWHNRWAYDKEKAESYNERPWGAGFGVT
+A0A2V1YJP2      FSDKVATTWQQPESYDFYLPAITWHNRATYDREHINKYNERPWGAGGGIS
+H8NW96          FTDKVSTTWNDSDAQDLYLPVITWHNRLTYDKEKTDKYNERPWGGGYGIS
+D2C1B0          ASNNLSETWQHPQSQDLYVPAITWHNRWTYDRAKTDKYNERPWGAGFGVS
+I0QT02          WKNDVSTTWSAPQRHDLYLPVITWHNRLTYDRAHTDNYNERPWGAGYGIS
+                   .:  **. .:  *:*:* :*** * :**  : . ***.***.* * :
+
+P37001          RWDEKGNWHGLYAMAFKDSWNKWEPIAGYGWESTWRPLADENFHLGLGFT
+A0A377B155      RWDEKGNWHGLYAMAFKDSWNKWEPIAGYGWESTWRPLADENFHLGLGFT
+A0A156D1J5      RWDEKGNWHGLYLMAFKDSYNKWEPIGGYGWEKTWRPLSDDNFRLGLGYT
+U2MN31          RWDDKGNWHGLYLMAFKDSFNKWEPIGGYGWEATWRPLRDDNFHFGAGFT
+A0A0D1MNE5      RWDEKGNWHSLYVMAFKDSFNKWEPIAGYGWEATWRPLEDDKFHAGLGYT
+E5B3H1          RYDEKGNWNGIYLMAFKDSFNKWEPIGGYGWEKTWRPLNDPDFHFGLGYT
+A0A1X3S4H6      RLDEDGDWHGLYLMAFKDSFNKWEPIGGYGYEKRWQPMTDPDFHLGLGFT
+A0A2V1YJP2      RYDEKGNWNGIYLMAFKDSFNKWEPFGGYGWVATWRPLADQNFHWGAGYM
+H8NW96          RYDEKGNWNGIYFMAFKDSHNKWEPIGGYGWEKIWTPAEDKNFRLGLGYT
+D2C1B0          RLDSDGDWHALYVMAFKDSFNKWEPIGGYGYEKRWRPLENQDIQFGLGFT
+I0QT02          RYDEKGDWHGLYIMAFKDSFNKWEPIGGYGYEKIWRPLQDQGFKLGLGYT
+                * *..*:*:.:* ****** *****:.***:   * *  :  :: * *: 
+
+P37001          AGVTARDNWNYIPLPVLLPLASVGYGPVTFQMTYIPGTYNNGNV------
+A0A377B155      AGVTARDNWNYIPLPVSTAIGLRGLWSSDFSDDLHSGYLQQWQCVLCLDA
+A0A156D1J5      AGFTARDNWKYIPVPVLLPLASIGYGPATFQMTYIPGTYNNGNV------
+U2MN31          AGVTARDNWNYIPIPVLLPMASVGYGPVTFQMTYIPGTYNNGNV------
+A0A0D1MNE5      VGVTARDNWYYIPVPVLLPMASVGYGQVNFQMTYIPGTYGNGNV------
+E5B3H1          AGVTMRDNWNYIPIPLLLPLASIGYGAANFQMTYIPGTYNNGNV------
+A0A1X3S4H6      AGVTFRDNWNYLPIPVLLPLASVSYQRLSFQATYIPGTYNNGNV------
+A0A2V1YJP2      AGFTARHNWDYIPVPALLPLASVGYGALDFQMTYIPGTHNNGNV------
+H8NW96          AAVTARDDYEYIPIPIVLPLASVGYNKLTFQATYIPGTYNNGNV------
+D2C1B0          AGVTMRDNWHYIPIPVLLPLASVSYQRLSFQATYIPGTYNNGNV------
+I0QT02          AAVTARNNYNYIPIPLVLPLASIGYERLTLQATYIPGTYNNGNV------
+                ...* *.:: *:*:*   .:.  .     :.    .*   : :       
+
+P37001          YFAWMRFQF
+A0A377B155      LSVLRQMKF
+A0A156D1J5      YFAWMRFQF
+U2MN31          YFAWLRFQF
+A0A0D1MNE5      YFAWLRFQF
+E5B3H1          YFAWLRWQF
+A0A1X3S4H6      FFAWLRWQF
+A0A2V1YJP2      YFAWLRYHF
+H8NW96          FFAWLRYQF
+D2C1B0          FFAWLRWQF
+I0QT02          FFAWLRFDF
+                  .  : .*
+
+
+

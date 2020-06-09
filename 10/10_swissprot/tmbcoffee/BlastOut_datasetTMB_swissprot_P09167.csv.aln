@@ -1,0 +1,381 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE: psicoffee ], CPU=0.37 sec, SCORE=79, Nseq=11, Len=1431 
+
+P09167          M-QK-IKLTGLS---LI-ISGLL---------------------------
+P09167.2        M-QK-IKLTGLS---LI-ISGLL---------------------------
+Q06303.1        M-KK-LKITGLS---LI-ISGLL---------------------------
+Q06305.1        M-KK-LKITGLS---LI-ISGLL---------------------------
+Q06306.1        M-QK-LKITGLS---LI-ISGLL---------------------------
+P09166.1        M-KA-LKITGLS---LI-ISATL---------------------------
+Q06304.1        MMNR-IITANLA---FL-ASSLM---------------------------
+Q08676.1        MMNR-IITANLA---NL-ASSLM---------------------------
+P81007.1        T-QR-DTLT----------KGMT---------------------------
+Q01378.1        M-SETLKTQPYS---KR-AE------------------------------
+P35825.1        M-DR-KKAVKLATASAIAASAFVAANPNASEAATDVATVVSQAKAQFKKA
+                  .                .                              
+
+P09167          --------------------MAQAQA-AEPVYPDQLRL--FSLGQ-GVCG
+P09167.2        --------------------MAQAQA-AEPVYPDQLRL--FSLGQ-GVCG
+Q06303.1        --------------------MAQAQA-AEPVYPDQLRL--FSLGQ-EVCG
+Q06305.1        --------------------MAQAQA-AEPVYPDQLRL--FSLGQ-EVCG
+Q06306.1        --------------------MAQRHA-AEPVYPDQLRL--FSLGQ-EVCG
+P09166.1        --------------------AAQTNA-AEPIYPDQLRL--FSLGE-DVCG
+Q06304.1        --------------------LAQVQA-AEPVYPDQVKW--AGLGT-GVCA
+Q08676.1        --------------------LAQVLGWHEPVYPDQVKW--AGLGT-GVCA
+P81007.1        --------------------QGQI-----VAGPDDTKIDQSIMDQ-GVCA
+Q01378.1        ------------------------VH-PSPVARRLFNL--METKKTNLCA
+P35825.1        YYTYSHTVTETGEFPNINDVYAEYNK-AKKRYRDAVAL--VNKAG-GAKK
+                                                                  
+
+P09167          DKYRPVNREEAQSVKSNIVGMMGQWQISGLA-NGWVIMG-PGYNGEIK--
+P09167.2        DKYRPVNREEAQSVKSNIVGMMGQWQISGLA-NGWVIMG-PGYNGEIK--
+Q06303.1        DKYRPVNREEAQSIKSNIVGMMGQWQISGLA-NGWVIMG-PGYNGEIK--
+Q06305.1        DKYRPVNREEAQSVKSNIVGMMGQWQISGLA-NGWVIMG-PGYNGEIK--
+Q06306.1        DKYRPITREEAQSVKSNIVNMMGQWQISGLA-NGWVIMG-PVYNGEIK--
+P09166.1        TDYRPINREEAQSVRNNIVAMMGQWQISGLA-NNWVILG-PGYNGEIK--
+Q06304.1        SGYRPLTRDEAMSIKGNLVSRMGQWQITGLA-DRWVIMG-PGYNGEIK--
+Q08676.1        SGYRPLTRDEAMSIKGNLVSRMGQWQITGLA-DRWVIMG-PGYNGEIK--
+P81007.1        TIALPFDIHVAQSVK-NVMFMFAWTQKHGLAVNNLVILGVPGYLNMWKRF
+Q01378.1        S-------------------------------------------------
+P35825.1        DAYLADLQK-----------------------------------------
+                                                                  
+
+P09167          ------PGTASNTWCY--PTNPVTGEIPTLSALDI--PD----GDEV---
+P09167.2        ------PGTASNTWCY--PTNPVTGEIPTLSALDI--PD----GDEV---
+Q06303.1        ------PGSASSTWCY--PTNPATGEIPTLSALDI--PD----GDEV---
+Q06305.1        ------PGSASSTWCY--PTNPATGEIPTLSALDI--PD----GDEV---
+Q06306.1        ------PGSASNTWCY--PVNPVTGEIPTLSALDI--PD----GDEV---
+P09166.1        ------PGKASTTWCY--PTRPATAEIPVLPAFNI--PD----GDAV---
+Q06304.1        ------QGTAGETWCY--PNSPVSGEIPTLSDWNI--PA----GDEV---
+Q08676.1        ------QGTAGETWCY--PNSPVSGEIPTLSDWNI--PA----GDEV---
+P81007.1        GESTDEPSESSKRCCYEKPTDPVSGEIVT--------PA----FDPA---
+Q01378.1        ------------------------VDLTTTK---EILDL----LEKVG--
+P35825.1        ---------EYETYVF--KANPKSGEARVATYIDA--YNYATKLDEMRQE
+                                         :  .               :     
+
+P09167          ---DVQWRLVHDS-ANFI-------KPT----------------------
+P09167.2        ---DVQWRLVHDS-ANFI-------KPT----------------------
+Q06303.1        ---DVQWRLVHDS-ANFI-------KPT----------------------
+Q06305.1        ---DVQWRLVHDS-ANFI-------KPT----------------------
+Q06306.1        ---DVQWRLVHDS-ANFI-------KPT----------------------
+P09166.1        ---DVQWRMVHDS-ANFI-------KPV----------------------
+Q06304.1        ---DVQWRLVHDN-DYFI-------KPV----------------------
+Q08676.1        ---DVQWRLVHDN-DYFI-------KPV----------------------
+P81007.1        ---DEISEITHQEESADI-------KPV----------------------
+Q01378.1        ----PYIC------------------------------------------
+P35825.1        LEAAVQAKDLEKA-EQYYHKIPYEIKTRTVILDRVYGKTTRDLLRSTFKA
+                                                                  
+
+P09167          ---------------SYL-AHY----------------------------
+P09167.2        ---------------SYL-AHY----------------------------
+Q06303.1        ---------------SYL-AHY----------------------------
+Q06305.1        ---------------SYL-AHY----------------------------
+Q06306.1        ---------------SYL-AHY----------------------------
+P09166.1        ---------------SYL-AHY----------------------------
+Q06304.1        ---------------SYL-AHY----------------------------
+Q08676.1        ---------------SYL-AHY----------------------------
+P81007.1        ---------------RLLDARL----------------------------
+Q01378.1        --------------------------------------------------
+P35825.1        KAQELRDSLIYDITVAMK-AREVQDAVKAGNLDKAKAAVDQINQYLPKVT
+                                                                  
+
+P09167          --------------------------------------------------
+P09167.2        --------------------------------------------------
+Q06303.1        --------------------------------------------------
+Q06305.1        --------------------------------------------------
+Q06306.1        --------------------------------------------------
+P09166.1        --------------------------------------------------
+Q06304.1        --------------------------------------------------
+Q08676.1        --------------------------------------------------
+P81007.1        --------------------------------------------------
+Q01378.1        --------------------------------------------------
+P35825.1        DAFKTELTEVAKKALDADEAALTPKVESVSAINTQNKAVELTAVPVNGTL
+                                                                  
+
+P09167          -----------------LGYAWVGGNHSQYVGEDMDVTRDGDGWVIR---
+P09167.2        -----------------LGYAWVGGNHSQYVGEDMDVTRDGDGWVIR---
+Q06303.1        -----------------LGYAWVGGNHSQYVGEDMDVTRDGDGWVIR---
+Q06305.1        -----------------LGYAWVGGNHSQYVGEDMDVTRDGDGWVIR---
+Q06306.1        -----------------LGYAWVGGNHSQYVGEDMDVTRDGDGWVIR---
+P09166.1        -----------------LGYAWVGGDHSQFVGDDMDVIQEGDDWVLR---
+Q06304.1        -----------------LGYAWVGGNHSPYVGEDMDVTRVGDGWLIK---
+Q08676.1        -----------------LGYAWVGGNHSPYVGEDMDVTRVGDGWLIK---
+P81007.1        -----------------LGYTWVTQNHSWIVAYSDEPIKDGNEVVTL---
+Q01378.1        --------------------------------------------------
+P35825.1        KLQLSAAANEDTVNVNTVRIYKVDGN-IPFALNTADVSLSTDGKTITVDA
+                                                                  
+
+P09167          ---------------GN--NDGGCD---------------------GYR-
+P09167.2        ---------------GN--NDGGCD---------------------GYR-
+Q06303.1        ---------------GN--NDGGCD---------------------GYR-
+Q06305.1        ---------------GN--NDGGCD---------------------GYR-
+Q06306.1        ---------------GN--NDGGCE---------------------GYR-
+P09166.1        ---------------GN--DGGKCD---------------------GYR-
+Q06304.1        ---------------GN--NDGGCS---------------------GYR-
+Q08676.1        ---------------GN--NDGGCS---------------------GYR-
+P81007.1        ---------------RNIGNNNFCD---------------------ALRK
+Q01378.1        --------------------------------------------------
+P35825.1        STPFENNTEYKVVVKGI--KDKNGKEFKEDAFTFKLRNDAVVTQVFGTN-
+                                                                  
+
+P09167          CGDKTAIKVS------------NFAYNLDPDSFKHGDVTQSDRQLVKTVV
+P09167.2        CGDKTAIKVS------------NFAYNLDPDSFKHGDVTQSDRQLVKTVV
+Q06303.1        CGDKTSIKVS------------NFAYNLDPDSFKHGDVTQSDRQLVKTVV
+Q06305.1        CGDKTSIKVS------------NFAYNLDPDSFKHGDVTQSDRQLVKTVV
+Q06306.1        CGEKTAIKVS------------NFAYNLDPDSFKHGDVTQSDRQLVKTVV
+P09166.1        CNEKSSIRVS------------NFAYTLDPGSFSHGDVTQSERTLVHTVV
+Q06304.1        CGEKSSIKVS------------NFSYTLEPDSFSHGQVTESGKQLVKTIT
+Q08676.1        CGEKSSIKVS------------NFSYTLEPDSFSHGQVTESGKQLVKTIT
+P81007.1        CTDKSACIHQ------------YLQFA----WNSFGDPTVRTRQVVFEVV
+Q01378.1        --------------------------------------------------
+P35825.1        VTNNTSVNLAAGTFDTDDTLTVVFDKLLAPETVNSSNVTITDVETGKRIP
+                                                                  
+
+P09167          GWAVN---------------------------------------------
+P09167.2        GWAVN---------------------------------------------
+Q06303.1        GWAIN---------------------------------------------
+Q06305.1        GWAIN---------------------------------------------
+Q06306.1        GWAIN---------------------------------------------
+P09166.1        GWATN---------------------------------------------
+Q06304.1        ANATN---------------------------------------------
+Q08676.1        ANATN---------------------------------------------
+P81007.1        GWADS---------------------------------------------
+Q01378.1        --------------------------------------------------
+P35825.1        VIASTSGSTITITLKEALVTGKQYKLAINNVKTLTGYNAEAYELVFTANA
+                                                                  
+
+P09167          --------------------------------------------------
+P09167.2        --------------------------------------------------
+Q06303.1        --------------------------------------------------
+Q06305.1        --------------------------------------------------
+Q06306.1        --------------------------------------------------
+P09166.1        --------------------------------------------------
+Q06304.1        --------------------------------------------------
+Q08676.1        --------------------------------------------------
+P81007.1        --------------------------------------------------
+Q01378.1        --------------------------------------------------
+P35825.1        SAPTVATAPTTLGGTTLSTGSLTTNVWGKLAGGVNEAGTYYPGLQFTTTF
+                                                                  
+
+P09167          --------------------------------------------------
+P09167.2        --------------------------------------------------
+Q06303.1        --------------------------------------------------
+Q06305.1        --------------------------------------------------
+Q06306.1        --------------------------------------------------
+P09166.1        --------------------------------------------------
+Q06304.1        --------------------------------------------------
+Q08676.1        --------------------------------------------------
+P81007.1        --------------------------------------------------
+Q01378.1        --------------------------------------------------
+P35825.1        ATKLDESTLADNFVLVEKESGTVVASELKYNADAKMVTLVPKADLKENTI
+                                                                  
+
+P09167          --------------------------------------------------
+P09167.2        --------------------------------------------------
+Q06303.1        --------------------------------------------------
+Q06305.1        --------------------------------------------------
+Q06306.1        --------------------------------------------------
+P09166.1        --------------------------------------------------
+Q06304.1        --------------------------------------------------
+Q08676.1        --------------------------------------------------
+P81007.1        --------------------------------------------------
+Q01378.1        --------------------------------------------------
+P35825.1        YQIKIKKGLKSDKGIELGTVNEKTYEFKTQDLTAPTVISVTSKNGDAGLK
+                                                                  
+
+P09167          ----------------------------------------------DSDT
+P09167.2        ----------------------------------------------DSDT
+Q06303.1        ----------------------------------------------DSDT
+Q06305.1        ----------------------------------------------DSDT
+Q06306.1        ----------------------------------------------DSYT
+P09166.1        ----------------------------------------------ISDT
+Q06304.1        ----------------------------------------------YTDL
+Q08676.1        ----------------------------------------------YTDL
+P81007.1        ----------------------------------------------DTTN
+Q01378.1        --------------------------------------------------
+P35825.1        VTEAQEFTVKFSENLNTFNATTVSGSTITYGQVAVVKAGANLSALTASDI
+                                                                  
+
+P09167          -P------------------------------------------------
+P09167.2        -P------------------------------------------------
+Q06303.1        -P------------------------------------------------
+Q06305.1        -P------------------------------------------------
+Q06306.1        -P------------------------------------------------
+P09166.1        -P------------------------------------------------
+Q06304.1        -P------------------------------------------------
+Q08676.1        -P------------------------------------------------
+P81007.1        -N------------------------------------------------
+Q01378.1        --------------------------------------------------
+P35825.1        IPASVEAVTGQDGTYKVKVAANQLERNQGYKLVVFGKGATAPVKDAANAN
+                                                                  
+
+P09167          -----------QSGYDVTLRYDTATNW-----SKTNTYGLSEK-------
+P09167.2        -----------QSGYDVTLRYDTATNW-----SKTNTYGLSEK-------
+Q06303.1        -----------QSGYDVTLRYDTATNW-----SKTNTYGLSEK-------
+Q06305.1        -----------QSGYDVTLRYDTATNW-----SKTNTYGLSEK-------
+Q06306.1        -----------QSAYDVTLRYDTATNW-----SKTNTYGLSEK-------
+P09166.1        -----------QSGYDVTLNYTTMSNW-----SKTNTYGLSEK-------
+Q06304.1        -----------QQ-VVVTLKYDKATNW-----SKTDTYSLSEK-------
+Q08676.1        -----------QQ-VVVTLKYDKATNW-----SKTDTYSLSEK-------
+P81007.1        ------------NSDTLFYRTTQADNWQVLTESKTNTIGLAEV-------
+Q01378.1        ---------------LVKTHIDIVSDF-----SYEGTIVPLLA-------
+P35825.1        TLATNYIYTFTTEGQDVTA--PTVTKV-----FKGDSLKDADAVTTLTNV
+                                :        .         .:             
+
+P09167          -------------VTTKNKFKWPLVGETELSIEIAANQSWASQN-GGSTT
+P09167.2        -------------VTTKNKFKWPLVGETELSIEIAANQSWASQN-GGSTT
+Q06303.1        -------------VTTKNKFKWPLVGETELSIEIAANQSWASQN-GGSTT
+Q06305.1        -------------VTTKNKFKWPLVGETELSIEIAANQSWASQN-GGSPT
+Q06306.1        -------------VTTKNKFKWPLVGETELSIEIAANQSWASQN-GGSTT
+P09166.1        -------------VSTKNKFKWPLVGETEVSIEIAANQSWASQN-GGAVT
+Q06304.1        -------------VTTKNKFQWPLVGETELAIEIAASQSWASQK-GGSTT
+Q08676.1        -------------VTTKNKFQWPLVGETELAIEIAASQSWASQK-GGSTT
+P81007.1        -----------------DWFNFKYETKQEVSIEIA-RQTWTSTLNAGVST
+Q01378.1        -------------LAK----------------------------------
+P35825.1        DAGQKFTIQFSEELKTS---SGSLVGG-KVTVEKLTNNGWVDAG-TGTTV
+                                                                  
+
+P09167          TSLSQSVRPTVPARSKIPVKI-----------------------------
+P09167.2        TSLSQSVRPTVPARSKIPVKI-----------------------------
+Q06303.1        TSLSQSVRPTVPAHSKIPVKI-----------------------------
+Q06305.1        TSLSQSVRPTVPAHSKIPVKI-----------------------------
+Q06306.1        TSLSQSVRPTVPARSKIPVKI-----------------------------
+P09166.1        TALSQSVRPVVPARSRVPVKI-----------------------------
+Q06304.1        ETVSVEARPTVPPHSSLPVRV-----------------------------
+Q08676.1        ETVSVEARPTVPPHSSLPVRV-----------------------------
+P81007.1        V----SRVPKVPIKVKINVDTFL---------------------------
+Q01378.1        --------------------------------------------------
+P35825.1        S-----VAPKTDANGKVTAAVVTLTGLDNNDKDAKLRLVVDKSSTDGIAD
+                                                                  
+
+P09167          --------------------------------------------------
+P09167.2        --------------------------------------------------
+Q06303.1        --------------------------------------------------
+Q06305.1        --------------------------------------------------
+Q06306.1        --------------------------------------------------
+P09166.1        --------------------------------------------------
+Q06304.1        --------------------------------------------------
+Q08676.1        --------------------------------------------------
+P81007.1        --------------------------------------------------
+Q01378.1        --------------------------------------------------
+P35825.1        VAGNVIKEKDILIRYNSWRHTVASVKAAADKDGQNASAAFPTSTAIDTTK
+                                                                  
+
+P09167          ----ELYKADIS----------------------------------YPYE
+P09167.2        ----ELYKADIS----------------------------------YPYE
+Q06303.1        ----ELYKADIS----------------------------------YPYE
+Q06305.1        ----ELYKADIS----------------------------------YPYE
+Q06306.1        ----ELYKADIS----------------------------------YPYE
+P09166.1        ----ELYKANIS----------------------------------YPYE
+Q06304.1        ----ALYKSNIS----------------------------------YPYE
+Q08676.1        ----ALYKSNIS----------------------------------YPYE
+P81007.1        KVLFAVYK------------------------------------------
+Q01378.1        --------------------------------------------------
+P35825.1        SLLVEFNETDLAEVKPENIVVKDAAGNAVAGTVTALDGSTNKFVFTPSQE
+                                                                  
+
+P09167          FKADVSYD--LTLSGFLRWGGNAWY-----THPDNRP-------------
+P09167.2        FKADVSYD--LTLSGFLRWGGNAWY-----THPDNRP-------------
+Q06303.1        FKADVSYD--LTLSGFLRWGGNAWY-----THPDNRP-------------
+Q06305.1        FKADVSYD--LTLSGFLRWGGNAWY-----THPDNRP-------------
+Q06306.1        FKADVSYD--LTLSGFLRWGGNAWY-----THPDNRP-------------
+P09166.1        FKADMSYD--LTFNGFLRWGGNAWH-----THPEDRP-------------
+Q06304.1        FKAEVNYD--LTMKGFLRWGGNAWY-----THPDNRP-------------
+Q08676.1        FKAEVNYD--LTMKGFLRWGGNAWY-----THPDNRP-------------
+P81007.1        --ADL-YDIFLQFASVFKKGGNRQYWLNYTQEPNTKS-------------
+Q01378.1        --------------------------------------------------
+P35825.1        LKAGTVYS--VTIDGVRDKVGNTIS-----KYITSFKTVSANPTLSSISI
+                                                                  
+
+P09167          -------------------------------------------------N
+P09167.2        -------------------------------------------------N
+Q06303.1        -------------------------------------------------N
+Q06305.1        -------------------------------------------------N
+Q06306.1        -------------------------------------------------N
+P09166.1        -------------------------------------------------T
+Q06304.1        -------------------------------------------------T
+Q08676.1        -------------------------------------------------T
+P81007.1        -------------------------------------------------N
+Q01378.1        --------------------------------------------------
+P35825.1        ADGAVNVDRSKTITIEFSDSVPNPTITLKKADGTSFTNYTLVNVNNENKT
+                                                                  
+
+P09167          WNHTFVIGPYKDKASSIRYQWDKRYIPGE---------------------
+P09167.2        WNHTFVIGPYKDKASSIRYQWDKRYIPGE---------------------
+Q06303.1        WNHTFVIGPYKDKASSIRYQWDKRYIPGE---------------------
+Q06305.1        WNHTFVIGPYKDKASSIRYQWDKRYIPGE---------------------
+Q06306.1        WNHTFVIGPYKDKASSIRYQWDKRYIPGE---------------------
+P09166.1        LSHTFAIGPFKDKASSIRYQWDKRYLPGE---------------------
+Q06304.1        WEHTLLLGPFRGQGEQHPLPVDKRYIPGE---------------------
+Q08676.1        WEHTFRLGPFRGQGEQHPLPVDKRYIPGE---------------------
+P81007.1        YNHKI----YNDKIRY--LQEDVQVHPNE---------------------
+Q01378.1        -KYNFMIFEDR-KFADIGNTVKSQYKGGV---------------------
+P35825.1        YKIVFHKGVTLDEFTQYELAVSKDFQTGTDIDSKVTFITGSVATDEVKPA
+                 .  :       :        .     .                      
+
+P09167          -VKWWDWNWTIQQNGLST--MQNNLARVLRPVRAGITGD-FSAE---SQF
+P09167.2        -VKWWDWNWTIQQNGLST--MQNNLARVLRPVRAGITGD-FSAE---SQF
+Q06303.1        -VKWWDWNWTIQQNGLPT--MQNNLAKVLRPVRAGITGD-FSAE---SQF
+Q06305.1        -VKWWDWNWTIQQNGLPT--MQNNLAKVLRPVRAGITGD-FSAE---SQF
+Q06306.1        -VKWWDWNWTIQQNGLST--MQNNLARVLRPVRAGITGD-FSAE---SQF
+P09166.1        -MKWWDWNWAIQQNGLAT--MQDSLARVLRPVRASITGD-FRAE---SQF
+Q06304.1        -VKWWDWNWTISEYGLST--MQNNLGRVLRPIRSAVTGD-FYAE---SQF
+Q08676.1        -VKWWDWNWTISEYGLST--MQNNLGRVLRPIRSAVTGD-FYAE---SQF
+P81007.1        -TQSKWWWWSFKKVALTT--MT--VVALTRFKASGINGQ-YISA---RQF
+Q01378.1        -YQIAKWSDITNAHGVTGSGIVTGLKQAAEEVTDEPRGLLMLAE---LSS
+P35825.1        LVGVGSW------NGTSY--TQDAAATRLRSV-----AD-FVAEPVALQF
+                      *       . .            .       .    :     . 
+
+P09167          AGNIEIGAPVP---------------------------------------
+P09167.2        AGNIEIGAPVP---------------------------------------
+Q06303.1        AGNIEIGAPVP---------------------------------------
+Q06305.1        AGNIEIGAPVP---------------------------------------
+Q06306.1        AGNIEIGAPVP---------------------------------------
+P09166.1        AGNIEIGTPVP---------------------------------------
+Q06304.1        AGDIEIGQPQT---------------------------------------
+Q08676.1        AGDIEIGQPQT---------------------------------------
+P81007.1        SGGETV-SPYRL--------------------------------------
+Q01378.1        KGAIAHGKYTEETVEIAKTDKDFVIGFIAQNQMGGSDEGFDWIIMTPGVG
+P35825.1        SEGIDLTNATV---------------------------------------
+                                                                  
+
+P09167          --------------------------------------LAADSKVR----
+P09167.2        --------------------------------------LAADSKVR----
+Q06303.1        --------------------------------------VAAASHSS----
+Q06305.1        --------------------------------------VAAASHSS----
+Q06306.1        --------------------------------------LAADGKAP----
+P09166.1        --------------------------------------LGSDSKVR----
+Q06304.1        --------------------------------------RSAKAAQL----
+Q08676.1        --------------------------------------RSAKAAQL----
+P81007.1        ---------------------------------------AAPFDSC----
+Q01378.1        LDDKGDALGQQYRTVSEVMSTGTDIIIVGRGLFGKGRDPSVEGERYMKAG
+P35825.1        --------------------------------------TVTNITDD----
+                                                                  
+
+P09167          ------RA-RSVDGAGQGLRLEIPLDAQE---------------------
+P09167.2        ------RA-RSVDGAGQGLRLEIPLDAQE---------------------
+Q06303.1        ------RA-RNLS-AGQGLRLEIPLDAQE---------------------
+Q06305.1        ------RA-RNLS-AGQGLRLEIPLDAQE---------------------
+Q06306.1        ------RA-LSARRGEQGLRLAIPLECRK---------------------
+P09166.1        ------RT-RSVDGANTGLKLDIPLDAQE---------------------
+Q06304.1        ------RS-AS---AEEVALTSVDLDSEA---------------------
+Q08676.1        ------RS-AS---AEEVALTSVDLDSEA---------------------
+P81007.1        ------LWRRSPN-PLGTDGLKVALAHHPL--------------------
+Q01378.1        WNAYLART-NQL--------------------------------------
+P35825.1        ------KT-VE---VIS--KESVDADHDAGATKETLVINTVTPLVLDNSK
+                          .                                       
+
+P09167          LSG-------LGFNNVSLSVTPAANQ-----
+P09167.2        LSG-------LGFNNVSLSVTPAANQ-----
+Q06303.1        LSG-------LGFNNVSLSVTPAANQ-----
+Q06305.1        LSG-------LGFNNVSLSVTPAANQ-----
+Q06306.1        SS--------PGLASATSA------------
+P09166.1        LAE-------LGFENVTLSVTPAR-N-----
+Q06304.1        LAN-------EGFGNVSLTIVPVQ-------
+Q08676.1        LAN-------EGFGNVSLTIVPVQ-------
+P81007.1        -AG-------ASNRNKLRVSIPAQCICSITA
+Q01378.1        -------------------------------
+P35825.1        TYKIVVSGVKDAAGNVADTITFYI-K-----
+                                               
+
+
+

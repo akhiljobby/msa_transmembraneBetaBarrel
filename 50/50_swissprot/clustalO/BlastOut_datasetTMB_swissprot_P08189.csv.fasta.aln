@@ -1,0 +1,510 @@
+>P08189
+---------MRNKPFYLLCAFLWLAVSHALAA----------------------------
+-----DSTITIRGYV-RDNGCSVA-AES--------------------------------
+------------------------------------------------------------
+------------------------------TNFTVDLMEN------AA------KQFNNI
+GATTP-VVPFRILLSPCGNAVS--------------------------------------
+----------------AVKVGFTG--VADSHN-----ANLLALE--N------------T
+VSAASGLGIQ-LLNEQQNQ-IPLN---------------------APSS------ALSWT
+TLTPGKPNTLNFYARLMAT-----QVPVTAGHINATATFT-------LEYQ---------
+---------------------------------------------------
+>P08189.2 RecName: Full=Protein FimF; Flags: Precursor
+---------MRNKPFYLLCAFLWLAVSHALAA----------------------------
+-----DSTITIRGYV-RDNGCSVA-AES--------------------------------
+------------------------------------------------------------
+------------------------------TNFTVDLMEN------AA------KQFNNI
+GATTP-VVPFRILLSPCGNAVS--------------------------------------
+----------------AVKVGFTG--VADSHN-----ANLLALE--N------------T
+VSAASGLGIQ-LLNEQQNQ-IPLN---------------------APSS------ALSWT
+TLTPGKPNTLNFYARLMAT-----QVPVTAGHINATATFT-------LEYQ---------
+---------------------------------------------------
+>P77789.1 RecName: Full=Uncharacterized fimbrial-like protein YdeS; Flags: Precursor
+---------MKYNNIIFLGLCLGLTTYSALSA----------------------------
+-----DSVIKISGRV-LDYGCTVS-SDS--------------------------------
+------------------------------------------------------------
+------------------------------LNFTVDLQKN------SA------RQFPTT
+GSTSP-AVPFQITLSECSKGTT--------------------------------------
+----------------GVRVAFNG--IEDAEN-----NTLLKLD--E------------G
+SNTASGLGIE-ILDANMRP-VKLN---------------------DLHA------GMQWI
+PLVPEQNNILPYSARLKST-----QKSVNPGLVRASATFT-------LEFQ---------
+---------------------------------------------------
+>P13429.1 RecName: Full=S-fimbrial protein subunit SfaG; Flags: Precursor
+----MVKDIIKTVTFSCMLAGSMFVTCHVCAA----------------------------
+-----GSVVNITGNV-QDNTCDVD-INS--------------------------------
+------------------------------------------------------------
+------------------------------RNFDVSLGSY------DS------RQFTAA
+GDTTP-ASVFHVGLTSCGSAVR--------------------------------------
+----------------AVKLTFTG--TPDNQE-----AGLIQIN---------------S
+INGARGVGIQ-LLDKDKHE-LKIN---------------------VPTT----------I
+ALMPGT-QTIAFYARLKAT-----YLPVKAGNVDAVVNFV-------LDYQ---------
+---------------------------------------------------
+>P75860.2 RecName: Full=Uncharacterized fimbrial-like protein YcbV; Flags: Precursor
+--------MLKRI-IWILFLLGLTWGCELFAH----------------------------
+-----DGTVNISGSF-RRNTCVLA-QDS--------------------------------
+------------------------------------------------------------
+------------------------------KQINVQLGDV------SL------TRFS-H
+GNYGP-EKSFIINLQDCGTDVS--------------------------------------
+----------------TVDVTFSG--TPDGVQ-----SEMLSIE--S------------G
+TDAASGLAIA-ILDDAKIL-IPLN---------------------QASK------DYS--
+-LHSGK-VPLTFYAQLRPV-----NSDVQSGKVNASATFV-------LHYD---------
+---------------------------------------------------
+>P37921.2 RecName: Full=Type-1 fimbrial protein, A chain; AltName: Full=Type-1A pilin; Flags: Precursor
+---------MKHKL-MTS-TIASLMFVA---------------------GAAVAAD--PT
+PVSVSGGTIHFEGKL-VNAACAVSTKSA--------------------------------
+------------------------------------------------------------
+-------------------------------DQTVTLGQYRT------------ASFTAI
+GNTTA-QVPFSIVLNDCDPKVAANA----A------------------------------
+------------V-------AF---SGQADN-T---NPNLLAVSSA------------DN
+STTATGVGIE-ILDNTSSP-LKPDGA----------------------TFSA--K-----
+QSLVEGTNTLRFTARYKATA-----AATTPGQANADATFIMKYE----------------
+---------------------------------------------------
+>P39264.2 RecName: Full=Fimbrin-like protein FimI; Flags: Precursor
+---------MKRKRLFLLASLLPMFAL--------------------------AGN--KW
+NTTLPGGNMQFQGVI-IAETCRIEAGDK--------------------------------
+------------------------------------------------------------
+-------------------------------QMTVNMGQISS------------NRFHAV
+GEDSA-PVPFVIHLRECSTVVSERV----G------------------------------
+------------V-------AF---HGVADG-K---NPDVLSVG--------------EG
+PGIATNIGVA-LFDDEGNL-VPINRP----------------------PANW--------
+KRLYSGSTSLHFIAKYRATG-----RRVTGGIANAQAWFSLTYQ----------------
+---------------------------------------------------
+>P37920.1 RecName: Full=Type-1 fimbrial protein, A chain; AltName: Full=Type-1A pilin; Flags: Precursor
+---------MKHKL-MTS-TIASLMFVA---------------------GAAVAAD--PT
+PVSVSGGTIHFEGKL-VYAACAVSTKSA--------------------------------
+------------------------------------------------------------
+-------------------------------DQTVTLGQYRT------------ASFTAI
+GDTTA-QVPFSIVLNDCDPKVAATA----A------------------------------
+------------V-------AF---SGQADN-T---NTNLLAVSSA------------DN
+STTATGVGIE-ILDNTSSP-LKPDGA----------------------TFSA--K-----
+QALVEGTNTLRFTARYKATA-----A-ATPGQANADATFIMKYE----------------
+---------------------------------------------------
+>P55223.1 RecName: Full=Fimbrial subunit type 1; Flags: Precursor
+---------MRHKL-MTS-TIASLMFVA---------------------AAAVAAD--PT
+PVSVVGGTIHFEGKL-VNAACAVSTKSA--------------------------------
+------------------------------------------------------------
+-------------------------------DQTVTLGQYRT------------ASFTAI
+GNTTA-QVPFSIVLNDCDPKVAATA----A------------------------------
+------------V-------AF---SGQADN-T---TPNLLAVSSA------------DN
+STTATGVGIE-ILDNTSSP-LKPDGA----------------------TFSA--K-----
+QSLVEGTNTLRFTARYKATA-----AATTPGQANADATFIMKYE----------------
+---------------------------------------------------
+>P43660.1 RecName: Full=Long polar fimbria protein A; Flags: Precursor
+MEF-----LMKKVV-FA----LSALAVV---------------------STSA------F
+AAESGDGTIKFTGEI-VDAPCVVSTDSQ--------------------------------
+------------------------------------------------------------
+-------------------------------NQEVVLGQVKK------------NIFKAI
+GDKSS-SKPFQIKLEDCDITSNTKV----N------------------------------
+------------V-------SF---NGVGDT-D---DATLVSVN--------------TE
+AGAATGVGIG-IYDNANKL-VEMNTG----------------------KSTT--T-----
+--LAAGQTVLYYTANYVATK-----DTVTTGYGNAEVDFNLSYE----------------
+---------------------------------------------------
+>Q8X5K5.3 RecName: Full=Probable major fimbrial subunit LpfA; Flags: Precursor
+MEF-----FMKKVV-FA----LTALALT---------------------SGTV------F
+AAESGDGTVKFTGEI-VDSPCVLSVDSQ--------------------------------
+------------------------------------------------------------
+-------------------------------NQEVVLGQVQK------------SVFAAV
+GDKSP-AKPFEIKLEDCDTTTMKKA----N------------------------------
+------------V-------SF---SGVGDA-D---KSDLISVS--------------TE
+AGAAKGVGIG-IYDNSNTL-VALNGG----------------------KASV--D-----
+--LSKGQTVLYFTANYVSTL-----ATVTTGYGNAQVDFNLSYE----------------
+---------------------------------------------------
+>P0ABW6.1 RecName: Full=Uncharacterized fimbrial-like protein SfmA; AltName: Full=Type-1A pilin; Flags: Precursor >P0ABW5.1 RecName: Full
+---------MKLRF-ISS-ALAAALFAA--------------------------TG--SY
+AAVVDGGTIHFEGEL-VNAACSVNTDSA--------------------------------
+------------------------------------------------------------
+-------------------------------DQVVTLGQYRT------------DIFNAV
+GNTSA-LIPFTIQLNDCDPVVAANA----A------------------------------
+------------V-------AF---SGQADA-I---NDNLLAIASS------------TN
+TTTATGVGIE-ILDNTSAI-LKPDGN----------------------SFST--N-----
+QNLIPGTNVLHFSARYKGTG-----TSASAGQANADATFIMRYE----------------
+---------------------------------------------------
+>P37922.2 RecName: Full=Fimbrin-like protein FimI; Flags: Precursor
+---------MIRKG-AA----LAGLVLM---------------------SPV---I--AQ
+PVMVESGRVHLRGQL-VNGGCAVATESQ--------------------------------
+------------------------------------------------------------
+-------------------------------NLRVLMGQYRT------------NAFTGP
+GSFAPVSVPFSLRLISCSAEVWRHV----G------------------------------
+------------I-------AF---AGVTPA-E---DPHVFLAS--------------GE
+GIGNAGIGLA-LFDDQQRQIIP-NTL----------------------PLHY--------
+TPILTSEMTLHFTARYRAIS-----ENMTPGRIHSEVWFTLVYP----------------
+---------------------------------------------------
+>P38052.2 RecName: Full=Uncharacterized fimbrial-like protein SfmF; Flags: Precursor
+---------MRRVL-FSC--FCGLLWSS---------------------SGW-------A
+VDPLGTININLHGNV-VDFSCTVNTADI--------------------------------
+------------------------------------------------------------
+-------------------------------DKTVDLGRWPT------------TQLLNA
+GDTTA-LVPFSLRLEGCPPGSVA-------------------------------------
+------------I-------LF---TGTPAS-----DTNLLALDD---------------
+PAMAQTVAIE-LRNSDRSR-LALGEA----------------------SPTE--------
+EVDANGNVTLNFFANYRALA-----SGVRPGVAKADAIFMINYN----------------
+---------------------------------------------------
+>Q08456.1 PUTATIVE PSEUDOGENE: RecName: Full=Putative fimbrin-like protein FimI; Flags: Precursor
+---------MIRKG-AA----LVGLVLM---------------------SPV---I--AQ
+PVMVESGRVHLRGQL-VNGGCAVATESQ--------------------------------
+------------------------------------------------------------
+-------------------------------DLRVLMGQYRT------------NAFTGP
+GSFAPVSVPFSLRLISCSAEVWRHV----G------------------------------
+------------I-------AF---AGVTPA-E---DPHVFLAS--------------GE
+GIGNAGIGLA-LFDDQQRQIIP-NTL----------------------PLHY--------
+APILTSEMTLHFTARYRAIS-----ENMTPGRIHSEVWFTLVYP----------------
+---------------------------------------------------
+>P12903.1 RecName: Full=Fimbrial subunit type 1; Flags: Precursor
+---------MKIKT-LAM-IVVSALALS---------------------STAALAD----
+TTTVNGGTVHFKGEV-VNAACAVDAGSI--------------------------------
+------------------------------------------------------------
+-------------------------------DQTVQLGQVRS------------AKLATA
+GSTSS-AVGFNIQLDDCDTTVATKA----S------------------------------
+------------V-------AF---AGTAIDSS---NTTVLALQN-------------SA
+AGSATNVGVQ-ILDNTGTP-LALNGA----------------------TFSA--A-----
+TTLNDDPNIIPFQARYYATG-----AA-TAGIANADATFKVQYE----------------
+---------------------------------------------------
+>P75859.1 RecName: Full=Uncharacterized fimbrial-like protein YcbU; Flags: Precursor
+---------MKKKTIFQCVI---LFFSI---------------------LNI---H--VG
+MAGPEQVSMHIYGNV-VDQGCDVATKSA--------------------------------
+------------------------------------------------------------
+-------------------------------LQNIHIGDFNI------------SDFQAA
+NTVST-AADLNIDITGCAAGITGAD-----------------------------------
+------------V-------LF---SGEADT-L---APTLLKLTDT-----------GGS
+GGMATGIAVQ-ILDAQSQQEIPLNQV----------------------QPL---------
+TPLKAGDNTLKYQLRYKSTK-----AGATGGNATAVLYFDLVYQ----------------
+---------------------------------------------------
+>Q47223.1 RecName: Full=Type-1 fimbrial protein, A chain; AltName: Full=Type-1A pilin; Flags: Precursor
+---------MKIKT-LAI-VVLSALSLS---------------------STAALAD--TT
+PTTVNGGTVHFKGEV-VNAACAVDAGSV--------------------------------
+------------------------------------------------------------
+-------------------------------DQTVQLGQVRT------------ATLKQA
+GATSS-AVGFNIQLNDCDTTVATKA----A------------------------------
+------------V-------AF---LGTAIDST---HPKVLALQS-------------SA
+AGSATNVGVQ-ILDRTGNE-LTLDGA----------------------TFSA--E-----
+TTLNNGTNTIPFQARYFATG-----AA-TPGAANADATFKVQYQ----------------
+---------------------------------------------------
+>P22595.1 RecName: Full=Type-1 fimbrial protein subunit; Flags: Precursor
+---------MKKVL-LP----LAALVLS----------------------ATA------S
+NAMAANGTVKFTGEI-KQSTCQVTSDTQ--------------------------------
+------------------------------------------------------------
+-------------------------------NKEVYLGTYPT------------SAFPTV
+GSKSA-SKAFQISLEKCDAGDYS-------------------------------------
+------------L-------RF---DGNTVA-G---NPDLLSVSNV-----------GGT
+GAAATGVGIE-ITDNNGKP-FAIGDG----------------------SNIN--DDVAKV
+TIAADGKATFNLQARYRSFD-----SNVTAGLANATSPFTIEYK----------------
+---------------------------------------------------
+>P04128.2 RecName: Full=Type-1 fimbrial protein, A chain; AltName: Full=Type-1A pilin; Flags: Precursor
+---------MKIKT-LAI-VVLSALSLS---------------------STAALAA----
+ATTVNGGTVHFKGEV-VNAACAVDAGSV--------------------------------
+------------------------------------------------------------
+-------------------------------DQTVQLGQVRT------------ASLAQE
+GATSS-AVGFNIQLNDCDTNVASKA----A------------------------------
+------------V-------AF---LGTAIDAG---HTNVLALQS-------------SA
+AGSATNVGVQ-ILDRTGAA-LTLDGA----------------------TFSS--E-----
+TTLNNGTNTIPFQARYFATG-----AA-TPGAANADATFKVQYQ----------------
+---------------------------------------------------
+>P62605.1 RecName: Full=Type-1 fimbrial protein, C chain; AltName: Full=Type-1C pilin; Flags: Precursor >P62606.1 RecName: Full=Type-1 fi
+---------MKLKF-ISM-AVFSALTLG---------------------VAT--NA--SA
+VTTVNGGTVHFKGEV-VNAACAVNTNSF--------------------------------
+------------------------------------------------------------
+-------------------------------DQTVNLGQVRS------------ERLKVD
+GAKSN-PVGFTIELNDCDSQVSAGA----G------------------------------
+------------I-------VF---SGPAVT-G---KTDVLALQS-------------SA
+AGSATNVGVQ-ITDHTGKV-VPLDGT----------------------A-SS--T-----
+FTLTDGTNKIPFQAVYYATG-----QA-TAGIANADATFKVQYQ----------------
+---------------------------------------------------
+>P76499.1 RecName: Full=Uncharacterized fimbrial-like protein YfcP; Flags: Precursor
+----MNKSMIQSGGYVLLAGLILAMSSTLFAA----------------------------
+-----DNNLHFSGNL-LSKSCALV-VDG--------------------------------
+------------------------------------------------------------
+------------------------------QYLAEVRFPT------VS------RQDLNV
+AGQSA-RVPVVFKLKDCKGP-A--------------------------------------
+--------------GYNVKVTLTG--VEDSEQ-----PGFLALD---------------T
+SSTAQGVGIG-MEKTDGMQ-VAIN---------------------NTNG------AT--F
+ALTNGN-NDINFRAWLQAK----SGRDVTIGEFTASLTAT-------FEYI---------
+---------------------------------------------------
+>P11312.2 RecName: Full=F17 fimbrial protein; AltName: Full=F17 fimbrial adhesive antigen; AltName: Full=F17 pilin; Flags: Precursor
+------------------------------------MQKIQFILGILAA-------ASSS
+ATLAYDGKITFNGKV-VDQTCSVTTE-S--------------------------------
+------------------------------------------------------------
+----------------------------K--NLTVKLPTVSA------------NSLASS
+GKVVG-LTPFTILLEGCNTPAVTGAQ------N---------------------------
+-----------------VNAYFEPNANTDYTT-----GNLT---NTA------------S
+SG-ASNVQIQ-LLNADGV--KAIKLGQAAA---------------AQS---------VDT
+VAINDANVTLRYNAQYYATG----V--ATAGDVTSTVNYTIAYQ----------------
+---------------------------------------------------
+>P12730.2 RecName: Full=S-fimbrial protein subunit SfaA; AltName: Full=S-fimbrillin; Flags: Precursor
+---------MKLKF-ISM-AVFSALTLG---------------------VAT--NA--SA
+VTTVNGGTVHFKGEV-VDAACAVNTNSA--------------------------------
+------------------------------------------------------------
+-------------------------------NQTVLLGQVRS------------AKLAND
+GEKSS-PVGFSIELNDCSSATAGHA----S------------------------------
+------------I-------IF---AGNVIA-T---HNDVLSLQN-------------SA
+AGSATNVGIQ-ILDHTGTA-VQFDGV----------------------TAST--Q-----
+FTLTDGTNKIPFQAVYYATG-----KS-TPGIANADATFKVQYQ----------------
+---------------------------------------------------
+>P37926.1 RecName: Full=Fimbrial-like protein FimF; Flags: Precursor
+--M-----ILRRVF-IA---IGCVLFSP---------------------LSQ-------A
+NSSLGEVNIELRGNV-VDFTCAVVAGDS--------------------------------
+------------------------------------------------------------
+-------------------------------NKSVNLGTWPT------------KQLHAA
+GDATQ-PVAFSLKLEGCPPGSAS-------------------------------------
+------------I-------TF---SGTPAP-----GTALLALAD---------------
+TAMAQKLAIE-IRDGDQRR-LPLEQA----------------------SKAV--------
+DIDNNGNATLKFYANYIALA-----DGVQPGLANADATFLINYN----------------
+---------------------------------------------------
+>P45992.1 RecName: Full=Minor fimbrial subunit HifD; Flags: Precursor
+-MQKTPKKLTALCHQ-QSTASCSGSNYSGSNYSG--SKCFRLHRLALLA------CIVAL
+PAYAVDGRVTFQGEIVSDGTCKIETD-S--------------------------------
+------------------------------------------------------------
+----------------------------K--NRTVTLPTVGK------------ANLSLA
+GQTAA-PVPFSITLKECNAADA--------------------------------------
+---------------KKANLLFSGA-VT---------------------KGQLYLSNAAS
+SGKANNVGIQ-IVKADGTG-SPINVDGSQA------------------NSEKAPDTGKEQ
+NS-TVIQPRFDYFAHYYATG----A--ATAGEVEATATFQVQYN----------------
+---------------------------------------------------
+>P42913.1 RecName: Full=Uncharacterized fimbrial-like protein YraH; Flags: Precursor
+---------MNKVTKTAIAG-LLALFA--------------------------------G
+NAAATDGEIVFDGEI-LKSACEINDSDK--------------------------------
+------------------------------------------------------------
+-------------------------------KIEVALGHYNA------------EQFRNI
+GERSP-KIPFTIPLVNCPMTGWEHD----N------------------------------
+------------G---NVEASFRLWLETRDNGTVPNFPNLAKVGS-------------FA
+GIAATGVGIR-IDDAESGNIMPLNAM-----------------------GND--NTVYQI
+PAESNGIVNVDLIAYYVSTVV---PSEITPGEADAIVNVTLDYR----------------
+---------------------------------------------------
+>P12266.1 RecName: Full=Fimbrial subunit type 1; Flags: Precursor
+---------MKIKT-LAI-VVLSALSLS---------------------SAAALAD--T-
+-TTVNGGTVHFKGEV-VNAACAVDAGSV--------------------------------
+------------------------------------------------------------
+-------------------------------DQTVQLGQVRT------------ASLKQA
+GANSS-AVVFNIQLNDCDTTVATKA----A------------------------------
+------------V-------AF---LGTAIGPT---HTDVLALQS-------------SA
+AGSATNVGVQ-ILDRTGAG-LALDGA----------------------TFSS--E-----
+TTLNNGTNTIPFQARYFATG-----AA-TPGAANADATFKVQYQ----------------
+---------------------------------------------------
+>P13421.1 RecName: Full=Fimbria A protein; Flags: Precursor
+--M-----KLNKIML-------ATVLAFGVS------------------SL-------AN
+AADQGHGKVTFTGSI-IDAPCSIAPESA--------------------------------
+------------------------------------------------------------
+-------------------------------DQTVEMGQISN------------VALKNG
+GKSA--PRQFDIKLEQCDTSTLKT------------------------------------
+-----------------VTTTF---DGKASAAN----PDLLGIIGT-----------ASG
+------ASIA-ITDMASNP-IKLG------------------------TATA--P-----
+QTLNDGNNTLRFAAYLQGDGA---SATVVPGDFTAVADFKLAYQ----------------
+---------------------------------------------------
+>P39834.2 RecName: Full=Uncharacterized fimbrial-like protein YgiL; Flags: Precursor
+----------MSAFKKSL--LV-AGVAMILS------------------N--------NV
+FADEGHGIVKFKGEV-ISAPCSIKPGDE--------------------------------
+------------------------------------------------------------
+-------------------------------DLTVNLGEVAD------------TVLKSD
+QKSL--AEPFTIHLQDCMLSQG-------G------------------------------
+------------TTYSKAKVTF---TTANTMTG---QSDLLKNTKE-----------TEI
+G-GATGVGVR-ILDSQSGE-VTLGTP----------------------VV-I--T-----
+FNNTNSYQELNFKARMESP-----SKDATPGNVYAQADYKIAYE----------------
+---------------------------------------------------
+>P37909.2 RecName: Full=Uncharacterized fimbrial-like protein YbgD; Flags: Precursor
+----------MFKGQKTL--AA-LAVSLLFT------------------AP-------VY
+AADEGSGEIHFKGEV-IEAPCEIHPEDI--------------------------------
+------------------------------------------------------------
+-------------------------------DKNIDLGQVTT------------THINRE
+HHSN--KVAVDIRLINCDLPASDNG---SG------------------------------
+------------MPVSKVGVTF---DSTAKTTG---ATPLLSNT--------------SA
+G-EATGVGVR-LMDKNDGN-IVLGSA----------------------APDL--D-----
+LDASSSEQTLNFFAWMEQIDN---AVDVTAGEVTANATYVLDYK----------------
+---------------------------------------------------
+>P53521.1 RecName: Full=Putative minor fimbrial subunit PmfF; Flags: Precursor
+---------MKNSIIKSA--ITCLLLLS--P------------------ST-------FA
+ATDIIGGEMEFKGVV-VAHGCTIVAGDE--------------------------------
+------------------------------------------------------------
+-------------------------------NKVIDFKQISA------------KDLYSL
+QKSN--PVAFSISLENCSQDIYKS------------------------------------
+-----------------VTITL---DGQAHSTM----PNHIAVTGS-----------GSE
+D--PKSIGIA-FTDKAHNI-IELK------------------------KPSA--P-----
+QQLNNKRVQFNFMAYVEATSSAIQNQTILTGPFQAQATYTLNYQ----------------
+---------------------------------------------------
+>P13430.1 RecName: Full=S-fimbrial adhesin protein SfaS; Flags: Precursor
+---------MKLK-AIIL--ATGLINCI------------------------------AF
+SAQAVDTTITVTGNV-LQRTCNVP-G----------------------------------
+------------------------------------------------------------
+-------------------------------NVDVSLGNLYV------------SDFPNA
+GSGSP-WVNFDLSLTGCQN-MN--------------------------------------
+----------------TVRATF---SGTADGQT------YY-----------------AN
+TGNAGGIKIE-IQDRDGSNASYHNGM----------------------FKTL--N-----
+VQ--NNNATFNLKARAV-SK-----GQVTPGNISSVITVTYTYA----------------
+---------------------------------------------------
+>P17835.1 RecName: Full=Serotype 3 fimbrial subunit; Flags: Precursor
+--------------------------MSKFSYPA--LRAAL-IL---AA-------SPVL
+PALANDGTIVITGSI-SDQTCVIEEPST--------------------------------
+------------------------------------------------------------
+----------------------------LNHIKVVQLPKISK------------NALRND
+GDTAG-ATPFDIKLKECPQAL---------------------------------------
+---------------GALKLYFEPGITTNYDT-----GDLIAYKQTYNASGNGNLSTVSS
+ATKAKGVEFR-LANLNGQH-I--RMGTD------------------KTTQAAQTFTGKVT
+NG--SKSYTLRYLASYVKKP----KEDVDAAQITSYVGFSVVYP----------------
+---------------------------------------------------
+>P45993.1 RecName: Full=Minor fimbrial subunit HifD; Flags: Precursor
+-MQKTPKKLTALFHQ-KSTATCSGANYSGANYSG--SKCFRFHRLALLACVALLDCIVAL
+PAYAYDGRVTFQGEILSDGTCKIETD-S--------------------------------
+------------------------------------------------------------
+----------------------------Q--NRTVTLPTVGK------------ANLSHA
+GQTAA-PVPFSITLKECNADDA--------------------------------------
+---------------MKANLLFKGGDNT---------------------TGQSYLSNKAG
+NGKATNVGIQ-IVKADGIG-TPIKVDGTEA------------------NSEKAPDTGKAQ
+NG-TVIQPRFGYFGSLLRHR----------------------------------------
+---------------------------------------------------
+>B2FNJ0.1 RecName: Full=Major fimbrial subunit SMF-1; AltName: Full=S. maltophilia fimbriae 1; Short=SMF-1; Flags: Precursor
+----------------------------------------------MLA-------AAPL
+AANAADGTITFNGKV-TDKTCTISTPGG--------------------------------
+------------------------------------------------------------
+----------------------------K--DFAVNLPTVSK------------NTLATA
+GAVAG-RTPFAINLTKCSA------G------N---------------------------
+-----------------VATYFEPGSTVDFNT-----GRLL---NQA------------S
+ANAATNVQLQ-LLGSNNQV-LPIKAAGAGL---------------AQTN-------SQWV
+TVGTDGSADLNYYAEYYATA----A--ATPGDVTSSVKYTIIYN----------------
+---------------------------------------------------
+>P09808.2 RecName: Full=Fimbrial protein FimX; AltName: Full=Pilin; Flags: Precursor
+------------------------------------MQAKTFLLGAALA-------GVAL
+AAHAEDGTIVITGTI-TDQTCTIEDPSP--------------------------------
+------------------------------------------------------------
+-----------------------------GYIKVVHLPTISK------------SALKNA
+GDVAG-RTRFDIKLKDCPTTV---------------------------------------
+---------------NTLKLYFEPGPTTDYGT-----KDLKAYKQAWYVDAATLLKSPPS
+VTEAKGVQIR-LMNLNGKQ-I--PMGET------------------EPNQHAAAFSGTMQ
+AGQAKKSFTLHYLAGYVKKA----SGEVEATMLTTYVGFSVVYP----------------
+---------------------------------------------------
+>P43664.1 RecName: Full=Protein LpfE; Flags: Precursor
+---------MKNLHALMP---ACLLLTA---------------------SAM---A--AP
+SNIGSAGDIHFTITI-KAATCELENDSI--------------------------------
+------------------------------------------------------------
+-------------------------------DVN--METVVL------------QRPVKV
+GKELN-QKNFSIGLKDCAYATKASV----T------------------------------
+------------M------------DGSPDP-T---DPSLFALDS---------------
+-GGATGVALK-IKTSGGEQQYPSSTD----------------------------STPVEH
+TVWFDGTNKLNYIASYVPVK-----PDATVGTANATVNFSVTYE----------------
+---------------------------------------------------
+>P14212.1 RecName: Full=Major fimbrial subunit; AltName: Full=Major pilin; Flags: Precursor
+------------------------------------MKKTLLGSLILLAFA--GNVQ-AD
+INTETSGKVTFFGKV-VENTCKVKTE-H--------------------------------
+------------------------------------------------------------
+----------------------------K--NLSVVLNDVGK------------NSLSTK
+VNTAM-PTPFTITLQNCDPTTANGTA------NK--------------------------
+--------------ANKVGLYFYSWKNVDKEN-----NFTLKNEQT-------------T
+ADYATNVNIQ-LMESNGT--KAISVVGKETEDFMHTNNN--GVALNQTHPNNAHISGSTQ
+LTTGTNELPLHFIAQYYATN----K--ATAGKVQSSVDFQIAYE----------------
+---------------------------------------------------
+>P45989.1 RecName: Full=Major fimbrial subunit; AltName: Full=Major pilin; Flags: Precursor
+------------------------------------MKKTLLGSLILLAFA--GNVQ-AD
+INTETSGKVTFFGKV-VENTCKVKTE-H--------------------------------
+------------------------------------------------------------
+----------------------------K--NLSVVLNDVGK------------NSLSTK
+VNTAM-PTPFTITLQNCDPTTANGTA------NK--------------------------
+--------------ANKVGLYFYSWKNVDKEN-----NFTLKNEQT-------------T
+ADYATNVNIQ-LMESNGT--KAISVVGKETEDFMHTNNN--GVALNQTHPNNTHISGSTQ
+LTTGTNELPLHFIAQYYATN----K--ATAGKVQSSVDFQIAYE----------------
+---------------------------------------------------
+>P62532.1 RecName: Full=Fimbrial adapter PapK; Flags: Precursor >P62533.1 RecName: Full=Fimbrial adapter PapK; Flags: Precursor
+--------MIKSTGALLLFAA----LSAGQAI----------------------------
+-----ASDVAFRGNL-LDRPCHVS-GDS--------------------------------
+------------------------------------------------------------
+------------------------------LNKHVVFKTR------AS------RDFWYP
+PGRSP-TESFVIRLENCHATAV--------------------------------------
+--------------GKIVTLTFKG--TEEAAL-----PGHLKVT--G-------------
+-VNAGRLGIA-LLDTDGSS-LLKP---------------------GTSH------NKGQG
+EKVTGNSLELPFGAYVVATPEALRTKSVVPGDYEATATFE-------LTYR---------
+---------------------------------------------------
+>P08190.2 RecName: Full=Protein FimG; Flags: Precursor
+---------MKWCKRGYV--LAAILALA------------------------------SA
+TIQAADVTITVNGKV-VAKPCTVSTT----------------------------------
+------------------------------------------------------------
+-------------------------------NATVDLGDLYS------------FSLMSA
+GAASA-WHDVALELTNCPVGTS--------------------------------------
+----------------RVTASF---SGAADSTG------YY-----------------KN
+QGTAQNIQLE-LQDDSGNTLN--TGA----------------------TKTV--Q-----
+VDDSSQSAHFPLQVRALTVN-----GGATQGTIQAVISITYTYS----------------
+---------------------------------------------------
+>P77288.1 RecName: Full=Uncharacterized fimbrial-like protein YfcV; Flags: Precursor
+----------MSKFVKTA--IAAAMVMGAFT------------------ST-------AT
+IAAGNNGTARFYGTI-EDSVCSIVPDDH--------------------------------
+------------------------------------------------------------
+-------------------------------KLEVDMGDIGA------------EKLKNN
+GTTT--PKNFQIRLQDCVFDTQET------------------------------------
+-----------------MTTTF---TGTVSSAN----SGNYYTIFN-----------TDT
+GAAFNNVSLA-IGDSLGTS-YKSGMGIDQK----------------IVKD-T--A-----
+TNKGKAKQTLNFKAWLVGAAD-----APDLGNFEANTTFQITYL----------------
+---------------------------------------------------
+>P62607.1 RecName: Full=F7-2 fimbrial protein; AltName: Full=F7-2 pilin; Flags: Precursor >P62608.1 RecName: Full=F7-2 fimbrial protein; 
+---------MIKSVIAGA--VAMAVVSFGA-------------------YA-------AP
+TIPQGQGKVTFNGTV-VDAPCGIDAQSA--------------------------------
+------------------------------------------------------------
+-------------------------------DQSIDFGQVSK------------LFLEND
+GESQ--PKSFDIKLINCDITNFKKAAGGGG------------------------------
+------------AKTGTVSLTF---SGVPSGPQ----SDMLQTVGA-----------TNT
+-------AIV-VTDPHGKR-VKFDG----------------------ATATG--V-----
+SYLVDGDNTIHFTAAVRKDGS---GNPVTEGAFSAVANFNLTYQ----------------
+---------------------------------------------------
+>P42185.1 RecName: Full=PRS fimbrial minor pilin protein; Flags: Precursor
+---------MRLRFSVPLFFFGCVFVHGVFAGPFPP-------------PGMSLPEYWGE
+EHVWWDGRATFHGEV-VRPACTLAMEDA--------------------------------
+------------------------------------------------------------
+-------------------------------WQIIDMGETPV------------RDLQN-
+GFSGP-ERKFSLRLRNCEFNSQGGN----L------------------------------
+------------FSDSRIRVTF---DGVRGE-----TPDKFNLS----------------
+-GQAKGINLQ-IADARGNIARA-GK-------------------------------VMPA
+IPLTGNEEALDYTLRIVRNG-----KKLEAGNYFAVLGFRVDYE----------------
+---------------------------------------------------
+>P42191.1 RecName: Full=Protein PrsK; Flags: Precursor
+--------MIKSTGALLLFAA----LSAGQAM----------------------------
+-----ASDVAFRGNL-LDRPCHVS-GDS--------------------------------
+------------------------------------------------------------
+------------------------------LNKHVVFKTR------AS------RDFWYP
+PGRSP-TESFVIRLENCHATAV--------------------------------------
+--------------GKIVTLTFKG--TEE-AL-----PGHLKVT--G-------------
+-VNSGRLAIA-LLDTDGSS-LLKP---------------------GASH------NKGQG
+EKVTGNSLELPFGAYVVATPEALRTKSVVPGDYEATATFE-------LTYR---------
+---------------------------------------------------
+>A1WXV4.1 RecName: Full=NADH-quinone oxidoreductase subunit N; AltName: Full=NADH dehydrogenase I subunit N; AltName: Full=NDH-1 subunit 
+MSFETPDFSLALPEIWLLAATCGVLVVDLFSSDPRRSATFYLTQGALLVT-----AVLAL
+STQWGVNEVTFSGHY-MADSLGAVVKASVALLSVLALAYTRPYLGDRGLLQGEFYLLALF
+ANLGMLVIASGGSLLSLYLGLELLSLALYALVAYHRDSRQAAEAAMKYFVLGSLASGILL
+YGMSMVYGATASLELSVIAEVAGRHSDPLMLLFGVVFMLVGVAFKLGAAPFHAWVPDVYQ
+GAPTP-VTLFLSTAPKVAAVALFMRLLVDGLGPMHEQLEPMLMILAVASLLVGNLIAIVQ
+TNFKRMLAYSAIAHAGFIMVGFTA--GTDAGH-----AAALFYTIAY------------S
+IMAAGAFGMITVLARSGFE-AEEIADLRGL---------------NERHPVYAGVLLLVL
+VSMTGIPGTVGFYAKYLVL-----QAAVEAGHIPLAIFAVVAAVVGAFYYLRVLKVVYFD
+RPEAEVDADTLPAPGASSAIRSLVVVNGVAVLVLGIFPERLIALCQAALGL
+>P45988.1 RecName: Full=Major fimbrial subunit; AltName: Full=Major pilin; Flags: Precursor
+------------------------------------MKKTLLGSLILLAFA--TNAADPQ
+VSTETSGKVTFFGKV-VENTCKVKTD-S--------------------------------
+------------------------------------------------------------
+----------------------------K--NMSVVLNDVGK------------NHLKTK
+KDTAM-PTPFTINLENCSTTTTTNNK------PV--------------------------
+--------------ATKVGAYFYSWKNADENN-----EYTLKNTKS-------------G
+NDAAQNVNIQ-LFDANGT--DAIEVVGNGTTDFTHSNTNDVA---TQQTVNKNHISGKAT
+IN-GENNVKLHYIARYYATA----Q--AEAGKVESSVDFQIAYE----------------
+---------------------------------------------------
+>P42184.1 RecName: Full=PRS fimbrial major pilin protein; Short=PRS pili
+--------------------------------------------------G-------AN
+AAPQGQGKVTFNGTV-VDAPCGIDAQSA--------------------------------
+------------------------------------------------------------
+-------------------------------DQSIEFGQVSK------------VLLNNG
+GSST--PKNFDIKLTDCDVTNYKKAG----------------------------------
+-------------KAGTVSLTF---SGVQAG------TDMLQTVGT-----------TGT
+-------AIL-VKDPHGKA-VKFDG----------------------ATATG--V-----
+SSLVDGDNTIHFTALVKKDTS---GNDVAEGAFSAVANFNLIYQ----------------
+---------------------------------------------------
+>Q03846.1 RecName: Full=Major fimbrial subunit; AltName: Full=Major pilin; Flags: Precursor
+------------------------------------MKKTLLGSLILLAFA--GNVQ-AA
+ANADTKGTVTFFGKV-VENTCQVKTD-H--------------------------------
+------------------------------------------------------------
+----------------------------K--NRSVVLNDVGK------------NSLKDK
+GNTAM-PTPFTITLQNCNLTAANSST------NK--------------------------
+--------------ANKVGLYFYSWENADKEN-----NFTLKNKTST------------S
+NDFATMVNIQ-LMESDGT--KEIKVVGKETEDFVHKNATGAGVALTQTHPDNDHISGSTQ
+LTGVTGDLPLHFIAQYYSLG----S--TTAGKVQSSVDFQIAYE----------------
+---------------------------------------------------
+>P29907.1 RecName: Full=Uncharacterized 9.3 kDa protein in nqo2 3'region; AltName: Full=URF1
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------MARPAGHAAS--------------------------------------
+------------------QAGGTA--AADARQ-----MRLVAAV--I------------A
+VTMALWLGVQ-WLGGQQDW-PAKYAFLADL---------------AAIG------ALIWS
+-------LLVTFRIWRRRK-----ASSQGQG-----------------------------
+---------------------------------------------------

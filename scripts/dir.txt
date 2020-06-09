@@ -1,0 +1,21 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F450-D4C4
+
+ Directory of C:\Users\a_jobby\Google Drive (akhiljobby.thesis@gmail.com)\ThesisDrive\beta Experimentals\forGitHub\scripts
+
+08/26/2019  11:14 PM    <DIR>          .
+08/26/2019  11:14 PM    <DIR>          ..
+06/02/2019  11:59 AM             1,271 AlignmentToProfile.ipynb
+07/13/2019  01:25 PM             1,310 combineFastaFiles.ipynb
+08/26/2019  11:14 PM                 0 dir.txt
+07/16/2019  09:54 PM             2,209 extractFastaSeqfromBlastDB.ipynb
+06/18/2019  11:30 PM             1,568 loopBlast.ipynb
+07/13/2019  01:25 PM             5,686 loopTMBCoffee.ipynb
+06/18/2019  11:30 PM            12,664 makeProfile.ipynb
+07/16/2019  09:54 PM             1,529 removeCSVCol.ipynb
+07/16/2019  09:54 PM            24,993 removeIdsLessThresh.ipynb
+07/16/2019  09:54 PM             2,796 splitBlastOut.ipynb
+07/13/2019  01:26 PM             2,159 splitFasta.py.ipynb
+07/16/2019  09:54 PM             1,942 topBlastResult.ipynb
+              12 File(s)         58,127 bytes
+               2 Dir(s)  138,753,515,520 bytes free

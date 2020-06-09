@@ -1,0 +1,147 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE:  ], CPU=0.12 sec, SCORE=87, Nseq=11, Len=513 
+
+P0C2W0                   ------------------------------MTKDFKISVSAAL-ISALFS
+UniRef100_UPI000C848F00  --------------------------------------------------
+UniRef100_UPI000C85B5C9  --------------------------------------------------
+UniRef100_UPI000C847594  --------------------------------------------------
+UniRef100_A0A2J6UAM1     ------------------------------MKLK-TIVLSISLLSCSAFA
+UniRef100_UPI000C8436B2  --------------------------------------------------
+UniRef100_UPI0002D5BFE6  --------------------------------------------------
+UniRef100_UPI000C84A019  MIIVLSLPRTLFAEIAHFLWDFVITFRGNLVKLK-TIVLSISLLSCSAFA
+UniRef100_UPI000C85E406  ------------------------------MKLK-TIVLSISLLSCSAFA
+UniRef100_A0A2N7GX50     ------------------------------MKLK-TIVLSISLLSCSAFA
+UniRef100_A0A2X1W8S3     ------------------------------MKKT-TIALSLSMLMSSMAI
+                                                                           
+
+P0C2W0                   SPYAFANNDE-VH-FTAVQIS--------PNSDPDSHVMIFQPEVRAPGG
+UniRef100_UPI000C848F00  --------------------------------------------------
+UniRef100_UPI000C85B5C9  --------------------------------------------------
+UniRef100_UPI000C847594  --------------------------------------------------
+UniRef100_A0A2J6UAM1     SNTTFDDNWK-ANTTTALDII--------ANSNNEAIKQYTKDQFWARDG
+UniRef100_UPI000C8436B2  --------------------------------------------------
+UniRef100_UPI0002D5BFE6  --------------------------------------------------
+UniRef100_UPI000C84A019  SNTTFDDNWK-ANTTTALDII--------ANSNNEAIKQYTKDQFWARDG
+UniRef100_UPI000C85E406  SNTTFDDNWK-ANTTTALDII--------ANSNNEAIKQYTKDQFWARDG
+UniRef100_A0A2N7GX50     SNTTFDDNWK-ANTTTALDII--------ANSNNEAIKQYTKDQFWARDG
+UniRef100_A0A2X1W8S3     AATPSNPIEQPKP-SHPIENVRPTQPIEAAPSNPIEPPKPTHPIENVRPT
+                                                                           
+
+P0C2W0                   TNALAKGTHSIAVGASAEAAERAAVAVGAGSIATGVNSVAIGPLSKALGD
+UniRef100_UPI000C848F00  -------------------------------------------------M
+UniRef100_UPI000C85B5C9  -------------------------------------------------M
+UniRef100_UPI000C847594  -------------------------------------------------M
+UniRef100_A0A2J6UAM1     QERA-------------------DSARNALQSA---------SREELIVM
+UniRef100_UPI000C8436B2  -------------------------------------------------M
+UniRef100_UPI0002D5BFE6  -------------------------------------------------M
+UniRef100_UPI000C84A019  QERA-------------------DSARNALQSA---------SREELIVM
+UniRef100_UPI000C85E406  QERA-------------------DSARNALQSA---------SREELIVM
+UniRef100_A0A2N7GX50     QERA-------------------DSARNALQSA---------SREELIVM
+UniRef100_A0A2X1W8S3     QPI-----------------------------------------------
+                                                                           
+
+P0C2W0                   SAVTYGAGSTAQKDGVAIGARASTSDTGVAVGFNSKVDAKNSVSIGHSSH
+UniRef100_UPI000C848F00  SKITLNEGSSTEKSMLE---------------------------------
+UniRef100_UPI000C85B5C9  SKITLNEGSSTEKSMLE---------------------------------
+UniRef100_UPI000C847594  SKITLNEGSSTEKSMLE---------------------------------
+UniRef100_A0A2J6UAM1     SKITLNEGSSTEKSMLE---------------------------------
+UniRef100_UPI000C8436B2  SKITLNEGSSTEKSMLE---------------------------------
+UniRef100_UPI0002D5BFE6  SKITLNEGSSTEKSMLE---------------------------------
+UniRef100_UPI000C84A019  SKITLNEGSSTEKSMLE---------------------------------
+UniRef100_UPI000C85E406  SKITLNEGSSTEKSMLE---------------------------------
+UniRef100_A0A2N7GX50     SKITLNEGSSTEKSMLE---------------------------------
+UniRef100_A0A2X1W8S3     --------------------------------------------------
+                                                                           
+
+P0C2W0                   VAVDHDYSIAIGDRSKTDRKNSVSIGHESLNRQLTHLAAGTKDTDAVNVA
+UniRef100_UPI000C848F00  ----------------------------SMVTDVIH--------------
+UniRef100_UPI000C85B5C9  ----------------------------SMVTDVIH--------------
+UniRef100_UPI000C847594  ----------------------------SMVTDVIH--------------
+UniRef100_A0A2J6UAM1     ----------------------------SMVTDVIH--------------
+UniRef100_UPI000C8436B2  ----------------------------SMITDVVH--------------
+UniRef100_UPI0002D5BFE6  ----------------------------SMVTDVVH--------------
+UniRef100_UPI000C84A019  ----------------------------SMVTDVIH--------------
+UniRef100_UPI000C85E406  ----------------------------SMVTDVIH--------------
+UniRef100_A0A2N7GX50     ----------------------------SMVTDVVH--------------
+UniRef100_A0A2X1W8S3     --------------------------------------------------
+                                                                           
+
+P0C2W0                   QLKKEIEKTQENANKKSAEVLGIANNYTDSKSAETLENARKEAFDLSNDA
+UniRef100_UPI000C848F00  -FDETISQSEKNALID-----EVGKKF------EGNE----------HLT
+UniRef100_UPI000C85B5C9  -FDETISQSEKNALID-----EVGKKF------EGNE----------HLT
+UniRef100_UPI000C847594  -FDETISQSEKNALID-----EVGKKF------EGNE----------HLT
+UniRef100_A0A2J6UAM1     -FDETISQSEKNALID-----EVGKKF------EGNE----------HLT
+UniRef100_UPI000C8436B2  -FDETISQSEKNVLID-----EIGKKF------EGNE----------HLT
+UniRef100_UPI0002D5BFE6  -FDETISQSEKNALID-----EIGKKF------EGNE----------HLT
+UniRef100_UPI000C84A019  -FDETISQSEKNALID-----EVGKKF------EGNE----------HLT
+UniRef100_UPI000C85E406  -FDETISQSEKNALID-----EVGKKF------EGNE----------HLT
+UniRef100_A0A2N7GX50     -FDETISQSEKNALID-----EIGKKF------EGNE----------HLT
+UniRef100_A0A2X1W8S3     ------EAAPS-------------------NPIEPPK----------PTH
+                               . : .                      *  :             
+
+P0C2W0                   LDMAKKHSNSVARTT---------LETAEEHTNKKSAETLASANVYADSK
+UniRef100_UPI000C848F00  LDEREQVNDAIETAI---------VESAIE--------------------
+UniRef100_UPI000C85B5C9  LDEREQVNDAIETAI---------VESAIE--------------------
+UniRef100_UPI000C847594  LDERKQVNDAIETAI---------VESAIE--------------------
+UniRef100_A0A2J6UAM1     LDERKQVNDAIETAI---------VESAIE--------------------
+UniRef100_UPI000C8436B2  LDEREQVNDAIETAI---------VESAIE--------------------
+UniRef100_UPI0002D5BFE6  LDEREQVNDAIETAI---------VESAIE--------------------
+UniRef100_UPI000C84A019  LDEREQVNDAIETAI---------VESAIE--------------------
+UniRef100_UPI000C85E406  LDERKQVNDAIETAIVESAIETAIVESAIE--------------------
+UniRef100_A0A2N7GX50     LDEREQVNDAIETAI---------VESAIE--------------------
+UniRef100_A0A2X1W8S3     PIENEKPSQPIEAA----------PENPIENT------------------
+                             :: .:.:  :           *.. *                    
+
+P0C2W0                   SSHTLKTANSYTDVTVSNSTKKAIRES---N-QYT---------------
+UniRef100_UPI000C848F00  ------------------------------N-NAI---------------
+UniRef100_UPI000C85B5C9  ------------------------------N-NAI---------------
+UniRef100_UPI000C847594  ------------------------------N-NAI---------------
+UniRef100_A0A2J6UAM1     ------------------------------N-NAI---------------
+UniRef100_UPI000C8436B2  ------------------------------N-NAI---------------
+UniRef100_UPI0002D5BFE6  ------------------------------N-NAI---------------
+UniRef100_UPI000C84A019  ------------------------------N-NAI---------------
+UniRef100_UPI000C85E406  ------------------------------N-NAI---------------
+UniRef100_A0A2N7GX50     ------------------------------N-NAI---------------
+UniRef100_A0A2X1W8S3     --------------KPSKPIEAA-PENPIEVPATPEQPIVADPDFGVTPK
+                                                                           
+
+P0C2W0                   -------------DHKFH-QLDNRLDKLDTRVDKGLASSAALNSLFQPYG
+UniRef100_UPI000C848F00  -------------DEAFKQEMRQEVDRLDDRIDGTQASLHAVTN-ARPML
+UniRef100_UPI000C85B5C9  -------------DEAFKQEMRQEVDRLDDRIDGTQASLHAVTN-ARPML
+UniRef100_UPI000C847594  -------------DEAFKQEMRQEVDRLDDRIDGTQASLHAVTN-ARPML
+UniRef100_A0A2J6UAM1     -------------DEAFKQEMRQEVDRLDDRIDGTQASLHAVTN-ARPML
+UniRef100_UPI000C8436B2  -------------DEAFKQEMRQEVDRLDDRIDGTQASLHAVTN-ARPML
+UniRef100_UPI0002D5BFE6  -------------DEAFKKEMQQEVDRLDDRIDGTQASLHAVTN-ARPML
+UniRef100_UPI000C84A019  -------------DEAFKQEMRQEVDRLDDRIDGTQASLHAVTN-ARPML
+UniRef100_UPI000C85E406  -------------DEAFKQEMRQEVDRLDDRIDGTQASLHAVTN-ARPML
+UniRef100_A0A2N7GX50     -------------DEAFKKEMKQEVDRLDDRIDGTQASLHAVTN-ARPML
+UniRef100_A0A2X1W8S3     SNDTVRIDNLEKSFQSFAEETQRKFSELDEQMDGVRAGLHAVTN-ARPYV
+                                       . *  :  .....** ::*   *.  *:..  :*  
+
+P0C2W0                   VGKVNFTAG--VGGYRSSQALAIGSGYRVNESVALKAGVA-YA-G-SSDV
+UniRef100_UPI000C848F00  VEQGDFAMGVGVGFSGNAQAVAAGVGYSINKNWSASATVNTTT-G-IQDN
+UniRef100_UPI000C85B5C9  AEQGDFAMGVGVGFSGNAQAVAAGVGYSINKNWSASATVNTTT-G-IEDN
+UniRef100_UPI000C847594  AEQGDFAMGVGVGFSGNAQAVAAGVGYSINKNWSASATVNTTT-G-IQDN
+UniRef100_A0A2J6UAM1     AEQGDFAMGVGVGFSGNAQAVAAGVGYSINKNWSASATVNTTT-G-IEDN
+UniRef100_UPI000C8436B2  AEQGDFALGVGVGFSGNAQAVAAGVGYSINKNWSASATVNTTT-G-IQDN
+UniRef100_UPI0002D5BFE6  AEQGDFAMGVGVGFSGNAQAVAAGVGYSINKNWSASATVNTTT-G-IEDN
+UniRef100_UPI000C84A019  AEQGDFAMGVGVGFSGNAQAVAAGVGYSINKNWSASATVNTTT-G-IQDN
+UniRef100_UPI000C85E406  AEQGDFAMGVGVGFSGNAQAVAAGVGYSINKNWSASATVNTTT-G-IQDN
+UniRef100_A0A2N7GX50     AEQGDFAMGVGLGFSGNAQAVAAGVGYSINKNWSASATVNTTT-G-IEDN
+UniRef100_A0A2X1W8S3     A-NGQFAVGAGVGFAGSKEALALGGAYGINENLSVSGTFHYETSGKYSSS
+                         . : :*: *  :*   . :*:* * .* :*:. : .. .   : *  .. 
+
+P0C2W0                   MYNASFNIEW---
+UniRef100_UPI000C848F00  DFSAGAGIQYTFK
+UniRef100_UPI000C85B5C9  DFSAGAGIQYTFK
+UniRef100_UPI000C847594  DFSAGAGIQYTFK
+UniRef100_A0A2J6UAM1     DFSAGAGIQYTFK
+UniRef100_UPI000C8436B2  DFSAGAGIQYTFK
+UniRef100_UPI0002D5BFE6  DFSAGAGIQYTFK
+UniRef100_UPI000C84A019  DFSAGAGIQYTFK
+UniRef100_UPI000C85E406  DFSAGAGIQYTFK
+UniRef100_A0A2N7GX50     DFSAGAGIQYTFK
+UniRef100_A0A2X1W8S3     EVAGGVGLQYSFN
+                            .. .:::   
+
+
+

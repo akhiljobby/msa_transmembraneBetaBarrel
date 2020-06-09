@@ -1,0 +1,264 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE: psicoffee ], CPU=0.41 sec, SCORE=82, Nseq=11, Len=976 
+
+P04419          MSG--GDGR-G-HNTG----AHS---------------T---SGNINGGP
+P04419.2        MSG--GDGR-G-HNTG----AHS---------------T---SGNINGGP
+P09883.4        MSG--GDGR-G-HNTG----AHS---------------T---SGNINGGP
+Q47112.2        MSG--GDGR-G-HNSG----AHN---------------T---GGNINGGP
+P17999.1        MSG--GDGR-G-HNTG----AHS---------------T---SGNINGGP
+P00646.1        MSG--GDGR-G-HNTG----AHS---------------T---SGNINGGP
+P09882.1        --------------------------------------------------
+P00645.2        MSG--GDGR-GPGNSGLGHNGGQ---------------A---SGNVNGTS
+Q06583.2        MARPIADLI-H-FNST----TVT---------------A---SGDVYYGP
+Q06583.2_1      MARPIADLI-H-FNST----TVT---------------A---SGDVYYGP
+Q06584.3        MAV--NDYEPG-SMVI----THVQGGGRDIIQYIPARSSYGTPPFVPPGP
+                                                                  
+
+P04419          TG---LGVG-GG----ASDGSGWSS-------------------------
+P04419.2        TG---LGVG-GG----ASDGSGWSS-------------------------
+P09883.4        TG---IGVS-GG----ASDGSGWSS-------------------------
+Q47112.2        TG---LGGN-GG----ASDGSGWSS-------------------------
+P17999.1        TG---LGVG-GG----ASDGSGWSS-------------------------
+P00646.1        TG---LGVG-GG----ASDGSGWSS-------------------------
+P09882.1        --------------------------------------------------
+P00645.2        GK---GGPS-SGGGTDPNSGPGWGT-------------------------
+Q06583.2        GGGTGIGPI-AR----PIEHGLDSS-------------------------
+Q06583.2_1      GGGTGIGPI-AR----PIEHGLDSS-------------------------
+Q06584.3        SPYVGTGMQEYR----KLRSTLDKSHSELKKNLKNETLKEVDELKSEAGL
+                                                                  
+
+P04419          -------------------------------ENNPWGGGS---GSGI---
+P04419.2        -------------------------------ENNPWGGGS---GSGI---
+P09883.4        -------------------------------ENNPWGGGS---GSGI---
+Q47112.2        -------------------------------ENNPWGGGS---GSGV---
+P17999.1        -------------------------------ENNPWGGGS---GSGI---
+P00646.1        -------------------------------ENNPWGGGS---GSGI---
+P09882.1        --------------------------------------------------
+P00645.2        -------------------------------THTPNGDIHNYNPGEF---
+Q06583.2        --------------------------------------------------
+Q06583.2_1      --------------------------------------------------
+Q06584.3        PGKAVSANDIRDEKSIVDALMDAKAKSLKAIEDRPANLYT---ASDFPQK
+                                                                  
+
+P04419          --------------HWG-------------------------------G-
+P04419.2        --------------HWG-------------------------------G-
+P09883.4        --------------HWG-------------------------------G-
+Q47112.2        --------------HWG-------------------------------G-
+P17999.1        --------------HWG-------------------------------G-
+P00646.1        --------------HWG-------------------------------G-
+P09882.1        --------------------------------------------------
+P00645.2        --------------GNG-------------------------------G-
+Q06583.2        ------------------------------------------TENGWQEF
+Q06583.2_1      ------------------------------------------TENGWQEF
+Q06584.3        SESMYQSQLLASRKFYGEFLDRHMSELAKAYSADIYKAQIAILKQTSQEL
+                                                                  
+
+P04419          --------------------------------------------------
+P04419.2        --------------------------------------------------
+P09883.4        --------------------------------------------------
+Q47112.2        --------------------------------------------------
+P17999.1        --------------------------------------------------
+P00646.1        --------------------------------------------------
+P09882.1        --------------------------------------------------
+P00645.2        --------------------------------------------------
+Q06583.2        ESYADVGVDPRRYVPLQVKEKRREIELQFRDAEKKLEASVQAELDKADAA
+Q06583.2_1      ESYADVGVDPRRYVPLQVKEKRREIELQFRDAEKKLEASVQAELDKADAA
+Q06584.3        ENKA-------RSLEAEAQRAAAEVEADYKARKANVEKKVQSELDQAGNA
+                                                                  
+
+P04419          --------------------------------------------------
+P04419.2        --------------------------------------------------
+P09883.4        --------------------------------------------------
+Q47112.2        --------------------------------------------------
+P17999.1        --------------------------------------------------
+P00646.1        --------------------------------------------------
+P09882.1        --------------------------------------------------
+P00645.2        --------------------------------------------------
+Q06583.2        LGPAKNLAPLDVINRSLTIVGNALQQKNQKLLLNQKKITSLGAKNFLTRT
+Q06583.2_1      LGPAKNLAPLDVINRSLTIVGNALQQKNQKLLLNQKKITSLGAKNFLTRT
+Q06584.3        LPQLTNPTPEQWLERATQLVTQAIA--------NKKKLQT--ANNALIAK
+                                                                  
+
+P04419          -----G--------------------------------------------
+P04419.2        -----G--------------------------------------------
+P09883.4        -----G--------------------------------------------
+Q47112.2        -----G--------------------------------------------
+P17999.1        -----G--------------------------------------------
+P00646.1        -----G--------------------------------------------
+P09882.1        --------------------------------------------------
+P00645.2        -----S--------------------------------------------
+Q06583.2        AEEIGEQAVREGNINGPEAYMRFLDREMEGLTAAYNVKLFTEAISSLQIR
+Q06583.2_1      AEEIGEQAVREGNINGPEAYMRFLDREMEGLTAAYNVKLFTEAISSLQIR
+Q06584.3        A-----------------------PNALEKQKATYNADLLVDEIASLQAR
+                                                                  
+
+P04419          ----------------SGHGNGGGNGNSGGGSGTGGNLSAVAAPVAFGFP
+P04419.2        ----------------SGHGNGGGNGNSGGGSGTGGNLSAVAAPVAFGFP
+P09883.4        ----------------SGRGNGGGNGNSGGGSGTGGNLSAVAAPVAFGFP
+Q47112.2        ----------------SGHGNGGGNSNSGGG-----SNSSVAAPMAFGFP
+P17999.1        ----------------SGHGNGGGNGNSGGGSGTGGNLSAVAAPVAFGFP
+P00646.1        ----------------SGHGNGGGNGNSGGGSGTGGNLSAVAAPVAFGFP
+P09882.1        --------------------------------------------------
+P00645.2        ----------------KPGGNGGNSGNHSGSSG-GGQSSAT--AMAFGLP
+Q06583.2        MNTLTAAKASIEAAAANKAREQAAAEAKRKAEEQARQQAAIRAANTYAMP
+Q06583.2_1      MNTLTAAKASIEAAAANKAREQAAAEAKRKAEEQARQQAAIRAANTYAMP
+Q06584.3        LDKLNAETAR---------------------RKEIARQAAIRAANTYAMP
+                                                                  
+
+P04419          AL-----STPGAGGLAVSISAGALSAAIADIMAALKG-PFKFGLWGVALY
+P04419.2        AL-----STPGAGGLAVSISAGALSAAIADIMAALKG-PFKFGLWGVALY
+P09883.4        AL-----STPGAGGLAVSISASELSAAIAGIIAKLKKVNLKFTPFGVVLS
+Q47112.2        AL-----AAPGAGTLGISVSGEALSAAIADIFAALKG-PFKFSAWGIALY
+P17999.1        AL-----STPGAGGLAVSISAGALSAAIADIMAALKG-PFKFGLWGVALY
+P00646.1        AL-----STPGAGGLAVSISAGALSAAIADIMAALKG-PFKFGLWGVALY
+P09882.1        --------------------------------------------------
+P00645.2        AL-----ATPGAEGPALSFSGDALSSAVADVLAALKG-PFKFGLWGIAIY
+Q06583.2        ANGSVVATAAGRGLIQVAQGAASLAQAISDAIAVLGR-V-----------
+Q06583.2_1      ANGSVVATAAGRGLIQVAQGAASLAQAISDAIAVLGR-V-----------
+Q06584.3        ANGSVVATAAGRGLIQVAQGAASLAQAISDAIAVLGR-V-----------
+                                                                  
+
+P04419          GVLPSQIAKDDPNMMSKIVTSLPADDI-----------------------
+P04419.2        GVLPSQIAKDDPNMMSKIVTSLPADDI-----------------------
+P09883.4        SLIPSEIAKDDPNMMSKIVTSLPADDI-----------------------
+Q47112.2        GILPSEIAKDDPNMMSKIVTSLPAETV-----------------------
+P17999.1        GVLPSQIAKDDPNMMSKIVTSLPADDI-----------------------
+P00646.1        GVLPSQIAKDDPNMMSKIVTSLPADDI-----------------------
+P09882.1        --------------------------------------------------
+P00645.2        GVLPSEIAKDDPKMMSKIMTSLPADTV-----------------------
+Q06583.2        -------LASAPSVMAVGFASLTYSSRTAEQWQDQTPDSVRYALGMDAAK
+Q06583.2_1      -------LASAPSVMAVGFASLTYSSRTAEQWQDQTPDSVRYALGMDAAK
+Q06584.3        -------LASAPSVMAVGFASLTYSSRTAEQWQDQTPDSVRYALGMDAAK
+                                                                  
+
+P04419          -TESP---VSSLPLDKATVNVNVRVVDDVKDERQNISVVSG----VPMSV
+P04419.2        -TESP---VSSLPLDKATVNVNVRVVDDVKDERQNISVVSG----VPMSV
+P09883.4        -TESP---VSSLPLDKATVNVNVRVVDDVKDERQNISVVSG----VPMSV
+Q47112.2        -TNVQ---VSTLPLDQATVSVTKRVTDVVKDTRQHIAVVAG----VPMSV
+P17999.1        -TESP---VSSLPLDKATVNVNVRVVDDVKDERQNISVVSG----VPMSV
+P00646.1        -TESP---VSSLPLDKATVNVNVRVVDDVKDERQNISVVSG----VPMSV
+P09882.1        --------------------------------------------------
+P00645.2        -TETP---ASTLPLDQATVRVRQRVVDVVKDERQHIAVVAG----RPMSV
+Q06583.2        LGLPPSVNLNAVAKASGTVDLPMRLTNEARGNTTTLSVVSTDGVSVPKAV
+Q06583.2_1      LGLPPSVNLNAVAKASGTVDLPMRLTNEARGNTTTLSVVSTDGVSVPKAV
+Q06584.3        LGLPPSVNLNAVAKASGTVDLPMRLTNEARGNTTTLSVVSTDGVSVPKAV
+                                                                  
+
+P04419          PVVDAKPTERPGVFTASIPGAPV----LNISVNNSTPEVQTLSPGVTN--
+P04419.2        PVVDAKPTERPGVFTASIPGAPV----LNISVNNSTPEVQTLSPGVTN--
+P09883.4        PVVDAKPTERPGVFTASIPGAPV----LNISVNDSTPAVQTLSPGVTN--
+Q47112.2        PVVNAKPTRTPGVFHASFPGVPS----LTVSTVKGLPVSTTLPRGITE--
+P17999.1        PVVDAKPTERPGVFTASIPGAPV----LNISVNNSTPAVQTLSPGVTN--
+P00646.1        PVVDAKPTERPGVFTASIPGAPV----LNISVNNSTPAVQTLSPGVTN--
+P09882.1        --------------------------------------------------
+P00645.2        PVVDAKPTKRPGVFSVSIPGLPA----LQVSVPKGVPAAKAPPKGIVA--
+Q06583.2        PVRMAAYNATTGLYEVTVPSTTAEAPPLILTWTPASPPGNQNPSSTTPVV
+Q06583.2_1      PVRMAAYNATTGLYEVTVPSTTAEAPPLILTWTPASPPGNQNPSSTTPVV
+Q06584.3        PVRMAAYNATTGLYEVTVPSTTAEAPPLILTWTPASPPGNQNPSSTTPVV
+                                                                  
+
+P04419          ------------NTD---KDVRPAGFTQGGNTRDAVIRFPKDSGHNAVYV
+P04419.2        ------------NTD---KDVRPAGFTQGGNTRDAVIRFPKDSGHNAVYV
+P09883.4        ------------NTD---KDVRPAGFTQGGNTRDAVIRFPKDSGHNAVYV
+Q47112.2        ------------DKG---RTAVPAGFTFGGGSHEAVIRFPKESGQKPVYV
+P17999.1        ------------NTD---KDVRPAGFTQGGNTRDAVIRFPKDSGHNAVYV
+P00646.1        ------------NTD---KDVRPAGFTQGGNTRDAVIRFPKDSGHNAVYV
+P09882.1        --------------------------------------------------
+P00645.2        ------------EKG----DSRPAGFTAGGNSREAVIRFPKETGQKPVYV
+Q06583.2        PKPVPVYEGATLTPVKATPETYPGVIT---LPEDLIIGFPADSGIKPIYV
+Q06583.2_1      PKPVPVYEGATLTPVKATPETYPGVIT---LPEDLIIGFPADSGIKPIYV
+Q06584.3        PKPVPVYEGATLTPVKATPETYPGVIT---LPEDLIIGFPADSGIKPIYV
+                                                                  
+
+P04419          SVSDVLSPDQVKQRQDEENRRQQEWDATHPVEAAERNYERARAELNQANE
+P04419.2        SVSDVLSPDQVKQRQDEENRRQQEWDATHPVEAAERNYERARAELNQANE
+P09883.4        SVSDVLSPDQVKQRQDEENRRQQEWDATHPVEAAERNYERARAELNQANE
+Q47112.2        SVTDVLTPAQVKQRQDEEKRLQQEWNDAHPVEVAERNYEQARAELNQANK
+P17999.1        SVSDVLSPDQVKQRQDEENRRQQEWDATHPVEAAERNYERARAELNQANE
+P00646.1        SVSDVLSPDQVKQRQDEENRRQQEWDATHPVEAAERNYERARAELNQANE
+P09882.1        --------------------------------------------------
+P00645.2        SVTDVLTPAQVKQRQEEEKRRQQAWDAAHPEEGLKREYDKAKAELDAEDK
+Q06583.2        MFRDP---------------------------------------------
+Q06583.2_1      MFRDP---------------------------------------------
+Q06584.3        MFRDP---------------------------------------------
+                                                                  
+
+P04419          DVARNQERQAKAVQVYNSRKSELDAANKTLADAIAEIKQFNRF--AHDPM
+P04419.2        DVARNQERQAKAVQVYNSRKSELDAANKTLADAIAEIKQFNRF--AHDPM
+P09883.4        DVARNQERQAKAVQVYNSRKSELDAANKTLADAIAEIKQFNRF--AHDPM
+Q47112.2        DVARNQERQAKAVQVYNSRKSELDAANKTLADAKAEIKQFERF--AREPM
+P17999.1        DVARNQERQAKAVQVYNSRKSELDAANKTLADAIAEIKQFNRF--AHDPM
+P00646.1        DVARNQERQAKAVQVYNSRKSELDAANKTLADAIAEIKQFNRF--AHDPM
+P09882.1        -----------------------------------------RF--AHDPM
+P00645.2        NITTLNGRITSTEKAIPGARAAVQEADKKVKEAEANKDDFVTYNPPHEYG
+Q06583.2        --------------------------------------------------
+Q06583.2_1      --------------------------------------------------
+Q06584.3        --------------------------------------------------
+                                                                  
+
+P04419          AGGHRMWQMAGLKAQRAQTDVNNKQA---AFDAAAKEKS----DADAALS
+P04419.2        AGGHRMWQMAGLKAQRAQTDVNNKQA---AFDAAAKEKS----DADAALS
+P09883.4        AGGHRMWQMAGLKAQRAQTDVNNKQA---AFDAAAKEKS----DADAALS
+Q47112.2        AAGHRMWQMAGLKAQRAQTDVNNKKA---AFDAAAKEKS----DADVALS
+P17999.1        AGGHRMWQMAGLKAQRAQTDVNNKQA---AFDAAAKEKS----DADAALS
+P00646.1        AGGHRMWQMAGLKAQRAQTDVNNKQA---AFDAAAKEKS----DADAALS
+P09882.1        AGGHRMWQMAGLKAQRAQTDVNNKQA---AFDAAAKEKS----DADAALS
+P00645.2        SGWQD-------QVRYLDKDIQNQNAKLKAAQASLNAMNDALSRDKAALS
+Q06583.2        --------------------------------------------------
+Q06583.2_1      --------------------------------------------------
+Q06584.3        --------------------------------------------------
+                                                                  
+
+P04419          AAQERRKQKENKEKDAKDKLDKESKRNKPGKATGKGKPVGDKWLDDAGKD
+P04419.2        AAQERRKQKENKEKDAKDKLDKESKRNKPGKATGKGKPVGDKWLDDAGKD
+P09883.4        AAQERRKQKENKEKDAKDKLDKESKRNKPGKATGKGKPVGDKWLDDAGKD
+Q47112.2        SALERRKQKENKEKDAKAKLDKESKRNKPGKATGKGKPVNNKWLNNAGKD
+P17999.1        SAMESRKKKEDKKRSAENKLNEEKNKPRKG--------------------
+P00646.1        SAMESRKKKEDKKRSAENNLNDEKNKPRKG--------------------
+P09882.1        AAQERRKQKENKEKDAKDKLDKESKRNKPGKATGKGKPVGDKWLDDAGKD
+P00645.2        GAMESRKQKEKKAKEAENKLNEEKKKPRKGT-------------------
+Q06583.2        -------------------------RDVPGAATGKGQPVSGNWLGAASQG
+Q06583.2_1      -------------------------RDVPGAATGKGQPVSGNWLGAASQG
+Q06584.3        -------------------------RDVPGAATGKGQPVSGNWLGAASQG
+                                         :   *                    
+
+P04419          SGAPIPDRIADKLRDKEFKNFDDFRKKFWEEVSKDPDLSKQFKGSNKTNI
+P04419.2        SGAPIPDRIADKLRDKEFKNFDDFRKKFWEEVSKDPDLSKQFKGSNKTNI
+P09883.4        SGAPIPDRIADKLRDKEFKSFDDFRKAVWEEVSKDPELSKNLNPSNKSSV
+Q47112.2        LGSPVPDRIANKLRDKEFKSFDDFRKKFWEEVSKDPELSKQFSRNNNDRM
+P17999.1        --------------------VKDYGHDYHPD----PKT---EDIKGLGEL
+P00646.1        --------------------FKDYGHDYHPA----PKT---ENIKGLGDL
+P09882.1        SGAPIPDRIADKLRDKEFKNFDDFRRKFWEEVSKDPELSKQFNPGNKKRL
+P00645.2        ---------------------KDYGHDYFPD----PKT---EDIKGLGEL
+Q06583.2        EGAPIPSQIADKLRGKTFKNWRDFREQFWIAVANDPELSKQFNPGSLAVM
+Q06583.2_1      EGAPIPSQIADKLRGKTFKNWRDFREQFWIAVANDPELSKQFNPGSLAVM
+Q06584.3        EGAPIPSQIADKLRGKTFKNWRDFREQFWIAVANDPELSKQFNPGSLAVM
+                                      *: .         *.     .  .   :
+
+P04419          QKGKAPFARKKDQVGGRERFELHHDK---------------PISQD--GG
+P04419.2        QKGKAPFARKKDQVGGRERFELHHDK---------------PISQD--GG
+P09883.4        SKGYSPFTPKNQQVGGRKVYELHHDK---------------PISQG--GE
+Q47112.2        KVGKAPKTRTQDVSGKRTSFELHHEK---------------PISQN--GG
+P17999.1        KEG-KPKTPKQGGGGKRARWYGDKGRKIYEWDSQHGELEGYRASDGQHLG
+P00646.1        KPG-IPKTPKQNGGGKRKRWTGDKGRKIYEWDSQHGELEGYRASDGQHLG
+P09882.1        SQGLAPRARNKDTVGGRRSFELHHDK---------------PISQD--GG
+P00645.2        KEG-KPKTPKQGGGGKRARWYGDKKRKIYEWDSQHGELEGYRASDGEHLG
+Q06583.2        RDGGAPYVRESEQAGGRIKIEIHHKV---------------RVADG--GG
+Q06583.2_1      RDGGAPYVRESEQAGGRIKIEIHHKV---------------RVADG--GG
+Q06584.3        RDGGAPYVRESEQAGGRIKIEIHHKV---------------RIADG--GG
+                  *  * .  .   * *     .:                   ::.    
+
+P04419          VYD---MNNIRVTTPKRHIDIHRG-K
+P04419.2        VYD---MNNIRVTTPKRHIDIHRG-K
+P09883.4        VYD---MDNIRVTTPKRHIDIHRG-K
+Q47112.2        VYD---MDNISVVTPKRHIDIHRG-K
+P17999.1        SFEPKTGNQLKGPDPKRNIKKYL---
+P00646.1        SFDPKTGNQLKGPDPKRNIKKYL---
+P09882.1        VYD---MDNLRITTPKRHIDIHRG-Q
+P00645.2        AFDPKTGKQVKGPDPKRNIKKYL---
+Q06583.2        VYN---MGNLVAVTPKRHIEIHKGGK
+Q06583.2_1      VYN---MGNLVAVTPKRHIEIHKGGK
+Q06584.3        VYN---MGNLVAVTPKRHIEIHKGGK
+                 ::     ::    ***:*. :    
+
+
+

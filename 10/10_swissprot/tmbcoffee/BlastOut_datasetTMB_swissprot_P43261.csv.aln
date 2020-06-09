@@ -1,0 +1,732 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE: psicoffee ], CPU=1.28 sec, SCORE=83, Nseq=11, Len=2755 
+
+P43261.2        MITHGCYTRTRHKHKLKKTLIMLSAGLGLFFY-----------VNQNSFA
+P43261.2_1      MITHGCYTRTRHKHKLKKTLIMLSAGLGLFFY-----------VNQNSFA
+O31000.1        MITHGFYARTRHKHKLKKTFIMLSAGLGLFFY-----------VNQNSFA
+P19809.2        MITHGFYARTRHKHKLKKTFIMLSAGLGLFFY-----------VNQNSFA
+Q07591.1        MIIHGFCTGTRHKHKLRKTFIMLGAGLGLFFS-----------VNQNSFA
+P11922.2        MVFQP----------ISEFLLIRNAGMSMYFNKIISFNIISRIVI-CIFL
+P19196.1        MYSFF----------N----------------TLTVTKIISRLIL-SIGL
+Q8X8V7.2        MATKK-----RSGEEINDRQILCGMGIKLRRL-----------TA-GICL
+Q8X8V7.2_1      MATKK-----RSGEEINDRQILCGMGIKLRRL-----------TA-GICL
+Q8X8V7.2_2      MATKK-----RSGEEINDRQILCGMGIKLRRL-----------TA-GICL
+Q8X8V7.2_3      MATKK-----RSGEEINDRQILCGMGIKLRRL-----------TA-GICL
+                *                                                 
+
+P43261.2        NGENYFKLGSDSKLLTHDS------------YQNRLFYTLKTGETVADLS
+P43261.2_1      NGENYFKLGSDSKLLTHDS------------YQNRLFYTLKTGETVADLS
+O31000.1        NGENYFKLSSDSKLLTQNV------------AQDRLFYTLKTGETVSSIS
+P19809.2        NGENYFKLGSDSKLLTHNS------------YQNRLFYTLKTGETVADLS
+Q07591.1        NGENYFKLRADSKLINNNI------------AQDRLFYTLKTGESVAQLS
+P11922.2        ICG-MFMAGASEKYDA----------------------------------
+P19196.1        IFG-IFTYGFSQQHYF----------------------------------
+Q8X8V7.2        ITQLVFPMAAAAQGVVNAATQQPVPAQIAIANANTVPYTLGALESAQSVA
+Q8X8V7.2_1      ITQLVFPMAAAAQGVVNAATQQPVPAQIAIANANTVPYTLGALESAQSVA
+Q8X8V7.2_2      ITQLVFPMAAAAQGVVNAATQQPVPAQIAIANANTVPYTLGALESAQSVA
+Q8X8V7.2_3      ITQLVFPMAAAAQGVVNAATQQPVPAQIAIANANTVPYTLGALESAQSVA
+                     *      :                                     
+
+P43261.2        KSQDINLSTIWSLNKHLYSSESEMMKAAPGQQIILPL---KKLPFEYSAL
+P43261.2_1      KSQDINLSTIWSLNKHLYSSESEMMKAAPGQQIILPL---KKLPFEYSAL
+O31000.1        KSQGISLSVIWSLNKHLYSSESEMLKAAPGQQIILPL---KKLSVEYGAL
+P19809.2        KSQDINLSTIWSLNKHLYSSESEMMKAAPGQQIILPL---KKLPFEYSAL
+Q07591.1        KSQGISVPVIWSLNKHLYSSESEMMKASPGQQIILPL---KKLSAEYSTL
+P11922.2        -----NAP--QQVQPYSV-SSSAFENLHPNNEMESSINPFSASDT-----
+P19196.1        -------------------NSEALENPAEHNE------------------
+Q8X8V7.2        ERFGISVAELRKLNQFRT-FARGFDNVRQGDELDVPA---QVS-------
+Q8X8V7.2_1      ERFGISVAELRKLNQFRT-FARGFDNVRQGDELDVPA---QVS-------
+Q8X8V7.2_2      ERFGISVAELRKLNQFRT-FARGFDNVRQGDELDVPA---QVS-------
+Q8X8V7.2_3      ERFGISVAELRKLNQFRT-FARGFDNVRQGDELDVPA---QVS-------
+                                       : :    ::                  
+
+P43261.2        PLLGSAPLVAAGGVAGHTNKLTKMSPDVTKSNMTDDKALNYAAQQAASLG
+P43261.2_1      PLLGSAPLVAAGGVAGHTNKLTKMSPDVTKSNMTDDKALNYAAQQAASLG
+O31000.1        PVLGSAPVVAAGGVAGHTNKMTKMSPDATQSNMTDDRALNYTAQQAASLG
+P19809.2        PLLGSAPLVAAGGVAGHTNKLTKMSPDVTKSNMTDDKALNYAAQQAASLG
+Q07591.1        PILGTAPVVAAADVAGHTK---KMSQDTTKSNTSDDKALNYAAQQAASLG
+P11922.2        -----------------ER---NAA--II-DRANKEQETEA-VNKMISTG
+P19196.1        ----------------------------------------A-FNKIISTG
+Q8X8V7.2        -----------------EN---NLTPPPGNSSGNLEQQIASTSQQ---IG
+Q8X8V7.2_1      -----------------EN---NLTPPPGNSSGNLEQQIASTSQQ---IG
+Q8X8V7.2_2      -----------------EN---NLTPPPGNSSGNLEQQIASTSQQ---IG
+Q8X8V7.2_3      -----------------EN---NLTPPPGNSSGNLEQQIASTSQQ---IG
+                                                           ::    *
+
+P43261.2        SQLQSRSLNGDYAKDTALGIAGNQASSQLQAWLQHYGTAEVNLQSGNNFD
+P43261.2_1      SQLQSRSLNGDYAKDTALGIAGNQASSQLQAWLQHYGTAEVNLQSGNNFD
+O31000.1        SQLQSRSLHGDYAKDTALGIAGNQASSQLQAWLQHYGTAEVNLQSGNNFD
+P19809.2        SQLQSRSLNGDYAKDTALGIAGNQASSQLQAWLQHYGTAEVNLQSGNNFD
+Q07591.1        SQLQSRSLNGDYAKDTALSMAGNQASSQMQAWLQHYGTAEVNLQSGNNFD
+P11922.2        A----RLAASGRASDVAHSMVGDAVNQEIKQWLNRFGTAQVNLNFDKNFS
+P19196.1        T----SLAVSGNASNITRSMVNDAANQEVKHWLNRFGTTQVNVNFDKKFS
+Q8X8V7.2        SL-LAEDMNSEQAANMARGWASSQASGAMTDWLSRFGTARITLGVDEDFS
+Q8X8V7.2_1      SL-LAEDMNSEQAANMARGWASSQASGAMTDWLSRFGTARITLGVDEDFS
+Q8X8V7.2_2      SL-LAEDMNSEQAANMARGWASSQASGAMTDWLSRFGTARITLGVDEDFS
+Q8X8V7.2_3      SL-LAEDMNSEQAANMARGWASSQASGAMTDWLSRFGTARITLGVDEDFS
+                :        .  * : : . ... ..  :  **.::**:.:.:  .:.*.
+
+P43261.2        --GSSLDFLLPFYDSEKMLAFGQVGARYIDSRFTANLGAGQRFFLPANML
+P43261.2_1      --GSSLDFLLPFYDSEKMLAFGQVGARYIDSRFTANLGAGQRFFLPANML
+O31000.1        --GSSLDFLLPFYDSEKMLAFGQVGARYIDSRFTANLGAGQRFFLPENML
+P19809.2        --GSSLDFLLPFYDSEKMLAFGQVGARYIDSRFTANLGAGQRFFLPENML
+Q07591.1        --GSSLDFLLPFYDTENMLAFGQVGARYIDSRFTANLGAGQRFFLPENML
+P11922.2        LKESSLDWLAPWYDSASFLFFSQLGIRNKDSRNTLNLGVGIRTLENGWLY
+P19196.1        LKESSLDWLLPWYDSASYVFFSQLGIRNKDSRNTLNIGAGVRTFQQSWMY
+Q8X8V7.2        LKNSQFDFLHPWYETPDNLFFSQHTLHRTDERTQINNGLGWRHFTPTWMS
+Q8X8V7.2_1      LKNSQFDFLHPWYETPDNLFFSQHTLHRTDERTQINNGLGWRHFTPTWMS
+Q8X8V7.2_2      LKNSQFDFLHPWYETPDNLFFSQHTLHRTDERTQINNGLGWRHFTPTWMS
+Q8X8V7.2_3      LKNSQFDFLHPWYETPDNLFFSQHTLHRTDERTQINNGLGWRHFTPTWMS
+                   *.:*:* *:*:: . : *.*   :  *.*   * * * * :    : 
+
+P43261.2        GYNVFIDQDFSGDNTRLGIGGEYWRDYFKSSVNGYFRMSGWHESYN-KKD
+P43261.2_1      GYNVFIDQDFSGDNTRLGIGGEYWRDYFKSSVNGYFRMSGWHESYN-KKD
+O31000.1        GYNVFIDQDFSGDNTRLGIGGEYWRDYFKSSVNGYFRMSGWHESYN-KKD
+P19809.2        GYNVFIDQDFSGDNTRLGIGGEYWRDYFKSSVNGYFRMSGWHESYN-KKD
+Q07591.1        GYNVFIDQDFSGNNTRLGIGGEYWRDYFKSSVNGYFRMSGWHESYN-KKD
+P11922.2        GLNTFYDNDLTGHNHRIGLGAEAWTDYLQLAANGYFRLNGWHSSRD-FSD
+P19196.1        GFNTSYDNDMTGHNHRIGVGAEAWTDYLQLSANGYFRLNGWHQSRD-FAD
+Q8X8V7.2        GINFFFDHDLSRYHSRAGIGAEYWRDYLKLSSNGYLRLTNWRSAPELDND
+Q8X8V7.2_1      GINFFFDHDLSRYHSRAGIGAEYWRDYLKLSSNGYLRLTNWRSAPELDND
+Q8X8V7.2_2      GINFFFDHDLSRYHSRAGIGAEYWRDYLKLSSNGYLRLTNWRSAPELDND
+Q8X8V7.2_3      GINFFFDHDLSRYHSRAGIGAEYWRDYLKLSSNGYLRLTNWRSAPELDND
+                * *   *:*::  : * *:*.* * **:: : ***:*:..*:.: :   *
+
+P43261.2        YDERPANGFDIRFNGYLPSYPALGAKLIYEQYYGDNVALFNSDKLQSNPG
+P43261.2_1      YDERPANGFDIRFNGYLPSYPALGAKLIYEQYYGDNVALFNSDKLQSNPG
+O31000.1        YDERPANGFDIRFNGYLPSYPALGAKLMYEQYYGDNVALFNSDKLQSNPG
+P19809.2        YDERPANGFDIRFNGYLPSYPALGAKLMYEQYYGDNVALFNSDKLQSNPG
+Q07591.1        YDERPANGFDIRFNGYLPSYPALGGKLMYEQYYGDNVALFNADKLYSNPG
+P11922.2        YKERPATGGDLRANAYLPALPQLGGKLMYEQYTGERVALFGKDNLQRNPY
+P19196.1        YNERPASGGDIHVKAYLPALPQLGGKLKYEQYRGERVALFGKDNLQSNPY
+Q8X8V7.2        YEARPANGWDVRAEGWLPAWPHLGGKLVYEQYYGDEVALFDKDDRQSNPH
+Q8X8V7.2_1      YEARPANGWDVRAEGWLPAWPHLGGKLVYEQYYGDEVALFDKDDRQSNPH
+Q8X8V7.2_2      YEARPANGWDVRAEGWLPAWPHLGGKLVYEQYYGDEVALFDKDDRQSNPH
+Q8X8V7.2_3      YEARPANGWDVRAEGWLPAWPHLGGKLVYEQYYGDEVALFDKDDRQSNPH
+                *. ***.* *:: :.:**: * **.** **** *:.****. *.   ** 
+
+P43261.2        AATVGVNYTPIPLVTMGIDYRHGTGNENDLLYSMQFRYQFDKSWSQQIEP
+P43261.2_1      AATVGVNYTPIPLVTMGIDYRHGTGNENDLLYSMQFRYQFDKSWSQQIEP
+O31000.1        AATVGVNYTPIPLVTMGIDYRHGTGYENDLLYSMQFRYQFDKPWSPQIEP
+P19809.2        AATVGVNYTPIPLVTMGIDYRHGTGNENDLLYSMQFRYQFDKPWSQQIEP
+Q07591.1        AVTVGVNYTPIPLVTMGIDYRHGTGNENDLLYSMQFHYQFDKPWSQQIEP
+P11922.2        AVTAGINYTPVPLLTVGVDQRMGKSSKHETQWNLQMNYRLGESFQSQLSP
+P19196.1        AVTTGLIYTPIPFITLGVDQRMGKSRQHEIQWNLQMDYRLGESFRSQFSP
+Q8X8V7.2        AITAGLNYTPFPLMTFSAEQRQGKQGENDTRFAVDFTWQPGSAMQKQLDP
+Q8X8V7.2_1      AITAGLNYTPFPLMTFSAEQRQGKQGENDTRFAVDFTWQPGSAMQKQLDP
+Q8X8V7.2_2      AITAGLNYTPFPLMTFSAEQRQGKQGENDTRFAVDFTWQPGSAMQKQLDP
+Q8X8V7.2_3      AITAGLNYTPFPLMTFSAEQRQGKQGENDTRFAVDFTWQPGSAMQKQLDP
+                * *.*: ***.*::*.. : * *.  :::  : ::: :: ...   *:.*
+
+P43261.2        QYVNELRTLSGSRYDLVQRNNNIILEYKKQDILSLNIPH-DINGTEHSTQ
+P43261.2_1      QYVNELRTLSGSRYDLVQRNNNIILEYKKQDILSLNIPH-DINGTEHSTQ
+O31000.1        QYVNELRTLSGSRYDLVQRNNNIILEYKKQDILSLNIPH-DINGTEHSTQ
+P19809.2        QYVNELRTLSGSRYDLVQRNNNIILEYKKQDILSLNIPH-DINGTERSTQ
+Q07591.1        QYVNELRTLSGSRYDLVQRNNNIILDYKKQDILSMNIPH-NINGTEHSTH
+P11922.2        SAVAGTRLLAESRYNLVDRNNNIVLEYQKQQVVKLTLSPATISGLPGQVY
+P19196.1        AVVAGTRLLAESRYNLVERNPNIVLEYQKQNTIKLAFSPAVLSGLPGQVY
+Q8X8V7.2        NEVDARRSLAGSRFDLVDRNNNIVLEYRKKELVRLTLTD-PVTGKSGEVK
+Q8X8V7.2_1      NEVDARRSLAGSRFDLVDRNNNIVLEYRKKELVRLTLTD-PVTGKSGEVK
+Q8X8V7.2_2      NEVDARRSLAGSRFDLVDRNNNIVLEYRKKELVRLTLTD-PVTGKSGEVK
+Q8X8V7.2_3      NEVDARRSLAGSRFDLVDRNNNIVLEYRKKELVRLTLTD-PVTGKSGEVK
+                  *   * *: **::**:** **:*:*:*:: : : :.   :.*   .. 
+
+P43261.2        KIQLIVKSKYGLDRIVWDDSALRSQGGQIQH-SGSQSAQDYQAILPAYVQ
+P43261.2_1      KIQLIVKSKYGLDRIVWDDSALRSQGGQIQH-SGSQSAQDYQAILPAYVQ
+O31000.1        KIQLIVKSKYGLDRIVWDDSALRSQGGQIQH-SGSQSAQDYQAILPAYVQ
+P19809.2        KIQLIVKSKYGLDRIVWDDSALRSQGGQIQH-SGSQSAQDYQAILPAYVQ
+Q07591.1        KIQLIVKSKYGLERIVWDDSTLRTQGGQIQH-SERKAHNDYQAILPAYVQ
+P11922.2        QVNAQVQGASAVREIVWSDAELIAAGGTLTPLSTT----QFNLVLPPYKR
+P19196.1        SVSAQIQSQSALQRILWNDAQWVAAGGKLIPVSAT----DYNVVLPPYKP
+Q8X8V7.2        SLVSSLQTKYALKGYNVEATALEAAGGKVVT-TGK----DILVTLPAYRF
+Q8X8V7.2_1      SLVSSLQTKYALKGYNVEATALEAAGGKVVT-TGK----DILVTLPAYRF
+Q8X8V7.2_2      SLVSSLQTKYALKGYNVEATALEAAGGKVVT-TGK----DILVTLPAYRF
+Q8X8V7.2_3      SLVSSLQTKYALKGYNVEATALEAAGGKVVT-TGK----DILVTLPAYRF
+                .:   ::   .:     . :   : ** :   :      :    **.*  
+
+P43261.2        --------G----------GSNIYKVTARAYDRNGNSSNNVQLTITV---
+P43261.2_1      --------G----------GSNIYKVTARAYDRNGNSSNNVQLTITV---
+O31000.1        --------G----------GSNIYKVTARAYDRNGNSSNNVQLTITV---
+P19809.2        --------G----------GSNVYKVTARAYDRNGNSSNNVLLTITV---
+Q07591.1        --------G----------GSNVYKVTRRAYDRNGNSSNNVQLTITV---
+P11922.2        --------TAQVSRVTDDLTANFYSLSALAVDHQGNRSNSFTLSVTVQQP
+P19196.1        MAPASRTVGKTGE---SEAAVNTYTLSATAIDNHGNSSNPATLTVIVQQP
+Q8X8V7.2        --------TSTPE------TDNTWPIEVTAEDVKGNFSNREQSMVVVQAP
+Q8X8V7.2_1      --------TSTPE------TDNTWPIEVTAEDVKGNFSNREQSMVVVQAP
+Q8X8V7.2_2      --------TSTPE------TDNTWPIEVTAEDVKGNFSNREQSMVVVQAP
+Q8X8V7.2_3      --------TSTPE------TDNTWPIEVTAEDVKGNFSNREQSMVVVQAP
+                                     * : :   * * :** **     : *   
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        QLTLTAAVIGD---------------------------------------
+P19196.1        QFVITSEVTDD---------------------------------------
+Q8X8V7.2        TLSQKDSSVSLSSQTLSADSHSTATLTFIAHDAAGNPVIGLVLSTRHEGV
+Q8X8V7.2_1      TLSQKDSSVSLSSQTLSADSHSTATLTFIAHDAAGNPVIGLVLSTRHEGV
+Q8X8V7.2_2      TLSQKDSSVSLSSQTLSADSHSTATLTFIAHDAAGNPVIGLVLSTRHEGV
+Q8X8V7.2_3      TLSQKDSSVSLSSQTLSADSHSTATLTFIAHDAAGNPVIGLVLSTRHEGV
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        QDITLSDWKDNGDGSYTQILTTGAMSGTLTLMPQLNGVDAAKAPAVVNII
+Q8X8V7.2_1      QDITLSDWKDNGDGSYTQILTTGAMSGTLTLMPQLNGVDAAKAPAVVNII
+Q8X8V7.2_2      QDITLSDWKDNGDGSYTQILTTGAMSGTLTLMPQLNGVDAAKAPAVVNII
+Q8X8V7.2_3      QDITLSDWKDNGDGSYTQILTTGAMSGTLTLMPQLNGVDAAKAPAVVNII
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        SVSSSRTHSSIKIDKDRYLSGNPIEVTVELRDENDKPVKEQKQQLNTAVS
+Q8X8V7.2_1      SVSSSRTHSSIKIDKDRYLSGNPIEVTVELRDENDKPVKEQKQQLNTAVS
+Q8X8V7.2_2      SVSSSRTHSSIKIDKDRYLSGNPIEVTVELRDENDKPVKEQKQQLNTAVS
+Q8X8V7.2_3      SVSSSRTHSSIKIDKDRYLSGNPIEVTVELRDENDKPVKEQKQQLNTAVS
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        IDNVKPGVTTDWKETADGVYKATYTAYTKGSGLTAKLLMQNWNEDLHTAG
+Q8X8V7.2_1      IDNVKPGVTTDWKETADGVYKATYTAYTKGSGLTAKLLMQNWNEDLHTAG
+Q8X8V7.2_2      IDNVKPGVTTDWKETADGVYKATYTAYTKGSGLTAKLLMQNWNEDLHTAG
+Q8X8V7.2_3      IDNVKPGVTTDWKETADGVYKATYTAYTKGSGLTAKLLMQNWNEDLHTAG
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        FIIDANPQSAKIATLSASNNGVLANENAANTVSVNVADEGSNPINDHTVT
+Q8X8V7.2_1      FIIDANPQSAKIATLSASNNGVLANENAANTVSVNVADEGSNPINDHTVT
+Q8X8V7.2_2      FIIDANPQSAKIATLSASNNGVLANENAANTVSVNVADEGSNPINDHTVT
+Q8X8V7.2_3      FIIDANPQSAKIATLSASNNGVLANENAANTVSVNVADEGSNPINDHTVT
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        FAVLSGSATSFNNQNTAKTDVNGLATFDLKSSKQEDNTVEVTLENGVKQT
+Q8X8V7.2_1      FAVLSGSATSFNNQNTAKTDVNGLATFDLKSSKQEDNTVEVTLENGVKQT
+Q8X8V7.2_2      FAVLSGSATSFNNQNTAKTDVNGLATFDLKSSKQEDNTVEVTLENGVKQT
+Q8X8V7.2_3      FAVLSGSATSFNNQNTAKTDVNGLATFDLKSSKQEDNTVEVTLENGVKQT
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        LIVSFVGDSSTAQVDLQKSKNEVVADGNDSATMTATVRDAKGNLLNDVKV
+Q8X8V7.2_1      LIVSFVGDSSTAQVDLQKSKNEVVADGNDSATMTATVRDAKGNLLNDVKV
+Q8X8V7.2_2      LIVSFVGDSSTAQVDLQKSKNEVVADGNDSATMTATVRDAKGNLLNDVKV
+Q8X8V7.2_3      LIVSFVGDSSTAQVDLQKSKNEVVADGNDSATMTATVRDAKGNLLNDVKV
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        TFNVNSAAAKLSQTEVNSHDGIATATLTSLKNGDYTVTASVSSGSQANQQ
+Q8X8V7.2_1      TFNVNSAAAKLSQTEVNSHDGIATATLTSLKNGDYTVTASVSSGSQANQQ
+Q8X8V7.2_2      TFNVNSAAAKLSQTEVNSHDGIATATLTSLKNGDYTVTASVSSGSQANQQ
+Q8X8V7.2_3      TFNVNSAAAKLSQTEVNSHDGIATATLTSLKNGDYTVTASVSSGSQANQQ
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        VIFIGDQSTAALTLSVPSGDITVTNTAPLHMTATLQDKNGNPLKDKEITF
+Q8X8V7.2_1      VIFIGDQSTAALTLSVPSGDITVTNTAPLHMTATLQDKNGNPLKDKEITF
+Q8X8V7.2_2      VIFIGDQSTAALTLSVPSGDITVTNTAPLHMTATLQDKNGNPLKDKEITF
+Q8X8V7.2_3      VIFIGDQSTAALTLSVPSGDITVTNTAPLHMTATLQDKNGNPLKDKEITF
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        SVPNDVASRFSISNSGKGMTDSNGTAIASLTGTLAGTHMITARLANSNVS
+Q8X8V7.2_1      SVPNDVASRFSISNSGKGMTDSNGTAIASLTGTLAGTHMITARLANSNVS
+Q8X8V7.2_2      SVPNDVASRFSISNSGKGMTDSNGTAIASLTGTLAGTHMITARLANSNVS
+Q8X8V7.2_3      SVPNDVASRFSISNSGKGMTDSNGTAIASLTGTLAGTHMITARLANSNVS
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        DTQPMTFVADKDRAVVVLQTSKAEIIGNGVDETTLTATVKDPFDNVVKNL
+Q8X8V7.2_1      DTQPMTFVADKDRAVVVLQTSKAEIIGNGVDETTLTATVKDPFDNVVKNL
+Q8X8V7.2_2      DTQPMTFVADKDRAVVVLQTSKAEIIGNGVDETTLTATVKDPFDNVVKNL
+Q8X8V7.2_3      DTQPMTFVADKDRAVVVLQTSKAEIIGNGVDETTLTATVKDPFDNVVKNL
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        SVVFRTSPADTQLSLNARNTNENGIAEVTLKGTVLGVHTAEAILLNGNRD
+Q8X8V7.2_1      SVVFRTSPADTQLSLNARNTNENGIAEVTLKGTVLGVHTAEAILLNGNRD
+Q8X8V7.2_2      SVVFRTSPADTQLSLNARNTNENGIAEVTLKGTVLGVHTAEAILLNGNRD
+Q8X8V7.2_3      SVVFRTSPADTQLSLNARNTNENGIAEVTLKGTVLGVHTAEAILLNGNRD
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        TKIVNIAPDASNAQVTLNIPAQQVVTNNSDSVQLTATVKDPSNHPVAGIT
+Q8X8V7.2_1      TKIVNIAPDASNAQVTLNIPAQQVVTNNSDSVQLTATVKDPSNHPVAGIT
+Q8X8V7.2_2      TKIVNIAPDASNAQVTLNIPAQQVVTNNSDSVQLTATVKDPSNHPVAGIT
+Q8X8V7.2_3      TKIVNIAPDASNAQVTLNIPAQQVVTNNSDSVQLTATVKDPSNHPVAGIT
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        VNFTMPQDVAANFTLENNGIAITQANGEAHVTLKGKKAGTHTVTATLGNN
+Q8X8V7.2_1      VNFTMPQDVAANFTLENNGIAITQANGEAHVTLKGKKAGTHTVTATLGNN
+Q8X8V7.2_2      VNFTMPQDVAANFTLENNGIAITQANGEAHVTLKGKKAGTHTVTATLGNN
+Q8X8V7.2_3      VNFTMPQDVAANFTLENNGIAITQANGEAHVTLKGKKAGTHTVTATLGNN
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        NASDAQPVTFVADKDSAVVVLQTSKAEIIGNGVDETTLTATVKDPFDNAV
+Q8X8V7.2_1      NASDAQPVTFVADKDSAVVVLQTSKAEIIGNGVDETTLTATVKDPFDNAV
+Q8X8V7.2_2      NASDAQPVTFVADKDSAVVVLQTSKAEIIGNGVDETTLTATVKDPFDNAV
+Q8X8V7.2_3      NASDAQPVTFVADKDSAVVVLQTSKAEIIGNGVDETTLTATVKDPFDNAV
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        KDLQVTFSTNPADTQLSQSKSNTNDSGVAEVTFKGTVLGVHTAEATLPNG
+Q8X8V7.2_1      KDLQVTFSTNPADTQLSQSKSNTNDSGVAEVTFKGTVLGVHTAEATLPNG
+Q8X8V7.2_2      KDLQVTFSTNPADTQLSQSKSNTNDSGVAEVTFKGTVLGVHTAEATLPNG
+Q8X8V7.2_3      KDLQVTFSTNPADTQLSQSKSNTNDSGVAEVTFKGTVLGVHTAEATLPNG
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        NNDTKIVNIAPDASNAQVTLNIPAQQVVTNNSDSVQLTATVKDPSNHPVA
+Q8X8V7.2_1      NNDTKIVNIAPDASNAQVTLNIPAQQVVTNNSDSVQLTATVKDPSNHPVA
+Q8X8V7.2_2      NNDTKIVNIAPDASNAQVTLNIPAQQVVTNNSDSVQLTATVKDPSNHPVA
+Q8X8V7.2_3      NNDTKIVNIAPDASNAQVTLNIPAQQVVTNNSDSVQLTATVKDPSNHPVA
+                                                                  
+
+P43261.2        -------------------------------------------------L
+P43261.2_1      -------------------------------------------------L
+O31000.1        -------------------------------------------------L
+P19809.2        -------------------------------------------------L
+Q07591.1        -------------------------------------------------L
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        GITVNFTMPQDVAANFTLENNGIAITQANGEAHVTLKGKKAGTHTVTATL
+Q8X8V7.2_1      GITVNFTMPQDVAANFTLENNGIAITQANGEAHVTLKGKKAGTHTVTATL
+Q8X8V7.2_2      GITVNFTMPQDVAANFTLENNGIAITQANGEAHVTLKGKKAGTHTVTATL
+Q8X8V7.2_3      GITVNFTMPQDVAANFTLENNGIAITQANGEAHVTLKGKKAGTHTVTATL
+                                                                  
+
+P43261.2        SNGQVVDQVGVTDFTADKTSA-----------KADNADTITYTATVKKN-
+P43261.2_1      SNGQVVDQVGVTDFTADKTSA-----------KADNADTITYTATVKKN-
+O31000.1        SNGQVVDQVGVTDFTADKTSA-----------KADGTEAITYTATVKKN-
+P19809.2        SNGQVVDQVGVTDFTADKTSA-----------KADGTEAITYTATVKKN-
+Q07591.1        SNGQVVDKVGITNFTADKTSA-----------KADNSDTITYTATVKKN-
+P11922.2        -------------------GA-----------PANGKTAITVEFTVADFE
+P19196.1        -------------------GA-----------LADGRTPITVKFTVTNID
+Q8X8V7.2        SNNNTSDSQPVT-FVADKTSALVVLQISKNEITGNGVDSATLTATVKDQF
+Q8X8V7.2_1      SNNNTSDSQPVT-FVADKTSALVVLQISKNEITGNGVDSATLTATVKDQF
+Q8X8V7.2_2      SNNNTSDSQPVT-FVADKTSALVVLQISKNEITGNGVDSATLTATVKDQF
+Q8X8V7.2_3      SNNNTSDSQPVT-FVADKTSALVVLQISKNEITGNGVDSATLTATVKDQF
+                                   .*            .:.  . *   ** .  
+
+P43261.2        GVAQANVPVSFNIVSGTATLGANSAKTDANGKATVTLKSSTPGQVVVSAK
+P43261.2_1      GVAQANVPVSFNIVSGTATLGANSAKTDANGKATVTLKSSTPGQVVVSAK
+O31000.1        GVTQANVPVSFNIVSGTATLGANSATTDANGKATVTLKSSTPGQVVVSAK
+P19809.2        GVAQANVPVSFNIVSGTAVLSANSANTNGSGKATVTLKSDKPGQVVVSAK
+Q07591.1        GVAQANVPVSFNIVSGTATLSAKSANTNSSGKATVTLKSDKPGQVVVSAK
+P11922.2        GKPLAGQEVVITTNNG-ALPNKITEKTDANGVARIALTNTTDGVTVVTAE
+P19196.1        STPVAEQEGVITTSNG-ALPSKVTKKTDAQGVISIALTSFTVGVSVVTLD
+Q8X8V7.2        DNEVNNLPVTFSTASSGLTLTPGESNTNESGIAQATLAGVAFGEQTVTAS
+Q8X8V7.2_1      DNEVNNLPVTFSTASSGLTLTPGESNTNESGIAQATLAGVAFGEQTVTAS
+Q8X8V7.2_2      DNEVNNLPVTFSTASSGLTLTPGESNTNESGIAQATLAGVAFGEQTVTAS
+Q8X8V7.2_3      DNEVNNLPVTFSTASSGLTLTPGESNTNESGIAQATLAGVAFGEQTVTAS
+                .         :.  ..         .*: .*    :* .   *  .*: .
+
+P43261.2        TAEMTSALNASAVIFFDQTKASITEIK-----------------------
+P43261.2_1      TAEMTSALNASAVIFFDQTKASITEIK-----------------------
+O31000.1        TAEMTSALNASAVIFVEQTKASITEIK-----------------------
+P19809.2        TAEMTSALNANAVIFVDQTKASITEIK-----------------------
+Q07591.1        TAEMTSALNANAVIFVDQTKASITEIK-----------------------
+P11922.2        VEGQRQSVDTH--FVKGTIAADKSTLA-----------------------
+P19196.1        IQGQQATVDVR--FAVLPPDVTNSSFN-----------------------
+Q8X8V7.2        LANNGASDNKTVHFIGDTAAAKIIELTPVPDSIIAGTPQNSSGSVITATV
+Q8X8V7.2_1      LANNGASDNKTVHFIGDTAAAKIIELTPVPDSIIAGTPQNSSGSVITATV
+Q8X8V7.2_2      LANNGASDNKTVHFIGDTAAAKIIELTPVPDSIIAGTPQNSSGSVITATV
+Q8X8V7.2_3      LANNGASDNKTVHFIGDTAAAKIIELTPVPDSIIAGTPQNSSGSVITATV
+                      : :    :      .    :                        
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        VDNNGFPVKGVTVNFTSNAATAEMTNGGQAVTNEQGKATVTYTNTRSSIE
+Q8X8V7.2_1      VDNNGFPVKGVTVNFTSNAATAEMTNGGQAVTNEQGKATVTYTNTRSSIE
+Q8X8V7.2_2      VDNNGFPVKGVTVNFTSNAATAEMTNGGQAVTNEQGKATVTYTNTRSSIE
+Q8X8V7.2_3      VDNNGFPVKGVTVNFTSNAATAEMTNGGQAVTNEQGKATVTYTNTRSSIE
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        SGARPDTVEASLENGSSTLSTSINVNADASTAHLTLLQALFDTVSAGDTT
+Q8X8V7.2_1      SGARPDTVEASLENGSSTLSTSINVNADASTAHLTLLQALFDTVSAGDTT
+Q8X8V7.2_2      SGARPDTVEASLENGSSTLSTSINVNADASTAHLTLLQALFDTVSAGDTT
+Q8X8V7.2_3      SGARPDTVEASLENGSSTLSTSINVNADASTAHLTLLQALFDTVSAGDTT
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        NLYIEVKDNYGNGVPQQEVTLSVSPSEGVTPSNNAIYTTNHDGNFYASFT
+Q8X8V7.2_1      NLYIEVKDNYGNGVPQQEVTLSVSPSEGVTPSNNAIYTTNHDGNFYASFT
+Q8X8V7.2_2      NLYIEVKDNYGNGVPQQEVTLSVSPSEGVTPSNNAIYTTNHDGNFYASFT
+Q8X8V7.2_3      NLYIEVKDNYGNGVPQQEVTLSVSPSEGVTPSNNAIYTTNHDGNFYASFT
+                                                                  
+
+P43261.2        -------------------------------------ADKTTAVANGKDA
+P43261.2_1      -------------------------------------ADKTTAVANGKDA
+O31000.1        -------------------------------------ADKTTAVANGNDA
+P19809.2        -------------------------------------ADKTTAVANGQDA
+Q07591.1        -------------------------------------VDKTIATADNKDT
+P11922.2        -------------------------------------AVPTSIIADGLMA
+P19196.1        -------------------------------------VSPSDIVADGSMQ
+Q8X8V7.2        ATKAGVYQVTATLENGDSMQQTVTYVPNVANAEISLAASKDPVIANNNDL
+Q8X8V7.2_1      ATKAGVYQVTATLENGDSMQQTVTYVPNVANAEISLAASKDPVIANNNDL
+Q8X8V7.2_2      ATKAGVYQVTATLENGDSMQQTVTYVPNVANAEISLAASKDPVIANNNDL
+Q8X8V7.2_3      ATKAGVYQVTATLENGDSMQQTVTYVPNVANAEISLAASKDPVIANNNDL
+                                                     .      *:.   
+
+P43261.2        IKYTVKV-MK-NGQ------------------------------------
+P43261.2_1      IKYTVKV-MK-NGQ------------------------------------
+O31000.1        VTYTVKV-MK-EGQ------------------------------------
+P19809.2        ITYTVKV-MK-GDK------------------------------------
+Q07591.1        IEYTVKV-MK-GGN------------------------------------
+P11922.2        STITLELKDT-YGD------------------------------------
+P19196.1        SILT----------------------------------------------
+Q8X8V7.2        TTLTATV-ADTEGNAIANSEVTFTLPEDVRANFTLGDGGKVVTDTEGKAK
+Q8X8V7.2_1      TTLTATV-ADTEGNAIANSEVTFTLPEDVRANFTLGDGGKVVTDTEGKAK
+Q8X8V7.2_2      TTLTATV-ADTEGNAIANSEVTFTLPEDVRANFTLGDGGKVVTDTEGKAK
+Q8X8V7.2_3      TTLTATV-ADTEGNAIANSEVTFTLPEDVRANFTLGDGGKVVTDTEGKAK
+                   *                                              
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        VTLKGTKAGAHTVTASMAGGKSEQLVVNFIADTLTAQVNLNVTEDNFIAN
+Q8X8V7.2_1      VTLKGTKAGAHTVTASMAGGKSEQLVVNFIADTLTAQVNLNVTEDNFIAN
+Q8X8V7.2_2      VTLKGTKAGAHTVTASMAGGKSEQLVVNFIADTLTAQVNLNVTEDNFIAN
+Q8X8V7.2_3      VTLKGTKAGAHTVTASMAGGKSEQLVVNFIADTLTAQVNLNVTEDNFIAN
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        NVGMTRLQATVTDGNGNPLANEAVTFTLPADVSASFTLGQGGSAITDING
+Q8X8V7.2_1      NVGMTRLQATVTDGNGNPLANEAVTFTLPADVSASFTLGQGGSAITDING
+Q8X8V7.2_2      NVGMTRLQATVTDGNGNPLANEAVTFTLPADVSASFTLGQGGSAITDING
+Q8X8V7.2_3      NVGMTRLQATVTDGNGNPLANEAVTFTLPADVSASFTLGQGGSAITDING
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        KAEVTLSGTKSGTYPVTVSVNNYGVSDTKQVTLIADAGTAKLASLTSVYS
+Q8X8V7.2_1      KAEVTLSGTKSGTYPVTVSVNNYGVSDTKQVTLIADAGTAKLASLTSVYS
+Q8X8V7.2_2      KAEVTLSGTKSGTYPVTVSVNNYGVSDTKQVTLIADAGTAKLASLTSVYS
+Q8X8V7.2_3      KAEVTLSGTKSGTYPVTVSVNNYGVSDTKQVTLIADAGTAKLASLTSVYS
+                                                                  
+
+P43261.2        ---------------------PVNNQSVTFSTNFGMFNGKS-QTQATTGN
+P43261.2_1      ---------------------PVNNQSVTFSTNFGMFNGKS-QTQATTGN
+O31000.1        ---------------------PVHGHSVAFTTNFGMFNGKSQTQNATTGS
+P19809.2        ---------------------PVSNQEVTFTTTLGKLS----NSTEKTDT
+Q07591.1        ---------------------PISGQKVTFSKDFGTLN----KTEATTDQ
+P11922.2        ---------------------PQAGANVAFDTTLGNMG------VITDHN
+P19196.1        --------------------------------------------------
+Q8X8V7.2        FVVSTTEGATMTASVTDANGNPVEGIKVNFRGTSVTLS----STSVETDD
+Q8X8V7.2_1      FVVSTTEGATMTASVTDANGNPVEGIKVNFRGTSVTLS----STSVETDD
+Q8X8V7.2_2      FVVSTTEGATMTASVTDANGNPVEGIKVNFRGTSVTLS----STSVETDD
+Q8X8V7.2_3      FVVSTTEGATMTASVTDANGNPVEGIKVNFRGTSVTLS----STSVETDD
+                                                                  
+
+P43261.2        DGRATITLTSSSAGKATVSATVSDG-AEVKATE-----------------
+P43261.2_1      DGRATITLTSSSAGKATVSATVSDG-AEVKATE-----------------
+O31000.1        DGRATITLTSSSAGKATVSATVSGG-NDVKAPE-----------------
+P19809.2        NGYAKVTLTSTTPGKSLVSARVSDVAVDVKAPE-----------------
+Q07591.1        NGYATVKLSSGTPGKAIVSAKVSEVNTEVKAAT-----------------
+P11922.2        DGTYSAPLTSTTLGVATVTVKVDGAAFSVPSVT-----------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        RGFAEILVTSTEVGLKTVSASLADKPTEVISRLLNAKADINSATITSLEI
+Q8X8V7.2_1      RGFAEILVTSTEVGLKTVSASLADKPTEVISRLLNAKADINSATITSLEI
+Q8X8V7.2_2      RGFAEILVTSTEVGLKTVSASLADKPTEVISRLLNAKADINSATITSLEI
+Q8X8V7.2_3      RGFAEILVTSTEVGLKTVSASLADKPTEVISRLLNAKADINSATITSLEI
+                                                                  
+
+P43261.2        -----------------------------VTF------------------
+P43261.2_1      -----------------------------VTF------------------
+O31000.1        -----------------------------VTF------------------
+P19809.2        -----------------------------VEF------------------
+Q07591.1        -----------------------------VEF------------------
+P11922.2        -----------------------------VNF------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        PEGQVMVAQDVAVKAHVNDQFGNPILNESVTFSAEPPEHMTISQNIVSTD
+Q8X8V7.2_1      PEGQVMVAQDVAVKAHVNDQFGNPILNESVTFSAEPPEHMTISQNIVSTD
+Q8X8V7.2_2      PEGQVMVAQDVAVKAHVNDQFGNPILNESVTFSAEPPEHMTISQNIVSTD
+Q8X8V7.2_3      PEGQVMVAQDVAVKAHVNDQFGNPILNESVTFSAEPPEHMTISQNIVSTD
+                                                                  
+
+P43261.2        ------------------------------------FDELKID-NKVDII
+P43261.2_1      ------------------------------------FDELKID-NKVDII
+O31000.1        ------------------------------------FDGLKID-NKVDIL
+P19809.2        ------------------------------------FTTLTIDDGNIEIV
+Q07591.1        ------------------------------------FAPLSIDGNKVTVI
+P11922.2        ------------------------------------TADPIPD-------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        THGIAEVTMTPERNGSYMVKASLANGSSYEKDLVVIDQKLTLS-ASSPLI
+Q8X8V7.2_1      THGIAEVTMTPERNGSYMVKASLANGSSYEKDLVVIDQKLTLS-ASSPLI
+Q8X8V7.2_2      THGIAEVTMTPERNGSYMVKASLANGSSYEKDLVVIDQKLTLS-ASSPLI
+Q8X8V7.2_3      THGIAEVTMTPERNGSYMVKASLANGSSYEKDLVVIDQKLTLS-ASSPLI
+                                                                  
+
+P43261.2        GN------------------------------------------------
+P43261.2_1      GN------------------------------------------------
+O31000.1        GK------------------------------------------------
+P19809.2        GT------------------------------------------------
+Q07591.1        GT------------------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        GVNSPTGATLTATLTSANGTPVEGQVINFSVTPEGATLSGGKVRTNSSGQ
+Q8X8V7.2_1      GVNSPTGATLTATLTSANGTPVEGQVINFSVTPEGATLSGGKVRTNSSGQ
+Q8X8V7.2_2      GVNSPTGATLTATLTSANGTPVEGQVINFSVTPEGATLSGGKVRTNSSGQ
+Q8X8V7.2_3      GVNSPTGATLTATLTSANGTPVEGQVINFSVTPEGATLSGGKVRTNSSGQ
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        ---------------------------------------AGRSSFTVSTP
+P19196.1        --------------------------------------------------
+Q8X8V7.2        APVVLTSNKVGTYTVTASFHNGVTIQTQTIVKVTGNSSTAHVASFIADPS
+Q8X8V7.2_1      APVVLTSNKVGTYTVTASFHNGVTIQTQTIVKVTGNSSTAHVASFIADPS
+Q8X8V7.2_2      APVVLTSNKVGTYTVTASFHNGVTIQTQTIVKVTGNSSTAHVASFIADPS
+Q8X8V7.2_3      APVVLTSNKVGTYTVTASFHNGVTIQTQTIVKVTGNSSTAHVASFIADPS
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        DILADGTMSSTLS-------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        TIAATNSDLSTLKATVEDGSGNLIEGLTVYFALKSGSATLTSLTAVTDQN
+Q8X8V7.2_1      TIAATNSDLSTLKATVEDGSGNLIEGLTVYFALKSGSATLTSLTAVTDQN
+Q8X8V7.2_2      TIAATNSDLSTLKATVEDGSGNLIEGLTVYFALKSGSATLTSLTAVTDQN
+Q8X8V7.2_3      TIAATNSDLSTLKATVEDGSGNLIEGLTVYFALKSGSATLTSLTAVTDQN
+                                                                  
+
+P43261.2        -----NVRG-----------------------------------------
+P43261.2_1      -----NVRG-----------------------------------------
+O31000.1        -----NVTG-----------------------------------------
+P19809.2        -----GVKG-----------------------------------------
+Q07591.1        -----GVTG-----------------------------------------
+P11922.2        --------------------------------------------------
+P19196.1        --------------------------------------------------
+Q8X8V7.2        GIATTSVRGAITGSVTVSAVTTAGGMQTVDITLVAGPADASQSVLKNNRS
+Q8X8V7.2_1      GIATTSVRGAITGSVTVSAVTTAGGMQTVDITLVAGPADASQSVLKNNRS
+Q8X8V7.2_2      GIATTSVRGAITGSVTVSAVTTAGGMQTVDITLVAGPADASQSVLKNNRS
+Q8X8V7.2_3      GIATTSVRGAITGSVTVSAVTTAGGMQTVDITLVAGPADASQSVLKNNRS
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        -------------FVPVDKNGHFISGMQGLSFTQNGVPVS---ISPIT--
+P19196.1        -------------FVPRNKNNEFVSGITDLEFIQSGVPVT---ISPVT--
+Q8X8V7.2        SLKGDFTDSAELHLVLHDISGNPIKVSEGLEFVQSGTNAPYVQVSAIDYS
+Q8X8V7.2_1      SLKGDFTDSAELHLVLHDISGNPIKVSEGLEFVQSGTNAPYVQVSAIDYS
+Q8X8V7.2_2      SLKGDFTDSAELHLVLHDISGNPIKVSEGLEFVQSGTNAPYVQVSAIDYS
+Q8X8V7.2_3      SLKGDFTDSAELHLVLHDISGNPIKVSEGLEFVQSGTNAPYVQVSAIDYS
+                                                                  
+
+P43261.2        --------------------------------------------------
+P43261.2_1      --------------------------------------------------
+O31000.1        --------------------------------------------------
+P19809.2        --------------------------------------------------
+Q07591.1        --------------------------------------------------
+P11922.2        -EQPDSYTATVVGNTAGDVTITPQVDTLILSTLQKKISLFPVP--TLTG-
+P19196.1        -ENADNYTASVVGNSVGDVDITPQVGGESLDLLQKRITLYPVP--KITG-
+Q8X8V7.2        KNFSGEYKATVTGGGEGIATLIPVLNGVHQAGLSTTIQFTRAEDKIMSGT
+Q8X8V7.2_1      KNFSGEYKATVTGGGEGIATLIPVLNGVHQAGLSTTIQFTRAEDKIMSGT
+Q8X8V7.2_2      KNFSGEYKATVTGGGEGIATLIPVLNGVHQAGLSTTIQFTRAEDKIMSGT
+Q8X8V7.2_3      KNFSGEYKATVTGGGEGIATLIPVLNGVHQAGLSTTIQFTRAEDKIMSGT
+                                                                  
+
+P43261.2        ------------ELPNIWLQYGQFKLKAS---GGDG--TYSWYSENTSIA
+P43261.2_1      ------------ELPNIWLQYGQFKLKAS---GGDG--TYSWYSENTSIA
+O31000.1        ------------DLPNIWLQYGQFKLKVS---GGNG--TYSWHSENTNIA
+P19809.2        ------------KLPTVWLQYGQVNLKAS---GGNG--KYTWRSANPAIA
+Q07591.1        ------------SLPKNWLQYGQVKLQAT---GGNG--KYTWKSSNTKIA
+P11922.2        ILVNGQNFATDKGFPKTIFKNATFQLQMDNDVANNT--QYEWSSSFTPNV
+P19196.1        INVNGEQFATDKGFPKTTFNKATFQLVMNDDVANNT--QYDWTSSYAASA
+Q8X8V7.2        VLVNGANLPTT-TFPSQGFTGAYYQLNNDNFAPGKTAADYEF-SSSASWV
+Q8X8V7.2_1      VLVNGANLPTT-TFPSQGFTGAYYQLNNDNFAPGKTAADYEF-SSSASWV
+Q8X8V7.2_2      VLVNGANLPTT-TFPSQGFTGAYYQLNNDNFAPGKTAADYEF-SSSASWV
+Q8X8V7.2_3      VLVNGANLPTT-TFPSQGFTGAYYQLNNDNFAPGKTAADYEF-SSSASWV
+                             :*.  :  .  :*       ..    * : *  .  .
+
+P43261.2        TVDA-SGKVTLNGKGS-VVIKATSGDKQ---TVSYTIKA-PSY-MIK--V
+P43261.2_1      TVDA-SGKVTLNGKGS-VVIKATSGDKQ---TVSYTIKA-PSY-MIK--V
+O31000.1        TVDE-SGKVTLKGKGT-AVINVTSGDKQ---TVSYTIKA-PNY-MIR--V
+P19809.2        SVDASSGQVTLKEKGT-TTISVISSDNQ---TATYTIAT-PNS-LIVPNM
+Q07591.1        SVDN-SGVITLNEKGS-ATITVVSGDNQ---SATYTINT-PDNIIIA--V
+P11922.2        SVND-QGQVTITYQTY-SEVAVTAKSKK-FPSYSVSYRFYPNR-WIY--D
+P19196.1        PVDN-QGKVNIAYKTYGSTVTVTAKSKK-FPSYTATYQFKPNL-WVF--S
+Q8X8V7.2        DVDA-TGKVTFKNVGS-KWERITATPKTGGPSYIYEIRV-KSW-WVN--A
+Q8X8V7.2_1      DVDA-TGKVTFKNVGS-KWERITATPKTGGPSYIYEIRV-KSW-WVN--A
+Q8X8V7.2_2      DVDA-TGKVTFKNVGS-KWERITATPKTGGPSYIYEIRV-KSW-WVN--A
+Q8X8V7.2_3      DVDA-TGKVTFKNVGS-KWERITATPKTGGPSYIYEIRV-KSW-WVN--A
+                 *:   * :.:            :  :    :         .   :    
+
+P43261.2        D--KQAY-YADAMSICKNL---LP--------STQTVLSDIYDSWGAANK
+P43261.2_1      D--KQAY-YADAMSICKNL---LP--------STQTVLSDIYDSWGAANK
+O31000.1        G--NKAS-YANAMSFCGNL---LP--------SSQTVLSNVYNSWGPANG
+P19809.2        S--KRVT-YNDAVNTCKNFGGKLP--------SSQNELENVFKAWGAANK
+Q07591.1        DKINRMA-YSEAESRCQAISSNLA--------QSKSVLENIYSKWGAANK
+P11922.2        GG-TSLVSSLEASRQCQGSDMSAVLESSRATNGTRAPDGTLWGEWGSLTA
+P19196.1        GT-MSLQSSVEASRNCQRTDFTALIESARASNGSRSPDGTLWGEWGSLAT
+Q8X8V7.2        GD-AFMI-YSLAENFCSSNGYTLPLGDHLN-HSRSRGIGSLYSEWGDMGH
+Q8X8V7.2_1      GD-AFMI-YSLAENFCSSNGYTLPLGDHLN-HSRSRGIGSLYSEWGDMGH
+Q8X8V7.2_2      GD-AFMI-YSLAENFCSSNGYTLPLGDHLN-HSRSRGIGSLYSEWGDMGH
+Q8X8V7.2_3      GD-AFMI-YSLAENFCSSNGYTLPLGDHLN-HSRSRGIGSLYSEWGDMGH
+                .          *   *                        ::  **    
+
+P43261.2        YSHYSSMNSITAWIKQTSSEQRSGVSSTYNLITQNPLPGVNVNTPNVYAV
+P43261.2_1      YSHYSSMNSITAWIKQTSSEQRSGVSSTYNLITQNPLPGVNVNTPNVYAV
+O31000.1        YDHYRSMQSITAWITQTEADKISGVSTTYDLITQNPHKDVSLNAPNVYAV
+P19809.2        YEYYKSSQTIISWVQQTAQDAKSGVASTYDLVKQNPLNNIKASESNAYAT
+Q07591.1        YPYYSSSNSLTAWIKQSTSDSASGVSNTYDLVTTNSLTNVKATDKNAFAV
+P11922.2        YSS--DWQSGEYWVKKTSTDFETMN-----MDTG--AL-VQGPAYLAFPL
+P19196.1        YDS-AEWPSGNYWTKKTSTDFVTMD-----MTTG--DI-P-TSAATAYPL
+Q8X8V7.2        YTTEAGFHSNMYWSSSPANSNEQYV---VSLATG--DQSVFEKLGFAYAT
+Q8X8V7.2_1      YTTEAGFHSNMYWSSSPANSNEQYV---VSLATG--DQSVFEKLGFAYAT
+Q8X8V7.2_2      YTTEAGFHSNMYWSSSPANSNEQYV---VSLATG--DQSVFEKLGFAYAT
+Q8X8V7.2_3      YTTEAGFHSNMYWSSSPANSNEQYV---VSLATG--DQSVFEKLGFAYAT
+                *       :   *  ..  .          : .             .:. 
+
+P43261.2        CVE--
+P43261.2_1      CVE--
+O31000.1        CVE--
+P19809.2        CVK--
+Q07591.1        CVK--
+P11922.2        CALAI
+P19196.1        CAEPQ
+Q8X8V7.2        CYKNL
+Q8X8V7.2_1      CYKNL
+Q8X8V7.2_2      CYKNL
+Q8X8V7.2_3      CYKNL
+                *    
+
+
+

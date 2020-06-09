@@ -1,0 +1,77 @@
+>UniRef100_A0A1J0RS28 Outer membrane protein assembly factor BamE n=2 Tax=Alteromonas TaxID=226 RepID=A0A1J0RS28_9ALTE
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------MKLHHLLVILGITLTSTACS--N------
+WIYRIDVPQGNFLDQRDVEKLRVGMTKEQVIYVLGNPVVQDSFDDDTWYYVYDMKRGMKK
+RGEDFQKQMVINF-VDDKVTTVEGDF----------------------------------
+--ELSEDFNTPLDN------------------------
+>P0A937 
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MRCKTLTAAAAVLLMLTAGCS--TL---ER
+VVYRPDINQGNYLTANDVSKIRVGMTQQQVAYALGTPLMSDPFGTNTWFYVFRQQPGHE-
+--GVTQQTLTLTFNSSGVLTNID-------------------------------------
+--NKPALSGN----------------------------
+>UniRef100_A0A0H3FG75 Outer membrane protein assembly factor BamE n=3 Tax=Rahnella TaxID=34037 RepID=A0A0H3FG75_RAHSY
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------MTMRCKTLTAAAVALVMLTAGCS--TL---EK
+VVYRPDINQGNYLSPADVQKIHTGMTKQQVAYVLGTPMLHDPFGSNVWYYVFRQEPGHE-
+--GITQQTLTLTFNESDTLTNID-------------------------------------
+--NKPKLSDQK---------------------------
+>UniRef100_A0A498CEA8 Beta-barrel assembly machine subunit BamE n=2 Tax=Alkalispirillum mobile TaxID=85925 RepID=A0A498CEA8_9GAMM
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MGKRTLFALYITTTLLVTGCA--Q-VDRIP
+FTHQRDAQQGNIMTQEMVDELRPGMSQQQVRRIMGPPAVVDPFRTDRWDYVHTLRPGGG-
+--SMEKKRMTLKF-EDGRLVDISGDL----------------------------------
+------RPGHWEDS------------------------
+>UniRef100_A0A495PNU2 Beta-barrel assembly machine subunit BamE n=7 Tax=Pseudomonas TaxID=286 RepID=A0A495PNU2_9PSED
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------MQNTKLLLTSLTLVGLLALAGCS-------FP
+GVYKIDIQQGNVVTQDMIDQLRPGMTRRQVRFIMGNPLIQDTFNTNRWDYLYSLQPGGG-
+--KRQQERMSVFFNESDQLVSLSGDFMPGVSRDQEILGGSSDTTVSPATEPGQTEQPAAQ
+PEEKPAKPGSTEESIQREIDTIETTPVPTPAPLETR--
+>UniRef100_A0A423MZ40 Outer membrane protein assembly factor BamE n=10 Tax=Pseudomonas TaxID=286 RepID=A0A423MZ40_PSEFL
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------MQNTKLLLTSFTFVGLLALAGCS-------FP
+GVYKIDIQQGNVVTQDMIDQLRPGMTRRQVRFIMGNPLLTDTFHADRWDYLYSLQPGGG-
+--ERQQERVSVNFNSNDQLVSLSGDFMPGVSRDEAILGKDSGTSVTAPAENAEKPKP---
+--EQPAKPGSLLDSIQKDVDGVETVPVPTPEPLDTSPQ
+>UniRef100_A0A495LZ55 Beta-barrel assembly machine subunit BamE n=2 Tax=Pseudomonas TaxID=286 RepID=A0A495LZ55_9PSED
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------MQNTKLLLTSFTFVGLLALAGCS-------FP
+GVYKIDIQQGNVVTQDMIDQLRPGMTRKQVRFIMGNPLLTDTFHADRWDYLYSLQPGGG-
+--ERQQERISVIFNPNDQLVSLSGDFMPGVSRDEAILGKDSGTNVTAPAEKAEQPKP---
+--EKPVKPGSLLDQIQKEVDGVETVPVPTPEPLDTKPQ
+>UniRef100_A0A3B0WYX1 Outer membrane beta-barrel assembly protein BamE n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0WYX1_9ZZZZ
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MQNNLIIINLLIALLFIAGCD--P------
+--HRIDIQQGNRITPENFTKLKPGMTRNQVIFILGSPLLKDEFHKDRWDYVYYLKPGND-
+--PVKQSRVTLFF-DGDELAKIDDSAFTPDVYDTKSMVDK--------------------
+--SMGDQSGGGGGGGGGGGHTH----------------
+>UniRef100_A0A3B0YB83 Outer membrane beta-barrel assembly protein BamE n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0YB83_9ZZZZ
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------MQKNLIIICLLTGLLVLLQGCE--P------
+--HRIDIQQGNKVEPDTYEQLRKGMTRKQVIFLLGTPLLQDAFHQDRWDYIYYLKPGNE-
+--PTRQSRVTLHF-KDDALVEIDGSAYQPEMHDNSHGKDP--------------------
+--HESGGSSSAMGGGGGGGHGH----------------
+>UniRef100_A0A3B0Z1J3 Outer membrane beta-barrel assembly protein BamE n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0Z1J3_9ZZZZ
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------MQKLLISISVIASLFLAACSSDPIVNRLP
+FVYRIDIQQGNVITPEMVNQVRMGMSKRQVQFILGAPMLIDPFHAERWDYVHRYNPGSDG
+TAPASNQRITLKF-EDDRVAQISGTLLP----DPKPDTIPSNRQVTVVVPRQELEST---
+--GVLTKLWRWIGFGGES--------------------
+>UniRef100_A0A3B0YFQ5 Outer membrane beta-barrel assembly protein BamE n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0YFQ5_9ZZZZ
+MNGETGFFRHGLLTLLNGFVEELLNFAATSTHDVIVVVPFVHLEHRMPAFKMVTSHQPGG
+LKLGQHPVYRGQTNVFFGIQQAFVHVFGAHVARFAGFEDFEDLHPRQGDFQPGLAQITGF
+QCFYFPSGVFKTGYIVYHRALPKQSVPVPLLMRKLLTLITIIASFLLASCSSDPIVNRLP
+WVYKIEIQQGNVLKQEAVDQLRTGMTRRQVQFIMGTPLVADPFHANRWDYFYEYKPGTRG
+KGDARRDRLSLFF-EDDALIRLDGTVLP----DPDALTNQPKTMASVIVPPQEFVDP---
+--GILTRLWRWLTFSGAEPEQEVFRPDSGPVDNHTHGH

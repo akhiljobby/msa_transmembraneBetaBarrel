@@ -1,0 +1,1109 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE:  ], CPU=0.87 sec, SCORE=57, Nseq=11, Len=4250 
+
+P00646          MSGGDGRG--HNTGAHSTSGNI--------------------NGGPTGLG
+A8GM29          MSITGKLKSVLLTYSFIISISI--------------------NLFTTGSE
+A8GM29_1        MSITGKLKSVLLTYSFIISISI--------------------NLFTTGSE
+A8GM29_2        MSITGKLKSVLLTYSFIISISI--------------------NLFTTGSE
+A8GM29_3        MSITGKLKSVLLTYSFIISISI--------------------NLFTTGSE
+A8GM29_4        MSITGKLKSVLLTYSFIISISI--------------------NLFTTGSE
+A0A2H5W4U2      MSMGKDLGL--------------------------------------GA-
+A0A328C387      MMKMNDVD--ERRGV-----------------------------------
+A0A063ZXP1      KSP-------WASWQFGINYVYENGGSRFKGRGDKDNLYYYNKVFTRGNW
+A0A381CUQ6      MSFKGTTN------------------------------------------
+D3P164          MAARPPLP-------------------------------------AVK--
+                                                                  
+
+P00646          VGG--------GASD-GSGWSSENNPWGGGSGSGIHWGGGSGHGNG--GG
+A8GM29          AAGNPPPPPPPPPLP-PPGWT-------------YQAASSNNTGSG--GQ
+A8GM29_1        AAGNPPPPPPPPPLP-PPGWT-------------YQAASSNNTGSG--GQ
+A8GM29_2        AAGNPPPPPPPPPLP-PPGWT-------------YQAASSNNTGSG--GQ
+A8GM29_3        AAGNPPPPPPPPPLP-PPGWT-------------YQAASSNNTGSG--GQ
+A8GM29_4        AAGNPPPPPPPPPLP-PPGWT-------------YQAASSNNTGSG--GQ
+A0A2H5W4U2      -------------------W----------------------AGSG----
+A0A328C387      -----------------FGWS-------------ARAFGHE-------G-
+A0A063ZXP1      KEK--------NALDSIEGKKPNGHPITPGSDSQHSWKNIDNSSSG--GI
+A0A381CUQ6      -----------------------------------SGDATINVGSG--HS
+D3P164          -----------PSLL-PASHV-------------LRADGAVPCPAGLRSR
+                                                                  
+
+P00646          NGNSGGG--SGTGGN---------LSAVAAPV------------------
+A8GM29          TTQPESSKSTGSSK---KSSSSTKIPEVHPPTTELGKRYAKLIDIHDRKQ
+A8GM29_1        TTQPESSKSTGSSK---KSSSSTKIPEVHPPTTELGKRYAKLIDIHDRKQ
+A8GM29_2        TTQPESSKSTGSSK---KSSSSTKIPEVHPPTTELGKRYAKLIDIHDRKQ
+A8GM29_3        TTQPESSKSTGSSK---KSSSSTKIPEVHPPTTELGKRYAKLIDIHDRKQ
+A8GM29_4        TTQPESSKSTGSSK---KSSSSTKIPEVHPPTTELGKRYAKLIDIHDRKQ
+A0A2H5W4U2      ---------TPASK---K---------AGVPLRRLGLRATQWALVW----
+A0A328C387      ------I--THAAIR-RSQAMRWKIPVVMLCAT-LGY-------------
+A0A063ZXP1      TIDKDTS--IGSSTNGNRSWGLVDLRDLKEPTNEVEV-LARIFPKEVTKQ
+A0A381CUQ6      ---------TINAK---NGVTLEK--------------------------
+D3P164          FVMPLRFATAGALR---AGLLSGAALAGLVPT------------------
+                                                                  
+
+P00646          ------------AFGFPALSTPGA-----G--------------------
+A8GM29          N----------------------------LIIQFPKVIAYLIRQEL----
+A8GM29_1        N----------------------------LIIQFPKVIAYLIRQEL----
+A8GM29_2        N----------------------------LIIQFPKVIAYLIRQEL----
+A8GM29_3        N----------------------------LIIQFPKVIAYLIRQEL----
+A8GM29_4        N----------------------------LIIQFPKVIAYLIRQEL----
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      AISLNITEPTVQTLEAPDVNPQVNEPLSAPVIELPEVETVTINPLIINAP
+A0A381CUQ6      --------------------------------------------------
+D3P164          ------------------V-------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------T----------LQNLD--------
+A8GM29_1        --------------------------T----------LQNLD--------
+A8GM29_2        --------------------------T----------LQNLD--------
+A8GM29_3        --------------------------T----------LQNLD--------
+A8GM29_4        --------------------------T----------LQNLD--------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      SAPTAPSAPVINIGITAPNAPVPPTISVQPTNPSVPTAPNINISVTTPNI
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------G---------L-------------------------------
+A8GM29          --------------------------------------------------
+A8GM29_1        --------------------------------------------------
+A8GM29_2        --------------------------------------------------
+A8GM29_3        --------------------------------------------------
+A8GM29_4        --------------------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      TPLSITAPGNVDAPNVVSPEIKPVDFTVDPGGDSLVYTSDKDDEYGSKHQ
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          -----------AVSI-----------------------------------
+A8GM29          --------------TSVHNIITLFN-------------------------
+A8GM29_1        --------------TSVHNIITLFN-------------------------
+A8GM29_2        --------------TSVHNIITLFN-------------------------
+A8GM29_3        --------------TSVHNIITLFN-------------------------
+A8GM29_4        --------------TSVHNIITLFN-------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      GWKSNWPKEINVTELTSRNYVSLTRDEANSTIPTDQVINVTAENNRAMVV
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          ------------------KREDSILDNAKKIYQEFINDPYIAQFTNKNKQ
+A8GM29_1        ------------------KREDSILDNAKKIYQEFINDPYIAQFTNKNKQ
+A8GM29_2        ------------------KREDSILDNAKKIYQEFINDPYIAQFTNKNKQ
+A8GM29_3        ------------------KREDSILDNAKKIYQEFINDPYIAQFTNKNKQ
+A8GM29_4        ------------------KREDSILDNAKKIYQEFINDPYIAQFTNKNKQ
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      ------------------------------------GAPALAQTPAAVAQ
+A0A063ZXP1      DEVNKDGITVNFQGTIHLQRKKNVGIDLQGTHTGSKTAPSIANIINSGKI
+A0A381CUQ6      --------------------------------------------ANIDLA
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          -----------------SAGALSAA-------------------------
+A8GM29          TGDFLDNKLFEESH------------------------------------
+A8GM29_1        TGDFLDNKLFEESH------------------------------------
+A8GM29_2        TGDFLDNKLFEESH------------------------------------
+A8GM29_3        TGDFLDNKLFEESH------------------------------------
+A8GM29_4        TGDFLDNKLFEESH------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      SSELNAVST-----------------------------------------
+A0A063ZXP1      IGEAKHNNIVNENQIAFGFNNADASRNTTMTHMINEGTIELNAPSSAGIQ
+A0A381CUQ6      NGNYFN-KN-----------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          ----------------------EEAILRLLSLEQLDAQRKQDILSQQGNI
+A8GM29_1        ----------------------EEAILRLLSLEQLDAQRKQDILSQQGNI
+A8GM29_2        ----------------------EEAILRLLSLEQLDAQRKQDILSQQGNI
+A8GM29_3        ----------------------EEAILRLLSLEQLDAQRKQDILSQQGNI
+A8GM29_4        ----------------------EEAILRLLSLEQLDAQRKQDILSQQGNI
+A0A2H5W4U2      -------------------------------------------LLGWGLI
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      LKPEDPHYWQPDNWAAAPLQITKKATDKKMGRVLMKADNKKDINLKSKNS
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          ------------------------------------------IADIM-AA
+A8GM29          LEQLKFIKENS---EILGSYGKTESTNISKKLPEELPKILSQQGDIL-GQ
+A8GM29_1        LEQLKFIKENS---EILGSYGKTESTNISKKLPEELPKILSQQGDIL-GQ
+A8GM29_2        LEQLKFIKENS---EILGSYGKTESTNISKKLPEELPKILSQQGDIL-GQ
+A8GM29_3        LEQLKFIKENS---EILGSYGKTESTNISKKLPEELPKILSQQGDIL-GQ
+A8GM29_4        LEQLKFIKENS---EILGSYGKTESTNISKKLPEELPKILSQQGDIL-GQ
+A0A2H5W4U2      QIPLLWAQENS----------ATETPPASQEAPADDPSPL----------
+A0A328C387      ------FSVDEA---SDGTYIRIE--------------------------
+A0A063ZXP1      FGILTVFNEGVPKSLFASSYQSNH-ETLRKERTYDGERVLP-GGEIGRSA
+A0A381CUQ6      ------FNG---------------------------------SLTII-GD
+D3P164          ------------------AFAQSSVTALAQSLPA----IS----------
+                                                                  
+
+P00646          LKGPF----KFGLWGVA-----------------LYGVLPSQIAKDDPNM
+A8GM29          LRFIKENSEILGAYGKT-----------------VSTDISKKLPKELPKI
+A8GM29_1        LRFIKENSEILGAYGKT-----------------VSTDISKKLPKELPKI
+A8GM29_2        LRFIKENSEILGAYGKT-----------------VSTDISKKLPKELPKI
+A8GM29_3        LRFIKENSEILGAYGKT-----------------VSTDISKKLPKELPKI
+A8GM29_4        LRFIKENSEILGAYGKT-----------------VSTDISKKLPKELPKI
+A0A2H5W4U2      -KDLQWNGHVAVSYNHN-----------------FNSHV-----------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      LEDSKYTSGIYNTGTITISGDNSIGIGLLQEIQEVKVDGNINVGKEDPNQ
+A0A381CUQ6      LKLTNSSVINNGQAGFN-----------------VNG----KVTANDTEF
+D3P164          --------------------------------------VVASPDDALPAG
+                                                                  
+
+P00646          MSKIV---------------------------------------------
+A8GM29          LSQQGDILGQLKFINDNS----------EILLCGH---------------
+A8GM29_1        LSQQGDILGQLKFINDNS----------EILLCGH---------------
+A8GM29_2        LSQQGDILGQLKFINDNS----------EILLCGH---------------
+A8GM29_3        LSQQGDILGQLKFINDNS----------EILLCGH---------------
+A8GM29_4        LSQQGDILGQLKFINDNS----------EILLCGH---------------
+A0A2H5W4U2      -----------------NTFRVFDEGARQV--------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      EDEVSNLTGKERNKVENA----------VGVFAGVPTKPVKAGEKDTLID
+A0A381CUQ6      VAGVGD--------------------------------------------
+D3P164          SGLGGEGLSGRRLTTNDV----------AVLLRGL---------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------------------------------
+A8GM29_1        --------------------------------------------------
+A8GM29_2        --------------------------------------------------
+A8GM29_3        --------------------------------------------------
+A8GM29_4        --------------------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      NDGSRNQANSLVGTETVELGGNITLGKFASSSIGVLVGDTEVKLDEGKEN
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          ------------SK------------------------------------
+A8GM29_1        ------------SK------------------------------------
+A8GM29_2        ------------SK------------------------------------
+A8GM29_3        ------------SK------------------------------------
+A8GM29_4        ------------SK------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      GNTISDRKYKRSGDITAKASSTIIVGGMKNYGFVINNSAHSSTFGSEVDD
+A0A381CUQ6      --------------------------------------------------
+D3P164          ------------PG------------------------------------
+                                                                  
+
+P00646          --------------------------------------TS-LPA------
+A8GM29          -----------------------------AILKDKLKELS-KQL------
+A8GM29_1        -----------------------------AILKDKLKELS-KQL------
+A8GM29_2        -----------------------------AILKDKLKELS-KQL------
+A8GM29_3        -----------------------------AILKDKLKELS-KQL------
+A8GM29_4        -----------------------------AILKDKLKELS-KQL------
+A0A2H5W4U2      -----------------------------------------TLHQAEFWL
+A0A328C387      ---------------------------------------G-SQV------
+A0A063ZXP1      LIYFQKKNEHGRGKNAGTIDVTGKESVGFALIKGGHSENSGKIL------
+A0A381CUQ6      ----------------------------------LNRVTS-NGF------
+D3P164          -----------------------------V--------------------
+                                                                  
+
+P00646          D-DITESPVSSLP-LDKATVNVNVR---VVD-DVKDERQNISV-------
+A8GM29          D-TISSNQLVGFI-LDENKINTNLK---NVPFSAKKVREQVNNLNNEILE
+A8GM29_1        D-TISSNQLVGFI-LDENKINTNLK---NVPFSAKKVREQVNNLNNEILE
+A8GM29_2        D-TISSNQLVGFI-LDENKINTNLK---NVPFSAKKVREQVNNLNNEILE
+A8GM29_3        D-TISSNQLVGFI-LDENKINTNLK---NVPFSAKKVREQVNNLNNEILE
+A8GM29_4        D-TISSNQLVGFI-LDENKINTNLK---NVPFSAKKVREQVNNLNNEILE
+A0A2H5W4U2      EKPSSAESPIGFG-VDV-----------VLGFDAKKIHAAGL--------
+A0A328C387      A-TF-----SVFKLDDPPRLFVDLS---NSELAGETVSKQVNN---GVIS
+A0A063ZXP1      V-SGNATDSIGFY-GEEDQFTNQVSGEINVTSAGEKNKGVVLN--GKNAE
+A0A381CUQ6      F-IMSTTKGFENG-IDSDKSFTDVS---SGNTGALVFHNSLVNISSNLLD
+D3P164          --SLYGNGGVSSL-PALNGLGADRV---NVLVDGAPVAPACPNQMNPALS
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          KIFLH----------------------------DD---------------
+A8GM29_1        KIFLH----------------------------DD---------------
+A8GM29_2        KIFLH----------------------------DD---------------
+A8GM29_3        KIFLH----------------------------DD---------------
+A8GM29_4        KIFLH----------------------------DD---------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      RVGLI-------------------------EF-ED---------------
+A0A063ZXP1      VHFINAGKIITGNSVKGKEKVGVYAQGKYKFEHNTGANMEVGSNNIGFYV
+A0A381CUQ6      SKYAG----------------------------GF---------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          ----GTIT------------------------------------------
+A8GM29_1        ----GTIT------------------------------------------
+A8GM29_2        ----GTIT------------------------------------------
+A8GM29_3        ----GTIT------------------------------------------
+A8GM29_4        ----GTIT------------------------------------------
+A0A2H5W4U2      ------GS------------------------------------------
+A0A328C387      ----S---------------------------------------------
+A0A063ZXP1      KDNTGTVTIKAPIVLSKSDGGTSIGVYSDGEAKVNFGENSKLEIGEGAVG
+A0A381CUQ6      ----GAIT------------------------------------------
+D3P164          -----TIT------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --EQ---DLTRILQ-------KYKE-------TDLIKNLTKAIIYIDGNE
+A8GM29_1        --EQ---DLTRILQ-------KYKE-------TDLIKNLTKAIIYIDGNE
+A8GM29_2        --EQ---DLTRILQ-------KYKE-------TDLIKNLTKAIIYIDGNE
+A8GM29_3        --EQ---DLTRILQ-------KYKE-------TDLIKNLTKAIIYIDGNE
+A8GM29_4        --EQ---DLTRILQ-------KYKE-------TDLIKNLTKAIIYIDGNE
+A0A2H5W4U2      --ADDTFDLTQAYI-------TYKVPVGAGLDLKVGKFVTLHGAEVIRRP
+A0A328C387      --FQ---TVARLVIGF--E--ESAH-------YDVRTEGSDVVVFVDGAG
+A0A063ZXP1      LYSA---DPTKFNNTFKIETGKTLD-------VELGKNSTFGL--LNGNK
+A0A381CUQ6      --ET---NFATIAP-------ERDL-------SALY----DTR-------
+D3P164          --PT---RLSRVEV-------MAG--------------------------
+                                                                  
+
+P00646          ---------VSGVPM---------SVP-----------------------
+A8GM29          SNETVSKTLAKGLEN---------TTPEQ---------------------
+A8GM29_1        SNETVSKTLAKGLEN---------TTPEQ---------------------
+A8GM29_2        SNETVSKTLAKGLEN---------TTPEQ---------------------
+A8GM29_3        SNETVSKTLAKGLEN---------TTPEQ---------------------
+A8GM29_4        SNETVSKTLAKGLEN---------TTPEQ---------------------
+A0A2H5W4U2      GNFNVSRSILFGYAIPFTHTGLMAT-------------------------
+A0A328C387      RRGQASAAVARQD-------------------------------------
+A0A063ZXP1      ST-TASPLLSKYLNN---------GTADKINITSFGEGASLFYATLKAKA
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------------------------------
+A8GM29_1        --------------------------------------------------
+A8GM29_2        --------------------------------------------------
+A8GM29_3        --------------------------------------------------
+A8GM29_4        --------------------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      ILDEDYEVTNGQSTSTAVLVANDGANVEIASGKTLKTNTNVGLIATRGGG
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          ----------RGLIVDVLT----------HNTR-----------------
+A8GM29_1        ----------RGLIVDVLT----------HNTR-----------------
+A8GM29_2        ----------RGLIVDVLT----------HNTR-----------------
+A8GM29_3        ----------RGLIVDVLT----------HNTR-----------------
+A8GM29_4        ----------RGLIVDVLT----------HNTR-----------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      LSNSTSVAENKGNLISTRTDKGIGIYASTSNGKNSGTITMNHDEAVGILG
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          ------------------------VVDAKPTERP--GVFTAS--------
+A8GM29          -----IR-----------KALITKIDRERRQERN--QKLNKN--------
+A8GM29_1        -----IR-----------KALITKIDRERRQERN--QKLNKN--------
+A8GM29_2        -----IR-----------KALITKIDRERRQERN--QKLNKN--------
+A8GM29_3        -----IR-----------KALITKIDRERRQERN--QKLNKN--------
+A8GM29_4        -----IR-----------KALITKIDRERRQERN--QKLNKN--------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      EHGSNLTNSMKIELKEKSSAGIYGKDSNITQETAAEIKVNKGSSAGMYAI
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          ----------------------------------------IPGAP-----
+A8GM29          ----------------------------------------TEGDPFVDAL
+A8GM29_1        ----------------------------------------TEGDPFVDAL
+A8GM29_2        ----------------------------------------TEGDPFVDAL
+A8GM29_3        ----------------------------------------TEGDPFVDAL
+A8GM29_4        ----------------------------------------TEGDPFVDAL
+A0A2H5W4U2      -------------------------------------------YPFS---
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      VTSTSSLEKKVINKGKIDISGLNEKSSVGIYGNLDSSVTTTSGKLTIDNS
+A0A381CUQ6      --------------------------------------------------
+D3P164          ---ITPVS--------------------------------AGGDS----I
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          KKALVQRKSDPETIQKELERRKHETPRDLNAWDRVRQNMHNPNNQNDNPN
+A8GM29_1        KKALVQRKSDPETIQKELERRKHETPRDLNAWDRVRQNMHNPNNQNDNPN
+A8GM29_2        KKALVQRKSDPETIQKELERRKHETPRDLNAWDRVRQNMHNPNNQNDNPN
+A8GM29_3        KKALVQRKSDPETIQKELERRKHETPRDLNAWDRVRQNMHNPNNQNDNPN
+A8GM29_4        KKALVQRKSDPETIQKELERRKHETPRDLNAWDRVRQNMHNPNNQNDNPN
+A0A2H5W4U2      -------------------DRFTVTLGVVNGWDNVTDNNT----------
+A0A328C387      ----------GASAQ-----------------------------------
+A0A063ZXP1      GEITIQQNSSVGIYAKN-ESNQ--------------------------AN
+A0A381CUQ6      ------LD------------------------------------------
+D3P164          AGTI-AVESAPPVFAAP--GEP--------------------------PR
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          THD-ENNKGW-KEDNQ----------------------------------
+A8GM29_1        THD-ENNKGW-KEDNQ----------------------------------
+A8GM29_2        THD-ENNKGW-KEDNQ----------------------------------
+A8GM29_3        THD-ENNKGW-KEDNQ----------------------------------
+A8GM29_4        THD-ENNKGW-KEDNQ----------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      TQSIVNNSGFIRTDNFSSIGIVGEKSKISNTGSGTKGIEVKFKNSAGILA
+A0A381CUQ6      --------------------------------------------------
+D3P164          TEG-KLSASY-RSNGR----------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          ----------------------------------NAQ-------------
+A8GM29_1        ----------------------------------NAQ-------------
+A8GM29_2        ----------------------------------NAQ-------------
+A8GM29_3        ----------------------------------NAQ-------------
+A8GM29_4        ----------------------------------NAQ-------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      KNDSEVINSGRISLNSSSALSSSDGLVGISIDNSSTAENDANGEIIVVED
+A0A381CUQ6      --------------------------------------------------
+D3P164          ----------------------------------GVT-------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------------------------------
+A8GM29_1        --------------------------------------------------
+A8GM29_2        --------------------------------------------------
+A8GM29_3        --------------------------------------------------
+A8GM29_4        --------------------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      YSTGMLSSGGDITNAGTIDLAKKESVGMYATNANVTNSGAVSKGILIKDD
+A0A381CUQ6      --------------------------------------------------
+D3P164          -------------------------------GAA----------------
+                                                                  
+
+P00646          -----------------------------------V--LNISVNNSTPAV
+A8GM29          --------------------DANNNDVDRITKAKNE--LEQAVNAATRKF
+A8GM29_1        --------------------DANNNDVDRITKAKNE--LEQAVNAATRKF
+A8GM29_2        --------------------DANNNDVDRITKAKNE--LEQAVNAATRKF
+A8GM29_3        --------------------DANNNDVDRITKAKNE--LEQAVNAATRKF
+A8GM29_4        --------------------DANNNDVDRITKAKNE--LEQAVNAATRKF
+A0A2H5W4U2      ----------------------------------------------GKSL
+A0A328C387      -----------------------------------E--LERSRQAYERAS
+A0A063ZXP1      KSVGIYAKLNSSSTADKIVTNSGKIDIDGTSKTSSAGIYSIIENGATKKL
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------EASVAD-DRFSLGYNG-SWSRAGNYKAGGG
+                                                                  
+
+P00646          QTLSPG-------------------------------------------V
+A8GM29          SEMSSL-------------------------------------------L
+A8GM29_1        SEMSSL-------------------------------------------L
+A8GM29_2        SEMSSL-------------------------------------------L
+A8GM29_3        SEMSSL-------------------------------------------L
+A8GM29_4        SEMSSL-------------------------------------------L
+A0A2H5W4U2      HGMVTV--------------------------------------------
+A0A328C387      AELAS---------------------------------------------
+A0A063ZXP1      STVNSGNITINQKKSVGIYAKNESIQVNTQSTVTNGGKIEIKEEESAGIL
+A0A381CUQ6      --------------------------------------------------
+D3P164          RTVRSTL----------------------------------------YDV
+                                                                  
+
+P00646          --TNNTDKDVRP-AGFTQGGNTRDAVIRFPKDSG-HNAVYVSV-------
+A8GM29          --KDNTIKNATACQGYLKGAEDQLAL---AKEKG-QELIENSVQAF--KI
+A8GM29_1        --KDNTIKNATACQGYLKGAEDQLAL---AKEKG-QELIENSVQAF--KI
+A8GM29_2        --KDNTIKNATACQGYLKGAEDQLAL---AKEKG-QELIENSVQAF--KI
+A8GM29_3        --KDNTIKNATACQGYLKGAEDQLAL---AKEKG-QELIENSVQAF--KI
+A8GM29_4        --KDNTIKNATACQGYLKGAEDQLAL---AKEKG-QELIENSVQAF--KI
+A0A2H5W4U2      ----LPLKDLTLTVGGTWGPEQADT-------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      AEKSKVTNTATGTNGIIVSAKKSAGI---IGKLG-SEIINNGIIKT--EI
+A0A381CUQ6      -----IKGNSLYVVGDLKGFD------------------ANTIKNF--KT
+D3P164          --QDNAVTFG-------------------ARRDGHQVTVQGGIQTMPYQG
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          -IPKKSQDNMDD--------------------NW----------------
+A8GM29_1        -IPKKSQDNMDD--------------------NW----------------
+A8GM29_2        -IPKKSQDNMDD--------------------NW----------------
+A8GM29_3        -IPKKSQDNMDD--------------------NW----------------
+A8GM29_4        -IPKKSQDNMDD--------------------NW----------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      ATPTAAADGIVGISLNASKATNGSNGTITLDTDYSTGMYGEANSQLINEG
+A0A381CUQ6      --------------------------------------------------
+D3P164          -FPTQRM-------------------------------------------
+                                                                  
+
+P00646          ------SD----------VLSPDQV-------------------------
+A8GM29          ------QN----------YLSPKEIIALNALSDETNTLKSKKNKAGKFTS
+A8GM29_1        ------QN----------YLSPKEIIALNALSDETNTLKSKKNKAGKFTS
+A8GM29_2        ------QN----------YLSPKEIIALNALSDETNTLKSKKNKAGKFTS
+A8GM29_3        ------QN----------YLSPKEIIALNALSDETNTLKSKKNKAGKFTS
+A8GM29_4        ------QN----------YLSPKEIIALNALSDETNTLKSKKNKAGKFTS
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      NITGTNKEYIVGMAGDSSTVTNKNIITLNGKKA-----------TGIF--
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          TADASQFKAKQQKYHTLLSELQKIGIAKQQEKLVKDYVDEML--TNAKKA
+A8GM29_1        TADASQFKAKQQKYHTLLSELQKIGIAKQQEKLVKDYVDEML--TNAKKA
+A8GM29_2        TADASQFKAKQQKYHTLLSELQKIGIAKQQEKLVKDYVDEML--TNAKKA
+A8GM29_3        TADASQFKAKQQKYHTLLSELQKIGIAKQQEKLVKDYVDEML--TNAKKA
+A8GM29_4        TADASQFKAKQQKYHTLLSELQKIGIAKQQEKLVKDYVDEML--TNAKKA
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      ----------GKNSSTLLNETTGKIITKEEE-SVGMYSSSSLKATNKGTI
+A0A381CUQ6      -----------------AK-------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          VGKIETTLEYLNKKKENKNDNAESSPLISKEIFEAREQLKKAEQKLERIK
+A8GM29_1        VGKIETTLEYLNKKKENKNDNAESSPLISKEIFEAREQLKKAEQKLERIK
+A8GM29_2        VGKIETTLEYLNKKKENKNDNAESSPLISKEIFEAREQLKKAEQKLERIK
+A8GM29_3        VGKIETTLEYLNKKKENKNDNAESSPLISKEIFEAREQLKKAEQKLERIK
+A8GM29_4        VGKIETTLEYLNKKKENKNDNAESSPLISKEIFEAREQLKKAEQKLERIK
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      ----------------------------------TQQALSRAQQELA---
+A0A063ZXP1      ITEKKTSAGMLGDKANIEND----SSITTKEEMSAGMYVKNGTSKAT---
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          FKNTIAKQRKADSSDEDSDDEWDDDY---------------------D--
+A8GM29_1        FKNTIAKQRKADSSDEDSDDEWDDDY---------------------D--
+A8GM29_2        FKNTIAKQRKADSSDEDSDDEWDDDY---------------------D--
+A8GM29_3        FKNTIAKQRKADSSDEDSDDEWDDDY---------------------D--
+A8GM29_4        FKNTIAKQRKADSSDEDSDDEWDDDY---------------------D--
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      Q-------------------------------------------------
+A0A063ZXP1      NKGTVTTEKKTSAGILAEIDEANGGTVSGLNETTGTITVSEETSAGMLGK
+A0A381CUQ6      --------------------DWEDA---------------------FKT-
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------KQRQDEENRRQQEW-DA-------------------------
+A8GM29          ----KKATKQKEELANKQKQELEDA---------Q---------------
+A8GM29_1        ----KKATKQKEELANKQKQELEDA---------Q---------------
+A8GM29_2        ----KKATKQKEELANKQKQELEDA---------Q---------------
+A8GM29_3        ----KKATKQKEELANKQKQELEDA---------Q---------------
+A8GM29_4        ----KKATKQKEELANKQKQELEDA---------Q---------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      ------ARAQRE---QARGQERERL---------E---------------
+A0A063ZXP1      VKSAVTASTAKLSLTNKKDINI-NTKNSAGIMVVNESTAVGKENVLAENT
+A0A381CUQ6      -----LSN---------------NI---------Q---------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          ----------------THP-------------------------------
+A8GM29          -----------------EE-------------------------------
+A8GM29_1        -----------------EE-------------------------------
+A8GM29_2        -----------------EE-------------------------------
+A8GM29_3        -----------------EE-------------------------------
+A8GM29_4        -----------------EE-------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      -----------------QE-------------------------------
+A0A063ZXP1      GTINLTSSSATNEKNIGILADKATGINTGNINVNSKESIGMLGQNVSSIT
+A0A381CUQ6      -----------------TQ-------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------------------------------
+A8GM29_1        --------------------------------------------------
+A8GM29_2        --------------------------------------------------
+A8GM29_3        --------------------------------------------------
+A8GM29_4        --------------------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      NNKTITLSGEKGIGMLAKDTSSTADNNDTINVNGKESLGMLGEDSGTVKN
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          ------------------------------VEAAERNYERARA---ELN-
+A8GM29          ------------------------------IKQAKKNLENAEVRDAERKQ
+A8GM29_1        ------------------------------IKQAKKNLENAEVRDAERKQ
+A8GM29_2        ------------------------------IKQAKKNLENAEVRDAERKQ
+A8GM29_3        ------------------------------IKQAKKNLENAEVRDAERKQ
+A8GM29_4        ------------------------------IKQAKKNLENAEVRDAERKQ
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      ------------------------------IATRTRALEQAQHQA-NSRQ
+A0A063ZXP1      NKTISVTAEKGVGIFVRDNGAGKGSGTGENTSTGTITLENKEAVGIFSKN
+A0A381CUQ6      ------------------------------FTTQKTDLEKLYKYDSSSKA
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          QEAAAKRQEELKRKQDEVNHKIVEDEVERKAENAQA---------ERLED
+A8GM29_1        QEAAAKRQEELKRKQDEVNHKIVEDEVERKAENAQA---------ERLED
+A8GM29_2        QEAAAKRQEELKRKQDEVNHKIVEDEVERKAENAQA---------ERLED
+A8GM29_3        QEAAAKRQEELKRKQDEVNHKIVEDEVERKAENAQA---------ERLED
+A8GM29_4        QEAAAKRQEELKRKQDEVNHKIVEDEVERKAENAQA---------ERLED
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      AE------------------------------------------------
+A0A063ZXP1      NGT------------------------SDSAKNSGTINLGKADGSTIKES
+A0A381CUQ6      ESG-----------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------QANEDVARN----------QERQAKAVQVY
+A8GM29          MDAMFKNAKDEAEHKEKANRQRQEELKRKQDEVNRKIVEDEVKRKAENVQ
+A8GM29_1        MDAMFKNAKDEAEHKEKANRQRQEELKRKQDEVNRKIVEDEVKRKAENVQ
+A8GM29_2        MDAMFKNAKDEAEHKEKANRQRQEELKRKQDEVNRKIVEDEVKRKAENVQ
+A8GM29_3        MDAMFKNAKDEAEHKEKANRQRQEELKRKQDEVNRKIVEDEVKRKAENVQ
+A8GM29_4        MDAMFKNAKDEAEHKEKANRQRQEELKRKQDEVNRKIVEDEVKRKAENVQ
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      ---------------AQALRQQLAAVEAEQAQSQQRLVD--AQRRADQAE
+A0A063ZXP1      LIGMFA----QAEAGKKANVKNTKDINVN----TKKSVGIYAKNDASNIT
+A0A381CUQ6      ---IFK----DNR--------D--TVKNK-------IDE--YNKEKTGII
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          NSRKSELDAANKT-------------------------------------
+A8GM29          AERLEDMDAVFKNA------------------------------------
+A8GM29_1        AERLEDMDAVFKNA------------------------------------
+A8GM29_2        AERLEDMDAVFKNA------------------------------------
+A8GM29_3        AERLEDMDAVFKNA------------------------------------
+A8GM29_4        AERLEDMDAVFKNA------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      AERQEALRLA-RTKEAEGERARQRAQELEAELRSTQQTMASVNQQREGAQ
+A0A063ZXP1      DVDLENTGDININ-------------------------------------
+A0A381CUQ6      AISQANVDSM-KT-------------------------------------
+D3P164          --DLTDNSTLFLN-------------------------------------
+                                                                  
+
+P00646          --------LADAI-AEIKQFNRFAHDPMA---------------------
+A8GM29          ---------KDEA-EHKEKANRQRQEELKR--KQDEVNRKIVEDEVERKA
+A8GM29_1        ---------KDEA-EHKEKANRQRQEELKR--KQDEVNRKIVEDEVERKA
+A8GM29_2        ---------KDEA-EHKEKANRQRQEELKR--KQDEVNRKIVEDEVERKA
+A8GM29_3        ---------KDEA-EHKEKANRQRQEELKR--KQDEVNRKIVEDEVERKA
+A8GM29_4        ---------KDEA-EHKEKANRQRQEELKR--KQDEVNRKIVEDEVERKA
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      SELGRLSEQVEAS-ERRLVAERRQLEEARRREAQLE--------------
+A0A063ZXP1      --------SKESAGVYAPKANISKVGTITLKNSIDSNSSSAVYVSKGGKV
+A0A381CUQ6      --------ALDEA-NKKG-----DQEGIKK----------------AREA
+D3P164          --------GRYEG-TFDWGTLDARANWRRTRHAMNFLE---------DKG
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          ENAQAERL------EDMDAMFKNAKDEAEYKE------------------
+A8GM29_1        ENAQAERL------EDMDAMFKNAKDEAEYKE------------------
+A8GM29_2        ENAQAERL------EDMDAMFKNAKDEAEYKE------------------
+A8GM29_3        ENAQAERL------EDMDAMFKNAKDEAEYKE------------------
+A8GM29_4        ENAQAERL------EDMDAMFKNAKDEAEYKE------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      -----AQL------QQLSSSSSQADREAMARL------------------
+A0A063ZXP1      ANTAGAKINLGTVNQNRVAYYVNGKDSALAGADIGKITGYGVGVYLQGTS
+A0A381CUQ6      YNAAVKKL------EDD---------------------------------
+D3P164          GTA--KGG------MPMDTLTTDA----GYSV------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------------------------------
+A8GM29_1        --------------------------------------------------
+A8GM29_2        --------------------------------------------------
+A8GM29_3        --------------------------------------------------
+A8GM29_4        --------------------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      GDKATLDKNTSKLDYTLQGTGNGIIGLLLKGETDIQSYTKGIKVGNTVAA
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------------------------------
+A8GM29_1        --------------------------------------------------
+A8GM29_2        --------------------------------------------------
+A8GM29_3        --------------------------------------------------
+A8GM29_4        --------------------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      TSPSDKAKYAIGIYADAQGTAGTPYNIATSIIAGKNGVGIFADKDSNIHY
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------------------------------
+A8GM29_1        --------------------------------------------------
+A8GM29_2        --------------------------------------------------
+A8GM29_3        --------------------------------------------------
+A8GM29_4        --------------------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      TGNMEIGDGTTAGTGIFITKKIGTGGKVTLDSNTITLKGTKGVVAIASEG
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------GG--HRMWQM-AGLKAQRA-----------------------
+A8GM29          -------------KANRQ-RQDEVNRKIVEDEVERKAENAQAERLEDMDA
+A8GM29_1        -------------KANRQ-RQDEVNRKIVEDEVERKAENAQAERLEDMDA
+A8GM29_2        -------------KANRQ-RQDEVNRKIVEDEVERKAENAQAERLEDMDA
+A8GM29_3        -------------KANRQ-RQDEVNRKIVEDEVERKAENAQAERLEDMDA
+A8GM29_4        -------------KANRQ-RQDEVNRKIVEDEVERKAENAQAERLEDMDA
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      -------------QAERQ-RQRELQVE-AQAQV---------ERVQQ---
+A0A063ZXP1      TTFNAGNATIELEGSNIQ-GVGVYAKK-GSTV----------NVDNW---
+A0A381CUQ6      ------------------------KKT-----------------------
+D3P164          -------------KATLPLSARDTLRV-----------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          MFKNAKDEAEHKEKANRQRQEE----------LK----------------
+A8GM29_1        MFKNAKDEAEHKEKANRQRQEE----------LK----------------
+A8GM29_2        MFKNAKDEAEHKEKANRQRQEE----------LK----------------
+A8GM29_3        MFKNAKDEAEHKEKANRQRQEE----------LK----------------
+A8GM29_4        MFKNAKDEAEHKEKANRQRQEE----------LK----------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      EAAQAQRELQRLNNALAQRDAE----------IE----------------
+A0A063ZXP1      TFNN------HGNSAEEVRSEEGGAYINANKSLKPRMVLTHVINGETSIA
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          -------------------------------------QTDVNNK------
+A8GM29          -----------------------------------RKQDEVNHKIVEDEV
+A8GM29_1        -----------------------------------RKQDEVNHKIVEDEV
+A8GM29_2        -----------------------------------RKQDEVNHKIVEDEV
+A8GM29_3        -----------------------------------RKQDEVNHKIVEDEV
+A8GM29_4        -----------------------------------RKQDEVNHKIVEDEV
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      -----------------------------------RLRQDVQQARQEQAR
+A0A063ZXP1      SGKTVTSVNDGSITAKENIGLMAEGIKNPTMTWQEGDFEIVNHGTIDFSN
+A0A381CUQ6      -------------------------------------LSELNNRLAEYNV
+D3P164          -------------------------------------GSEFRHTHLDDWW
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          ER--KAENAQAERLEDMDAMFKNAKDEAEHKEKANRQRQEELKRKQDE--
+A8GM29_1        ER--KAENAQAERLEDMDAMFKNAKDEAEHKEKANRQRQEELKRKQDE--
+A8GM29_2        ER--KAENAQAERLEDMDAMFKNAKDEAEHKEKANRQRQEELKRKQDE--
+A8GM29_3        ER--KAENAQAERLEDMDAMFKNAKDEAEHKEKANRQRQEELKRKQDE--
+A8GM29_4        ER--KAENAQAERLEDMDAMFKNAKDEAEHKEKANRQRQEELKRKQDE--
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      EVA-SADEAERARLRALNEAIAREEQRVA---------------------
+A0A063ZXP1      SEKSTAMFINSARAQ-NDGVIKVGKNSTA------------------IYG
+A0A381CUQ6      -------------------L------------------------------
+D3P164          DP--VAGVAMMSPL-----TFWNVKDGSR---------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------VNRKIVEDEVKRKAEN--------
+A8GM29_1        --------------------------VNRKIVEDEVKRKAEN--------
+A8GM29_2        --------------------------VNRKIVEDEVKRKAEN--------
+A8GM29_3        --------------------------VNRKIVEDEVKRKAEN--------
+A8GM29_4        --------------------------VNRKIVEDEVKRKAEN--------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      FYNKDTRKYDGASVNPDPNKLELETTTNSSISLGDSSTGMYLINAEKIEN
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------VQAERLEDMDAVFKNAK----------------DEA
+A8GM29_1        --------------VQAERLEDMDAVFKNAK----------------DEA
+A8GM29_2        --------------VQAERLEDMDAVFKNAK----------------DEA
+A8GM29_3        --------------VQAERLEDMDAVFKNAK----------------DEA
+A8GM29_4        --------------VQAERLEDMDAVFKNAK----------------DEA
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      KGGEITSETGATKNVGIYVVNGQDSVAANNKILNMTTATNINLGNGSVGL
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          EHKEKANRQRQEELKRKQDEVNRK--------IVED-EVERKAENA----
+A8GM29_1        EHKEKANRQRQEELKRKQDEVNRK--------IVED-EVERKAENA----
+A8GM29_2        EHKEKANRQRQEELKRKQDEVNRK--------IVED-EVERKAENA----
+A8GM29_3        EHKEKANRQRQEELKRKQDEVNRK--------IVED-EVERKAENA----
+A8GM29_4        EHKEKANRQRQEELKRKQDEVNRK--------IVED-EVERKAENA----
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      -SLEQARRQEEGQLENLQAR--RS--------REED-GV--AAVRQ----
+A0A063ZXP1      YSKGQSNTVRNTVTNTGDITVGDK--------IAGSPAVAMYAENTNLNT
+A0A381CUQ6      ----------IEDIKNKTANLDKK--------INDK-NFN-IAAGQK---
+D3P164          -DRLGTFAE---WEAA------WSPAWTTLLGVRND-VVWMDTGAV----
+                                                                  
+
+P00646          ------------QAAFDAAAK-----------------------------
+A8GM29          ------------------QAERLEDM------------------------
+A8GM29_1        ------------------QAERLEDM------------------------
+A8GM29_2        ------------------QAERLEDM------------------------
+A8GM29_3        ------------------QAERLEDM------------------------
+A8GM29_4        ------------------QAERLEDM------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      ------------------ERERLEDEM-----------------------
+A0A063ZXP1      NSNVRVGKDGIAFYGKNSTIEAKGSVNFQNKGVLAYLEDSKFISHLTNLG
+A0A381CUQ6      -------------------GKIFASL------------------------
+D3P164          ------------------QPYSWQNS------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------------------------------
+A8GM29_1        --------------------------------------------------
+A8GM29_2        --------------------------------------------------
+A8GM29_3        --------------------------------------------------
+A8GM29_4        --------------------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      STQNTMLYLKNSIAQLDGAGTKVDMDIADGYTGAYIEGNSTLTGVKTIKL
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------------------------------
+A8GM29_1        --------------------------------------------------
+A8GM29_2        --------------------------------------------------
+A8GM29_3        --------------------------------------------------
+A8GM29_4        --------------------------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      GQDSTGLFLKDANFTSEAEKIIGTKDKSRGILATNSNLINKSKISLSGAE
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          -AAMFKN------------------------AKDEAEYKEKANRQRQDEV
+A8GM29_1        -AAMFKN------------------------AKDEAEYKEKANRQRQDEV
+A8GM29_2        -AAMFKN------------------------AKDEAEYKEKANRQRQDEV
+A8GM29_3        -AAMFKN------------------------AKDEAEYKEKANRQRQDEV
+A8GM29_4        -AAMFKN------------------------AKDEAEYKEKANRQRQDEV
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      --AQARQ-----------------------ALEAELTQARRALEATREEA
+A0A063ZXP1      SIGIYSNADSSKSVVNNGELNLSGKQTLGVFLRGGQSFENKANIKIADSA
+A0A381CUQ6      -AT-----------------------------------------------
+D3P164          -VGMMRM------------------------ANPDAADA-----------
+                                                                  
+
+P00646          ---------------------------------------E-KSDADAALS
+A8GM29          NRKIVEDEV-----------------ERK---AENAQAER-LEDMDAMFK
+A8GM29_1        NRKIVEDEV-----------------ERK---AENAQAER-LEDMDAMFK
+A8GM29_2        NRKIVEDEV-----------------ERK---AENAQAER-LEDMDAMFK
+A8GM29_3        NRKIVEDEV-----------------ERK---AENAQAER-LEDMDAMFK
+A8GM29_4        NRKIVEDEV-----------------ERK---AENAQAER-LEDMDAMFK
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      ARAEAAREE-----------------ATR---AAAAQAAR-AIPVDPKNS
+A0A063ZXP1      NSKNPTIGIYTAEGTSSIKHSSGIIEVGQKSIGIYSKTNS-AVEMTGGKI
+A0A381CUQ6      ----------------------------------SSVGGKLAGTADYIFA
+D3P164          ----------------------------R---AFNARGHA-RTDV-----
+                                                                  
+
+P00646          SAMESR--KKK---------------------------------------
+A8GM29          NAKDEA--EHKEKANRQRQEELKRKQDE-------------VNCKMVEDE
+A8GM29_1        NAKDEA--EHKEKANRQRQEELKRKQDE-------------VNCKMVEDE
+A8GM29_2        NAKDEA--EHKEKANRQRQEELKRKQDE-------------VNCKMVEDE
+A8GM29_3        NAKDEA--EHKEKANRQRQEELKRKQDE-------------VNCKMVEDE
+A8GM29_4        NAKDEA--EHKEKANRQRQEELKRKQDE-------------VNCKMVEDE
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      NAVRSV--RLE------------TGDD--------------GRSR-IVVQ
+A0A063ZXP1      HVKDQGIGIYKEAGKLTIKGELDVDKHVATVKDSEPTAVYGVNGVEVTDK
+A0A381CUQ6      NGK-------------------------------------------VIND
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          V--------------ERKAE-NAEDEYLEDMAAMFKNAEDEAEYKEK---
+A8GM29_1        V--------------ERKAE-NAEDEYLEDMAAMFKNAEDEAEYKEK---
+A8GM29_2        V--------------ERKAE-NAEDEYLEDMAAMFKNAEDEAEYKEK---
+A8GM29_3        V--------------ERKAE-NAEDEYLEDMAAMFKNAEDEAEYKEK---
+A8GM29_4        V--------------ERKAE-NAEDEYLEDMAAMFKNAEDEAEYKEK---
+A0A2H5W4U2      ---------------------NGPKRSLIDIVATYKPVP-----------
+A0A328C387      L--------------ERPGQ-VETTQSRDGRAVMILNDVALPEHLER---
+A0A063ZXP1      ASKISIGEKSYGFILSNTDD-NKINTFTNTNTGTVKMA-DESTYLYSSGK
+A0A381CUQ6      V--------------ERAAQSNAGNSALNAPIGAI---------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          ----ANRQRQDEVNRKMVEDEVERKAE-----------------------
+A8GM29_1        ----ANRQRQDEVNRKMVEDEVERKAE-----------------------
+A8GM29_2        ----ANRQRQDEVNRKMVEDEVERKAE-----------------------
+A8GM29_3        ----ANRQRQDEVNRKMVEDEVERKAE-----------------------
+A8GM29_4        ----ANRQRQDEVNRKMVEDEVERKAE-----------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      ----TLAADSQGGAVRFVSSFVDARTN-----------------------
+A0A063ZXP1      AKITNNRNLSSNGANRLISFYIKEKGEFTNNGIIDFSNGKGNLGIYAPGG
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          -----------------------------------NAEDEAEHK------
+A8GM29_1        -----------------------------------NAEDEAEHK------
+A8GM29_2        -----------------------------------NAEDEAEHK------
+A8GM29_3        -----------------------------------NAEDEAEHK------
+A8GM29_4        -----------------------------------NAEDEAEHK------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      -----------------------------------TVRMEAELNDEARAE
+A0A063ZXP1      KATNKGTILVGKTDDIDPITGKIYTDLNKIVYGIGMAADNTGKI------
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------EDKKRS
+A8GM29          ------------------------------------------ENENRQRQ
+A8GM29_1        ------------------------------------------ENENRQRQ
+A8GM29_2        ------------------------------------------ENENRQRQ
+A8GM29_3        ------------------------------------------ENENRQRQ
+A8GM29_4        ------------------------------------------ENENRQRQ
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      LSQQGNELVWEFAPTRPVATQQLAADASPRRVRAGESVTSAPPNYPRVVT
+A0A063ZXP1      ------------------------------------------SNEGEIRV
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          AEN---NLNDEKNKPRK----------------------------GFKDY
+A8GM29          EEQ---NCQEQERKRLAAEE-DEQTEK-TTRKQEETEEEKLKNDIALEGE
+A8GM29_1        EEQ---NCQEQERKRLAAEE-DEQTEK-TTRKQEETEEEKLKNDIALEGE
+A8GM29_2        EEQ---NCQEQERKRLAAEE-DEQTEK-TTRKQEETEEEKLKNDIALEGE
+A8GM29_3        EEQ---NCQEQERKRLAAEE-DEQTEK-TTRKQEETEEEKLKNDIALEGE
+A8GM29_4        EEQ---NCQEQERKRLAAEE-DEQTEK-TTRKQEETEEEKLKNDIALEGE
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      DPSQVSSVPGMSRKRITIDL-RNADIQNVLRLVATEGG---VNIIAGDGV
+A0A063ZXP1      SEN---KSIGMYGSGLGTIVENTESGKIYLDGSKATDS---NKIESMTGV
+A0A381CUQ6      ------------------------------------NM---SNDMAISNR
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          GHDYHP-----------------------------APKTENIKGLGDLKP
+A8GM29          DEDIGV-----------------------------SFKTEAI--------
+A8GM29_1        DEDIGV-----------------------------SFKTEAI--------
+A8GM29_2        DEDIGV-----------------------------SFKTEAI--------
+A8GM29_3        DEDIGV-----------------------------SFKTEAI--------
+A8GM29_4        DEDIGV-----------------------------SFKTEAI--------
+A0A2H5W4U2      -------------------------------------PLTLI--------
+A0A328C387      SGAVTMRLRNVPLDQVFLNILQALQLGFEVRGNVIRVAPASV--------
+A0A063ZXP1      YVDNGA-----------------------------TFTNKGL--------
+A0A381CUQ6      LAKFSN-----------------------------PYSTVN---------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          GIPKTPKQ-NG-GGKRKRWT----------------------------GD
+A8GM29          -----VEQ-DE-AAQRQQVS----------------------------DD
+A8GM29_1        -----VEQ-DE-AAQRQQVS----------------------------DD
+A8GM29_2        -----VEQ-DE-AAQRQQVS----------------------------DD
+A8GM29_3        -----VEQ-DE-AAQRQQVS----------------------------DD
+A8GM29_4        -----VEQ-DE-AAQRQQVS----------------------------DD
+A0A2H5W4U2      -----VNV-DY-GVEADAVP----------------------------DE
+A0A328C387      -----LSE-EE-AARAEARSRAQRVQPLEVFLLPVNYATADELVAQVQGL
+A0A063ZXP1      -----ITTIDSYAGRDEKVN----------------------------EN
+A0A381CUQ6      --------------------------------------------------
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          K--GR-KIYEWDS-------------------------------------
+A8GM29          T--SR-KVAILVKATSTLHKPVHHNILSDRLKVS-AIAT--GDE--EPTI
+A8GM29_1        T--SR-KVAILVKATSTLHKPVHHNILSDRLKVS-AIAT--GDE--EPTI
+A8GM29_2        T--SR-KVAILVKATSTLHKPVHHNILSDRLKVS-AIAT--GDE--EPTI
+A8GM29_3        T--SR-KVAILVKATSTLHKPVHHNILSDRLKVS-AIAT--GDE--EPTI
+A8GM29_4        T--SR-KVAILVKATSTLHKPVHHNILSDRLKVS-AIAT--GDE--EPTI
+A0A2H5W4U2      T--GGSKTARWYGAAGYVLYD-----LDDRWSVG----------------
+A0A328C387      LSPRG-SVSVDERTNTLIIKDLRENLTSIRMLVE-TLDS--QVP--QVLI
+A0A063ZXP1      V--NG-LVGVAVMNGSTLINEAGGKILIDAGNSYGVIIRGKRDA--SGNV
+A0A381CUQ6      -----------VASLEGLKFAAGNGIASDSQYAY-G------AR----SY
+D3P164          ---NV-DVTALVRYTPS------DT--------S-AIEAGYARKTRSPNL
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          -ARGVWIS--GLYGMNKQGT----WK------------------------
+A8GM29_1        -ARGVWIS--GLYGMNKQGT----WK------------------------
+A8GM29_2        -ARGVWIS--GLYGMNKQGT----WK------------------------
+A8GM29_3        -ARGVWIS--GLYGMNKQGT----WK------------------------
+A8GM29_4        -ARGVWIS--GLYGMNKQGT----WK------------------------
+A0A2H5W4U2      ------LR--GEFFIDREGF----R-------------------------
+A0A328C387      EARIVETS------------------------------------------
+A0A063ZXP1      -ERYAVIKNYGEIKVRGKGTWGISWRDVKPEEIAALEAQINKKITSDPPN
+A0A381CUQ6      -DNNVWAN--------VIGG----AN------------------------
+D3P164          YERYAWGT--GGMSSSMNGW----FG------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------------NIPK--------------
+A8GM29_1        --------------------------------NIPK--------------
+A8GM29_2        --------------------------------NIPK--------------
+A8GM29_3        --------------------------------NIPK--------------
+A8GM29_4        --------------------------------NIPK--------------
+A0A2H5W4U2      ----------------------------------LG--------------
+A0A328C387      --------------------------------------------------
+A0A063ZXP1      QEIRQAAGTDKELEGIKITVVNGKPIFSRNGIEIPEAEVEQIGKLIGKES
+A0A381CUQ6      --------------------------------IIDS--------------
+D3P164          --------------------------------DAN---------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          ------------YQGRTTGITIGADIEFIN--------------SH-D--
+A8GM29_1        ------------YQGRTTGITIGADIEFIN--------------SH-D--
+A8GM29_2        ------------YQGRTTGITIGADIEFIN--------------SH-D--
+A8GM29_3        ------------YQGRTTGITIGADIEFIN--------------SH-D--
+A8GM29_4        ------------YQGRTTGITIGADIEFIN--------------SH-D--
+A0A2H5W4U2      ------------WTDPTTGLPARCDL------------------------
+A0A328C387      -----------DTFSRQIGIQWGGDIGFSQ--------------GTGNPT
+A0A063ZXP1      NLGLSDIGFYVDTLGKTKPIDLDGGTPPID--------------SQ-L--
+A0A381CUQ6      ------------KSGALYGVSVGYD-RLVG--------------ED-T--
+D3P164          -----------GYVGNP------------GLKPEVANTASATLSLH-DAT
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          -----------------------------------------VIGIA-YSR
+A8GM29_1        -----------------------------------------VIGIA-YSR
+A8GM29_2        -----------------------------------------VIGIA-YSR
+A8GM29_3        -----------------------------------------VIGIA-YSR
+A8GM29_4        -----------------------------------------VIGIA-YSR
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      GL-----------------------------------IFPNVLGL-AGGA
+A0A063ZXP1      -----------------------------------------IIGT-EYSE
+A0A381CUQ6      -----------------------------------------ILGA-YLTY
+D3P164          RKAWEVKLTPYYTYVRNYIDVERIGTLGNGFVKLRFAN-HDAVLVGANLS
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          LESK-------------IKYN---EKLG---KTAVNVHLFS---------
+A8GM29_1        LESK-------------IKYN---EKLG---KTAVNVHLFS---------
+A8GM29_2        LESK-------------IKYN---EKLG---KTAVNVHLFS---------
+A8GM29_3        LESK-------------IKYN---EKLG---KTAVNVHLFS---------
+A8GM29_4        LESK-------------IKYN---EKLG---KTAVNVHLFS---------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      TDGQTPIAGTSSNPNFAVNLP---APVGTGAGGAIGLTMGS---------
+A0A063ZXP1      MTNA-------------KQWH---VKEG---VIK--PFLEQIQGRNFKLK
+A0A381CUQ6      ADSK-------------IKTSMVNQESD---NLQLGLYSRT---------
+D3P164          AAAR-------------VYED---GEIG----------SFR---------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          -------------------------------------------------I
+A8GM29_1        -------------------------------------------------I
+A8GM29_2        -------------------------------------------------I
+A8GM29_3        -------------------------------------------------I
+A8GM29_4        -------------------------------------------------I
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      -------------------------------------------------V
+A0A063ZXP1      SLAGSLTWMATPILNANEEITGIAMAKIPYTSFVKQTDNAYNFTDGLEQR
+A0A381CUQ6      -------------------------------------------------L
+D3P164          -------------------------------------------------L
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          YGLKELN-K-----------------GFSLQAI-TSYGHNYIKNKSKSIN
+A8GM29_1        YGLKELN-K-----------------GFSLQAI-TSYGHNYIKNKSKSIN
+A8GM29_2        YGLKELN-K-----------------GFSLQAI-TSYGHNYIKNKSKSIN
+A8GM29_3        YGLKELN-K-----------------GFSLQAI-TSYGHNYIKNKSKSIN
+A8GM29_4        YGLKELN-K-----------------GFSLQAI-TSYGHNYIKNKSKSIN
+A0A2H5W4U2      ---WELT-G-----------------------------------------
+A0A328C387      GGAVNLN-L-------------------RLSAL-EEAGHAKIVSAPRI--
+A0A063ZXP1      YDMNELN-SPEKRIFNLLNGIGKNEEVLLTQAYDEMMGHQYANVQQRI--
+A0A381CUQ6      YGNSEFDFK-----------------GYAQFGWT-DQD-RF---------
+D3P164          SGVAGWV-H-----------------GRNLDSG-ESLYHMMPLNAQVTLE
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          NIVGKYQNNNFS-----FQTLLNYKYRTKDDLHFIPNIGFKYDYSRASSY
+A8GM29_1        NIVGKYQNNNFS-----FQTLLNYKYRTKDDLHFIPNIGFKYDYSRASSY
+A8GM29_2        NIVGKYQNNNFS-----FQTLLNYKYRTKDDLHFIPNIGFKYDYSRASSY
+A8GM29_3        NIVGKYQNNNFS-----FQTLLNYKYRTKDDLHFIPNIGFKYDYSRASSY
+A8GM29_4        NIVGKYQNNNFS-----FQTLLNYKYRTKDDLHFIPNIGFKYDYSRASSY
+A0A2H5W4U2      ----------------------TVRYKVVDRL--WASLEYRHDFANHPAF
+A0A328C387      ---------------------------------------LTMDNKEASIS
+A0A063ZXP1      QVTGNILDNEFK-----YLK-REW-SNPSKDSNKIKVFGTRGEYNTGTAS
+A0A381CUQ6      -IAGTVNSSDFTRKFLGASGTYGYVFDMGNDFYIKPLAGLNLYYSFTPDY
+D3P164          HRLGGWSN-AIE--------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          KEYNVDIENLVIQKKSNQLFESSIGGKIVF-KPIATISNVVLTPSL--YG
+A8GM29_1        KEYNVDIENLVIQKKSNQLFESSIGGKIVF-KPIATISNVVLTPSL--YG
+A8GM29_2        KEYNVDIENLVIQKKSNQLFESSIGGKIVF-KPIATISNVVLTPSL--YG
+A8GM29_3        KEYNVDIENLVIQKKSNQLFESSIGGKIVF-KPIATISNVVLTPSL--YG
+A8GM29_4        KEYNVDIENLVIQKKSNQLFESSIGGKIVF-KPIATISNVVLTPSL--YG
+A0A2H5W4U2      ------------------------------------------------D-
+A0A328C387      QGTSIPISV-----------VGAAGVQTVF-VD-ATLE-LTVTPHVTPDG
+A0A063ZXP1      --------------------------------------------------
+A0A381CUQ6      NENGAYAQHV----QSQSSFDTSIEAGAEFRKYLSKESYIYATPKI--EQ
+D3P164          --------------------------------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          NIERHF-------NHKNT------------KVNAKATF------------
+A8GM29_1        NIERHF-------NHKNT------------KVNAKATF------------
+A8GM29_2        NIERHF-------NHKNT------------KVNAKATF------------
+A8GM29_3        NIERHF-------NHKNT------------KVNAKATF------------
+A8GM29_4        NIERHF-------NHKNT------------KVNAKATF------------
+A0A2H5W4U2      -----------------G------------GADGPKKS------------
+A0A328C387      NIRLAIQATKNEPDFQNT------------GARGDPTI--IQRQAET---
+A0A063ZXP1      --------------VIDY------------KNHAEGVAYLHEKETFQLGN
+A0A381CUQ6      YIITSG-------DDYTARFLGSPTSFTINGSDKKKTY------------
+D3P164          ---------------------------------VQAAV------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          --------------------------KGQIL-QETIIIPKQP-------K
+A8GM29_1        --------------------------KGQIL-QETIIIPKQP-------K
+A8GM29_2        --------------------------KGQIL-QETIIIPKQP-------K
+A8GM29_3        --------------------------KGQIL-QETIIIPKQP-------K
+A8GM29_4        --------------------------KGQIL-QETIIIPKQP-------K
+A0A2H5W4U2      --------------------------QGTVL-VEFVYLLK----------
+A0A328C387      ---ELLIPDGDTTVIGGIYT----RNAGHSL-SAVPFLHRIP-------I
+A0A063ZXP1      STGWYTGFIHNQFKFKDIGKSREEMYQTKLGMFKSMAFDHNN-------S
+A0A381CUQ6      --------------------------GSFIV-GGDVNIKNQW-------A
+D3P164          --------------------------RKDRV-EAARNEPKTPGYALVALR
+                                                                  
+
+P00646          ----------------------------------------QHGELEGYRA
+A8GM29          LGYNIGSNMLMSRKNINV--------------------------------
+A8GM29_1        LGYNIGSNMLMSRKNINV--------------------------------
+A8GM29_2        LGYNIGSNMLMSRKNINV--------------------------------
+A8GM29_3        LGYNIGSNMLMSRKNINV--------------------------------
+A8GM29_4        LGYNIGSNMLMSRKNINV--------------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      LGFFFKTQSESERRSELL--------------------------------
+A0A063ZXP1      LHWTISGEMFLGRSKMNRRYLVVDEIFHAKSKYWSYGFAINNEVSKSFRT
+A0A381CUQ6      FTFSAGVKHLLSGKVNDE--------------------------------
+D3P164          TGYEWGGIRV--DAGVEN-------------------------------L
+                                                                  
+
+P00646          SDGQHLGSF--------------------------------DPKTGNQLK
+A8GM29          ------------LLEYNYYTH-RKY-------------------------
+A8GM29_1        ------------LLEYNYYTH-RKY-------------------------
+A8GM29_2        ------------LLEYNYYTH-RKY-------------------------
+A8GM29_3        ------------LLEYNYYTH-RKY-------------------------
+A8GM29_4        ------------LLEYNYYTH-RKY-------------------------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      ------------IFITPR--IVNRA-------------------------
+A0A063ZXP1      GESTFIKPYGELKLEYGRFQKIKEKDGEIRLEVKENDYYSVKPKIGVEAG
+A0A381CUQ6      ------------SETY----------------------------------
+D3P164          FDQRYYLPLGGVDYADF---KA----------------------------
+                                                                  
+
+P00646          --------------------------------------------------
+A8GM29          -------------------------------------------------Q
+A8GM29_1        -------------------------------------------------Q
+A8GM29_2        -------------------------------------------------Q
+A8GM29_3        -------------------------------------------------Q
+A8GM29_4        -------------------------------------------------Q
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      -------------------------------------------------E
+A0A063ZXP1      YLHQFGNGISFKTSFGVSYENELGQVADTKNKARVAYTNADYFALPGEKE
+A0A381CUQ6      --------------------------------------------------
+D3P164          -------------------------------------------------G
+                                                                  
+
+P00646          ---------------------GP-----------DPKRNIKKYL------
+A8GM29          SH--------------------------------QGLVKLKVNL------
+A8GM29_1        SH--------------------------------QGLVKLKVNL------
+A8GM29_2        SH--------------------------------QGLVKLKVNL------
+A8GM29_3        SH--------------------------------QGLVKLKVNL------
+A8GM29_4        SH--------------------------------QGLVKLKVNL------
+A0A2H5W4U2      --------------------------------------------------
+A0A328C387      SL--------------------------------GGMSAGSVSGESWDEE
+A0A063ZXP1      DRRGNLRTDLNLGLNNEAYGVTANIGYDTKGNKVRGGLGVRVIF------
+A0A381CUQ6      -L--------------------------------SGNIGLKYQF------
+D3P164          GNQGAIG-------------ALPGPG-------RSFMAGLTVKF------
+                                                                  
+
+
+

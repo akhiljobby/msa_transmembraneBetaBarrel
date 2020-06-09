@@ -1,0 +1,615 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE:  ], CPU=0.71 sec, SCORE=56, Nseq=11, Len=2335 
+
+P02929          MTLDLPRRFPWPT-------------------------------------
+J2LVH1          MKKAIIISY-GTLFIC--LSSSAGVMRHDTN-------------------
+A0A256BZL3      MNKVFKIVW-SMALNQWVVTSELGKSHQKSKSTTVKAAVAGV--------
+A0A256BZL3_1    MNKVFKIVW-SMALNQWVVTSELGKSHQKSKSTTVKAAVAGV--------
+A0A256BZL3_2    MNKVFKIVW-SMALNQWVVTSELGKSHQKSKSTTVKAAVAGV--------
+A0A256BZL3_3    MNKVFKIVW-SMALNQWVVTSELGKSHQKSKSTTVKAAVAGV--------
+A0A246F7T9      MNKIYRVVR-NRVTGLWVVACEWAMGCTKTGSVGAFAALAAFAMQPVGAA
+A0A246F7T9_1    MNKIYRVVR-NRVTGLWVVACEWAMGCTKTGSVGAFAALAAFAMQPVGAA
+A0A064AAS7      MKRKVLLLF-ISS--ILLISCGGGGGGGSGGSTN----------------
+A0A2I0FVN7      MNKVLVLIK-SVSIKG--VAC------------------AAL--------
+A0A2I0FVN7_1    MNKVLVLIK-SVSIKG--VAC------------------AAL--------
+                *.                                                
+
+P02929          --------------------------------------------------
+J2LVH1          ----------------------------VQDYRDFAENMGKY--------
+A0A256BZL3      --------------------------VALMGANAFAETKGINGFEGF---
+A0A256BZL3_1    --------------------------VALMGANAFAETKGINGFEGF---
+A0A256BZL3_2    --------------------------VALMGANAFAETKGINGFEGF---
+A0A256BZL3_3    --------------------------VALMGANAFAETKGINGFEGF---
+A0A246F7T9      TVALEDLDPKRCDGTACTTTVSQGASVTLVGSGT-QIQRGITGNGGAVSL
+A0A246F7T9_1    TVALEDLDPKRCDGTACTTTVSQGASVTLVGSGT-QIQRGITGNGGAVSL
+A0A064AAS7      --------------------------------------------------
+A0A2I0FVN7      --------------------------FSIAGLQ-----------LGF---
+A0A2I0FVN7_1    --------------------------FSIAGLQ-----------LGF---
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          ------RVGVSNIP--VYKKNGELDAYLNFPMP-----------------
+A0A256BZL3      ---------------EPAPQKGDLVILNNNQTQDVPSEHYQ-PVSGVRYD
+A0A256BZL3_1    ---------------EPAPQKGDLVILNNNQTQDVPSEHYQ-PVSGVRYD
+A0A256BZL3_2    ---------------EPAPQKGDLVILNNNQTQDVPSEHYQ-PVSGVRYD
+A0A256BZL3_3    ---------------EPAPQKGDLVILNNNQTQDVPSEHYQ-PVSGVRYD
+A0A246F7T9      STLLARGQIVAGQEYADASNPASLVVNVGTRSQT--LVVSD-PITGGTRT
+A0A246F7T9_1    STLLARGQIVAGQEYADASNPASLVVNVGTRSQT--LVVSD-PITGGTRT
+A0A064AAS7      -----------------------LPIRPTNPIEITPEPVEIPKIEPIKET
+A0A2I0FVN7      -------------A-QPVRIIDKQVILHDDEGG---GDHYH-VVGGGQLS
+A0A2I0FVN7_1    -------------A-QPVRIIDKQVILHDDEGG---GDHYH-VVGGGQLS
+                                                                  
+
+P02929          -----------------LLSV-----------------------------
+J2LVH1          ----------------DMSSL--SRRGYAVLTAPSYMMSAR--HVKDLT-
+A0A256BZL3      EK--ISGDKNIYFGATDIQYK--PILG---VADPNYDPYAD--HSGEPKY
+A0A256BZL3_1    EK--ISGDKNIYFGATDIQYK--PILG---VADPNYDPYAD--HSGEPKY
+A0A256BZL3_2    EK--ISGDKNIYFGATDIQYK--PILG---VADPNYDPYAD--HSGEPKY
+A0A256BZL3_3    EK--ISGDKNIYFGATDIQYK--PILG---VADPNYDPYAD--HSGEPKY
+A0A246F7T9      V-S-IYD---------NANIADSFATG---LGVNSYSIITNTAVEGQQYV
+A0A246F7T9_1    V-S-IYD---------NANIADSFATG---LGVNSYSIITNTAVEGQQYV
+A0A064AAS7      KP--ISESKPVVNPSPEPVKN--PKVI---ESKPVADPKPE--PGKDPKV
+A0A2I0FVN7      GYGITTG---------DLTVG--DGIG---WALLNFNPGYL--SPPNREN
+A0A2I0FVN7_1    GYGITTG---------DLTVG--DGIG---WALLNFNPGYL--SPPNREN
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          ------SVFFGGPSEYAQRYHFINRNAVSDAIDQDF---MFPRLNKVVTE
+A0A256BZL3      DHNGHLSP-FSKGDRYGRDIHLVSNNGAENDFKGDI--YVTPGVNLYIGD
+A0A256BZL3_1    DHNGHLSP-FSKGDRYGRDIHLVSNNGAENDFKGDI--YVTPGVNLYIGD
+A0A256BZL3_2    DHNGHLSP-FSKGDRYGRDIHLVSNNGAENDFKGDI--YVTPGVNLYIGD
+A0A256BZL3_3    DHNGHLSP-FSKGDRYGRDIHLVSNNGAENDFKGDI--YVTPGVNLYIGD
+A0A246F7T9      -----DTR-IGQVDRTGGTLNVNLGDGGVSDASGNAINMVAKNSSLFVAD
+A0A246F7T9_1    -----DTR-IGQVDRTGGTLNVNLGDGGVSDASGNAINMVAKNSSLFVAD
+A0A064AAS7      ISDSK--P-IIGSKPTDP----------------DI--------FV----
+A0A2I0FVN7      IVNGKLTI-NDKGQAYFT----------ETRFRDDI--------------
+A0A2I0FVN7_1    IVNGKLTI-NDKGQAYFT----------ETRFRDDI--------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          VAPVGRVENSELKAGHGTRYTAYARVGSGGMVQINDDLTDVNQISGAYKW
+A0A256BZL3      HQA----------------------ASTNLLGQDN-----DMIIEG-YTL
+A0A256BZL3_1    HQA----------------------ASTNLLGQDN-----DMIIEG-YTL
+A0A256BZL3_2    HQA----------------------ASTNLLGQDN-----DMIIEG-YTL
+A0A256BZL3_3    HQA----------------------ASTNLLGQDN-----DMIIEG-YTL
+A0A246F7T9      GTGS---------------------APSSVVWQSS-----NKVNMGSVTC
+A0A246F7T9_1    GTGS---------------------APSSVVWQSS-----NKVNMGSVTC
+A0A064AAS7      --------------------------------------------------
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          LAGGVINPAVVEFTKNYFYYKQ-------------------------YAP
+A0A256BZL3      VT----IDKSTETLKNLTFKNN-------------------------DSA
+A0A256BZL3_1    VT----IDKSTETLKNLTFKNN-------------------------DSA
+A0A256BZL3_2    VT----IDKSTETLKNLTFKNN-------------------------DSA
+A0A256BZL3_3    VT----IDKSTETLKNLTFKNN-------------------------DSA
+A0A246F7T9      AV----LGGSTTNTATFAFSTYSGTFTAFDGSSHTVSNAADLRAYNDFLV
+A0A246F7T9_1    AV----LGGSTTNTATFAFSTYSGTFTAFDGSSHTVSNAADLRAYNDFLV
+A0A064AAS7      ------LVREAETKKKMM-SER-------------------------DAA
+A0A2I0FVN7      -----------------TITGK-------------------------DSR
+A0A2I0FVN7_1    -----------------TITGK-------------------------DSR
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          GS------------------------------------------------
+A0A256BZL3      KRIEN---------------------------------------------
+A0A256BZL3_1    KRIEN---------------------------------------------
+A0A256BZL3_2    KRIEN---------------------------------------------
+A0A256BZL3_3    KRIEN---------------------------------------------
+A0A246F7T9      SRLQAGQLDPASYESQFKRAYSNTSRSITYTNGPADRTDEVYTPIGSRAV
+A0A246F7T9_1    SRLQAGQLDPASYESQFKRAYSNTSRSITYTNGPADRTDEVYTPIGSRAV
+A0A064AAS7      TEIIP---------------------------------------------
+A0A2I0FVN7      GQFRH---------------------------------------------
+A0A2I0FVN7_1    GQFRH---------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          -------------------------------------------PLSTPLS
+A0A256BZL3      ------------------------------------TRCE---GTNTPES
+A0A256BZL3_1    ------------------------------------TRCE---GTNTPES
+A0A256BZL3_2    ------------------------------------TRCE---GTNTPES
+A0A256BZL3_3    ------------------------------------TRCE---GTNTPES
+A0A246F7T9      IRATGRNASGIIAEGAVLDATAISTNATGTIGAVMLAEQG---GTVINNG
+A0A246F7T9_1    IRATGRNASGIIAEGAVLDATAISTNATGTIGAVMLAEQG---GTVINNG
+A0A064AAS7      ------------------------------------TDPRKMTG----DK
+A0A2I0FVN7      ------------------------------------STLE---GQLTANA
+A0A2I0FVN7_1    ------------------------------------STLE---GQLTANA
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          ITTQPGDSGSPVY----VYDSFDKQWKLAAAHSGS-------------RY
+A0A256BZL3      CDNSYNGSNGDAL----GYDIN------HAYNNGM-------------RP
+A0A256BZL3_1    CDNSYNGSNGDAL----GYDIN------HAYNNGM-------------RP
+A0A256BZL3_2    CDNSYNGSNGDAL----GYDIN------HAYNNGM-------------RP
+A0A256BZL3_3    CDNSYNGSNGDAL----GYDIN------HAYNNGM-------------RP
+A0A246F7T9      SLGSQRGGNGDTQYAMYAAAGS------HAINNGVANIGSFIGATGSIEP
+A0A246F7T9_1    SLGSQRGGNGDTQYAMYAAAGS------HAINNGVANIGSFIGATGSIEP
+A0A064AAS7      QKVGILDSNFTRN----KYELE------RKY-PGI-------------EI
+A0A2I0FVN7      AKDI----------------------------------------------
+A0A2I0FVN7_1    AKDI----------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          GSPPY--SRESYASLIPDDFFDKTVANNISPDVTDI--------------
+A0A256BZL3      HDPIY--DEGGGAFYIRDD-ADLTVTDNVEFSGST---------------
+A0A256BZL3_1    HDPIY--DEGGGAFYIRDD-ADLTVTDNVEFSGST---------------
+A0A256BZL3_2    HDPIY--DEGGGAFYIRDD-ADLTVTDNVEFSGST---------------
+A0A256BZL3_3    HDPIY--DEGGGAFYIRDD-ADLTVTDNVEFSGST---------------
+A0A246F7T9      VNPTL--PVGNHLGMIATG-SGATVQNNGILNLDGPQSTGMRVTWGATGS
+A0A246F7T9_1    VNPTL--PVGNHLGMIATG-SGATVQNNGILNLDGPQSTGMRVTWGATGS
+A0A064AAS7      IDYLA--TYGSS--SHGED-VLEVLRDKNKLNAIV---------------
+A0A2I0FVN7      ----RLEFVGAKALHLT-D-SQVRMADS----------------------
+A0A2I0FVN7_1    ----RLEFVGAKALHLT-D-SQVRMADS----------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          --------------AGAGNIFWDST--------SINQGHQSWSWQGLDEK
+A0A256BZL3      --------------PGTGADFNASS--------------SRF-AFKKDTN
+A0A256BZL3_1    --------------PGTGADFNASS--------------SRF-AFKKDTN
+A0A256BZL3_2    --------------PGTGADFNASS--------------SRF-AFKKDTN
+A0A256BZL3_3    --------------PGTGADFNASS--------------SRF-AFKKDTN
+A0A246F7T9      NTGIINVNPGTDNITGVG--IRSVAVHVANSGAFTNAQSGEI-HLGSGNQ
+A0A246F7T9_1    NTGIINVNPGTDNITGVG--IRSVAVHVANSGAFTNAQSGEI-HLGSGNQ
+A0A064AAS7      --------------ASIGSGQKAVN--------------PRYK-HYKEIM
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          --YRHLA-PVNASFDELDASKDIR---FNGAGGDIILSDAVNLGAGKLQF
+A0A256BZL3      --FTNGS-RLFASRSEGRLEGAAN---FNGHGAGLHANDESNIHMTNKTW
+A0A256BZL3_1    --FTNGS-RLFASRSEGRLEGAAN---FNGHGAGLHANDESNIHMTNKTW
+A0A256BZL3_2    --FTNGS-RLFASRSEGRLEGAAN---FNGHGAGLHANDESNIHMTNKTW
+A0A256BZL3_3    --FTNGS-RLFASRSEGRLEGAAN---FNGHGAGLHANDESNIHMTNKTW
+A0A246F7T9      --YD-------------KAAPAGDFDNGNTQMVGIHVESSASASNAGHIV
+A0A246F7T9_1    --YD-------------KAAPAGDFDNGNTQMVGIHVESSASASNAGHIV
+A0A064AAS7      DRFDANQKVKVFNQSFGSDISMAE---F---GYGRIENLKANLAPGVSYW
+A0A2I0FVN7      -----------------------------------------------QMF
+A0A2I0FVN7_1    -----------------------------------------------QMF
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          SNNYRVKSAAGADATWVGGGIEVDADKKVL-------------WQV----
+A0A256BZL3      KGGSDLSKDKGYNTVSTG--STISADHGIEFHNQSITINDGLSFVQEYIG
+A0A256BZL3_1    KGGSDLSKDKGYNTVSTG--STISADHGIEFHNQSITINDGLSFVQEYIG
+A0A256BZL3_2    KGGSDLSKDKGYNTVSTG--STISADHGIEFHNQSITINDGLSFVQEYIG
+A0A256BZL3_3    KGGSDLSKDKGYNTVSTG--STISADHGIEFHNQSITINDGLSFVQEYIG
+A0A246F7T9      LGSRAQGSIGIYDAASTG--SVVNTSTGVI-------------DVNGVVE
+A0A246F7T9_1    LGSRAQGSIGIYDAASTG--SVVNTSTGVI-------------DVNGVVE
+A0A064AAS7      TGRTDNEGDLIYNFY-----------------TKTVKDNGGL-FVWAA-G
+A0A2I0FVN7      TRGTALEMLGSTATV-ER--TTIEADVG----------------------
+A0A2I0FVN7_1    TRGTALEMLGSTATV-ER--TTIEADVG----------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          -NGL-----ADDDLHKIGAGTLHVNATGKNDGGLNV----------GDGT
+A0A256BZL3      TDPE-----TNEYLYKINTSFPQRSEGYAKKSTLNV----------GT--
+A0A256BZL3_1    TDPE-----TNEYLYKINTSFPQRSEGYAKKSTLNV----------GT--
+A0A256BZL3_2    TDPE-----TNEYLYKINTSFPQRSEGYAKKSTLNV----------GT--
+A0A256BZL3_3    TDPE-----TNEYLYKINTSFPQRSEGYAKKSTLNV----------GT--
+A0A246F7T9      DSPA-----ENIALYSYR------STSAANAGTINLNGLNGKGLKATT--
+A0A246F7T9_1    DSPA-----ENIALYSYR------STSAANAGTINLNGLNGKGLKATT--
+A0A064AAS7      NRKNSRGVSLPVYDASIQAGLPKFTPELEKGWIAAVG----------I--
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          VILDQQADAQGNQQAFSRLAIVSGRPT-VVFNND------------NQVA
+A0A256BZL3      --ADQKAD----------FTLASGDNIFNVINSD------------VNVH
+A0A256BZL3_1    --ADQKAD----------FTLASGDNIFNVINSD------------VNVH
+A0A256BZL3_2    --ADQKAD----------FTLASGDNIFNVINSD------------VNVH
+A0A256BZL3_3    --ADQKAD----------FTLASGDNIFNVINSD------------VNVH
+A0A246F7T9      --VDQGS-----------GTVAGSASIVN--SGT------------INVS
+A0A246F7T9_1    --VDQGS-----------GTVAGSASIVN--SGT------------INVS
+A0A064AAS7      --QKE------------------RDNMLNVHYKEHLAYPGQAAWWSISAD
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------CIH----GAVV-------------------------
+J2LVH1          G-------DDIFFGYRG----GRLD------LNGHDLTMKRINHTDGGAT
+A0A256BZL3      GNFTAKENDNLSFSMIH----GALNVEDTISLSANDAELVIINSTIQANN
+A0A256BZL3_1    GNFTAKENDNLSFSMIH----GALNVEDTISLSANDAELVIINSTIQANN
+A0A256BZL3_2    GNFTAKENDNLSFSMIH----GALNVEDTISLSANDAELVIINSTIQANN
+A0A256BZL3_3    GNFTAKENDNLSFSMIH----GALNVEDTISLSANDAELVIINSTIQANN
+A0A246F7T9      GDMGAAGLRNYG----------------------------------AWAE
+A0A246F7T9_1    GDMGAAGLRNYG----------------------------------AWAE
+A0A064AAS7      GDTIHKENSYGYITYGIGSSFAAPRVSAAASLVAEKYDWMTADQVRQTLF
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          LLN--------QSGDRASSLTLTGFAPADI--TIQEWNSATH--------
+A0A256BZL3      FIVDNANENEKSAF--LG---------NTLDIA-GDFTLANH--------
+A0A256BZL3_1    FIVDNANENEKSAF--LG---------NTLDIA-GDFTLANH--------
+A0A256BZL3_2    FIVDNANENEKSAF--LG---------NTLDIA-GDFTLANH--------
+A0A256BZL3_3    FIVDNANENEKSAF--LG---------NTLDIA-GDFTLANH--------
+A0A246F7T9      GVG--------TRIDIAG---------GSVNLS-GDGAIGVHSRGGANLT
+A0A246F7T9_1    GVG--------TRIDIAG---------GSVNLS-GDGAIGVHSRGGANLT
+A0A064AAS7      -T-----TTDRTEI--YK---------GTVDTK-NELAMRNT--------
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          ------------SGSVGDIYEDW-NDRSQRIEYFQLKTGTYSYFPTNQQD
+A0A256BZL3      ------------AQIYDASYFDG-SNDDRKFNAPGLKSPEK-YELTYDQL
+A0A256BZL3_1    ------------AQIYDASYFDG-SNDDRKFNAPGLKSPEK-YELTYDQL
+A0A256BZL3_2    ------------AQIYDASYFDG-SNDDRKFNAPGLKSPEK-YELTYDQL
+A0A256BZL3_3    ------------AQIYDASYFDG-SNDDRKFNAPGLKSPEK-YELTYDQL
+A0A246F7T9      VSGGSVNFLSGKDQIGFFAYGAG-SSMDINQ-----APPAG-LDVSTQGS
+A0A246F7T9_1    VSGGSVNFLSGKDQIGFFAYGAG-SSMDINQ-----APPAG-LDVSTQGS
+A0A064AAS7      ------------VYEPDTKYGWGMLNTNRALKGPGA--------------
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          NSYWK----YIGFDAEEAKTYRAM--------------------------
+A0A256BZL3      I-------------------------------------------------
+A0A256BZL3_1    I-------------------------------------------------
+A0A256BZL3_2    I-------------------------------------------------
+A0A256BZL3_3    I-------------------------------------------------
+A0A246F7T9      TLFRIEDGARINNNANASLTASGDGSTALQVTGAGSTANLDNMHITVSGQ
+A0A246F7T9_1    TLFRIEDGARINNNANASLTASGDGSTALQVTGAGSTANLDNMHITVSGQ
+A0A064AAS7      --------------------------------------------------
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          ----------QFNDLVYRGYL-GSD--------SADSVNGKFDF------
+A0A256BZL3      --------------------------------------------------
+A0A256BZL3_1    --------------------------------------------------
+A0A256BZL3_2    --------------------------------------------------
+A0A256BZL3_3    --------------------------------------------------
+A0A246F7T9      GATALKIEGGATGQMSGAATLNLADGTTAVVVDDVKYDLTGTAVDRGDSV
+A0A246F7T9_1    GATALKIEGGATGQMSGAATLNLADGTTAVVVDDVKYDLTGTAVDRGDSV
+A0A064AAS7      --------------------------------------------------
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          -------NF----------------------------------SPALAA-
+A0A256BZL3      --------------------------------------------------
+A0A256BZL3_1    --------------------------------------------------
+A0A256BZL3_2    --------------------------------------------------
+A0A256BZL3_3    --------------------------------------------------
+A0A246F7T9      FTNLAEVVIGAARDVTGFVVRNGAELINAGGIHVSHGTAIEVVGAGSTVS
+A0A246F7T9_1    FTNLAEVVIGAARDVTGFVVRNGAELINAGGIHVSHGTAIEVVGAGSTVS
+A0A064AAS7      --------------------------------------------------
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          ----------------TKLALTGGSNLS--GNINLNNGTLLL-SGQ---P
+A0A256BZL3      --------NFLKDDAAAAIDVDAAASLT-ANNVNMRNAAI----YKTAGD
+A0A256BZL3_1    --------NFLKDDAAAAIDVDAAASLT-ANNVNMRNAAI----YKTAGD
+A0A256BZL3_2    --------NFLKDDAAAAIDVDAAASLT-ANNVNMRNAAI----YKTAGD
+A0A256BZL3_3    --------NFLKDDAAAAIDVDAAASLT-ANNVNMRNAAI----YKTAGD
+A0A246F7T9      ADADGKRGKITVDDGKAGIYVHGGATLTTADDITVDNGASGLLVGADAGR
+A0A246F7T9_1    ADADGKRGKITVDDGKAGIYVHGGATLTTADDITVDNGASGLLVGADAGR
+A0A064AAS7      --------------------------------------------------
+A0A2I0FVN7      -----------------------------------------VTMGAKAGQ
+A0A2I0FVN7_1    -----------------------------------------VTMGAKAGQ
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          --------------------------------------------------
+A0A256BZL3      VTVKSTMNVEDQAEFTATKGDINIGEQ--------------------LTV
+A0A256BZL3_1    VTVKSTMNVEDQAEFTATKGDINIGEQ--------------------LTV
+A0A256BZL3_2    VTVKSTMNVEDQAEFTATKGDINIGEQ--------------------LTV
+A0A256BZL3_3    VTVKSTMNVEDQAEFTATKGDINIGEQ--------------------LTV
+A0A246F7T9      VVVTEAAHITGK-------GA-SYGNL--------------------ITN
+A0A246F7T9_1    VVVTEAAHITGK-------GA-SYGNL--------------------ITN
+A0A064AAS7      --------------------FINILSQ--------------------YKN
+A0A2I0FVN7      SHSEVNLNTVGI-------RA-ATAFLVDNLGNLTTDPHRISADYYSRFV
+A0A2I0FVN7_1    SHSEVNLNTVGI-------RA-ATAFLVDNLGNLTTDPHRISADYYSRFV
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          VPHAGGLIIDDDWYTSTFIADNIV---------------------AASNT
+A0A256BZL3      AKDAKLATL-------------------------------------DGNI
+A0A256BZL3_1    AKDAKLATL-------------------------------------DGNI
+A0A256BZL3_2    AKDAKLATL-------------------------------------DGNI
+A0A256BZL3_3    AKDAKLATL-------------------------------------DGNI
+A0A246F7T9      ESAAGNVLVDGAILE--MQGSGAALLSQSNLDAASHGQVIVSSQVGGKGI
+A0A246F7T9_1    ESAAGNVLVDGAILE--MQGSGAALLSQSNLDAASHGQVIVSSQVGGKGI
+A0A064AAS7      EQNAN-NTF-------------------------------------NANI
+A0A2I0FVN7      ATDLLIARN-------------------------------------GANT
+A0A2I0FVN7_1    ATDLLIARN-------------------------------------GANT
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          RLQVGE-YAQVKANIQAGD--NSQVLLGY-------QPGAD---------
+A0A256BZL3      TLSDAK-GSQVDGTLGIAE--GKQFDLTA----------GNL-----IID
+A0A256BZL3_1    TLSDAK-GSQVDGTLGIAE--GKQFDLTA----------GNL-----IID
+A0A256BZL3_2    TLSDAK-GSQVDGTLGIAE--GKQFDLTA----------GNL-----IID
+A0A256BZL3_3    TLSDAK-GSQVDGTLGIAE--GKQFDLTA----------GNL-----IID
+A0A246F7T9      ALSNVD-GSLGNGSLELGP--NWVIDVTGNGAGVYANTTGDL-----SLV
+A0A246F7T9_1    ALSNVD-GSLGNGSLELGP--NWVIDVTGNGAGVYANTTGDL-----SLV
+A0A064AAS7      TSGTYYFENDIYGNGGLNKSGAGTLHLTGNN-TYT----GNSTVKDGILE
+A0A2I0FVN7      AFSLSD-HSRGEGDVTADA--SSQVDITLA---------GNS--------
+A0A2I0FVN7_1    AFSLSD-HSRGEGDVTADA--SSQVDITLA---------GNS--------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          --------------------------------------------------
+A0A256BZL3      GQQYEFLG-----------TLNVADGATLQFNG--AAD--LTKESARLNN
+A0A256BZL3_1    GQQYEFLG-----------TLNVADGATLQFNG--AAD--LTKESARLNN
+A0A256BZL3_2    GQQYEFLG-----------TLNVADGATLQFNG--AAD--LTKESARLNN
+A0A256BZL3_3    GQQYEFLG-----------TLNVADGATLQFNG--AAD--LTKESARLNN
+A0A246F7T9      GSRISISGPGVGVQADAAENVTIASGTLITASNADAVL--VSGNPVTLTN
+A0A246F7T9_1    GSRISISGPGVGVQADAAENVTIASGTLITASNADAVL--VSGNPVTLTN
+A0A064AAS7      VHKI-HSS-----------AINVEEKAKLVLHG--KALVGYNNEYSSLID
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          --------------------------------------------------
+A0A256BZL3      KGTITALSGAKLGQTLNDGSIHAYADSEFGHVTNNGIIQLAGANDNG---
+A0A256BZL3_1    KGTITALSGAKLGQTLNDGSIHAYADSEFGHVTNNGIIQLAGANDNG---
+A0A256BZL3_2    KGTITALSGAKLGQTLNDGSIHAYADSEFGHVTNNGIIQLAGANDNG---
+A0A256BZL3_3    KGTITALSGAKLGQTLNDGSIHAYADSEFGHVTNNGIIQLAGANDNG---
+A0A246F7T9      QGTLQAASPDATAIRLGDGD-SAFANIGGGKI--VGSVELGGGNDSALLE
+A0A246F7T9_1    QGTLQAASPDATAIRLGDGD-SAFANIGGGKI--VGSVELGGGNDSALLE
+A0A064AAS7      EKTITSDKIIK------------------KDVDNKGIVEIKGKT------
+A0A2I0FVN7      --------------------------------------------------
+A0A2I0FVN7_1    --------------------------------------------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          ---------------------------AQQQILRCVSPVQSTA-------
+A0A256BZL3      --------------------------------------------------
+A0A256BZL3_1    --------------------------------------------------
+A0A256BZL3_2    --------------------------------------------------
+A0A256BZL3_3    --------------------------------------------------
+A0A246F7T9      DSVLDGDLLGGAGNDLITVRGINVSHGVLDGGLGGSDTLVFDGHDYTAEV
+A0A246F7T9_1    DSVLDGDLLGGAGNDLITVRGINVSHGVLDGGLGGSDTLVFDGHDYTAEV
+A0A064AAS7      --------------------------------------------------
+A0A2I0FVN7      ---------------------------SLTGGLRGVSSLTLDD-------
+A0A2I0FVN7_1    ---------------------------SLTGGLRGVSSLTLDD-------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          ------------------------------------------TSCATAAR
+A0A256BZL3      --------------------------------------------------
+A0A256BZL3_1    --------------------------------------------------
+A0A256BZL3_2    --------------------------------------------------
+A0A256BZL3_3    --------------------------------------------------
+A0A246F7T9      GNADQLRNFEQFELINASRLDLQRDLLLGDNGNGMGSLLIDPTSTLAMTE
+A0A246F7T9_1    GNADQLRNFEQFELINASRLDLQRDLLLGDNGNGMGSLLIDPTSTLAMTE
+A0A064AAS7      --------------------------------------------------
+A0A2I0FVN7      ------------------------------------------TSQVTLTR
+A0A2I0FVN7_1    ------------------------------------------TSQVTLTR
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          DAAALSTLPASTVHGDITLGDQAELYLGK-----------VDFRGRITDR
+A0A256BZL3      -----------------------TANRGK-----------VTFNGNYIGN
+A0A256BZL3_1    -----------------------TANRGK-----------VTFNGNYIGN
+A0A256BZL3_2    -----------------------TANRGK-----------VTFNGNYIGN
+A0A256BZL3_3    -----------------------TANRGK-----------VTFNGNYIGN
+A0A246F7T9      GSF-GLK-GN-------------LANAGLITLANGHAGDTLSVDGKYVGN
+A0A246F7T9_1    GSF-GLK-GN-------------LANAGLITLANGHAGDTLSVDGKYVGN
+A0A064AAS7      ----------------------------------------AIIGGDYITH
+A0A2I0FVN7      NSD-INT--L-------------SLGGGS-----------VNFRSSSVGG
+A0A2I0FVN7_1    NSD-INT--L-------------SLGGGS-----------VNFRSSSVGG
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          NAARVTMSGDTFWNLTDDSRMQRLNAPQGGIISALSDNDKTWTPKQLWVE
+A0A256BZL3      -------------------------------------------GGTLVFG
+A0A256BZL3_1    -------------------------------------------GGTLVFG
+A0A256BZL3_2    -------------------------------------------GGTLVFG
+A0A256BZL3_3    -------------------------------------------GGTLVFG
+A0A246F7T9      -------------------------------------------GGTLELD
+A0A246F7T9_1    -------------------------------------------GGTLELD
+A0A064AAS7      A-------------------------------------------GSTTQA
+A0A2I0FVN7      -------------------------------------------FHTLTLG
+A0A2I0FVN7_1    -------------------------------------------FHTLTLG
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          SLNA-SNLQL--GFGIAPQ--------TGISDSLYVDKSAQGSSNTLDLG
+A0A256BZL3      AVNA-DNIKR--NTT--TDGAEVNPFDTTHKDLLIITGDASGNTNVIVQK
+A0A256BZL3_1    AVNA-DNIKR--NTT--TDGAEVNPFDTTHKDLLIITGDASGNTNVIVQK
+A0A256BZL3_2    AVNA-DNIKR--NTT--TDGAEVNPFDTTHKDLLIITGDASGNTNVIVQK
+A0A256BZL3_3    AVNA-DNIKR--NTT--TDGAEVNPFDTTHKDLLIITGDASGNTNVIVQK
+A0A246F7T9      TELG-DD--------------------DSATDKLVVKGDTSGASLVRINA
+A0A246F7T9_1    TELG-DD--------------------DSATDKLVVKGDTSGASLVRINA
+A0A064AAS7      -NFG-DKLKVLGNVV-------------INGNVKTLSNDYITSTPLSAVV
+A0A2I0FVN7      TLTGGGSFAM--NTD--VA--------GQRSDFLDVTGHAEGRYLLHVAN
+A0A2I0FVN7_1    TLTGGGSFAM--NTD--VA--------GQRSDFLDVTGHAEGRYLLHVAN
+                                                                  
+
+P02929          ------------AG-LLYTSVHQVIEL-----------------------
+J2LVH1          FMLGETFPEKVPNQ-IVLLDTPAGTAH-DYFTLPPIKRGFS--VYSPDYQ
+A0A256BZL3      ------IEGQFTDQ-GILLINVQGTSEATAFQLDPSRRVRS---GVTDFT
+A0A256BZL3_1    ------IEGQFTDQ-GILLINVQGTSEATAFQLDPSRRVRS---GVTDFT
+A0A256BZL3_2    ------IEGQFTDQ-GILLINVQGTSEATAFQLDPSRRVRS---GVTDFT
+A0A256BZL3_3    ------IEGQFTDQ-GILLINVQGTSEATAFQLDPSRRVRS---GVTDFT
+A0A246F7T9      ----TADKGAYTQQDGIEVVQVGGKSA-GDFAL--SGRVVA---GAREYL
+A0A246F7T9_1    ----TADKGAYTQQDGIEVVQVGGKSA-GDFAL--SGRVVA---GAREYL
+A0A064AAS7      ------IEGESVSG-KIEDVSVDGMRTVSAKIENNTLNVELARQNAVD--
+A0A2I0FVN7      ----TGAEPVASDE-GLRLVRTGGGSA--DFSLK-DGAVDI---GAWQYT
+A0A2I0FVN7_1    ----TGAEPVASDE-GLRLVRTGGGSA--DFSLK-DGAVDI---GAWQYT
+                                :                                 
+
+P02929          ------------------PAPAQPI----------------SV-----TM
+J2LVH1          VIETDG------RVKWVIA--KTPV-----------------------PV
+A0A256BZL3      ALEKRG------N-DWYLV-GST-EFKPSIPWTPLEPANPIEKPEEPSKP
+A0A256BZL3_1    ALEKRG------N-DWYLV-GST-EFKPSIPWTPLEPANPIEKPEEPSKP
+A0A256BZL3_2    ALEKRG------N-DWYLV-GST-EFKPSIPWTPLEPANPIEKPEEPSKP
+A0A256BZL3_3    ALEKRG------N-DWYLV-GST-EFKPSIPWTPLEPANPIEKPEEPSKP
+A0A246F7T9      LV-KGGKIDPADG-NWYLR-SEA--------------------------P
+A0A246F7T9_1    LV-KGGKIDPADG-NWYLR-SEA--------------------------P
+A0A064AAS7      ----------------YL-----------------------ET-------
+A0A2I0FVN7      LI-RKG------N-QWELV-QSG-S-----------------------DI
+A0A2I0FVN7_1    LI-RKG------N-QWELV-QSG-S-----------------------DI
+                                                                  
+
+P02929          VTPADLE-PPQAVQPPP-----------E----------P-V---VEPEP
+J2LVH1          VDPAPEPKPDPIVDPTP-----------EP---------K-PDPIVDPTP
+A0A256BZL3      VDPQPEE-PSKPVDPQPEEPSKPVDPQPEEPSKPVDPQPEEPSKPVDPQP
+A0A256BZL3_1    VDPQPEE-PSKPVDPQPEEPSKPVDPQPEEPSKPVDPQPEEPSKPVDPQP
+A0A256BZL3_2    VDPQPEE-PSKPVDPQPEEPSKPVDPQPEEPSKPVDPQPEEPSKPVDPQP
+A0A256BZL3_3    VDPQPEE-PSKPVDPQPEEPSKPVDPQPEEPSKPVDPQPEEPSKPVDPQP
+A0A246F7T9      VQPQPTPEPSPQPEPVP-----------TP---------D-PVQT-----
+A0A246F7T9_1    VQPQPTPEPSPQPEPVP-----------TP---------D-PVQT-----
+A0A064AAS7      --------------------------------------------------
+A0A2I0FVN7      DDPYPL--PEPIPDPAP-----------EP---------D-PYPL-----
+A0A2I0FVN7_1    DDPYPL--PEPIPDPAP-----------EP---------D-PYPL-----
+                                                                  
+
+P02929          EPEPIPEPPKEAPVVIEKPKPKPK-----PKPK-PVKK-VQEQPKRDVKP
+J2LVH1          EP-----KPD----PVVDPTPE----------P-KPDPVVDPAPEPKPEP
+A0A256BZL3      EE------PS----KPVDPQPEEPSKPVDPQPEEPSKP-VDPQPEEPSEP
+A0A256BZL3_1    EE------PS----KPVDPQPEEPSKPVDPQPEEPSKP-VDPQPEEPSEP
+A0A256BZL3_2    EE------PS----KPVDPQPEEPSKPVDPQPEEPSKP-VDPQPEEPSEP
+A0A256BZL3_3    EE------PS----KPVDPQPEEPSKPVDPQPEEPSKP-VDPQPEEPSEP
+A0A246F7T9      ----------------LDPEA-------------------EPQPEPQSIP
+A0A246F7T9_1    ----------------LDPEA-------------------EPQPEPQSIP
+A0A064AAS7      -----------------------------------------------TEE
+A0A2I0FVN7      ----------------PKPIP-------------------DPAPEPDPYP
+A0A2I0FVN7_1    ----------------PKPIP-------------------DPAPEPDPYP
+                                                                  
+
+P02929          V-ESRPASPFENT-------------------------------------
+J2LVH1          VVDPAP----EPG-------------------------------------
+A0A256BZL3      V-DPQPEEPSEPVNPCDTRSISDTCAAPDPLPKDPEDE-EPAEPKPEPSK
+A0A256BZL3_1    V-DPQPEEPSEPVNPCDTRSISDTCAAPDPLPKDPEDE-EPAEPKPEPSK
+A0A256BZL3_2    V-DPQPEEPSEPVNPCDTRSISDTCAAPDPLPKDPEDE-EPAEPKPEPSK
+A0A256BZL3_3    V-DPQPEEPSEPVNPCDTRSISDTCAAPDPLPKDPEDE-EPAEPKPEPSK
+A0A246F7T9      ----APQPAAKPVVD-----------------------------------
+A0A246F7T9_1    ----APQPAAKPVVD-----------------------------------
+A0A064AAS7      S-SLNSAKNVEKVFSDLDRKVADGTATSKELAMGAAIQGMNATTFATTTE
+A0A2I0FVN7      ----LPRP------------------------------------------
+A0A2I0FVN7_1    ----LPRP------------------------------------------
+                     .                                            
+
+P02929          -------APARL-TSSTATA----ATSKPVTSVA-----SGPRALSRN--
+J2LVH1          -------KPEDW-FNISDNG----G----LLHSTRALLASRQYLFSETAT
+A0A256BZL3      PAPAPIYSPETV-AYLSQHA----T----SNHMFNLKFHDRLYL------
+A0A256BZL3_1    PAPAPIYSPETV-AYLSQHA----T----SNHMFNLKFHDRLYL------
+A0A256BZL3_2    PAPAPIYSPETV-AYLSQHA----T----SNHMFNLKFHDRLYL------
+A0A256BZL3_3    PAPAPIYSPETV-AYLSQHA----T----SNHMFNLKFHDRLYL------
+A0A246F7T9      --ATPVYRPEVG-AYLGNEL----A----ALGMFQHTLHDRLGEV---D-
+A0A246F7T9_1    --ATPVYRPEVG-AYLGNEL----A----ALGMFQHTLHDRLGEV---D-
+A0A064AAS7      KLSGEIYASSQALTFAQAHNINRNL----SNHLSNID---NLKN------
+A0A2I0FVN7      -----VR---------STSA----S----TDALLNMASVARVLY------
+A0A2I0FVN7_1    -----VR---------STSA----S----TDALLNMASVARVLY------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          SLNDRAQTLRGDAQMHGVWG-----GYSYNRGGI----------------
+A0A256BZL3      ------------PGENGVWVHAQ-AGFNKMRSSLT---------------
+A0A256BZL3_1    ------------PGENGVWVHAQ-AGFNKMRSSLT---------------
+A0A256BZL3_2    ------------PGENGVWVHAQ-AGFNKMRSSLT---------------
+A0A256BZL3_3    ------------PGENGVWVHAQ-AGFNKMRSSLT---------------
+A0A246F7T9      -FTERQRTDGNGKDHQAVWTRVVGRGFDSSTGADQ---------------
+A0A246F7T9_1    -FTERQRTDGNGKDHQAVWTRVVGRGFDSSTGADQ---------------
+A0A064AAS7      -----------SNKEWQTWMSAM-GSNGKLSRSG----------------
+A0A2I0FVN7      ------------YSEQGALRG------RTQQANDHAAGAWGTFLHQRNDV
+A0A2I0FVN7_1    ------------YSEQGALRG------RTQQANDHAAGAWGTFLHQRNDV
+                                                                  
+
+P02929          ------QPQYPARAQ--ALRIEGQV---------------KVKFDVT---
+J2LVH1          -----ADVSIRQQSF--ELGVDKQVG-------AWRVGLMASHG-QGSGK
+A0A256BZL3      -----QDISAKMDYYTIHIGKD--LV----ENELYQFGIMAAYG-HASGT
+A0A256BZL3_1    -----QDISAKMDYYTIHIGKD--LV----ENELYQFGIMAAYG-HASGT
+A0A256BZL3_2    -----QDISAKMDYYTIHIGKD--LV----ENELYQFGIMAAYG-HASGT
+A0A256BZL3_3    -----QDISAKMDYYTIHIGKD--LV----ENELYQFGIMAAYG-HASGT
+A0A246F7T9      -----VHSSTRTQLM--QIGAE--LGQWTDGDSRTHFGVMAGAG-QADTN
+A0A246F7T9_1    -----VHSSTRTQLM--QIGAE--LGQWTDGDSRTHFGVMAGAG-QADTN
+A0A064AAS7      ------YASADTHVSGGQIGID--KK----INDTTQLGIALAYS-YAHAN
+A0A2I0FVN7      QGAWHSAYSLRQNGM--LLGID--------GQRETAAGTLITGM-VMSQS
+A0A2I0FVN7_1    QGAWHSAYSLRQNGM--LLGID--------GQRETAAGTLITGM-VMSQS
+                        .         :  :                            
+
+P02929          P------DGRV---DNVQI-------------------------------
+J2LVH1          G------MGSI-SHQLSTLGTYASWL----ADGG----------------
+A0A256BZL3      SRNHRHGIKADMDSNGFAVGVYGSYT----PTEH----------------
+A0A256BZL3_1    SRNHRHGIKADMDSNGFAVGVYGSYT----PTEH----------------
+A0A256BZL3_2    SRNHRHGIKADMDSNGFAVGVYGSYT----PTEH----------------
+A0A256BZL3_3    SRNHRHGIKADMDSNGFAVGVYGSYT----PTEH----------------
+A0A246F7T9      VSSRLINAKSKGKVDGYSVGAYGTWFADASKPTG----------------
+A0A246F7T9_1    VSSRLINAKSKGKVDGYSVGAYGTWFADASKPTG----------------
+A0A064AAS7      FNRYAGDAKSDM----IGISLYGKKE----LGNEFYTMGRLGISHISTRV
+A0A2I0FVN7      SGNVQHARGGTSHVEAWGGGLYASLQ----SQTG----------------
+A0A2I0FVN7_1    SGNVQHARGGTSHVEAWGGGLYASLQ----SQTG----------------
+                                                                  
+
+P02929          --------------------------------------------------
+J2LVH1          ------------------------WFADLAARYMHLRQDLKLDPALEVK-
+A0A256BZL3      ------------------------RYVDAWVQYAYLRNKVTGEKSS----
+A0A256BZL3_1    ------------------------RYVDAWVQYAYLRNKVTGEKSS----
+A0A256BZL3_2    ------------------------RYVDAWVQYAYLRNKVTGEKSS----
+A0A256BZL3_3    ------------------------RYVDAWVQYAYLRNKVTGEKSS----
+A0A246F7T9      ------------------------LYVDSWMQFGWFDNTVRGDSLS----
+A0A246F7T9_1    ------------------------LYVDSWMQFGWFDNTVRGDSLS----
+A0A064AAS7      KRELVDQNGDTVQGDINHRDYMTSLYVEAGKKINWV----TPFIGY----
+A0A2I0FVN7      ------------------------WYADATAKINRFDNTLSAVMTDGGAV
+A0A2I0FVN7_1    ------------------------WYADATAKINRFDNTLSAVMTDGGAV
+                                                                  
+
+P02929          -------------------LSAKP---ANMFEREVKNAMRRWRYEP--GK
+J2LVH1          GTQRSSQMLAASAKVGRQMPLFDD---SFTLSPFVETRVG-YLPGY--RL
+A0A256BZL3      SEKYNSKGLLASIEAGYAFNISEN----SYFQPQVQLTYMGVKSDR--HE
+A0A256BZL3_1    SEKYNSKGLLASIEAGYAFNISEN----SYFQPQVQLTYMGVKSDR--HE
+A0A256BZL3_2    SEKYNSKGLLASIEAGYAFNISEN----SYFQPQVQLTYMGVKSDR--HE
+A0A256BZL3_3    SEKYNSKGLLASIEAGYAFNISEN----SYFQPQVQLTYMGVKSDR--HE
+A0A246F7T9      DEHYKSRSLTGSVEAGYALELGQSGQNAWYVEPEAQVIVSRYMADK--HV
+A0A246F7T9_1    DEHYKSRSLTGSVEAGYALELGQSGQNAWYVEPEAQVIVSRYMADK--HV
+A0A064AAS7      SQDYLRRGSFSESNAAWGINASSK----NYHTSNFLI---GLRA------
+A0A2I0FVN7      RGRWETWGGGVSLEGGRHLSVTEH----LTMTPYVALN--GYQNQAKNIR
+A0A2I0FVN7_1    RGRWETWGGGVSLEGGRHLSVTEH----LTMTPYVALN--GYQNQAKNIR
+                                      .                           
+
+P02929          PGSGIVVNILFK--------------------------------------
+J2LVH1          QGYDASITLSSATPWSVSPGFELRKRGLGSVLPGVSLFA--GISKQYSPG
+A0A256BZL3      EANGN-IVTSNSGNVQIRVGAR---------VYGDK-TLFNGSTTPYMEL
+A0A256BZL3_1    EANGN-IVTSNSGNVQIRVGAR---------VYGDK-TLFNGSTTPYMEL
+A0A256BZL3_2    EANGN-IVTSNSGNVQIRVGAR---------VYGDK-TLFNGSTTPYMEL
+A0A256BZL3_3    EANGN-IVTSNSGNVQIRVGAR---------VYGDK-TLFNGSTTPYMEL
+A0A246F7T9      EGNGTEVKVENGSNVTTRVGAR---------AFARPLDAGQKRLQPFVEA
+A0A246F7T9_1    EGNGTEVKVENGSNVTTRVGAR---------AFARPLDAGQKRLQPFVEA
+A0A064AAS7      EYDINKYKFQSYITQSINVGDR---------NLGYE-GNFTGSSVKQ---
+A0A2I0FVN7      LSNSMQANLGNARSMRADVGTR---------LSASL-PAADWVFTPYADF
+A0A2I0FVN7_1    LSNSMQANLGNARSMRADVGTR---------LSASL-PAADWVFTPYADF
+                                                                  
+
+P02929          --ING---------------TTEIQ-------------------------
+J2LVH1          SSGSTLT--------LADSHASRTYDAWSDNRYRLHAGFEGQISENW---
+A0A256BZL3      N--YFHNTKPFKVNVQNGNGMTTISQQNARDIYQIEVGFTSQLNKDL---
+A0A256BZL3_1    N--YFHNTKPFKVNVQNGNGMTTISQQNARDIYQIEVGFTSQLNKDL---
+A0A256BZL3_2    N--YFHNTKPFKVNVQNGNGMTTISQQNARDIYQIEVGFTSQLNKDL---
+A0A256BZL3_3    N--YFHNTKPFKVNVQNGNGMTTISQQNARDIYQIEVGFTSQLNKDL---
+A0A246F7T9      N--WWHNGKTQ---AMSFNGES-QSANLAADVYELKVGAQAELAKGW---
+A0A246F7T9_1    N--WWHNGKTQ---AMSFNGES-QSANLAADVYELKVGAQAELAKGW---
+A0A064AAS7      ---KFY------------------GIKLPKNTTWMGVGVFREITPNL---
+A0A2I0FVN7      A--LEQE--------LSRSGAVRINQQW--DFDNESRGTTGRLNAGLNVA
+A0A2I0FVN7_1    A--LEQE--------LSRSGAVRINQQW--DFDNESRGTTGRLNAGLNVA
+                                                                  
+
+P02929          -----------------------------------
+J2LVH1          -----SLQVGAKHSAGG--KYQTDTAFNGALNYSF
+A0A256BZL3      -----RLTGGVSYAQGKKRQDYRDTKVRLDLRYNF
+A0A256BZL3_1    -----RLTGGVSYAQGKKRQDYRDTKVRLDLRYNF
+A0A256BZL3_2    -----RLTGGVSYAQGKKRQDYRDTKVRLDLRYNF
+A0A256BZL3_3    -----RLTGGVSYAQGKKRQDYRDTKVRLDLRYNF
+A0A246F7T9      -----TTWGHLGAQQAR--GDQRQGEAQLGVKYSW
+A0A246F7T9_1    -----TTWGHLGAQQAR--GDQRQGEAQLGVKYSW
+A0A064AAS7      -----GVSGNVDFRAED--KKIVDSVFSVGLQYKF
+A0A2I0FVN7      VTPAASVWAEAGYRKGE--HSESPIAAHLGLRIGF
+A0A2I0FVN7_1    VTPAASVWAEAGYRKGE--HSESPIAAHLGLRIGF
+                                                   
+
+
+

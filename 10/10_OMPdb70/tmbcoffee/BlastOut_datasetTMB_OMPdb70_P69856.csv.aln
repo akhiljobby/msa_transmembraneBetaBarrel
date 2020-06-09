@@ -1,0 +1,147 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE: psicoffee ], CPU=0.21 sec, SCORE=91, Nseq=11, Len=512 
+
+P69856          MK-----------------------------KAK-ILSGVLLL-CFSSPL
+A0A376U120      MK-----------------------------KAK-ILSGVLLL-CFSSPL
+A0A379UIB8      MN-----------------------------QLKAMASGAVLL-LTAVPL
+A0A148HCS3      MINIFNDEAF-------------------MKKYY-PLLTV--I-LLGLPL
+A0A2N0VVH7      MNI-----------------------------KS-PLRIACGL-VTLLPL
+V3PXA8          MQK-----------------------------N--LLRFFLLI-AAGSPL
+A0A1X0W451      MK-----------------------------KMF-LLF-SVVL-ATLLSF
+A8AGB9          MLLLKFNTTIISWMIIIYIRLLAGVLFMSMSKKC-LFTGAVIF-FSFTPF
+A0A315IPX4      MNK-----------------------------TA-LL----LA-ACCCPV
+A0A248KJ09      MK-----------------------------RMK-NITLLSTAISLALMS
+A0A181Y6G9      MK-----------------------------KSR-TLCIAIPLSCFTLNA
+                *                                                 
+
+P69856          I-SQ-----AATLDVRGGYRSGSHAYETRLKVSEGWQNGWWASMESNTWN
+A0A376U120      I-SQ-----AATLDVRGGYRSGSHAYETRLKVSEGWQNGWWASMESNTWN
+A0A379UIB8      T-SY-----ALTFDARGGYRSGSHAYETRLKVSNGWENGWWGSLETDSWN
+A0A148HCS3      C-SQ-----ALTLNLRGGYRSASHAYETLIQVSQGWNNGWWASFESNTWN
+A0A2N0VVH7      F-SH-----AVTFDVRGGYKSASHIYESRFKVSQGWENGWWASMETDNKD
+V3PXA8          V-SH-----ALTFDVRGGYKTGSHSYESRYKISESWANGWWASAEMDNKN
+A0A1X0W451      K-SQ-----ALTLNGFGGYRSGSHAYETRLKLSENWKSGWFASLETDSFN
+A8AGB9          --VH-----AVQFDVRGGYNIENHSYESRFKVSNSWSSGWWASMETDSNN
+A0A315IPX4      V-GH-----AMTFDMRGGYKEASHSYESRFKMSQSFKSGYWLSMETDNKQ
+A0A248KJ09      TSASAMKITDSWVNFREAYMSGSEQFQTKIEYGMKLDDDLYFSIQNTSGQ
+A0A181Y6G9      I-AA-----ATWVDNRYAHTTASEKNQYKIGLGHIFDNGAGVLASAMYDL
+                            .:   .:   ..  :     .    ..     .     
+
+P69856          TIHDNKKEN-------------AALNDVQVEVNYAIKLDDQWTVRPGMLT
+A0A376U120      TIHDNKKEN-------------AALNDVQVEVNYAIKLDDQWTVRPGMLT
+A0A379UIB8      GVHNNSNEV-------------IGLSYNELETNYTIKLDDKWSLKPGMLT
+A0A148HCS3      TIHNNENEL-------------FALNYNKIDINKTYKIDDKWALIPGIQT
+A0A2N0VVH7      NKNNGRGANGTDKSDSSHSLGDITTDYNEIETNYTYKLNKKWSLQPGGIL
+V3PXA8          NKNNGKGTNGSDKSDSAHSFGDSTTDYNEIETNYTWRFADKWNLQPGGIY
+A0A1X0W451      KTHENSNEP-------------FGLSYNEIDTNYTIHLTDKLSLKPGHLL
+A8AGB9          GSP---------------SLDDMTSSYNEMETNYTWHINDRFALVPGGVI
+A0A315IPX4      GDD---------------NFDQSTVSYNEIEGNYKYILNPKITIQPGMIY
+A0A248KJ09      GKH----------------FDEFNNRYNEIESNYKIPLASRLFFWPGFVF
+A0A181Y6G9      GQD----------------FNQMKSSFQEFEGWYPLPLNEKWTLTPGGLT
+                                            :.:      :  :  . **   
+
+P69856          HFSSNGTRYGPYVKLSWDATKDLNFGIRYRYDWKAYRQQDLSGDMSRDNV
+A0A376U120      HFSSNGTRYGPYVKLSWDATKDLNFGIRYRYDWKAYRQQDLSGDMSRDNV
+A0A379UIB8      HWSKAGTRFGPYLKLSYDVNPDLNLGIRYRYDYNVYRSTDLDGNNARANQ
+A0A148HCS3      QWMSAGSQYNPYLKISYQATPDLNLALRYRYDWKAFRQTDLDGNRARNDQ
+A0A2N0VVH7      HWSTNGTQIRPYIRLNYKISDNLNSGLRYRYDYNDYETKNTDNELHRDSV
+V3PXA8          HWSSKGTQLRPYMRVNYLPGADWSLGLRYRYDYNTYETVNDEGESHRDSV
+A0A1X0W451      HWSSTGTRLGPYLKLSYDVRKDLNLGIRYRYDYNLFHSTDLNGNNSRAQQ
+A8AGB9          HWSNSGTQLRPYIRLNYKISERFSSGIRYRLDHHNYDVVDNTGDTIHDNE
+A0A315IPX4      HWSADGTQIRPYVKFVWNMTDSIYSGVRFRYDWNQYDSTDLSGNQDKGSV
+A0A248KJ09      NWGSNGSAFDPYVKLGVQVTDNFTLIAGYRYNQNNYQSFDYNGDYTEDSN
+A0A181Y6G9      DIDNKGTKLAPYISLDYKISKTLSFSSRYRYNHMTHKDRDYNGYMDYNDS
+                .    *:   **: .             :* :   .   :  .     . 
+
+P69856          HRWDGYVTYHINSDFTFAWQTTLYSKQN-DYRYANHKKWATENAFVLQYH
+A0A376U120      HRWDGYVTYHINSDFTFAWQTTLYSKQN-DYRYANHKKWATENAFVLQYH
+A0A379UIB8      HRWDGYVTYRINDLFTAAWQTTVYTYQN-DFHYNNHKKWATENAFVLLYK
+A0A148HCS3      HQFDGYVTYKINDSWLFAWQTTVYTKVN-NFKYGNHKKTATENAFVLQYK
+A0A2N0VVH7      NRLDLYLGYKINATWSLNYQGTIYRHTSADYEYKNGKSWSTENAFTVRYK
+V3PXA8          NRLDIFVGYKFNREWSFLYQGTAYKHANEDYTYKNNKTWATENAFTLRYK
+A0A1X0W451      QRWDGYVTYQINDKWMTAWQTTVYTYVN-DYRYN----------------
+A8AGB9          HRIDLFLGYKINQDWNFMWQGTAYMHQDPDLEYNNGKRWATENAFTIKYR
+A0A315IPX4      ERLDLYFGWQ-NQYWGIQDNPVFYRYVN-DFHYNNGKKSAYENDLVVKYK
+A0A248KJ09      QEVNIWADLNVTDRIWMEYNFTYHKRDE-DYRYGNGSTENYEHTLALSYK
+A0A181Y6G9      HQLDLFLNYQATEKLWLQLNPEFFVNAN-DFNASNGQKTHWEPSIVARYR
+                .. : :   . .       :   .   . :                    
+
+P69856          MTPDITPYIEYDYLDRQGVYNGRDNLSEN---------------------
+A0A376U120      MTPDITPYIEYDYLDRQGVYNAEIIYRKTVIALVCHLNCSRQETVTMNKT
+A0A379UIB8      MSKNITPYIEYDYLDRQGAYNGRDNIPEN---------------------
+A0A148HCS3      MSPVFTPYIEYDYLDKQGVYKGKDNKHEN---------------------
+A0A2N0VVH7      WNNTVSNYAEYDYLDKTGYYDGEGNKAES---------------------
+V3PXA8          WNEWFSPYVEYDYLDQQGYYDGEDNVSES---------------------
+A0A1X0W451      --------------------------------------------------
+A8AGB9          WNEYFSPYFEYDYLDEQSNYKGEKGKPDS---------------------
+A0A315IPX4      LNKTWQPYVEWDYMEQQGKYDDESGLTEN---------------------
+A0A248KJ09      IDDHFTPYIDVAYLDKASDGDD-----EN---------------------
+A0A181Y6G9      VDKHWLPYAEVAWLDQDQNHDD-----QV---------------------
+                                                                  
+
+P69856          -----------------------------------SYRI-----------
+A0A376U120      ITALAILMASFAANASVLPETPVPFKSGTGAIDNDTVYIGLGSAGTAWYK
+A0A379UIB8      -----------------------------------SYRV-----------
+A0A148HCS3      -----------------------------------SYRV-----------
+A0A2N0VVH7      -----------------------------------RYRI-----------
+V3PXA8          -----------------------------------RYRI-----------
+A0A1X0W451      --------------------------------------------------
+A8AGB9          -----------------------------------RIRV-----------
+A0A315IPX4      -----------------------------------RFRV-----------
+A0A248KJ09      -----------------------------------RVRI-----------
+A0A181Y6G9      -----------------------------------RFRL-----------
+                                                                  
+
+P69856          --------------------------------------------------
+A0A376U120      LDTQAKDKKWTALAAFPGGPRDQATSAFIDGNLYVFGGIGKNSEGLTQVF
+A0A379UIB8      --------------------------------------------------
+A0A148HCS3      --------------------------------------------------
+A0A2N0VVH7      --------------------------------------------------
+V3PXA8          --------------------------------------------------
+A0A1X0W451      --------------------------------------------------
+A8AGB9          --------------------------------------------------
+A0A315IPX4      --------------------------------------------------
+A0A248KJ09      --------------------------------------------------
+A0A181Y6G9      --------------------------------------------------
+                                                                  
+
+P69856          --------------------------------------------------
+A0A376U120      NDVHKYNPKTNSWVKLISHAPMGMAGHVTFVHNGKAYVTGGVNQNIFNGY
+A0A379UIB8      --------------------------------------------------
+A0A148HCS3      --------------------------------------------------
+A0A2N0VVH7      --------------------------------------------------
+V3PXA8          --------------------------------------------------
+A0A1X0W451      --------------------------------------------------
+A8AGB9          --------------------------------------------------
+A0A315IPX4      --------------------------------------------------
+A0A248KJ09      --------------------------------------------------
+A0A181Y6G9      --------------------------------------------------
+                                                                  
+
+P69856          --------------------------------------------GVS---
+A0A376U120      FEDLNEAGKDSTAIDKINAHYFDKKAEDYFFNKFLLSFDPLHSNGVTLAN
+A0A379UIB8      --------------------------------------------GVS---
+A0A148HCS3      --------------------------------------------GVL---
+A0A2N0VVH7      --------------------------------------------GIT---
+V3PXA8          --------------------------------------------GMT---
+A0A1X0W451      --------------------------------------------------
+A8AGB9          --------------------------------------------GVT---
+A0A315IPX4      --------------------------------------------GLT---
+A0A248KJ09      --------------------------------------------GVY---
+A0A181Y6G9      --------------------------------------------GIR---
+                                                                  
+
+P69856          --------FKL-
+A0A376U120      LPGTGRLVRRL-
+A0A379UIB8      --------FNL-
+A0A148HCS3      --------INF-
+A0A2N0VVH7      --------FNL-
+V3PXA8          --------FTL-
+A0A1X0W451      ------------
+A8AGB9          --------FNL-
+A0A315IPX4      --------INFE
+A0A248KJ09      --------YHF-
+A0A181Y6G9      --------YYFD
+                            
+
+
+

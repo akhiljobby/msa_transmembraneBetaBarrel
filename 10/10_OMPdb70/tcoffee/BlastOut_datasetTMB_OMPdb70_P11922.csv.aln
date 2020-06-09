@@ -1,0 +1,641 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE:  ], CPU=0.48 sec, SCORE=92, Nseq=11, Len=2432 
+
+P11922          MVF-QPISEFLLIRNAGMSMYFNKI-------------------------
+K7ZVE1          MMVFQPISEFLLIRNAGMSMYFNKI-------------------------
+A0A0T9NYR8      -----------------MRAFISGL-------------------------
+A0A0T9NYR8_1    -----------------MRAFISGL-------------------------
+A0A0T9TLY0      -----------------MHSYYTKL-------------------------
+A0A0T9TLY0_1    -----------------MHSYYTKL-------------------------
+A0A0T9T8V0      -----------------MYSFFNTL-------------------------
+A0A0T9T8V0_1    -----------------MYSFFNTL-------------------------
+D0ZAL1          -----------------MFKYTYDILNLISKKRLSSILPLINGRPRKSNS
+D0ZAL1_1        -----------------MFKYTYDILNLISKKRLSSILPLINGRPRKSNS
+D0ZAL1_2        -----------------MFKYTYDILNLISKKRLSSILPLINGRPRKSNS
+                                 *  :   :                         
+
+P11922          -----------------------ISFNIISRIVICIFLICGM--FMAGAS
+K7ZVE1          -----------------------ISFNIISRIVICIFLICGM--FMAGAS
+A0A0T9NYR8      -----------------------TASHIIIRAVLSLSLMFGV--FDSGVS
+A0A0T9NYR8_1    -----------------------TASHIIIRAVLSLSLMFGV--FDSGVS
+A0A0T9TLY0      -----------------------ITINTILKIIFLSFLIFMI--FTVGAS
+A0A0T9TLY0_1    -----------------------ITINTILKIIFLSFLIFMI--FTVGAS
+A0A0T9T8V0      -----------------------TVTKIIARLILSAGLIFGI--LTSGGS
+A0A0T9T8V0_1    -----------------------TVTKIIARLILSAGLIFGI--LTSGGS
+D0ZAL1          TSSNKPIARKMATPPQPIKIKVMAWCNIITQILFPIAISFSPSMSLAAAQ
+D0ZAL1_1        TSSNKPIARKMATPPQPIKIKVMAWCNIITQILFPIAISFSPSMSLAAAQ
+D0ZAL1_2        TSSNKPIARKMATPPQPIKIKVMAWCNIITQILFPIAISFSPSMSLAAAQ
+                                          : * : ::   :         . .
+
+P11922          EKYDANAPQQVQPYSVSS---------------SAFENLHPNNEMESSIN
+K7ZVE1          EKYDANAPQQVQPYSVSS---------------SAFENLHPNNEMESSIN
+A0A0T9NYR8      RQHPINELPLTQSHHFN---------------------------------
+A0A0T9NYR8_1    RQHPINELPLTQSHHFN---------------------------------
+A0A0T9TLY0      WKYNVNDQWQADAV------------------------------------
+A0A0T9TLY0_1    WKYNVNDQWQADAV------------------------------------
+A0A0T9T8V0      QQHYFN--------------------------------------------
+A0A0T9T8V0_1    QQHYFN--------------------------------------------
+D0ZAL1          RSSMQIHAQSTEPYILKKGETVGSVAKKLGVTVSQLKKINQFRKFAHGID
+D0ZAL1_1        RSSMQIHAQSTEPYILKKGETVGSVAKKLGVTVSQLKKINQFRKFAHGID
+D0ZAL1_2        RSSMQIHAQSTEPYILKKGETVGSVAKKLGVTVSQLKKINQFRKFAHGID
+                 .                                                
+
+P11922          PFSASDT----------------------ERNAAIIDRANKEQETEAVNK
+K7ZVE1          PFSASDT----------------------ERNAAIIDRANKEQETEAVNK
+A0A0T9NYR8      -----------------------------SA-----EFDSTEHNDETVNK
+A0A0T9NYR8_1    -----------------------------SA-----EFDSTEHNDETVNK
+A0A0T9TLY0      ----------------------------------DVEMAKEYRYDEAVNR
+A0A0T9TLY0_1    ----------------------------------DVEMAKEYRYDEAVNR
+A0A0T9T8V0      -----------------------------SE-----ELDNPANHNETINQ
+A0A0T9T8V0_1    -----------------------------SE-----ELDNPANHNETINQ
+D0ZAL1          KIGAGDEIDIPHSGSSLTKPGSPAAATPLSP-----HADTSERESRVAGQ
+D0ZAL1_1        KIGAGDEIDIPHSGSSLTKPGSPAAATPLSP-----HADTSERESRVAGQ
+D0ZAL1_2        KIGAGDEIDIPHSGSSLTKPGSPAAATPLSP-----HADTSERESRVAGQ
+                                                    .  .  .  .. .:
+
+P11922          MISTGARLAA---SGRASDVAHSMVGDAVNQEIKQWLNRFGTAQVNLNFD
+K7ZVE1          MISTGARLAA---SGRASDVAHSMVGDAVNQEIKQWLNRFGTAQVNLNFD
+A0A0T9NYR8      MINFGANLAS---TGNASNMARSMASDVANQEIKHWLNRFGTAQVNVNFD
+A0A0T9NYR8_1    MINFGANLAS---TGNASNMARSMASDVANQEIKHWLNRFGTAQVNVNFD
+A0A0T9TLY0      LVNASTRLAS---SERVPEIAHSMANDMTNQEIKNWLNQFGTAQVNVNFN
+A0A0T9TLY0_1    LVNASTRLAS---SERVPEIAHSMANDMTNQEIKNWLNQFGTAQVNVNFN
+A0A0T9T8V0      MINTGTSLAV---SGNASNITRLMVNDAANQEVKHWLNRFGTAQVNVNFD
+A0A0T9T8V0_1    MINTGTSLAV---SGNASNITRLMVNDAANQEVKHWLNRFGTAQVNVNFD
+D0ZAL1          LMGVGRVLASPQSSNAASEMARSWATAAANDEIVKWLSKYGTAQLQLNID
+D0ZAL1_1        LMGVGRVLASPQSSNAASEMARSWATAAANDEIVKWLSKYGTAQLQLNID
+D0ZAL1_2        LMGVGRVLASPQSSNAASEMARSWATAAANDEIVKWLSKYGTAQLQLNID
+                ::. .  **    :  ..::::  .   .*:*: :**.::****:::*::
+
+P11922          KNFSLKESSLDWLAPWYDSASFLFFSQLGIRNKDSRNTLNLGVGIRTLEN
+K7ZVE1          KNFSLKESSLDWLAPWYDSASFLFFSQLGIRNKDSRNTLNLGVGIRTLEN
+A0A0T9NYR8      KKFSLNESSLDWLLPWYDSASSLFFSQLGMRNKDSRNTLNIGMGGRIFHQ
+A0A0T9NYR8_1    KKFSLNESSLDWLLPWYDSASSLFFSQLGMRNKDSRNTLNIGMGGRIFHQ
+A0A0T9TLY0      KKLSLKESSIDWLIPWHESLSHVFFSQFGFRNKDSRNTLNIGAGARIAQE
+A0A0T9TLY0_1    KKLSLKESSIDWLIPWHESLSHVFFSQFGFRNKDSRNTLNIGAGARIAQE
+A0A0T9T8V0      KKFSLKESSLDWLLPWYDSASYLFFSQLGIRNKDSRNTLNIGTGVRTFQQ
+A0A0T9T8V0_1    KKFSLKESSLDWLLPWYDSASYLFFSQLGIRNKDSRNTLNIGTGVRTFQQ
+D0ZAL1          KNFSLDGSALDWLLPFYDTPTTTTFTQLGFRNRDHRNTLNIGIGTRTLSN
+D0ZAL1_1        KNFSLDGSALDWLLPFYDTPTTTTFTQLGFRNRDHRNTLNIGIGTRTLSN
+D0ZAL1_2        KNFSLDGSALDWLLPFYDTPTTTTFTQLGFRNRDHRNTLNIGIGTRTLSN
+                *::**. *::*** *:::: :   *:*:*:**:* *****:* * *   :
+
+P11922          GWLYGLNTFYDNDLTGHNHRIGLGAEAWTDYLQLAANGYFRLNGWHSSRD
+K7ZVE1          GWLYGLNTFYDNDLTGHNHRIGLGAEAWTDYLQLAANGYFRLNGWHSSRD
+A0A0T9NYR8      DWMYGFNSFYDNEMTGKNHRVGFGAEAWTDYLQLSANGYFRLSGWRPSRN
+A0A0T9NYR8_1    DWMYGFNSFYDNEMTGKNHRVGFGAEAWTDYLQLSANGYFRLSGWRPSRN
+A0A0T9TLY0      AWMYGFNTFYDNDFTGHNQRIGFGVEAWADYLQLSANGYFRLNGWHQSRD
+A0A0T9TLY0_1    AWMYGFNTFYDNDFTGHNQRIGFGVEAWADYLQLSANGYFRLNGWHQSRD
+A0A0T9T8V0      RWMYGFNTFYDNDMTGHNHRLGVGTEAWTDYLQLSANGYFRLNGWHQSRD
+A0A0T9T8V0_1    RWMYGFNTFYDNDMTGHNHRLGVGTEAWTDYLQLSANGYFRLNGWHQSRD
+D0ZAL1          NWLFGVNAFYDHDLSGKNSRLGLGSEAWTDYLQLSLNGYLRLSDWHQSRD
+D0ZAL1_1        NWLFGVNAFYDHDLSGKNSRLGLGSEAWTDYLQLSLNGYLRLSDWHQSRD
+D0ZAL1_2        NWLFGVNAFYDHDLSGKNSRLGLGSEAWTDYLQLSLNGYLRLSDWHQSRD
+                 *::*.*:***::::*:* *:*.* ***:*****: ***:**..*: **:
+
+P11922          FSDYKERPATGGDLRANAYLPALPQLGGKLMYEQYTGERVALFGKDNLQR
+K7ZVE1          FSDYKERPATGGDLRANAYLPALPQLGGKLMYEQYTGERVALFGKDNLQR
+A0A0T9NYR8      FTDYNERPASGGDLRAKAYLPTLPQLGGTLIYEQYRGERVALFGKDNLQR
+A0A0T9NYR8_1    FTDYNERPASGGDLRAKAYLPTLPQLGGTLIYEQYRGERVALFGKDNLQR
+A0A0T9TLY0      FSDYNERPVSGGDLRAKAYLPAHPQLGGKLIYEQYSGERVALFGKDNLQR
+A0A0T9TLY0_1    FSDYNERPVSGGDLRAKAYLPAHPQLGGKLIYEQYSGERVALFGKDNLQR
+A0A0T9T8V0      FVDYNERPANGGDIHAKAYLPALPQLGGKLKYEQYRGERVALFGKDNLQS
+A0A0T9T8V0_1    FVDYNERPANGGDIHAKAYLPALPQLGGKLKYEQYRGERVALFGKDNLQS
+D0ZAL1          LADYNERPANGFDVRANAWMPTLPQLGGKLMYEQYFGDAVGLFGKDNLQR
+D0ZAL1_1        LADYNERPANGFDVRANAWMPTLPQLGGKLMYEQYFGDAVGLFGKDNLQR
+D0ZAL1_2        LADYNERPANGFDVRANAWMPTLPQLGGKLMYEQYFGDAVGLFGKDNLQR
+                : **:***..* *::*:*::*: *****.* **** *: *.******** 
+
+P11922          NPYAVTAGINYTPVPLLTVGVDQRMGKSSKHETQWNLQMNYRLGESFQSQ
+K7ZVE1          NPYAVTAGINYTPVPLLTVGVDQRMGKSSKHETQWNLQMNYRLGESFQSQ
+A0A0T9NYR8      NPYVLTAGLNYTPIPLLTVGVEQRMGKSRQHETQWNVQMDYRLGESFRSQ
+A0A0T9NYR8_1    NPYVLTAGLNYTPIPLLTVGVEQRMGKSRQHETQWNVQMDYRLGESFRSQ
+A0A0T9TLY0      NPYAVTAGLNYTPIPLFTLGVDQRMGKSRKHETQWNFQMDYRLGESFYSQ
+A0A0T9TLY0_1    NPYAVTAGLNYTPIPLFTLGVDQRMGKSRKHETQWNFQMDYRLGESFYSQ
+A0A0T9T8V0      NPYAVTAGLIYTPIPFITLGVDQRMGKSRQHETQWNLQLDYRLGENFRSQ
+A0A0T9T8V0_1    NPYAVTAGLIYTPIPFITLGVDQRMGKSRQHETQWNLQLDYRLGENFRSQ
+D0ZAL1          NPYAFTVGVNYTPFPLLTLGVDQRLGKNSEHDTQFNVQLNYRIGDDWRAQ
+D0ZAL1_1        NPYAFTVGVNYTPFPLLTLGVDQRLGKNSEHDTQFNVQLNYRIGDDWRAQ
+D0ZAL1_2        NPYAFTVGVNYTPFPLLTLGVDQRLGKNSEHDTQFNVQLNYRIGDDWRAQ
+                ***..*.*: ***.*::*:**:**:**. :*:**:*.*::**:*:.: :*
+
+P11922          LSPSAVAGTRLLAESRYNLVDRNNNIVLEYQKQQVVKLTLSPATISGLPG
+K7ZVE1          LSPSAVAGTRLLAESRYNLVDRNNNIVLEYQKQQVVKLTLSPATISGLPG
+A0A0T9NYR8      FSPSQVVGRRLLAESRYNIVERNANIVLEYQKQNHFKLTLSPAVLSGQPG
+A0A0T9NYR8_1    FSPSQVVGRRLLAESRYNIVERNANIVLEYQKQNHFKLTLSPAVLSGQPG
+A0A0T9TLY0      VSSSAIAGTRLLTESRYNLVERNNNIVLDYQKKNILKLILSPVKIVGQPG
+A0A0T9TLY0_1    VSSSAIAGTRLLTESRYNLVERNNNIVLDYQKKNILKLILSPVKIVGQPG
+A0A0T9T8V0      FSPSAVAGTRLLAESRYNLVERNPNIVLEYQKQNTFKLAFSPTVISGLPG
+A0A0T9T8V0_1    FSPSAVAGTRLLAESRYNLVERNPNIVLEYQKQNTFKLAFSPTVISGLPG
+D0ZAL1          VDPSAVPHSRLISESRYNLVERNNNIVLEYQKQNIMHLSLPSDTLSGQPG
+D0ZAL1_1        VDPSAVPHSRLISESRYNLVERNNNIVLEYQKQNIMHLSLPSDTLSGQPG
+D0ZAL1_2        VDPSAVPHSRLISESRYNLVERNNNIVLEYQKQNIMHLSLPSDTLSGQPG
+                ...* :   **::*****:*:** ****:***:: .:* :..  : * **
+
+P11922          QVYQVNAQVQGASAVREIVWSDAELIAAGGTLTPLSTTQFNLVLPPYKRT
+K7ZVE1          QVYQVNAQVQGASAVREIVWSDAELIAAGGTLTPLSTTQFNLVLPPYKRT
+A0A0T9NYR8      RVYPVDARISTQYALQHIVWNDAGLIAAGGKLIPVNATSYSVVLPAYKRI
+A0A0T9NYR8_1    RVYPVDARISTQYALQHIVWNDAGLIAAGGKLIPVNATSYSVVLPAYKRI
+A0A0T9TLY0      QSYPISARVQAQYGVKHIVWNDANWVAAGGKLIPFSATQFSLLLPPYQRV
+A0A0T9TLY0_1    QSYPISARVQAQYGVKHIVWNDANWVAAGGKLIPFSATQFSLLLPPYQRV
+A0A0T9T8V0      HVYSVSAQIQPQTTLQRIIWNDAQWVATGGKLIPVSATHYNVVLPPYQRV
+A0A0T9T8V0_1    HVYSVSAQIQPQTTLQRIIWNDAQWVATGGKLIPVSATHYNVVLPPYQRV
+D0ZAL1          SEHMISAILQTKYGLQDIVWQDAEFISAGGKLQRQDKTHFNLTLPSYRYS
+D0ZAL1_1        SEHMISAILQTKYGLQDIVWQDAEFISAGGKLQRQDKTHFNLTLPSYRYS
+D0ZAL1_2        SEHMISAILQTKYGLQDIVWQDAEFISAGGKLQRQDKTHFNLTLPSYRYS
+                  : :.* :.    :: *:*.**  :::**.*   . * :.: **.*:  
+
+P11922          AQVSRV------TDDLTANFYSLSALAVDHQGNRSNSFTLSVTVQQPQ-L
+K7ZVE1          AQVSRV------TDDLTANFYSLSALAVDHQGNRSNSFTLSVTVQQPQ-L
+A0A0T9NYR8      VQTSSVAE-AQKEAELTANSYTLSATAVDINGNSSTPSALTIIVQQPQ-F
+A0A0T9NYR8_1    VQTSSVAE-AQKEAELTANSYTLSATAVDINGNSSTPSALTIIVQQPQ-F
+A0A0T9TLY0      AQTDQTA--VRSHAEQAANTYTLSAVAVDDHGNRSNSSELTITIQQPQ-F
+A0A0T9TLY0_1    AQTDQTA--VRSHAEQAANTYTLSAVAVDDHGNRSNSSELTITIQQPQ-F
+A0A0T9T8V0      AAVSRAATTTTGVNEPAVNTYTLSATAIDNRGNSSNPSTLTVIVQQPQ-F
+A0A0T9T8V0_1    AAVSRAATTTTGVNEPAVNTYTLSATAIDNRGNSSNPSTLTVIVQQPQ-F
+D0ZAL1          ATARRSGSHATAQAEIAANTYHLSATAFDTKGNQSNTINLTVTVEPPTVF
+D0ZAL1_1        ATARRSGSHATAQAEIAANTYHLSATAFDTKGNQSNTINLTVTVEPPTVF
+D0ZAL1_2        ATARRSGSHATAQAEIAANTYHLSATAFDTKGNQSNTINLTVTVEPPTVF
+                . .           : :.* * *** *.* .** *..  *:: :: *  :
+
+P11922          TLTAAVIGDGAPANGKTAITVEFTVADFEGKPLAGQEVVITTNNGALPNK
+K7ZVE1          TLTAAVIGDGAPANGKTAITVEFTVADFEGKPLAGQEVVITTNNGALPNK
+A0A0T9NYR8      NITSVVGGDGAPADGNTAITVEFTITNLEGQPVVGQEVVITTSNGAYPEK
+A0A0T9NYR8_1    NITSVVGGDGAPADGNTAITVEFTITNLEGQPVVGQEVVITTSNGAYPEK
+A0A0T9TLY0      WITSAVIGDGAPADGRTAITVEFTVTNADKMPIVGKDVVITASHGALPSK
+A0A0T9TLY0_1    WITSAVIGDGAPADGRTAITVEFTVTNADKMPIVGKDVVITASHGALPSK
+A0A0T9T8V0      NITSEVINDGALADGNTPITVAFTVTDSDGTPIVGQEGMITTTNDALPSE
+A0A0T9T8V0_1    NITSEVINDGALADGNTPITVAFTVTDSDGTPIVGQEGMITTTNDALPSE
+D0ZAL1          QGKFEVQHDNAVANGSDAISVDYILTDESGGRVANKTILMTTNNGAKPSN
+D0ZAL1_1        QGKFEVQHDNAVANGSDAISVDYILTDESGGRVANKTILMTTNNGAKPSN
+D0ZAL1_2        QGKFEVQHDNAVANGSDAISVDYILTDESGGRVANKTILMTTNNGAKPSN
+                  .  *  *.* *:*  .*:* : ::: .   :..:  ::*:.:.* *.:
+
+P11922          ITEKTDANGVARIALTNTTDGVTVVTAEVEGQRQSVDTHFVK---GTIA-
+K7ZVE1          ITEKTDANGVARIALTNTTDGVTVVTAEVEGQRQSVDTHFVK---GTIA-
+A0A0T9NYR8      MTEKTDARGVVSIALTNTTAGETTVTADVVGQQSSVDTHFIV---DT---
+A0A0T9NYR8_1    MTEKTDARGVVSIALTNTTAGETTVTADVVGQQSSVDTHFIV---DT---
+A0A0T9TLY0      ITGKTEGNGTARIALTNTTAGPSIVTLDVEGQQQSVNIRFTT--------
+A0A0T9TLY0_1    ITGKTEGNGTARIALTNTTAGPSIVTLDVEGQQQSVNIRFTT--------
+A0A0T9T8V0      VTAKTNAQGVISIALTSTTVGVSVVTLDIEGQQSTVDVQFILQPLDM---
+A0A0T9T8V0_1    VTAKTNAQGVISIALTSTTVGVSVVTLDIEGQQSTVDVQFILQPLDM---
+D0ZAL1          AEINTDQHGVARLNVTNTAAGATLITATVNGVSQTQSVNFIA---DSAHP
+D0ZAL1_1        AEINTDQHGVARLNVTNTAAGATLITATVNGVSQTQSVNFIA---DSAHP
+D0ZAL1_2        AEINTDQHGVARLNVTNTAAGATLITATVNGVSQTQSVNFIA---DSAHP
+                   :*: .*.  : :*.*: * : :*  : *  .: . .*          
+
+P11922          -ADKSTLAAVPTSIIADGLMASTITLELKDTYGDPQAGANVAFDTTLG--
+K7ZVE1          -ADKSTLAAVPTSIIADGLMASTITLELKDTYGDPQAGANVAFDTTLG--
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          DANKSILLASPKSIVANGKDATALTLQLKDAYGNPISGQSVTFISSESSG
+D0ZAL1_1        DANKSILLASPKSIVANGKDATALTLQLKDAYGNPISGQSVTFISSESSG
+D0ZAL1_2        DANKSILLASPKSIVANGKDATALTLQLKDAYGNPISGQSVTFISSESSG
+                                                                  
+
+P11922          ------------NM---------------------------GVITDHNDG
+K7ZVE1          ------------NM---------------------------GVITDHNDG
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          ITVSSTTDSGNGNYSATLSGTRAGPLQITVAIDGKPLLGRSA--------
+D0ZAL1_1        ITVSSTTDSGNGNYSATLSGTRAGPLQITVAIDGKPLLGRSA--------
+D0ZAL1_2        ITVSSTTDSGNGNYSATLSGTRAGPLQITVAIDGKPLLGRSA--------
+                                                                  
+
+P11922          TYSAPLTSTTLGVATVTVKVDGAAFSVPSVTVNFTADPIPDAGRSSFTVS
+K7ZVE1          TYSAPLTSTTLGVATVTVKVDGAAFSVPSVTVNFTADPIPDAGRSSFTVS
+A0A0T9NYR8      --------------------------------------VLDAALSTFTVS
+A0A0T9NYR8_1    --------------------------------------VLDAALSTFTVS
+A0A0T9TLY0      ------------------------------------DSAPDITRSRFTVS
+A0A0T9TLY0_1    ------------------------------------DSAPDITRSRFTVS
+A0A0T9T8V0      --------------------------------------TPDATYSSFSVS
+A0A0T9T8V0_1    --------------------------------------TPDATYSSFSVS
+D0ZAL1          ----PV-------------------------TLTADSSQPDAAKSTLTAT
+D0ZAL1_1        ----PV-------------------------TLTADSSQPDAAKSTLTAT
+D0ZAL1_2        ----PV-------------------------TLTADSSQPDAAKSTLTAT
+                                                        *   * ::.:
+
+P11922          TPDILADGTMSST-------------------------------------
+K7ZVE1          TPDILADGTMSST-------------------------------------
+A0A0T9NYR8      PAEIVADGSMHST-------------------------------------
+A0A0T9NYR8_1    PAEIVADGSMHST-------------------------------------
+A0A0T9TLY0      EPDIVADGTMSSI-------------------------------------
+A0A0T9TLY0_1    EPDIVADGTMSSI-------------------------------------
+A0A0T9T8V0      TPDIVADGSMQSL-------------------------------------
+A0A0T9T8V0_1    TPDIVADGSMQSL-------------------------------------
+D0ZAL1          PDHIVANGTDAATLTLTLKDINDNPIDGQKVAFISSERDGVAISHTTDHG
+D0ZAL1_1        PDHIVANGTDAATLTLTLKDINDNPIDGQKVAFISSERDGVAISHTTDHG
+D0ZAL1_2        PDHIVANGTDAATLTLTLKDINDNPIDGQKVAFISSERDGVAISHTTDHG
+                  .*:*:*:  :                                      
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          NGSYSATLNGTRAGTTQVTVTVDGKPLAVSAAAVTLSADGSRPDATRSLL
+D0ZAL1_1        NGSYSATLNGTRAGTTQVTVTVDGKPLAVSAAAVTLSADGSRPDATRSLL
+D0ZAL1_2        NGSYSATLNGTRAGTTQVTVTVDGKPLAVSAAAVTLSADGSRPDATRSLL
+                                                                  
+
+P11922          ----------------LSFVPVDKNGHFISGMQGLSFTQN-GVPVSISPI
+K7ZVE1          ----------------LSFVPVDKNGHFISGMQGLSFTQN-GVPVSISPI
+A0A0T9NYR8      ----------------LTFVPLNKSNIFISGIKDLSFIQS-GVAVNISAI
+A0A0T9NYR8_1    ----------------LTFVPLNKSNIFISGIKDLSFIQS-GVAVNISAI
+A0A0T9TLY0      ----------------LSFVPLNKDNNFISGIKNIDFIQS-GVPVTISAV
+A0A0T9TLY0_1    ----------------LSFVPLNKDNNFISGIKNIDFIQS-GVPVTISAV
+A0A0T9T8V0      ----------------LTFVLRNKNNEFIRGVKDLVFIQS-GVPVTISTI
+A0A0T9T8V0_1    ----------------LTFVLRNKNNEFIRGVKDLVFIQS-GVPVTISTI
+D0ZAL1          EAKPSQIVANGTEAAALMLTLKDVNGNLISGQR-IAFISSENTGITVSSA
+D0ZAL1_1        EAKPSQIVANGTEAAALMLTLKDVNGNLISGQR-IAFISSENTGITVSSA
+D0ZAL1_2        EAKPSQIVANGTEAAALMLTLKDVNGNLISGQR-IAFISSENTGITVSSA
+                                * :.  : .. :* * : : * .. .. :.:*. 
+
+P11922          TE-QPDSYTATVVGNTAGDVTITPQVDTLILSTLQKKISLFPV-------
+K7ZVE1          TE-QPDSYTATVVGNSVGDVTITPQVDTLILSTLQKKISLFPV-------
+A0A0T9NYR8      SE-QPDSYSATVTGNTAGDVTITPQIGTTEQRGLQRKITLNPV-------
+A0A0T9NYR8_1    SE-QPDSYSATVTGNTAGDVTITPQIGTTEQRGLQRKITLNPV-------
+A0A0T9TLY0      TE-NIDHYTATLTGDKVGYVTITPQVDTQELSTLQQKITLFPV-------
+A0A0T9TLY0_1    TE-NIDHYTATLTGDKVGYVTITPQVDTQELSTLQQKITLFPV-------
+A0A0T9T8V0      TE-TADSYTASVVGNTAGNVDITPQVDGAPLDLLQKKITLYPV-------
+A0A0T9T8V0_1    TE-TADSYTASVVGNTAGNVDITPQVDGAPLDLLQKKITLYPV-------
+D0ZAL1          TDEGNGRYTATLRGTRAGITQVSVTIDGTPLAVHAARVTLTADSSNPNAD
+D0ZAL1_1        TDEGNGRYTATLRGTRAGITQVSVTIDGTPLAVHAARVTLTADSSNPNAD
+D0ZAL1_2        TDEGNGRYTATLRGTRAGITQVSVTIDGTPLAVHAARVTLTADSSNPNAD
+                ::   . *:*:: *  .* . ::  :.         :::* .        
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          KSILEANPSRIVANGVDAATLTLTLKDINDNLISGQSVAFISSEKNGVHI
+D0ZAL1_1        KSILEANPSRIVANGVDAATLTLTLKDINDNLISGQSVAFISSEKNGVHI
+D0ZAL1_2        KSILEANPSRIVANGVDAATLTLTLKDINDNLISGQSVAFISSEKNGVHI
+                                                                  
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          SNTTDEGNGRYRATLSGTRAGITQVTVAVDGNPLAVSAATVTLTADSSKP
+D0ZAL1_1        SNTTDEGNGRYRATLSGTRAGITQVTVAVDGNPLAVSAATVTLTADSSKP
+D0ZAL1_2        SNTTDEGNGRYRATLSGTRAGITQVTVAVDGNPLAVSAATVTLTADSSKP
+                                                                  
+
+P11922          ---------------------------------------------PTLTG
+K7ZVE1          ---------------------------------------------PTLTG
+A0A0T9NYR8      ---------------------------------------------PEITA
+A0A0T9NYR8_1    ---------------------------------------------PEITA
+A0A0T9TLY0      ---------------------------------------------PKITN
+A0A0T9TLY0_1    ---------------------------------------------PKITN
+A0A0T9T8V0      ---------------------------------------------PEITG
+A0A0T9T8V0_1    ---------------------------------------------PEITG
+D0ZAL1          DAALSTLEAKPNQIVANGTEAAALALMLKDVNGNPISGQRIAFISSENTG
+D0ZAL1_1        DAALSTLEAKPNQIVANGTEAAALALMLKDVNGNPISGQRIAFISSENTG
+D0ZAL1_2        DAALSTLEAKPNQIVANGTEAAALALMLKDVNGNPISGQRIAFISSENTG
+                                                             .  * 
+
+P11922          I-------------------------------------------------
+K7ZVE1          I-------------------------------------------------
+A0A0T9NYR8      I-------------------------------------------------
+A0A0T9NYR8_1    I-------------------------------------------------
+A0A0T9TLY0      I-------------------------------------------------
+A0A0T9TLY0_1    I-------------------------------------------------
+A0A0T9T8V0      I-------------------------------------------------
+A0A0T9T8V0_1    I-------------------------------------------------
+D0ZAL1          IVISGATDEGNGRYSATLKGTRAGATQITVTVDGKPLAVSAATVTLTADS
+D0ZAL1_1        IVISGATDEGNGRYSATLKGTRAGATQITVTVDGKPLAVSAATVTLTADS
+D0ZAL1_2        IVISGATDEGNGRYSATLKGTRAGATQITVTVDGKPLAVSAATVTLTADS
+                *                                                 
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          SKPDATLSTLAVTPNQIVANGADSAALALILKDINGNPISGQSVAFISSE
+D0ZAL1_1        SKPDATLSTLAVTPNQIVANGADSAALALILKDINGNPISGQSVAFISSE
+D0ZAL1_2        SKPDATLSTLAVTPNQIVANGADSAALALILKDINGNPISGQSVAFISSE
+                                                                  
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          KNGVRISQTTDEDNGRYSATLSGTRAGMTQVTVTVDGKPLAVSAVTVTLH
+D0ZAL1_1        KNGVRISQTTDEDNGRYSATLSGTRAGMTQVTVTVDGKPLAVSAVTVTLH
+D0ZAL1_2        KNGVRISQTTDEDNGRYSATLSGTRAGMTQVTVTVDGKPLAVSAVTVTLH
+                                                                  
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          ADSSKPDASLSSFAVNPHEIVANGSDAATLTLLLKDINDNPLAAQNLAFI
+D0ZAL1_1        ADSSKPDASLSSFAVNPHEIVANGSDAATLTLLLKDINDNPLAAQNLAFI
+D0ZAL1_2        ADSSKPDASLSSFAVNPHEIVANGSDAATLTLLLKDINDNPLAAQNLAFI
+                                                                  
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          SSETNGVSITTTADEGNGRYSATLTGTRAVSTQITVKVNGVTLGVAAETV
+D0ZAL1_1        SSETNGVSITTTADEGNGRYSATLTGTRAVSTQITVKVNGVTLGVAAETV
+D0ZAL1_2        SSETNGVSITTTADEGNGRYSATLTGTRAVSTQITVKVNGVTLGVAAETV
+                                                                  
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          RLKADSSNPDAGQSALVVDPSRIVANGKDNATLTLTLKDVNGNLLAGQTV
+D0ZAL1_1        RLKADSSNPDAGQSALVVDPSRIVANGKDNATLTLTLKDVNGNLLAGQTV
+D0ZAL1_2        RLKADSSNPDAGQSALVVDPSRIVANGKDNATLTLTLKDVNGNLLAGQTV
+                                                                  
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          AFSGDLGIVVGRTVDHGDGTYSAVLTAGITAGSARILTTVNGNELRLNAP
+D0ZAL1_1        AFSGDLGIVVGRTVDHGDGTYSAVLTAGITAGSARILTTVNGNELRLNAP
+D0ZAL1_2        AFSGDLGIVVGRTVDHGDGTYSAVLTAGITAGSARILTTVNGNELRLNAP
+                                                                  
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          SLTLTADSSQPDATKSTLAAKPDQIVANGTEAAALTLTLKDINGNPISGQ
+D0ZAL1_1        SLTLTADSSQPDATKSTLAAKPDQIVANGTEAAALTLTLKDINGNPISGQ
+D0ZAL1_2        SLTLTADSSQPDATKSTLAAKPDQIVANGTEAAALTLTLKDINGNPISGQ
+                                                                  
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          NVKFVSSEKSGISVGNTSDEGNGRYRAALSGTRAGMTQVTVTIDGNPLAV
+D0ZAL1_1        NVKFVSSEKSGISVGNTSDEGNGRYRAALSGTRAGMTQVTVTIDGNPLAV
+D0ZAL1_2        NVKFVSSEKSGISVGNTSDEGNGRYRAALSGTRAGMTQVTVTIDGNPLAV
+                                                                  
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          NAVTVTLTADSSKPDAALSTLTAKPEQIVANGIEASTLTLALKDIHDNPI
+D0ZAL1_1        NAVTVTLTADSSKPDAALSTLTAKPEQIVANGIEASTLTLALKDIHDNPI
+D0ZAL1_2        NAVTVTLTADSSKPDAALSTLTAKPEQIVANGIEASTLTLALKDIHDNPI
+                                                                  
+
+P11922          --------------------------------------------LVNGQN
+K7ZVE1          --------------------------------------------LVNGQN
+A0A0T9NYR8      --------------------------------------------SVNGEN
+A0A0T9NYR8_1    --------------------------------------------SVNGEN
+A0A0T9TLY0      --------------------------------------------AVNGEQ
+A0A0T9TLY0_1    --------------------------------------------AVNGEQ
+A0A0T9T8V0      --------------------------------------------TVNGEQ
+A0A0T9T8V0_1    --------------------------------------------TVNGEQ
+D0ZAL1          SGQRVAFISSENTGITVSSTTDDGSGNYSATLSGTHAVSTQITVTVNGVA
+D0ZAL1_1        SGQRVAFISSENTGITVSSTTDDGSGNYSATLSGTHAVSTQITVTVNGVA
+D0ZAL1_2        SGQRVAFISSENTGITVSSTTDDGSGNYSATLSGTHAVSTQITVTVNGVA
+                                                             ***  
+
+P11922          FATD--------------------KGFPKTIFKNAT----FQLQM-----
+K7ZVE1          FATD--------------------KGFPKTIFKNAT----FQLQM-----
+A0A0T9NYR8      FATD--------------------KGFPKTIFTKAT----FQLVM-----
+A0A0T9NYR8_1    FATD--------------------KGFPKTIFTKAT----FQLVM-----
+A0A0T9TLY0      FATD--------------------RGFPKTAFEKAT----FQLVM-----
+A0A0T9TLY0_1    FATD--------------------RGFPKTAFEKAT----FQLVM-----
+A0A0T9T8V0      FATD--------------------KGFPKTIFSNAA----FQLEM-----
+A0A0T9T8V0_1    FATD--------------------KGFPKTIFSNAA----FQLEM-----
+D0ZAL1          LAIDAKTVNLTADSSNPDAAKSSLKATPKTIVANGSDASTLTLTLKDVNG
+D0ZAL1_1        LAIDAKTVNLTADSSNPDAAKSSLKATPKTIVANGSDASTLTLTLKDVNG
+D0ZAL1_2        LAIDAKTVNLTADSSNPDAAKSSLKATPKTIVANGSDASTLTLTLKDVNG
+                :* *                    :. *** . :.:    : * :     
+
+P11922          -------------------DNDVANNTQYEWSSSFTPNVSVNDQGQVTIT
+K7ZVE1          -------------------DNDVANNTQYEWSSSFTPNVSVNDQGQVTIT
+A0A0T9NYR8      -------------------NGNVANNTQYDWTSSYVPNVAVDNQGKVTIV
+A0A0T9NYR8_1    -------------------NGNVANNTQYDWTSSYVPNVAVDNQGKVTIV
+A0A0T9TLY0      -------------------NDNITNNTQYDWTSSFASHVAVNNQGRVTFI
+A0A0T9TLY0_1    -------------------NDNITNNTQYDWTSSFASHVAVNNQGRVTFI
+A0A0T9T8V0      -------------------NNNVTNNTQYDWTSSYAPNVAVDSQGKVKIT
+A0A0T9T8V0_1    -------------------NNNVTNNTQYDWTSSYAPNVAVDSQGKVKIT
+D0ZAL1          NLISGQTVAFISSEHDGITVSGTTDNGNGDYSATLQGTRAIGTQITVTVN
+D0ZAL1_1        NLISGQTVAFISSEHDGITVSGTTDNGNGDYSATLQGTRAIGTQITVTVN
+D0ZAL1_2        NLISGQTVAFISSEHDGITVSGTTDNGNGDYSATLQGTRAIGTQITVTVN
+                                    .. ::* : :::::     ::. *  *.. 
+
+P11922          YQTYS----EVAVTAKSKKFPS----------------------------
+K7ZVE1          YQTYS----EVAVTAKSKKFPS----------------------------
+A0A0T9NYR8      YQTYG---STVKVTAKSKKFPS----------------------------
+A0A0T9NYR8_1    YQTYG---STVKVTAKSKKFPS----------------------------
+A0A0T9TLY0      YKPFG----TLTVAAKSKKFPS----------------------------
+A0A0T9TLY0_1    YKPFG----TLTVAAKSKKFPS----------------------------
+A0A0T9T8V0      YKTYG---ITVAVTAKSKKFPT----------------------------
+A0A0T9T8V0_1    YKTYG---ITVAVTAKSKKFPT----------------------------
+D0ZAL1          GQPLAVSAATVTLTADSSHPDSARSTLVAAPTQIVTDSTQASTLTLMLML
+D0ZAL1_1        GQPLAVSAATVTLTADSSHPDSARSTLVAAPTQIVTDSTQASTLTLMLML
+D0ZAL1_2        GQPLAVSAATVTLTADSSHPDSARSTLVAAPTQIVTDSTQASTLTLMLML
+                 :. .     : ::*.*.:  :                            
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          KDINDNPISGQDVAFISSEKDGIHLTATAEKGNGSYSATLTGTRAGTTEI
+D0ZAL1_1        KDINDNPISGQDVAFISSEKDGIHLTATAEKGNGSYSATLTGTRAGTTEI
+D0ZAL1_2        KDINDNPISGQDVAFISSEKDGIHLTATAEKGNGSYSATLTGTRAGTTEI
+                                                                  
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          TVTVGGKALAVHAATVTLIADSSKPDATLSTLEANPYNLEATTGASGRAT
+D0ZAL1_1        TVTVGGKALAVHAATVTLIADSSKPDATLSTLEANPYNLEATTGASGRAT
+D0ZAL1_2        TVTVGGKALAVHAATVTLIADSSKPDATLSTLEANPYNLEATTGASGRAT
+                                                                  
+
+P11922          ----------------------------------------Y---------
+K7ZVE1          ----------------------------------------Y---------
+A0A0T9NYR8      ----------------------------------------Y---------
+A0A0T9NYR8_1    ----------------------------------------Y---------
+A0A0T9TLY0      ----------------------------------------Y---------
+A0A0T9TLY0_1    ----------------------------------------Y---------
+A0A0T9T8V0      ----------------------------------------Y---------
+A0A0T9T8V0_1    ----------------------------------------Y---------
+D0ZAL1          LTLTLKDVHGNPIAGQEVVLSTDLGSISDGGRTTGHADGTYTATIYAGTA
+D0ZAL1_1        LTLTLKDVHGNPIAGQEVVLSTDLGSISDGGRTTGHADGTYTATIYAGTA
+D0ZAL1_2        LTLTLKDVHGNPIAGQEVVLSTDLGSISDGGRTTGHADGTYTATIYAGTA
+                                                        *         
+
+P11922          ---------------------------------SVSYRFYPNRWIYDGGT
+K7ZVE1          ---------------------------------SVSYRFYPNRWIYDGGR
+A0A0T9NYR8      ---------------------------------TATYQFKPNLWVYSGGQ
+A0A0T9NYR8_1    ---------------------------------TATYQFKPNLWVYSGGQ
+A0A0T9TLY0      ---------------------------------TVSYQFKPNLWIYSTGK
+A0A0T9TLY0_1    ---------------------------------TVSYQFKPNLWIYSTGK
+A0A0T9T8V0      ---------------------------------TATYQFKPNLWVSLESS
+A0A0T9T8V0_1    ---------------------------------TATYQFKPNLWVSLESS
+D0ZAL1          AGIAHVTTQLNGSAFPLNLEVPINGDSSAPDPSKSSFEATPNLIVANGVE
+D0ZAL1_1        AGIAHVTTQLNGSAFPLNLEVPINGDSSAPDPSKSSFEATPNLIVANGVE
+D0ZAL1_2        AGIAHVTTQLNGSAFPLNLEVPINGDSSAPDPSKSSFEATPNLIVANGVE
+                                                 . ::.  **  :     
+
+P11922          S-------------LVSSLE------------------------------
+K7ZVE1          S-------------LVSSLE------------------------------
+A0A0T9NYR8      R-------------LKTAQE------------------------------
+A0A0T9NYR8_1    R-------------LKTAQE------------------------------
+A0A0T9TLY0      G-------------PITALE------------------------------
+A0A0T9TLY0_1    G-------------PITALE------------------------------
+A0A0T9T8V0      S-------------PMESLA------------------------------
+A0A0T9T8V0_1    S-------------PMESLA------------------------------
+D0ZAL1          TSALKLTLRDAHLNPISSQDVKFISSKTNGITISSTTPLNDGTYHATLAG
+D0ZAL1_1        TSALKLTLRDAHLNPISSQDVKFISSKTNGITISSTTPLNDGTYHATLAG
+D0ZAL1_2        TSALKLTLRDAHLNPISSQDVKFISSKTNGITISSTTPLNDGTYHATLAG
+                                 :                                
+
+P11922          -------ASRQCQG-SDMSAVLESS-------------------------
+K7ZVE1          -------ASRQCQG-SDMSAVLESS-------------------------
+A0A0T9NYR8      -------ASRICQS-TDFTALVESP-------------------------
+A0A0T9NYR8_1    -------ASRICQS-TDFTALVESP-------------------------
+A0A0T9TLY0      -------ASRKCQG-SDQSTLIDSS-------------------------
+A0A0T9TLY0_1    -------ASRKCQG-SDQSTLIDSS-------------------------
+A0A0T9T8V0      -------ASRECQQLGDLVTLIESS-------------------------
+A0A0T9T8V0_1    -------ASRECQQLGDLVTLIESS-------------------------
+D0ZAL1          TEAFTTTITVTVNG-NPMNASLHTTVTLNGNKDHLDSAQSTLALDNATAE
+D0ZAL1_1        TEAFTTTITVTVNG-NPMNASLHTTVTLNGNKDHLDSAQSTLALDNATAE
+D0ZAL1_2        TEAFTTTITVTVNG-NPMNASLHTTVTLNGNKDHLDSAQSTLALDNATAE
+                        :   :      : :.:.                         
+
+P11922          --------------------------------------------------
+K7ZVE1          --------------------------------------------------
+A0A0T9NYR8      --------------------------------------------------
+A0A0T9NYR8_1    --------------------------------------------------
+A0A0T9TLY0      --------------------------------------------------
+A0A0T9TLY0_1    --------------------------------------------------
+A0A0T9T8V0      --------------------------------------------------
+A0A0T9T8V0_1    --------------------------------------------------
+D0ZAL1          ANSPIALTLTLKDTHGNPVSGQRVKFISSAPEYSTFGAVRDDGNGVYTAT
+D0ZAL1_1        ANSPIALTLTLKDTHGNPVSGQRVKFISSAPEYSTFGAVRDDGNGVYTAT
+D0ZAL1_2        ANSPIALTLTLKDTHGNPVSGQRVKFISSAPEYSTFGAVRDDGNGVYTAT
+                                                                  
+
+P11922          -------------------------------------------------R
+K7ZVE1          -------------------------------------------------R
+A0A0T9NYR8      -------------------------------------------------R
+A0A0T9NYR8_1    -------------------------------------------------R
+A0A0T9TLY0      -------------------------------------------------R
+A0A0T9TLY0_1    -------------------------------------------------R
+A0A0T9T8V0      -------------------------------------------------R
+A0A0T9T8V0_1    -------------------------------------------------R
+D0ZAL1          VSNIIPGSIDISVEVNGTALATLTEKATFTAMNVVISDTKTQNNQLSVNP
+D0ZAL1_1        VSNIIPGSIDISVEVNGTALATLTEKATFTAMNVVISDTKTQNNQLSVNP
+D0ZAL1_2        VSNIIPGSIDISVEVNGTALATLTEKATFTAMNVVISDTKTQNNQLSVNP
+                                                                  
+
+P11922          ATNGTRA------------------PDGTLWGEWGSLTAYS---------
+K7ZVE1          ATNGTRA------------------PDGTLWGEWGSLTAYS---------
+A0A0T9NYR8      ATNGSRS------------------PDGTLWGEWGSLTTYD---------
+A0A0T9NYR8_1    ATNGSRS------------------PDGTLWGEWGSLTTYD---------
+A0A0T9TLY0      ATNGARA------------------PDGTLWGEWGSLTDYG---------
+A0A0T9TLY0_1    ATNGARA------------------PDGTLWGEWGSLTDYG---------
+A0A0T9T8V0      ATNGSRS------------------PDGTLWGEWGNLTNYD---------
+A0A0T9T8V0_1    ATNGSRS------------------PDGTLWGEWGNLTNYD---------
+D0ZAL1          GTEGSRPTATNLYLLRNSDNKVLAARYGVNSSEWGAFDIGNGLSDSDEYS
+D0ZAL1_1        GTEGSRPTATNLYLLRNSDNKVLAARYGVNSSEWGAFDIGNGLSDSDEYS
+D0ZAL1_2        GTEGSRPTATNLYLLRNSDNKVLAARYGVNSSEWGAFDIGNGLSDSDEYS
+                .*:*:*.                    *.  .*** :   .         
+
+P11922          --------------------------------------SDWQSG-EYWVK
+K7ZVE1          --------------------------------------SDWQSG-EYWVK
+A0A0T9NYR8      -------------------------------------SAEWPSG-NYWTK
+A0A0T9NYR8_1    -------------------------------------SAEWPSG-NYWTK
+A0A0T9TLY0      --------------------------------------SGWSAG-EYWTK
+A0A0T9TLY0_1    --------------------------------------SGWSAG-EYWTK
+A0A0T9T8V0      -------------------------------------SANWPTG-NYWTK
+A0A0T9T8V0_1    -------------------------------------SANWPTG-NYWTK
+D0ZAL1          VLASNGAGAYRWAIYKYQLKRNYAEALVGWNTLLDNTARHYDVGTRLWNN
+D0ZAL1_1        VLASNGAGAYRWAIYKYQLKRNYAEALVGWNTLLDNTARHYDVGTRLWNN
+D0ZAL1_2        VLASNGAGAYRWAIYKYQLKRNYAEALVGWNTLLDNTARHYDVGTRLWNN
+                                                        :  * . * :
+
+P11922          KTSTDFETMNMDTGALVQGPAYLAFPLCALAI
+K7ZVE1          KTSTDFETMNMDTGALQPGPAYLAFPLCALSI
+A0A0T9NYR8      KTSTDFVAMDMTTGALQATSVSSAYPLCAESL
+A0A0T9NYR8_1    KTSTDFVAMDMTTGALQATSVSSAYPLCAESL
+A0A0T9TLY0      KTSTDFIVMDMATGTLQSPSVTTALPLCANGI
+A0A0T9TLY0_1    KTSTDFIVMDMATGTLQSPSVTTALPLCANGI
+A0A0T9T8V0      KTSTEFVAMNMASGALQGTSVSPAYPLCAQYQ
+A0A0T9T8V0_1    KTSTEFVAMNMASGALQGTSVSPAYPLCAQYQ
+D0ZAL1          TTSVDYPVPTMAS--LDCSIVKTC-------L
+D0ZAL1_1        TTSVDYPVPTMAS--LDCSIVKTC-------L
+D0ZAL1_2        TTSVDYPVPTMAS--LDCSIVKTC-------L
+                .**.:: .  * :  *    .  .        
+
+
+

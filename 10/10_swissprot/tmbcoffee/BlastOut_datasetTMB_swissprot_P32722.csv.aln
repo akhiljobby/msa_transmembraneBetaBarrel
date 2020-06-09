@@ -1,0 +1,225 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE: psicoffee ], CPU=0.38 sec, SCORE=59, Nseq=11, Len=829 
+
+P32722          MKVMKWSAIALAVSA---------------GSTQFAVADAFVS-------
+P32722.1        MKVMKWSAIALAVSA---------------GSTQFAVADAFVS-------
+Q88FY7.1        MQGFTAPRFSSSARLA--------------GGC--IAAALCAE-------
+Q88JX6.1        MKCRTLYPLVPTFALA---------------------AS-LP--------
+P75733.1        MRTFSGKRSTLALAIA--------------GVT--AMSGFMAM-------
+Q7CQY4.1        MRTFSGKRSTLALAIA--------------GIT--AMSGWIVV-------
+B9ME75.1        MEIFDYDNILLLPRKCRVESRSECDTSVELGGRRFRLP----V-------
+A1WB23.1        MEIFDYDNILLLPRKCRVESRSECDTSVELGERRFRLP----V-------
+Q07VS7.1        MTTDTIVAQATAPGRGG--------------VGIIRISGDLATNVATAII
+Q8YU00.1        MKVLILNAGSSSQKSCL--------------YEIPDDALLSEA-------
+A3DAS7.2        MTTDTIVAQATAPGRGG--------------VGIIRISGDKASNVAMAVL
+                *                                    .            
+
+P32722          ---DQAE---AKGFIEDS--SLDL--------------------------
+P32722.1        ---DQAE---AKGFIEDS--SLDL--------------------------
+Q88FY7.1        ---ATAE---EAGFIEGA--RATL--------------------------
+Q88JX6.1        ---LQAL---AEGFVDDA--KASL--------------------------
+P75733.1        ---PEAR---AEGFIDDS--TLTG--------------------------
+Q7CQY4.1        ---PQAQ---ASGFFDDS--TLTG--------------------------
+B9ME75.1        ---VPAN---MKTVVDEK--ICTW--------------------------
+A1WB23.1        ---VPAN---MKTVVDEK--ICTW--------------------------
+Q07VS7.1        GHVPKTRYAEYCDFNNADGQV-----------------------------
+Q8YU00.1        ---PQPL---WEGKVN--WTQDRSVAEIEVKTARGETLHESIYGDSRQAH
+A3DAS7.2        GHLPKTRYADYCDFKSASGQV-----------------------------
+                     .         .                                  
+
+P32722          ---LLRNYYF----------------------------------------
+P32722.1        ---LLRNYYF----------------------------------------
+Q88FY7.1        ---QARNYFF----------------------------------------
+Q88JX6.1        ---TLRNFYM----------------------------------------
+P75733.1        ---GIYYWQR----------------------------------------
+Q7CQY4.1        ---GIYYWQR----------------------------------------
+B9ME75.1        ---LAQNGYF----------------------------------------
+A1WB23.1        ---LAQNGYF----------------------------------------
+Q07VS7.1        IDQGIALFF-----------------------------------------
+Q8YU00.1        VTYMLYTLSRGATKVIGQLSEIDVVGHRVVHGGQNYRHSVIITEEVKQAI
+A3DAS7.2        IDQGIALFF-----------------------------------------
+                                                                  
+
+P32722          ------------------------------------------------NR
+P32722.1        ------------------------------------------------NR
+Q88FY7.1        ------------------------------------------------SR
+Q88JX6.1        ------------------------------------------------NR
+P75733.1        ------------------------------------------------ER
+Q7CQY4.1        ------------------------------------------------ER
+B9ME75.1        ------------------------------------------------YV
+A1WB23.1        ------------------------------------------------YV
+Q07VS7.1        -------------------------------------------------K
+Q8YU00.1        AKLSNLAPAHNPAALEGIEAIEKSLGDVPQVAVFDTGFHATLPDAAAIYP
+A3DAS7.2        -------------------------------------------------K
+                                                                  
+
+P32722          --------DGK----------SGSGDRVDWTQGFLTTYESGFTQGTVGFG
+P32722.1        --------DGK----------SGSGDRVDWTQGFLTTYESGFTQGTVGFG
+Q88FY7.1        --------DYA----DIK-GASTQSRTQEWAQGFILNASSGYTQGTLGVG
+Q88JX6.1        --------DYT--------GTASQGKAEEWTQSFIFDFKSGYTPGVVGFG
+P75733.1        --------DRK----DVTDGDKYKTNLSHSTWNANLDFQSGYAADMFGLD
+Q7CQY4.1        --------DRK----DVTDGDKYKTNLSHATWNANLDFQSGYAADMFGLD
+B9ME75.1        --------MHR----F--DLD-----NVQF----VKDMHAQGCFASISLG
+A1WB23.1        --------MHR----F--DLD-----NVQF----VKDMHAQGCFASISLG
+Q07VS7.1        GPNSFTGEDVLELQGH------GG----------QIV------LDMLIKR
+Q8YU00.1        GPFEWVEQGIRRYGFH------GI----------SHQYCSARAAQILGRD
+A3DAS7.2        GPNSFTGEDVLELQGH------GG----------QIV------LDMLIKR
+                                                              .   
+
+P32722          VD--------AFGYLGLKL-------------------------------
+P32722.1        VD--------AFGYLGLKL-------------------------------
+Q88FY7.1        VD--------VTGLLGFKL-------------------------------
+Q88JX6.1        VD--------VLGLYSIKL-------------------------------
+P75733.1        IA--------AFTAIEMAE-------------------------------
+Q7CQY4.1        IA--------AFTAIEMAE-------------------------------
+B9ME75.1        VKQPDYDTVDRFVAEGICPEYITIDIAHGHADSVKNMITYLKAKIPAAFV
+A1WB23.1        VKQPDYDTVDRFVAEGICPEYITIDIAHGHADSVKNMITYLKAKIPAAFV
+Q07VS7.1        VM--------EIDGIRIAR-------------------------------
+Q8YU00.1        LA--------SLRIITCHL-------------------------------
+A3DAS7.2        VM--------EVGGIRIAK-------------------------------
+                :                                                 
+
+P32722          ---DGTSDKTGTGNLPVMNDGKPRDDYS-------RAGGAVKVRI-----
+P32722.1        ---DGTSDKTGTGNLPVMNDGKPRDDYS-------RAGGAVKVRI-----
+Q88FY7.1        ---DSSPEHARSGLLPSLDSGKSADEYS-------RLGAAIKFKV-----
+Q88JX6.1        ---DGGKGTAGTQLLPVHDDGRPADDFG-------RTALAGKMRV-----
+P75733.1        ---NGDSSHPNEIAFSKSNKAYD-EDWSGDKSGISLYKAAAKFKY-----
+Q7CQY4.1        ---NGDSGHPNEIAFSKKNKGYD-EDYSGDKSGISLYKAAAKFKY-----
+B9ME75.1        IAGNVGTPEAV---IDLENWGAD-AT--------KVGIGPGKVCITKLKT
+A1WB23.1        IAGNVGTPEAV---IDLENWGAD-AT--------KVGIGPGKVCITKLKT
+Q07VS7.1        -----P------------------------------GE------------
+Q8YU00.1        -----GNGCSL---AAIKN-GRSIDT--------TMGFTPLDGL------
+A3DAS7.2        -----P------------------------------GE------------
+                                                                  
+
+P32722          -------SKTMLKWGEMQPTAPVFAAGGSRLFPQTATGFQLQSSEFEGLD
+P32722.1        -------SKTMLKWGEMQPTAPVFAAGGSRLFPQTATGFQLQSSEFEGLD
+Q88FY7.1        -------SQTELKVGELMPNLPVLLFSDLRLLPPTYQGAMLESREFAGLT
+Q88JX6.1        -------SRTELKVGEWSPTLPILRADDGRSLPQTLQGAQVTSNELAGLS
+P75733.1        -------GPVWARAGYIQPTGQTLLAPHWSFMPGTYQGAEAGAN-FDYGD
+Q7CQY4.1        -------GPVWARAGYIQPTGQTLLAPHWSFMPGTYQGAEAGAS-FDYGD
+B9ME75.1        GFGTGGWQLSALKWCARVATKPIIADGGIRSHGDIAKSVRFGATMVMVGS
+A1WB23.1        GFGTGGWQLSALKWCARVATKPIIADGGIRSHGDIAKSVRFGATMVMVGS
+Q07VS7.1        -------------------------FSEQAFMNDKLDLTQAEAI-ADLID
+Q8YU00.1        --------MMGSRSGAIDPGIIVHLMRQSDYSAERLDYVL----------
+A3DAS7.2        -------------------------FSEQAFMNDKLDLTQAEAI-ADLID
+                                                                  
+
+P32722          LEAGHFTE--GKEPTTVKSRGELYAT---------YAGETAKSADFIGGR
+P32722.1        LEAGHFTE--GKEPTTVKSRGELYAT---------YAGETAKSADFIGGR
+Q88FY7.1        LSAGQFRS--TSLRDSSNS-QKMYALVNDPINPARLARFTSDRFNYVGAD
+Q88JX6.1        LYGGQFRQ--NSPRNDASM-QDMSLFT--------RTAFTSDRFNFAGGE
+P75733.1        AGALSFSYMWTNEYKAPWH-LEMDEFY------QNDKTTKVDYLHSFGAK
+Q7CQY4.1        AGALSFSYMWTNEYKAPWH-TEMDKFY------QADKKTNVDYLHSIGAK
+B9ME75.1        LFAGHEE----SPGKTVEVDGELYKE---------YYGSAS---DFNKGE
+A1WB23.1        LFAGHEE----SPGKTVEVDGELYKE---------YYGSAS---DFNKGE
+Q07VS7.1        ATSEQAAKSALQSLQGEFS-KEVHELV----------DQVTNLRLYVEAA
+Q8YU00.1        --------------------------------------------------
+A3DAS7.2        ATCEQAAKSALQSLQGEFS-KEVHELV----------DQVTNLRLYVEAA
+                                                                  
+
+P32722          YAITDNLSA-SLYGAELEDIYRQYY---------------LNSNYTIPLA
+P32722.1        YAITDNLSA-SLYGAELEDIYRQYY---------------LNSNYTIPLA
+Q88FY7.1        YAFNDNRTSVGVWQAQLEDIYQQRF---------------YSFKHAEPLG
+Q88JX6.1        YRFNQERTLVGAWYAQLEDIYQQRY---------------FQVQHQQPLG
+P75733.1        YDFKNNFVL-EAAFGQAEGYIDQYF---------------AKASYKFDIA
+Q7CQY4.1        YDFKNDLVL-EAAFGQSEGYVDQYF---------------AKASYKFDLG
+B9ME75.1        YKHVEGKRILEPIKGKLADTLTEME---------------QDI-------
+A1WB23.1        YKHVEGKRILEPIKGKLADTLTEME---------------QDI-------
+Q07VS7.1        IDFPDEEVD-FLSDGKIANALYKIISKLDTVQASAKQGSIIREGMKVVIA
+Q8YU00.1        -------------------------------------------NKASGLR
+A3DAS7.2        IDFPDEEVD-FLSDGKIANALYKIIDKLDLVQASAKQGSIIREGMKVVIA
+                                                                  
+
+P32722          SDQ--------------------SLGFDFNIYRTNDEGKAK-AGDISN-T
+P32722.1        SDQ--------------------SLGFDFNIYRTNDEGKAK-AGDISN-T
+Q88FY7.1        SW---------------------TLGVNAGYFDAREDGSKV-AGDYDN-H
+Q88JX6.1        NW---------------------VLGANLGYFWGKDDGGAK-AGELNN-R
+P75733.1        GS---------------------PLTTSYQFYGTRDKVDDRSVNDLYDGT
+Q7CQY4.1        GN---------------------PFTTSYQFYGARDKVDDRSVNDIYDGT
+B9ME75.1        --------------------------------------------------
+A1WB23.1        --------------------------------------------------
+Q07VS7.1        GRP--------------------NAGKSSLLNALAGKESAI-VTEIAG-T
+Q8YU00.1        GISGVSSDLPQVIEAITQGNYRAQLAWDMYVHRLRSGIG-----------
+A3DAS7.2        GRP--------------------NAGKSSLLNALAGKESAI-VTEIAG-T
+                                                                  
+
+P32722          TWSLAA-AYTLDAHTFTLAYQKV-----HGDQPFDYI-GFGRNGSGAGGD
+P32722.1        TWSLAA-AYTLDAHTFTLAYQKV-----HGDQPFDYI-GFGRNGSGAGGD
+Q88FY7.1        ALFSLF-SAKTGGHTFYVGYQQI-----GGDDGFIQV-GA---------N
+Q88JX6.1        TASGLF-SAKLGGNTFYVGLQKV-----MGDDEWFRVNGA---------S
+P75733.1        AWLQ----------ALTFGYRAADVVDLRLEGTWVKADGQ---------Q
+Q7CQY4.1        AWLQ----------ALTFGYKVAEVVDLRLEGTWVKADGQ---------Q
+B9ME75.1        --------------------------------------------------
+A1WB23.1        --------------------------------------------------
+Q07VS7.1        TRDVLREHIHLDGMPLH---------------------------------
+Q8YU00.1        -SMLASL-GGLDV-------------------------------------
+A3DAS7.2        TRDVLREHIHLDGMPLH---------------------------------
+                                                                  
+
+P32722          SIFLANSVQY---------------SDF-NGPGEKSWQARYD--------
+P32722.1        SIFLANSVQY---------------SDF-NGPGEKSWQARYD--------
+Q88FY7.1        TNPMGNTLPT---------------YEF-SAPGERSWQVRHD--------
+Q88JX6.1        GGTLANDAFG---------------SSY-ESARERSWQVRHD--------
+P75733.1        GYFLQRMTPTYASSNGRLDIWWDNRSDF-NANGEKAVFFGAM--------
+Q7CQY4.1        GYFLQRMTPTYASSNGRLDIWWDNRSDF-NANGEKAVFFGAM--------
+B9ME75.1        --------------------------------------------------
+A1WB23.1        --------------------------------------------------
+Q07VS7.1        -------------------------IIDTAGLRDTLDTVEQIGIERAWAE
+Q8YU00.1        -------------------------LVFTAGVGEKSAGIRQA--------
+A3DAS7.2        -------------------------IIDTAGLRDTTDTVEQIGIERAWNE
+                                                                  
+
+P32722          ---LNLASYGVPGLT-----------------------------------
+P32722.1        ---LNLASYGVPGLT-----------------------------------
+Q88FY7.1        ---YNFVALGLPGLT-----------------------------------
+Q88JX6.1        ---FNFVVLGIPGLT-----------------------------------
+P75733.1        ---YDLKNWNLPGFA-----------------------------------
+Q7CQY4.1        ---YDLKNWNLPGWA-----------------------------------
+B9ME75.1        --------------Q-----------------------------------
+A1WB23.1        --------------Q-----------------------------------
+Q07VS7.1        IASADRVLF-MVDGTTTDAVNPHEIWPDFIDRLPAKLGVTVVRNKADLTG
+Q8YU00.1        ---A-CEAFGFLGLKLDPEKNQNKPVDIDIATADSTVRVLVIHT------
+A3DAS7.2        INSADRVLF-MVDGTTTAAVDPHAIWPDFVDRLPSNLGVTVIRNKADLTG
+                                                                  
+
+P32722          -------------FMVRYINGKDIDGTK-MSDN---------NVGYKNYG
+P32722.1        -------------FMVRYINGKDIDGTK-MSDN---------NVGYKNYG
+Q88FY7.1        -------------STLRYVKGRDVETGLGFEG------------------
+Q88JX6.1        -------------LMNRYIHGYNVHNAS-TQG------------------
+P75733.1        -------------IGASYVYAWDAKPAT-WQSN---------PDAYYD--
+Q7CQY4.1        -------------VGASYVYAWDAKPAT-WQSN---------PDAYYD--
+B9ME75.1        -------------SSISYSGGKKLMD------------------------
+A1WB23.1        -------------SSISYSGGKKLMD------------------------
+Q07VS7.1        ETLDKTEEQGSCVYRISAKTGLGIDELK-QHLKSLMGYQSNLEGGFIA--
+Q8YU00.1        --------------------------------------------------
+A3DAS7.2        EDLMMTEEQGYSVYRISAKTGLGVEELK-QHLKSLMGYQSNLEGGFIA--
+                                                                  
+
+P32722          YGEDGKHHETNLEAKYVVQSGPAKDL-------SFRI-RQAWHRAN----
+P32722.1        YGEDGKHHETNLEAKYVVQSGPAKDL-------SFRI-RQAWHRAN----
+Q88FY7.1        -----RDRERDLDLAYVVQSGPLAGL-------GIRV-RNVMARSN----
+Q88JX6.1        ---------RESELAYVVQSGPFKAL-------NLKW-RNSSQRRD----
+P75733.1        KNRTIEESAYSLDAVYTIQDGRAKGT-------MFKL-HFTEYDNHSDIP
+Q7CQY4.1        KNRTIEESSYSLDAVYTLQEGRAKGT-------MFKL-HFTEYDNHSNIP
+B9ME75.1        ----------IRKVNYVILGGDNAGE-------HLLM-------------
+A1WB23.1        ----------IRKVNYVILGGDNAGE-------HLLM-------------
+Q07VS7.1        RRRHLEALELAANHLQLGKEQLEVYLAGELLAEELRMTQMALSEI-----
+Q8YU00.1        --------------------------------------------------
+A3DAS7.2        RRRHLEALELAAGHLQLGKEQLEVYLAGELLAEELRMCQLALSEI-----
+                                                                  
+
+P32722          -ADQ--G--EGDQNEFRLIVDYPLSI--L
+P32722.1        -ADQ--G--EGDQNEFRLIVDYPLSI--L
+Q88FY7.1        -Y-------RTDIDENRLILSYTIKV--F
+Q88JX6.1        -WGS-----TNSFDENRLIVSYPLSL--L
+P75733.1        SWGGGYGNIFQDERDVKFMVIAPFTI--F
+Q7CQY4.1        SWGGGYGNIFQDERDVKFIVIAPFTI--F
+B9ME75.1        -----------------------------
+A1WB23.1        -----------------------------
+Q07VS7.1        ---T--G--KFTSDDLLGKIFGSFCIGK-
+Q8YU00.1        ------------QEDWA-IAQQCWHLLKR
+A3DAS7.2        ---T--G--RFTSDDLLGKIFSSFCIGK-
+                                             
+
+
+

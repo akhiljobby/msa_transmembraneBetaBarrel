@@ -1,0 +1,992 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE:  ], CPU=1.29 sec, SCORE=67, Nseq=11, Len=3768 
+
+Q7BCK4          MNQI----------------------------------------------
+Q7BCK4.1        MNQI----------------------------------------------
+Q9JMS3.1        MNCQ----------------------------------------------
+P77286.1        MNSE----------------------------------------------
+Q03155.1        MNKAY------------------------------------------SII
+P45508.2        MRII----------------------------------------------
+A0A0H3GGE2.1    MPNLANQDFTQFKREQQTAPAWFRILRGGRMTKWKGKVASYAPHVAPAIG
+A0A0H3GGE2.1_1  MPNLANQDFTQFKREQQTAPAWFRILRGGRMTKWKGKVASYAPHVAPAIG
+A0A0H3GGE2.1_2  MPNLANQDFTQFKREQQTAPAWFRILRGGRMTKWKGKVASYAPHVAPAIG
+Q9JMS5.1        MCFF------------------------------LGSRLAYA--------
+Q9XD84.1        MNKVYNT-------------------------------------------
+                *                                                 
+
+Q7BCK4          ------------------------HKF-FCNMTQCSQGGAGELPTV----
+Q7BCK4.1        ------------------------HKF-FCNMTQCSQGGAGELPTV----
+Q9JMS3.1        ------------------------RYFCFVNGIVEIRTAP----------
+P77286.1        --------------------------------------------------
+Q03155.1        WSHSRQ------------------------------------------AW
+P45508.2        --FLRKEYLSLLPSMIASLFS--------ANGVA----------------
+A0A0H3GGE2.1    WAFSRTLQLSLISLVMAGTAAASDRYW-DSNGTAVGRGGSGAWNTSNAFW
+A0A0H3GGE2.1_1  WAFSRTLQLSLISLVMAGTAAASDRYW-DSNGTAVGRGGSGAWNTSNAFW
+A0A0H3GGE2.1_2  WAFSRTLQLSLISLVMAGTAAASDRYW-DSNGTAVGRGGSGAWNTSNAFW
+Q9JMS5.1        ------------------------ENI-DGSSTISNRDISGSLNIG----
+Q9XD84.1        -----------------------------------------VWNESTGTW
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        IVASE-------------------------------------LARGHGFV
+P45508.2        ----------------------------------------AVTDSCQGYD
+A0A0H3GGE2.1    SPSGDGVSGPYSAWNNAAFDTAIFGGTAGTVTLGSPITVGAMTFETTGYI
+A0A0H3GGE2.1_1  SPSGDGVSGPYSAWNNAAFDTAIFGGTAGTVTLGSPITVGAMTFETTGYI
+A0A0H3GGE2.1_2  SPSGDGVSGPYSAWNNAAFDTAIFGGTAGTVTLGSPITVGAMTFETTGYI
+Q9JMS5.1        --------------------------------------------------
+Q9XD84.1        VVTSE---------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        LAKNTLLVLAVVSTIG----------------------------------
+P45508.2        VKASCQA-------------------------------------------
+A0A0H3GGE2.1    LSGNTLTLGTATPTITTSSGTTTINSVLAGTNGLTKAGDGILSLTGANTF
+A0A0H3GGE2.1_1  LSGNTLTLGTATPTITTSSGTTTINSVLAGTNGLTKAGDGILSLTGANTF
+A0A0H3GGE2.1_2  LSGNTLTLGTATPTITTSSGTTTINSVLAGTNGLTKAGDGILSLTGANTF
+Q9JMS5.1        -----------------------------------------------INK
+Q9XD84.1        ---------------------------LTRKGGLRPRQIKRTVLA-----
+                                                                  
+
+Q7BCK4          -------------------------K--------------E-KTCKLSFS
+Q7BCK4.1        -------------------------K--------------E-KTCKLSFS
+Q9JMS3.1        ----------------------------------------E-E---YQNK
+P77286.1        --------------------------------------------------
+Q03155.1        -----------------------------NAFAVNISGTVSSG-GTVSSG
+P45508.2        --------------SRQSLSGITQDWSIADGQW-----------------
+A0A0H3GGE2.1    SGNIIVTGGTLSVNSSAALGAAANEISLANGAGLNSSGSLAGRSVTLTGG
+A0A0H3GGE2.1_1  SGNIIVTGGTLSVNSSAALGAAANEISLANGAGLNSSGSLAGRSVTLTGG
+A0A0H3GGE2.1_2  SGNIIVTGGTLSVNSSAALGAAANEISLANGAGLNSSGSLAGRSVTLTGG
+Q9JMS5.1        DANIDI-NGTVNIKDYFSVATCNGQSSTCPEGGLNASAKID-KSASVGAS
+Q9XD84.1        --GL--IAG-LLMPSMPALAAAYDNQTIGRGE------------------
+                                                                  
+
+Q7BCK4          PFVVGAS----------LLL----------GGPIAFATPL------SGTQ
+Q7BCK4.1        PFVVGAS----------LLL----------GGPIAFATPL------SGTQ
+Q9JMS3.1        PVLVGSQSDGLLIIDNHADIEDGIFSTLHIGNGYNGAVDV------INGA
+P77286.1        --------------------------------------------------
+Q03155.1        ETQIV--------------------------YSGRGNSN-----------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    QAAIG--------------------------GAGVGDAHFTGAGGLRASS
+A0A0H3GGE2.1_1  QAAIG--------------------------GAGVGDAHFTGAGGLRASS
+A0A0H3GGE2.1_2  QAAIG--------------------------GAGVGDAHFTGAGGLRASS
+Q9JMS5.1        VTIVG--------------------------DSSKGELNIDGGST-LYTQ
+Q9XD84.1        -----------------------------------------------TSK
+                                                                  
+
+Q7BCK4          ELHFSEDNYEKLLTPVDGLSP----------------------------L
+Q7BCK4.1        ELHFSEDNYEKLLTPVDGLSP----------------------------L
+Q9JMS3.1        AL------------HMDNRSG-------------------------SAPL
+P77286.1        --------------------------------------------------
+Q03155.1        --------------ATVNSGGTQIVN------------------------
+P45508.2        -LVFS-------DMTNNASGGAVFLQQGAEF-------------------
+A0A0H3GGE2.1    SVTLSDDSNDYTGQTSLSSGGTLFFSSIGNLGEVSALGAPVDEAAGTISL
+A0A0H3GGE2.1_1  SVTLSDDSNDYTGQTSLSSGGTLFFSSIGNLGEVSALGAPVDEAAGTISL
+A0A0H3GGE2.1_2  SVTLSDDSNDYTGQTSLSSGGTLFFSSIGNLGEVSALGAPVDEAAGTISL
+Q9JMS5.1        QLWVSGNDNDKTSNVSDDSNG----------------------------S
+Q9XD84.1        SMHLS--AGDTAKNTTINSGGKQYVSSGGS--------------------
+                                                                  
+
+Q7BCK4          GA-------------GEDGMDAWYITSS----------------------
+Q7BCK4.1        GA-------------GEDGMDAWYITSS----------------------
+Q9JMS3.1        IVGAFGNDIA---GKLNISGRNSIVSYR----------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    VVGSSASASATYTGSGASSNRNWQLSSRFYANSTISNRGSGTLTLTGNIF
+A0A0H3GGE2.1_1  VVGSSASASATYTGSGASSNRNWQLSSRFYANSTISNRGSGTLTLTGNIF
+A0A0H3GGE2.1_2  VVGSSASASATYTGSGASSNRNWQLSSRFYANSTISNRGSGTLTLTGNIF
+Q9JMS5.1        LS-------------INNGSNVFVVSSQ----------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          -----------NPSH-----------------------------------
+Q7BCK4.1        -----------NPSH-----------------------------------
+Q9JMS3.1        -----------DTPSSSG--------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    NNHTNSSLSARNINFDAGTADIELLGTISSNNNGVGVVFGGTAGRTIKVS
+A0A0H3GGE2.1_1  NNHTNSSLSARNINFDAGTADIELLGTISSNNNGVGVVFGGTAGRTIKVS
+A0A0H3GGE2.1_2  NNHTNSSLSARNINFDAGTADIELLGTISSNNNGVGVVFGGTAGRTIKVS
+Q9JMS5.1        -----------DDTP-----------------------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          ----------------------------------ASRTKLRINS-DIMIS
+Q7BCK4.1        ----------------------------------ASRTKLRINS-DIMIS
+Q9JMS3.1        -----------------------HNESIYVGFGPGATGWINIFNGGVFEV
+P77286.1        --------------------------------------------------
+Q03155.1        ------------N-------------------------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    GDNTFGGAAIIQNITVQVGSLKNTGDPSALGTGTGAAGAISINS-GILSY
+A0A0H3GGE2.1_1  GDNTFGGAAIIQNITVQVGSLKNTGDPSALGTGTGAAGAISINS-GILSY
+A0A0H3GGE2.1_2  GDNTFGGAAIIQNITVQVGSLKNTGDPSALGTGTGAAGAISINS-GILSY
+Q9JMS5.1        ----------------------------------FKTNSVKWNQ-NIISQ
+Q9XD84.1        ------------------------------------ATSTTINI-GGVQH
+                                                                  
+
+Q7BCK4          AG----------------------------------------------HG
+Q7BCK4.1        AG----------------------------------------------HG
+Q9JMS3.1        LNST--------------------------------------NIYVGSDT
+P77286.1        --------------------------------------------------
+Q03155.1        ----------------------------------------------GGKT
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    LGAGDSSDRNFTAQNNAILANDGTGALTLSGDVALTGTLTLGGSFAGTNT
+A0A0H3GGE2.1_1  LGAGDSSDRNFTAQNNAILANDGTGALTLSGDVALTGTLTLGGSFAGTNT
+A0A0H3GGE2.1_2  LGAGDSSDRNFTAQNNAILANDGTGALTLSGDVALTGTLTLGGSFAGTNT
+Q9JMS5.1        GN----------------------------------------------NI
+Q9XD84.1        VSS-----------------------------------------------
+                                                                  
+
+Q7BCK4          GAGDN---NDGNSCGG-NGGDSITGS-DLSI-------------------
+Q7BCK4.1        GAGDN---NDGNSCGG-NGGDSITGS-DLSI-------------------
+Q9JMS3.1        PGG---GDGSIVIDGSNSKM------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        TATTVNSS------------------------------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    LAGTVSGTGNLRVDGAGSWILSSANTFTGDVGVNSGTLVVGNMQALGTTP
+A0A0H3GGE2.1_1  LAGTVSGTGNLRVDGAGSWILSSANTFTGDVGVNSGTLVVGNMQALGTTP
+A0A0H3GGE2.1_2  LAGTVSGTGNLRVDGAGSWILSSANTFTGDVGVNSGTLVVGNMQALGTTP
+Q9JMS5.1        TDGTV-SSGDLVLGKTGNGIIDIDNNSKLDV-------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          ----------------------INQGMI---------------------L
+Q7BCK4.1        ----------------------INQGMI---------------------L
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        -------GSQNVGTSGATISTIVNSGG-----------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    KAATVNGGTLDLGAFDTTLSSLSGTGGNVNLGGATLTVKGSTSTDFAGSM
+A0A0H3GGE2.1_1  KAATVNGGTLDLGAFDTTLSSLSGTGGNVNLGGATLTVKGSTSTDFAGSM
+A0A0H3GGE2.1_2  KAATVNGGTLDLGAFDTTLSSLSGTGGNVNLGGATLTVKGSTSTDFAGSM
+Q9JMS5.1        ----------------------KNDVVV---------------------S
+Q9XD84.1        ---------------------------------------GGS--------
+                                                                  
+
+Q7BCK4          GGSGGSGADHNGD-------GGEAVTGDNLFIINGE--------------
+Q7BCK4.1        GGSGGSGADHNGD-------GGEAVTGDNLFIINGE--------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        -----------------------------------------IQRVSSG--
+P45508.2        ----SL---LPENETGMTLFANNTVTGE------Y-NNGGAIFAKENSTL
+A0A0H3GGE2.1    TGSGNL---LKQGTSTLTLTGASSFTGD------TTINGGAISLNFKNAT
+A0A0H3GGE2.1_1  TGSGNL---LKQGTSTLTLTGASSFTGD------TTINGGAISLNFKNAT
+A0A0H3GGE2.1_2  TGSGNL---LKQGTSTLTLTGASSFTGD------TTINGGAISLNFKNAT
+Q9JMS5.1        TGVDGI---PNEKPSEINIKNESNFSVH------GDMKGGI---------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          ------------------IIS-GGHGGDSYSDSDGGNGGDAVTGVNLPI-
+Q7BCK4.1        ------------------IIS-GGHGGDSYSDSDGGNGGDAVTGVNLPI-
+Q9JMS3.1        -------------------------------TADFS-EAYVGLYGNGDI-
+P77286.1        --------------------------------------------------
+Q03155.1        -------GVASATNLSGGAQNIYN--L------GHASNTVIFSGGNQTIF
+P45508.2        NLTDVIFSG----NVAGGYGGAIY--S------SGTNDTGAVD-LRVTNA
+A0A0H3GGE2.1    ALTDNILSTSSTLNLAGGTFNVIG--M------DNAANSQTVDGLNVTTG
+A0A0H3GGE2.1_1  ALTDNILSTSSTLNLAGGTFNVIG--M------DNAANSQTVDGLNVTTG
+A0A0H3GGE2.1_2  ALTDNILSTSSTLNLAGGTFNVIG--M------DNAANSQTVDGLNVTTG
+Q9JMS5.1        -------S-------AAGKLN-L--NM------DNSSNLHVDKNIAVGIG
+Q9XD84.1        -------ATSSTIN------------------------------------
+                                                                  
+
+Q7BCK4          --INK--GT--ISGGNGGN-------------------------------
+Q7BCK4.1        --INK--GT--ISGGNGGN-------------------------------
+Q9JMS3.1        --SLKNGGQ-----------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --SGGI--TDSTNISSGGQQRVSSGG-----------VASNTTINSS---
+P45508.2        MFRNN---I--ANDGKGGAI---------------YTINNDVYL--SDVI
+A0A0H3GGE2.1    --NNKI--T--TTSGSGGTLTLNLGAINRTGGFIDFGINADTTITTTSAT
+A0A0H3GGE2.1_1  --NNKI--T--TTSGSGGTLTLNLGAINRTGGFIDFGINADTTITTTSAT
+A0A0H3GGE2.1_2  --NNKI--T--TTSGSGGTLTLNLGAINRTGGFIDFGINADTTITTTSAT
+Q9JMS5.1        --RES--NI--TVSASRESSIFSDGNF-----------------------
+Q9XD84.1        ---------------SGGHQHVSSG-------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        -----------------------------------------------GAQ
+P45508.2        FDNNQAYTSTSYSDGDGGAIDVTDNNSDSKHP------------------
+A0A0H3GGE2.1    LGGWATVNSTDYAKVDGGVIKALDESDYANKDDAGTWANGDIVSDAGGAA
+A0A0H3GGE2.1_1  LGGWATVNSTDYAKVDGGVIKALDESDYANKDDAGTWANGDIVSDAGGAA
+A0A0H3GGE2.1_2  LGGWATVNSTDYAKVDGGVIKALDESDYANKDDAGTWANGDIVSDAGGAA
+Q9JMS5.1        --------------------------------------------------
+Q9XD84.1        ----------------------------------------------GSA-
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        -----------------------------LSASNLYIGGNGRAIV-N---
+P77286.1        --------------------------------------------------
+Q03155.1        NILSEEGAISTHISSGGNQYISAGANATETIV------------------
+P45508.2        ---------------------------------------SGYTI------
+A0A0H3GGE2.1    N-TPYFGTVGTGLQLGGLKYT-AAANSTVTIAAGQTLGVNGTIIVANTVG
+A0A0H3GGE2.1_1  N-TPYFGTVGTGLQLGGLKYT-AAANSTVTIAAGQTLGVNGTIIVANTVG
+A0A0H3GGE2.1_2  N-TPYFGTVGTGLQLGGLKYT-AAANSTVTIAAGQTLGVNGTIIVANTVG
+Q9JMS5.1        -----------------------------TVATGNNSNANLKLD------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        ------------------------I--SGTDSRLIA--------------
+P77286.1        --------------------------------------------------
+Q03155.1        -------NSGGFQRVN----------------------------------
+P45508.2        -----V-NNTAFTNNTAEGYGGAIYTNSVTAPYLID--------------
+A0A0H3GGE2.1    NTNQTI-NGGSLTGITGGGVLGVLQ--TGTGTFTIQSTITDNGGAIGFTK
+A0A0H3GGE2.1_1  NTNQTI-NGGSLTGITGGGVLGVLQ--TGTGTFTIQSTITDNGGAIGFTK
+A0A0H3GGE2.1_2  NTNQTI-NGGSLTGITGGGVLGVLQ--TGTGTFTIQSTITDNGGAIGFTK
+Q9JMS5.1        -----------------------------ASNLS----------------
+Q9XD84.1        -TNTTVNNGGRQTVFSGGSAMGTIIN-SGGDQYVIS--------------
+                                                                  
+
+Q7BCK4          -----------------------N--------------------------
+Q7BCK4.1        -----------------------N--------------------------
+Q9JMS3.1        ---NMITISGSSGAPGIYIADQGILNVD----------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        -------ISVDDSYS----QNGGVLVDENNSAAGYGD--GPSSA------
+A0A0H3GGE2.1    AGAGSVTLTGQNTYSGVTTLSGGILTVTQMANAGMASGIGQSTADPANLM
+A0A0H3GGE2.1_1  AGAGSVTLTGQNTYSGVTTLSGGILTVTQMANAGMASGIGQSTADPANLM
+A0A0H3GGE2.1_2  AGAGSVTLTGQNTYSGVTTLSGGILTVTQMANAGMASGIGQSTADPANLM
+Q9JMS5.1        -------------VNGVSTIGSGDGSIT----------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        --AGGFMYLGLS--------------------------------------
+A0A0H3GGE2.1    LESGTFRYTGGSVTTDRGFTLVNGGPARVIEVTGSGSNLAFSGLVTSPDD
+A0A0H3GGE2.1_1  LESGTFRYTGGSVTTDRGFTLVNGGPARVIEVTGSGSNLAFSGLVTSPDD
+A0A0H3GGE2.1_2  LESGTFRYTGGSVTTDRGFTLVNGGPARVIEVTGSGSNLAFSGLVTSPDD
+Q9JMS5.1        ----KFDIKN-------------------------------GSVVTSSSD
+Q9XD84.1        -----------------------GGSATSA--------------------
+                                                                  
+
+Q7BCK4          --------------Y---G-------------EGD-GGNGGDAI---TG-
+Q7BCK4.1        --------------Y---G-------------EGD-GGNGGDAI---TG-
+Q9JMS3.1        -------------NY-----I-----------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        -----------------------------------------------SGA
+P45508.2        ---------EVTF-----D-----IADGKTLVIGNTENDGAVDS------
+A0A0H3GGE2.1    AGFEKKGAGTLTFLNGSNDYIGATTVSGGTLAVSTLADGGQVSSLGKSGS
+A0A0H3GGE2.1_1  AGFEKKGAGTLTFLNGSNDYIGATTVSGGTLAVSTLADGGQVSSLGKSGS
+A0A0H3GGE2.1_2  AGFEKKGAGTLTFLNGSNDYIGATTVSGGTLAVSTLADGGQVSSLGKSGS
+Q9JMS5.1        MTLA-KGKGTQANINISSSELNT-----GSLSVGE-GDNADVKM---TG-
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------SSLSVINKGTFAGGNG--GAA----------YGYGY
+Q7BCK4.1        --------------SSLSVINKGTFAGGNG--GAA----------YGYGY
+Q9JMS3.1        ---------------NITTANDTKGKLFIN--------------------
+P77286.1        --------------------------------------------------
+Q03155.1        VATGTVLSGGTQNV------------------------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    DATNLILAGGALNYLGSTTSSDRSFTLGAGNG-----------------S
+A0A0H3GGE2.1_1  DATNLILAGGALNYLGSTTSSDRSFTLGAGNG-----------------S
+A0A0H3GGE2.1_2  DATNLILAGGALNYLGSTTSSDRSFTLGAGNG-----------------S
+Q9JMS5.1        --------------SGASVSSKKTFTVAKGNNASATLNYTGSKIDIGSGY
+Q9XD84.1        ----------------SVTSGARQFV------------------------
+                                                                  
+
+Q7BCK4          DGYGGNAITGDN---LSVIN---------------------------NGA
+Q7BCK4.1        DGYGGNAITGDN---LSVIN---------------------------NGA
+Q9JMS3.1        ----------SDMPGTIESKGIL---------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        ---------------------------------------SSGGSAISTSV
+P45508.2        ----------------IAGTGLITKTGSGDLVLNADNNDFTGEMQIENGE
+A0A0H3GGE2.1    IGVA-NAGTTLSMSGTAVGTGGLTKLGDGTLILSG-TNTYTGNTAVNAGV
+A0A0H3GGE2.1_1  IGVA-NAGTTLSMSGTAVGTGGLTKLGDGTLILSG-TNTYTGNTAVNAGV
+A0A0H3GGE2.1_2  IGVA-NAGTTLSMSGTAVGTGGLTKLGDGTLILSG-TNTYTGNTAVNAGV
+Q9JMS5.1        IGEGESAKTQLELNNSALTASGKVFIGQGNTT---------------QTN
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          ILGGNGGHWGD-----AINGSNMTIANSGY--IIS-GKEDDGTQNVAGN-
+Q7BCK4.1        ILGGNGGHWGD-----AINGSNMTIANSGY--IIS-GKEDDGTQNVAGN-
+Q9JMS3.1        --------------------------------------FGVGKAELIFK-
+P77286.1        --------------------------------------------------
+Q03155.1        Y---------NSGVQTVFAGAT----------------VTDTTVNSGGN-
+P45508.2        VTLGRSN-----SLMNVGDTHCQDDPQDCYGLT-------IGSIDQYQNQ
+A0A0H3GGE2.1    LRAGSAQAFGPSGLMTVGNGASLELGGYDI--TVS-GLLGAGTVDLGGN-
+A0A0H3GGE2.1_1  LRAGSAQAFGPSGLMTVGNGASLELGGYDI--TVS-GLLGAGTVDLGGN-
+A0A0H3GGE2.1_2  LRAGSAQAFGPSGLMTVGNGASLELGGYDI--TVS-GLLGAGTVDLGGN-
+Q9JMS5.1        LTLNDKSSVNVSGEMSVAQGSSAS---VDV--TATNAVLSADSLSLGGG-
+Q9XD84.1        --------------------------------SSG-GIVKATSVNSGGR-
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        HNSDNYAFSSPLISKNTGNGIINAESGET-HL--TG---DNTDYSGLLNI
+P77286.1        --------------------------------------------------
+Q03155.1        QNISSGGIVSETTVNVSGTQNI-YSGGSALSANIKGSQIVNSEGTAINTL
+P45508.2        AELNVGSTQQTFVHALTG--------------------------------
+A0A0H3GGE2.1    TLTSSGSAANSFTGKITGTGGFTRTGGSTQTL--SG---CNSDYTGKTTI
+A0A0H3GGE2.1_1  TLTSSGSAANSFTGKITGTGGFTRTGGSTQTL--SG---CNSDYTGKTTI
+A0A0H3GGE2.1_2  TLTSSGSAANSFTGKITGTGGFTRTGGSTQTL--SG---CNSDYTGKTTI
+Q9JMS5.1        EA-----------AKVTMTG-----SG--------------------ATV
+Q9XD84.1        QYVRDGGSATDTVLNN----------------------------------
+                                                                  
+
+Q7BCK4          -----------------------------------------AIHITG---
+Q7BCK4.1        -----------------------------------------AIHITG---
+Q9JMS3.1        LPTASID---------------------------ISSQKNIGKSVIVNNG
+P77286.1        --------------------------------------------------
+Q03155.1        VSDGGY--QHIRNGGIASG-------------------------------
+P45508.2        FQNGTLNID-----------------------------------------
+A0A0H3GGE2.1    ASNGTLSVDCLKNGGQASS---------------IGASSNAPDNLVLNNG
+A0A0H3GGE2.1_1  ASNGTLSVDCLKNGGQASS---------------IGASSNAPDNLVLNNG
+A0A0H3GGE2.1_2  ASNGTLSVDCLKNGGQASS---------------IGASSNAPDNLVLNNG
+Q9JMS5.1        SSKNTFTV---AKGNNASATLDYTDSKIDIGSGYIGEGEAAKTQLEL---
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          ----------------------------GNNSLILHEGSV-ITGDVQVNN
+Q7BCK4.1        ----------------------------GNNSLILHEGSV-ITGDVQVNN
+Q9JMS3.1        VLQIT-----------------------SQDDWTFNNNMT-GNGYLNVHT
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    TLSYTGNTVTTDRGFTIQGGTGAISVTDAATTLTFSGQVV-GTGALQKRG
+A0A0H3GGE2.1_1  TLSYTGNTVTTDRGFTIQGGTGAISVTDAATTLTFSGQVV-GTGALQKRG
+A0A0H3GGE2.1_2  TLSYTGNTVTTDRGFTIQGGTGAISVTDAATTLTFSGQVV-GTGALQKRG
+Q9JMS5.1        ----------------------------NNSALTASGKVFIGQGN-----
+Q9XD84.1        ----------TGRQFVSSGGSAAKTTINS---------------------
+                                                                  
+
+Q7BCK4          -SSILKIIN-NDYTGTTPTIEGDLCAGD----------------------
+Q7BCK4.1        -SSILKIIN-NDYTGTTPTIEGDLCAGD----------------------
+Q9JMS3.1        GGHNFAFQNSTNTQE-----------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------TIVNQS
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    -TGTLVLMNSNSYRGGTSVDAGTLRAGSSGAFGGGSMSLSNAAGAILDLD
+A0A0H3GGE2.1_1  -TGTLVLMNSNSYRGGTSVDAGTLRAGSSGAFGGGSMSLSNAAGAILDLD
+A0A0H3GGE2.1_2  -TGTLVLMNSNSYRGGTSVDAGTLRAGSSGAFGGGSMSLSNAAGAILDLD
+Q9JMS5.1        ----------------TTQTNLTLNDKSSV-NVSDEMSVAQGSSASVDVT
+Q9XD84.1        --------------------------------G-GGM-------------
+                                                                  
+
+Q7BCK4          -----CT------------TVSLSGNKFTVSGDVS-FG----------EN
+Q7BCK4.1        -----CT------------TVSLSGNKFTVSGDVS-FG----------EN
+Q9JMS3.1        ----------------FTGTLALSDTLFDLSDDNT-TA----------LT
+P77286.1        --------------------------------------------------
+Q03155.1        GY-------------------------VNISSG-----------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    GFD--TSVTSLSGGGALGGNVALGGATLTISSGNS-NG----------TS
+A0A0H3GGE2.1_1  GFD--TSVTSLSGGGALGGNVALGGATLTISSGNS-NG----------TS
+A0A0H3GGE2.1_2  GFD--TSVTSLSGGGALGGNVALGGATLTISSGNS-NG----------TS
+Q9JMS5.1        ITNAVLSADSLSLGGGEAAKVTMTGNRATISSGNT-FTVAKGNNASATLD
+Q9XD84.1        ---------YLYGGSATGTSIYNGGRQYVSSGGSATNT----------TV
+                                                                  
+
+Q7BCK4          -------------------------------S------SLNLA-------
+Q7BCK4.1        -------------------------------S------SLNLA-------
+Q9JMS3.1        SALVLAGVGSV-ITAGTGTQVINGFS--FDGG------AVNFGAVTQGAQ
+P77286.1        --------------------------------------------------
+Q03155.1        ---------------------------GYAESTIINS-------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    YTGAITGIGNF-VKNGNGTQRLTGCASSYSGSTTINGGVLEDSCLADGGS
+A0A0H3GGE2.1_1  YTGAITGIGNF-VKNGNGTQRLTGCASSYSGSTTINGGVLEDSCLADGGS
+A0A0H3GGE2.1_2  YTGAITGIGNF-VKNGNGTQRLTGCASSYSGSTTINGGVLEDSCLADGGS
+Q9JMS5.1        YSDSKINIGNGYIGGGEKAQTV---------L------TLKDSALAATGD
+Q9XD84.1        YSGGRQHV----YIDGNVTE-----------TTITS--------------
+                                                                  
+
+Q7BCK4          ---------------------------------------G--ISSLEAS-
+Q7BCK4.1        ---------------------------------------G--ISSLEAS-
+Q9JMS3.1        QTESQ--IQVTDNLYINGNGAVRVSTPTDVNGIPQVINSS--LSLLEQDD
+P77286.1        --------------------------------------------------
+Q03155.1        -----------------G-GTLRVLSDGYA-----------R--------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    VSSIGMSSADADNLVING-GVLRYTGSGDSTDRQFTLG-ASGGNSIESEG
+A0A0H3GGE2.1_1  VSSIGMSSADADNLVING-GVLRYTGSGDSTDRQFTLG-ASGGNSIESEG
+A0A0H3GGE2.1_2  VSSIGMSSADADNLVING-GVLRYTGSGDSTDRQFTLG-ASGGNSIESEG
+Q9JMS5.1        V----------------------IMGQGQETQTDLTLS-P--QSSIKVSG
+Q9XD84.1        -----------------G-GML-----------QVEAG-GSASKVIQNSG
+                                                                  
+
+Q7BCK4          -GNMSFGNNVK---------VEAIINNWAQ--------------------
+Q7BCK4.1        -GNMSFGNNVK---------VEAIINNWAQ--------------------
+Q9JMS3.1        SNA-----------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        -GTILN--------------NS-------------GRE------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    TGAILFTSNAA---------VTFAAANTAQTLTLAGTNTDDNELGAQLTN
+A0A0H3GGE2.1_1  TGAILFTSNAA---------VTFAAANTAQTLTLAGTNTDDNELGAQLTN
+A0A0H3GGE2.1_2  TGAILFTSNAA---------VTFAAANTAQTLTLAGTNTDDNELGAQLTN
+Q9JMS5.1        NMSIAQGNAASAKVIVDNADL------SAN--------------------
+Q9XD84.1        -GAVITNTSAA---------VS-------------GTN--D---------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        -----------------------------NVSNGGV-SYNAMIN------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    NGSGITSLTKTDTGTWFLTNSDSTYTGVTKI-NGGVLSVDKLANGGLASS
+A0A0H3GGE2.1_1  NGSGITSLTKTDTGTWFLTNSDSTYTGVTKI-NGGVLSVDKLANGGLASS
+A0A0H3GGE2.1_2  NGSGITSLTKTDTGTWFLTNSDSTYTGVTKI-NGGVLSVDKLANGGLASS
+Q9JMS5.1        --------------------------------------------------
+Q9XD84.1        -------------------------NGSFSI-AGGSAVNMLLENGGYLTV
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        ----------------------------------TGGNQYIYSDGEATAA
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    IGASSSAASNLIIGNDSTLRYLGTGDTTDRLFTLASGLTYIESSGSGAIV
+A0A0H3GGE2.1_1  IGASSSAASNLIIGNDSTLRYLGTGDTTDRLFTLASGLTYIESSGSGAIV
+A0A0H3GGE2.1_2  IGASSSAASNLIIGNDSTLRYLGTGDTTDRLFTLASGLTYIESSGSGAIV
+Q9JMS5.1        --------------------------------------------------
+Q9XD84.1        FD--GHQASDTMVGSDGTLDVRSGG-------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        IVNT----------------------------------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    FTDTGQVALADNNQARTIALGGKNTGDNTLAGSIGDAGTGKTTLAKNDDG
+A0A0H3GGE2.1_1  FTDTGQVALADNNQARTIALGGKNTGDNTLAGSIGDAGTGKTTLAKNDDG
+A0A0H3GGE2.1_2  FTDTGQVALADNNQARTIALGGKNTGDNTLAGSIGDAGTGKTTLAKNDDG
+Q9JMS5.1        ----------------SMSI--------------GEGDTA----------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        -----------------SGFQRINSGGTA-PVQNSVVVTR----------
+P45508.2        ------------------------AGGNV-TV----------------NQ
+A0A0H3GGE2.1    TWVLTGNNTFTGPTNINKGLLKIGNGGTTGSLTSDIVVTDGGLIFNRSDT
+A0A0H3GGE2.1_1  TWVLTGNNTFTGPTNINKGLLKIGNGGTTGSLTSDIVVTDGGLIFNRSDT
+A0A0H3GGE2.1_2  TWVLTGNNTFTGPTNINKGLLKIGNGGTTGSLTSDIVVTDGGLIFNRSDT
+Q9JMS5.1        --------------------------------------------------
+Q9XD84.1        --VLYGTTTLT----------------DKGALVGDVVTNEGNLYYLNNST
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        -------------------------------------------------T
+P77286.1        --------------------------------------------------
+Q03155.1        ---------------------------------TV---------------
+P45508.2        GSFAGIIEGAGQLTIAQNGSYVLAGAQSM---------------------
+A0A0H3GGE2.1    LNYGGLISGAGFVTQSGSGTTILTGANSYTGATSVSAGTLLVNGDQSAAT
+A0A0H3GGE2.1_1  LNYGGLISGAGFVTQSGSGTTILTGANSYTGATSVSAGTLLVNGDQSAAT
+A0A0H3GGE2.1_2  LNYGGLISGAGFVTQSGSGTTILTGANSYTGATSVSAGTLLVNGDQSAAT
+Q9JMS5.1        -----------AVTMTGNGATISSG-NTFTVARGNNASA----------T
+Q9XD84.1        ATFTGTLTGTGTLTQEGGNTR-F---------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        IKLVDASSAVVKGNG---G-------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        ---------------ALTGDIVVDDGAVLSLEGDAADLTALQDDPQSIVL
+A0A0H3GGE2.1    GQTSVANGSILGGSGIIGGNVVVTDGALAPGSNGAGTLTIN----GSLAL
+A0A0H3GGE2.1_1  GQTSVANGSILGGSGIIGGNVVVTDGALAPGSNGAGTLTIN----GSLAL
+A0A0H3GGE2.1_2  GQTSVANGSILGGSGIIGGNVVVTDGALAPGSNGAGTLTIN----GSLAL
+Q9JMS5.1        LDYS--DSKINIGNGYIGG-----------GEKAQTVLTLK----DSALA
+Q9XD84.1        ----------------------------------SGLLSQD----GGIFL
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        -----------NLQLQDASGQVISSGKQRNIVQ-QGK-NVAKGVYDYRLT
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------SSAAKPFDAEVY
+P45508.2        N-GGVLDLSDFSTWQ--------SGTSYNDGLEVSGSSGTVIGSQDVVDL
+A0A0H3GGE2.1    SAGSILSMQLGQAGV--------AGGALNDLIEVKGN-LTLDGTLDVAET
+A0A0H3GGE2.1_1  SAGSILSMQLGQAGV--------AGGALNDLIEVKGN-LTLDGTLDVAET
+A0A0H3GGE2.1_2  SAGSILSMQLGQAGV--------AGGALNDLIEVKGN-LTLDGTLDVAET
+Q9JMS5.1        ATGDVI-MGQGQETQTDL---------TL---------------------
+Q9XD84.1        QSGGAMTM---------------------DALQAKAN-VT----------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        SGP-HN---------------DGLYI------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        SGGKQTVYLWRGIWYSNFLTAV---WSMFPGTASGANVNLSGRLNAFAGN
+P45508.2        AGGDN----------------------------------------LHIG-
+A0A0H3GGE2.1    AGGSYGPGIYRLINYTGSLTDNGLDIGMLPNGAGAIQTAVAGQVNLLAGG
+A0A0H3GGE2.1_1  AGGSYGPGIYRLINYTGSLTDNGLDIGMLPNGAGAIQTAVAGQVNLLAGG
+A0A0H3GGE2.1_2  AGGSYGPGIYRLINYTGSLTDNGLDIGMLPNGAGAIQTAVAGQVNLLAGG
+Q9JMS5.1        --------------------------------------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        VV--------------------GTILN------------------QEGRQ
+P45508.2        ------------------------------------------GDGKDGVY
+A0A0H3GGE2.1    TNFNFWDGDVGPKFNSAVDGGNGTWQNSSGNNNWTDATGNINASYSDGAF
+A0A0H3GGE2.1_1  TNFNFWDGDVGPKFNSAVDGGNGTWQNSSGNNNWTDATGNINASYSDGAF
+A0A0H3GGE2.1_2  TNFNFWDGDVGPKFNSAVDGGNGTWQNSSGNNNWTDATGNINASYSDGAF
+Q9JMS5.1        --------------------------------------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        -----------------------------GYALTQLDLLASGVDALVLDA
+P77286.1        --------------------------------------------------
+Q03155.1        YVYSGATATSTVGNNEGRE-------------------------------
+P45508.2        VVVDASD---------G---------------------------------
+A0A0H3GGE2.1    AIFTGTAGTVTIDNSLGQVKAEGMQFAIDSYAVTGDKLELTGPQSTIRVG
+A0A0H3GGE2.1_1  AIFTGTAGTVTIDNSLGQVKAEGMQFAIDSYAVTGDKLELTGPQSTIRVG
+A0A0H3GGE2.1_2  AIFTGTAGTVTIDNSLGQVKAEGMQFAIDSYAVTGDKLELTGPQSTIRVG
+Q9JMS5.1        -----------------------------------------SPQSSIKVS
+Q9XD84.1        ---TQSGTTLTLDNG-----------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        AG------TT------GNAADMSAR-ITGAGDLA-FNSQKGETVSLSNQD
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        ------------------------------------------QVSLA-NN
+A0A0H3GGE2.1    DG------TT------AGAAYIATINSVLTGNTQ-LEKTDAGTLVLT-GA
+A0A0H3GGE2.1_1  DG------TT------AGAAYIATINSVLTGNTQ-LEKTDAGTLVLT-GA
+A0A0H3GGE2.1_2  DG------TT------AGAAYIATINSVLTGNTQ-LEKTDAGTLVLT-GA
+Q9JMS5.1        GNMSIAQGNAASAKVIVDNA-------DLSANSMSIGEGDTAAVTM-TGN
+Q9XD84.1        --------------------------TILTGNVA-GDSTGAGDMAVK-GA
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        NDYTGVTAIRGGNVLMNSNSVLGQ-----TSE------------IRL---
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        NSYLGTTQIASGTLMVSDNSQLGD-----THY-----------------N
+A0A0H3GGE2.1    NSYTGGTAINGGTIRISSDDNLGV-----ASSDISFDGGALNTTANIATD
+A0A0H3GGE2.1_1  NSYTGGTAINGGTIRISSDDNLGV-----ASSDISFDGGALNTTANIATD
+A0A0H3GGE2.1_2  NSYTGGTAINGGTIRISSDDNLGV-----ASSDISFDGGALNTTANIATD
+Q9JMS5.1        ----GATISSGNTFTVARGNNASATLDYSDSK------------INIGNG
+Q9XD84.1        SVW-----------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        -------------ATDTRLDMNGHS-------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --YVLSGG------------------------------------------
+P45508.2        RQVIFTDKQQ----------------------------------------
+A0A0H3GGE2.1    RAIILTGAGTLLTDASTTLSLSGPISGTGALTKSGTGTLLLSGTAVHTGG
+A0A0H3GGE2.1_1  RAIILTGAGTLLTDASTTLSLSGPISGTGALTKSGTGTLLLSGTAVHTGG
+A0A0H3GGE2.1_2  RAIILTGAGTLLTDASTTLSLSGPISGTGALTKSGTGTLLLSGTAVHTGG
+Q9JMS5.1        YIGVGEKSHTLLKLDNSTFHAAGNI-------DIGKGS------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          ---------------------------------------------KD---
+Q7BCK4.1        ---------------------------------------------KD---
+Q9JMS3.1        --QTVGKLNGA-AGSVLNING-----------------------GNLTLT
+P77286.1        --------------------------------------------------
+Q03155.1        -----------------ITDGTVLNSG-----------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    TTITAGTLQIGNGGTDGSIDGNIVNNGALVFDRAGTLAYTGSISGTGTLT
+A0A0H3GGE2.1_1  TTITAGTLQIGNGGTDGSIDGNIVNNGALVFDRAGTLAYTGSISGTGTLT
+A0A0H3GGE2.1_2  TTITAGTLQIGNGGTDGSIDGNIVNNGALVFDRAGTLAYTGSISGTGTLT
+Q9JMS5.1        --STIANVSVG-AGSNMSIKGNASI---GVGDQAK-----AKFSVKDSVL
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        DDGVSAGTLTGGG----FLNISGGVLDITGGNHTFAVSTIIAK-------
+P77286.1        --------------------------------------------------
+Q03155.1        -----------------------GLQAVSSGG--KASATVINEGGAQFVY
+P45508.2        ---ESVMEI-----------------------------------------
+A0A0H3GGE2.1    KNGSSTLTMTGTSTYTGETTVSAGTLALQAGGQIKGTASLTVDGGAEVLI
+A0A0H3GGE2.1_1  KNGSSTLTMTGTSTYTGETTVSAGTLALQAGGQIKGTASLTVDGGAEVLI
+A0A0H3GGE2.1_2  KNGSSTLTMTGTSTYTGETTVSAGTLALQAGGQIKGTASLTVDGGAEVLI
+Q9JMS5.1        NIGSSLVLGQGNST---EAEMSVEHSQLYSGGLLLGTANNAVV-------
+Q9XD84.1        -------HLDGDSTV------G----------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        ----D--ATVRMNDVSGLGT-----------------------GNISNAG
+P77286.1        --------------------------------------------------
+Q03155.1        DGGQ----------VTGT---NIKNGGTIRVDS-----------------
+P45508.2        -----------------------------TSDVDTRSDAAGH--------
+A0A0H3GGE2.1    DGSGSQFATGAGASVVGTGTVTVRDGGTASFDSLTTSNATGTNSTITVAG
+A0A0H3GGE2.1_1  DGSGSQFATGAGASVVGTGTVTVRDGGTASFDSLTTSNATGTNSTITVAG
+A0A0H3GGE2.1_2  DGSGSQFATGAGASVVGTGTVTVRDGGTASFDSLTTSNATGTNSTITVAG
+Q9JMS5.1        ----SMSANNSEISVVGDYTVAKGDGSEATLIYKNSDI--NLGNGILGAG
+Q9XD84.1        -------------------ALTL-DNGTVDFRPSTTTRMTPAFQAVSLA-
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        TLS-----------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        --------------------------------------GRDIEMRADGEV
+A0A0H3GGE2.1    SGSQMTQTGIATFGLAGTATVDILDGGTMISSGASVFVGGQLPMDATGQV
+A0A0H3GGE2.1_1  SGSQMTQTGIATFGLAGTATVDILDGGTMISSGASVFVGGQLPMDATGQV
+A0A0H3GGE2.1_2  SGSQMTQTGIATFGLAGTATVDILDGGTMISSGASVFVGGQLPMDATGQV
+Q9JMS5.1        SGV-----------------------------------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          ---------------------------YKLLSADKGITGFSVS-------
+Q7BCK4.1        ---------------------------YKLLSADKGITGFSVS-------
+Q9JMS3.1        -------------------LTH----------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        AVDAGVDTQWGA---LMADSSGQ---------------------------
+A0A0H3GGE2.1    TI-SGAGSQWTIANALYARRGSITVDDGGVVTAGSAVIGYADTGINNPET
+A0A0H3GGE2.1_1  TI-SGAGSQWTIANALYARRGSITVDDGGVVTAGSAVIGYADTGINNPET
+A0A0H3GGE2.1_2  TI-SGAGSQWTIANALYARRGSITVDDGGVVTAGSAVIGYADTGINNPET
+Q9JMS5.1        -------------------KTDLSLDNSKFVASDGIIIGKGDNAITNLSI
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          -NISIIN-------------------------------------------
+Q7BCK4.1        -NISIIN-------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        -------------------------------------------GA-----
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    DLVVTGAGSRFETTGELAITNSAANAARGSITIADGGVVKVGGGALAMG-
+A0A0H3GGE2.1_1  DLVVTGAGSRFETTGELAITNSAANAARGSITIADGGVVKVGGGALAMG-
+A0A0H3GGE2.1_2  DLVVTGAGSRFETTGELAITNSAANAARGSITIADGGVVKVGGGALAMG-
+Q9JMS5.1        SDHSVFKGER----------------------------INIGNGSYSKNS
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------PLLTTG----------------------AI----DY
+Q7BCK4.1        --------------PLLTTG----------------------AI----DY
+Q9JMS3.1        ---------------ASG------------------------------LL
+P77286.1        --------------------------------------------------
+Q03155.1        ------SALNIALSSGGNLF----------------------TSTGATLP
+P45508.2        ------------------------------------------HQDEG---
+A0A0H3GGE2.1    ---PGNAVLNIGAAAGGSPAHAGTLDAGTVTMAVGSNQINFNHDDASTTF
+A0A0H3GGE2.1_1  ---PGNAVLNIGAAAGGSPAHAGTLDAGTVTMAVGSNQINFNHDDASTTF
+A0A0H3GGE2.1_2  ---PGNAVLNIGAAAGGSPAHAGTLDAGTVTMAVGSNQINFNHDDASTTF
+Q9JMS5.1        ISITGNSIFDFGSSQESTIG----------------------EG----DY
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          TKSYISDQNKLIYGL-SWNDTD-G--DSHGEFN-LKENAELTVSTI----
+Q7BCK4.1        TKSYISDQNKLIYGL-SWNDTD-G--DSHGEFN-LKENAELTVSTI----
+Q9JMS3.1        SNNLSGSGTVS--LINSDTQISGNNSNYSGLFV-VDTSSQLTATGA----
+P77286.1        --------------------------------------------------
+Q03155.1        ELTTMAALSVSQNHAS-NIVLE------NGGLLRVTSGGTATDTTVN-SA
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    SATISGAGSVSQNGPG-ATLLTGN--NSYAGLTTVTAGSLYIDGDQSMAT
+A0A0H3GGE2.1_1  SATISGAGSVSQNGPG-ATLLTGN--NSYAGLTTVTAGSLYIDGDQSMAT
+A0A0H3GGE2.1_2  SATISGAGSVSQNGPG-ATLLTGN--NSYAGLTTVTAGSLYIDGDQSMAT
+Q9JMS5.1        SQSLVTINDASVYGDGSLTLAKGN--NSFAVLN-LQDNAVTNANNISLAT
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          -----------------------------------LADNL----------
+Q7BCK4.1        -----------------------------------LADNL----------
+Q9JMS3.1        -----------------------------------QNLGIASVSNRGILQ
+P77286.1        --------------------------------------------------
+Q03155.1        GRLRIDDGGTINGTTTINADGIVAGTNIQNDGNFILNLA-----------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    GLTTVNPGGTLGGTGTIGGDVTVASGGAINPGSFGMAPGT----------
+A0A0H3GGE2.1_1  GLTTVNPGGTLGGTGTIGGDVTVASGGAINPGSFGMAPGT----------
+A0A0H3GGE2.1_2  GLTTVNPGGTLGGTGTIGGDVTVASGGAINPGSFGMAPGT----------
+Q9JMS5.1        GLG----------SKAI-VNVSNMNSGQFNPVSMGAGDGY----------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          -----SHHNINSW--D----------------------------------
+Q7BCK4.1        -----SHHNINSW--D----------------------------------
+Q9JMS3.1        LNNTTDWQLINNV-------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        ---------------------------------------------ENYDF
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    -----LNINGDLTLASGSTQSFSFGQANIPGGPLNDLINVGGDLVLAGTL
+A0A0H3GGE2.1_1  -----LNINGDLTLASGSTQSFSFGQANIPGGPLNDLINVGGDLVLAGTL
+A0A0H3GGE2.1_2  -----LNINGDLTLASGSTQSFSFGQANIPGGPLNDLINVGGDLVLAGTL
+Q9JMS5.1        -----AEVNFDGV--NGYTLS-----------------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        ETELSGSGVLVKDNTGIMTYAGTLTQ------------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    QVDTSAGGTMDPGIYRVFNYTGTLSQNAWTVNLPSPDFYVQTSVAQQINL
+A0A0H3GGE2.1_1  QVDTSAGGTMDPGIYRVFNYTGTLSQNAWTVNLPSPDFYVQTSVAQQINL
+A0A0H3GGE2.1_2  QVDTSAGGTMDPGIYRVFNYTGTLSQNAWTVNLPSPDFYVQTSVAQQINL
+Q9JMS5.1        --------------------------------------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    VNTAGLALRFWDGADPQNKNNGKIEGGNGIWQAFGSAPDNGNDNWTETGN
+A0A0H3GGE2.1_1  VNTAGLALRFWDGADPQNKNNGKIEGGNGIWQAFGSAPDNGNDNWTETGN
+A0A0H3GGE2.1_2  VNTAGLALRFWDGADPQNKNNGKIEGGNGIWQAFGSAPDNGNDNWTETGN
+Q9JMS5.1        --------------------------------------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          --------------------------------------------------
+Q7BCK4.1        --------------------------------------------------
+Q9JMS3.1        --------------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        --------------------------------------------------
+A0A0H3GGE2.1    INAPFQDATFAVFTGEKGTVTVDDSKGAINVSGIQFVTDGYIVNGDAINL
+A0A0H3GGE2.1_1  INAPFQDATFAVFTGEKGTVTVDDSKGAINVSGIQFVTDGYIVNGDAINL
+A0A0H3GGE2.1_2  INAPFQDATFAVFTGEKGTVTVDDSKGAINVSGIQFVTDGYIVNGDAINL
+Q9JMS5.1        --------------------------------------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          ------------------------------GKSLTKSGEGTLILAEKNTY
+Q7BCK4.1        ------------------------------GKSLTKSGEGTLILAEKNTY
+Q9JMS3.1        ----------------------------TGTGNVRKTGSGSLTVRSNAAW
+P77286.1        --------------------------------------------------
+Q03155.1        --------------------------------------------------
+P45508.2        -------------------------------STLTKTGAGTLELTASGTT
+A0A0H3GGE2.1    VGASGSTIRVGDGTTGGTDTVASIDAEITGASQLIKADMGTLILTGDNSY
+A0A0H3GGE2.1_1  VGASGSTIRVGDGTTGGTDTVASIDAEITGASQLIKADMGTLILTGDNSY
+A0A0H3GGE2.1_2  VGASGSTIRVGDGTTGGTDTVASIDAEITGASQLIKADMGTLILTGDNSY
+Q9JMS5.1        ----TNFICMDSG---------------SCADTVINVNRGTVSLSGTNDW
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          SGFTNINAGILKMGTVEAMTRTAGV-IVNKGATLN---------------
+Q7BCK4.1        SGFTNINAGILKMGTVEAMTRTAGV-IVNKGATLN---------------
+Q9JMS3.1        SGQTDIDDGSLILGQSDAPVMLASS-LVNIAKNGK---------------
+P77286.1        --------------------------------------------------
+Q03155.1        AQGVNVK---------------NGGI-IFDSAVVN--ADMAVNQNA----
+P45508.2        QSAVRVEEGTLKGDVADILPYASSLW-VGDGATFVTGADQDIQ-SIDAIS
+A0A0H3GGE2.1    TGGTKITGGTLQVAKDSALGARTGEL-ILDGGTLNTTADMTIDRSVTVDQ
+A0A0H3GGE2.1_1  TGGTKITGGTLQVAKDSALGARTGEL-ILDGGTLNTTADMTIDRSVTVDQ
+A0A0H3GGE2.1_2  TGGTKITGGTLQVAKDSALGARTGEL-ILDGGTLNTTADMTIDRSVTVDQ
+Q9JMS5.1        KGQINVYDGTRLDARGNDAV--DGILNVSKEAQVD---------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          -----FSG------------------------------------------
+Q7BCK4.1        -----FSG------------------------------------------
+Q9JMS3.1        -----LTG------------------------------------------
+P77286.1        --------------------------------------------------
+Q03155.1        --YINISDQAT--INGSVNNNGSIVINNSI----IN--GNITNDADLSFG
+P45508.2        SGTIDISDGTVLRLTGQDTSV-------------ALNASLFNGDGTLVNA
+A0A0H3GGE2.1    AGTLDIDTGTTLKIDGVLSGAGAFVKTGAGRLELAGDDHTYNGDASIASG
+A0A0H3GGE2.1_1  AGTLDIDTGTTLKIDGVLSGAGAFVKTGAGRLELAGDDHTYNGDASIASG
+A0A0H3GGE2.1_2  AGTLDIDTGTTLKIDGVLSGAGAFVKTGAGRLELAGDDHTYNGDASIASG
+Q9JMS5.1        -----FNG------------------------------------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          -----------------------MNQTVNT-LLNSGTVLINNINAPFLPD
+Q7BCK4.1        -----------------------MNQTVNT-LLNSGTVLINNINAPFLPD
+Q9JMS3.1        -----------------------FGGVVGN-VTNSGSL------------
+P77286.1        --------------------------------------------------
+Q03155.1        T--AKL---------------LSATVNGSL-VNNKNII------------
+P45508.2        TDGVTLTGELNTNLETDSLTYLSNVTVNGNLTNTSGAV------------
+A0A0H3GGE2.1    T--LALTGALGGTMNVGIDGRLEATGRVGA-TTNSGVI------------
+A0A0H3GGE2.1_1  T--LALTGALGGTMNVGIDGRLEATGRVGA-TTNSGVI------------
+A0A0H3GGE2.1_2  T--LALTGALGGTMNVGIDGRLEATGRVGA-TTNSGVI------------
+Q9JMS5.1        -----------------------YSQHMTG-IDNKGMI------------
+Q9XD84.1        --------------------------------------------------
+                                                                  
+
+Q7BCK4          PVIVTGNMTLEKNGHVILNNSSSNVGQTYVQKGNWHGKGG-ILSLGAVLG
+Q7BCK4.1        PVIVTGNMTLEKNGHVILNNSSSNVGQTYVQKGNWHGKGG-ILSLGAVLG
+Q9JMS3.1        ----------------DL--RSAAPGNILTIGGNYTGNNG-TLLINTVLD
+P77286.1        ---------------------GGKPGNVLTVNGNYTGNNG-LMTFNATLG
+Q03155.1        ---------------LNP--TKESAGNTLTV-SNYTGTPGSVISLGGVLE
+P45508.2        ----------------SL--QNGVAGDTLTVNGDYTGG-G-TLLLDSELN
+A0A0H3GGE2.1    ----------------AL--DQEGFG-SLTVNGNYTGKDG-RLEIATVLG
+A0A0H3GGE2.1_1  ----------------AL--DQEGFG-SLTVNGNYTGKDG-RLEIATVLG
+A0A0H3GGE2.1_2  ----------------AL--DQEGFG-SLTVNGNYTGKDG-RLEIATVLG
+Q9JMS5.1        ----------------YL--SDGSASSDVYLDKDYVAHDG-SGVQFGIFG
+Q9XD84.1        -------------------------------LGSLSGS-G-TFQMNTD--
+                                                 .  .  *          
+
+Q7BCK4          NDNSKTDRLEIAGHASGITYVAVTNEGGSGDKTLEGVQIISTDSSD----
+Q7BCK4.1        NDNSKTDRLEIAGHASGITYVAVTNEGGSGDKTLEGVQIISTDSSD----
+Q9JMS3.1        DSSSATDKLVIKGDASGKTRVAVTNVGGSGANTLNSIEVIHVDGNA----
+P77286.1        GDNSPTDKMNVKGDTQGNTRVRVDNIGGVGAQTVNGIELIEVGGNS----
+Q03155.1        GDNSLTDRLVVKGNTSGQSDIVYVNEDGSGGQTRDGINIISVEGNS----
+P45508.2        GDDSVSDQLVMNGNTAGNTTVVVNSITGIGEPTSTGIKVVDFAADPTQFQ
+A0A0H3GGE2.1    DDTSLTNRLVIDGDMAGTTQVSVTNRGGLGAQTVEGIKIIQVGGAS----
+A0A0H3GGE2.1_1  DDTSLTNRLVIDGDMAGTTQVSVTNRGGLGAQTVEGIKIIQVGGAS----
+A0A0H3GGE2.1_2  DDTSLTNRLVIDGDMAGTTQVSVTNRGGLGAQTVEGIKIIQVGGAS----
+Q9JMS5.1        Q--KEADVMHVKGDTSGSSGIVVTTNSKNKIKKGGDILLVEVNGDS----
+Q9XD84.1        IASHTGDMLNVAGNASGNFVLDIKNTGLEPVSAGAPLQVVQTGGGD----
+                      : : : *.  *   :   .           : ::   .      
+
+Q7BCK4          -KNAFIQ-K--------------GRIVAGSYDYRLKQGTVSGLNTNKWYL
+Q7BCK4.1        -KNAFIQ-K--------------GRIVAGSYDYRLKQGTVSGLNTNKWYL
+Q9JMS3.1        ANAEFIQ-A--------------GRIAAGAYDYTLGRGP--GSNYGNWYL
+P77286.1        -AGNFALTT--------------GTVEAGAYVYTLAKGK--GNDEKNWYL
+Q03155.1        -DAEFSL-K--------------NRVVAGAYDYTLQKGNESGTDNKGWYL
+P45508.2        NNAQFSL-A------GS------GYVNMGAYDYTLVE------DNNDWYL
+A0A0H3GGE2.1    -NGMFLL-AGDYMFNGE------QAVVAGAYGYRLYKGGVSTPADGNWYL
+A0A0H3GGE2.1_1  -NGMFLL-AGDYMFNGE------QAVVAGAYGYRLYKGGVSTPADGNWYL
+A0A0H3GGE2.1_2  -NGMFLL-AGDYMFNGE------QAVVAGAYGYRLYKGGVSTPADGNWYL
+Q9JMS5.1        -SGSFYL-NS-LIKNGKEYKVTGDYIDVGAWEYALNK------KRKNWYL
+Q9XD84.1        --AAFTL-K-------G------GKVDAGTWEYGLSK------ENTNWYL
+                    *                    :  *:: * * .          ***
+
+Q7BCK4          TSQMDNQESKQMSN---------------QES-T----------------
+Q7BCK4.1        TSQMDNQESKQMSN---------------QES-T----------------
+Q9JMS3.1        SSSKNTPEP--RPD---------------PEP-TP---------------
+P77286.1        TSKWDGVTPADTPD---------------PIN-NP---------------
+Q03155.1        TSHLPTSDTRQ---------------------------------------
+P45508.2        RSQEVTPPSPPDPDPTPDPDPTPDPDPTPDPEPT----------------
+A0A0H3GGE2.1    RSALLNPETPTNPT---------------DPE-T----------------
+A0A0H3GGE2.1_1  RSALLNPETPTNPT---------------DPE-T----------------
+A0A0H3GGE2.1_2  RSALLNPETPTNPT---------------DPE-T----------------
+Q9JMS5.1        SVDM----------------------------------------------
+Q9XD84.1        KADTPPPVTPPTNP---------------DAD-NPDAGNPDAGNPDAGNP
+                                                                  
+
+Q7BCK4          -------QMSSRRASSQLVSSLNLGEGSIHTWRPEAGSYIANL-------
+Q7BCK4.1        -------QMSSRRASSQLVSSLNLGEGSIHTWRPEAGSYIANL-------
+Q9JMS3.1        -------------------------EGHDNNLRPEASSYTANI-------
+P77286.1        -------PVVDP-------------EG-PSVYRPEAGSYISNI-------
+Q03155.1        -------------------------------YRPENGSYATNM-------
+P45508.2        -------PAYQP------------------VLNAKVGGYLNNL-------
+A0A0H3GGE2.1    -------PLYQP-------------------GVPLYESYAGSL-------
+A0A0H3GGE2.1_1  -------PLYQP-------------------GVPLYESYAGSL-------
+A0A0H3GGE2.1_2  -------PLYQP-------------------GVPLYESYAGSL-------
+Q9JMS5.1        --------------------------------RPEPGAFINNS-------
+Q9XD84.1        DAGNPDAGKPGT-------------------GKPDAGTSSSPVRRTTKSV
+                                                 .                
+
+Q7BCK4          -------IAMNTMFSPSLYDRHGSTIV---------DP-TTGQLSETTMW
+Q7BCK4.1        -------IAMNTMFSPSLYDRHGSTIV---------DP-TTGQLSETTMW
+Q9JMS3.1        -------AAANTMFVTRLHERLGQTQY--------VDA-ITGEPKATSMW
+P77286.1        -------AAANSLFSHRLHDRLGEPQY--------TDS-LHSQGSASSMW
+Q03155.1        -------ALANSLFLMDLNERKQFRAM--------SD--NT-QPESASVW
+P45508.2        -------RAANQAFMMERRDHAG--------------------GDGQTLN
+A0A0H3GGE2.1    -------QQLNKLGT--LQQRVGNRVWAKHPVPAQSDENGAGPSGNNGIW
+A0A0H3GGE2.1_1  -------QQLNKLGT--LQQRVGNRVWAKHPVPAQSDENGAGPSGNNGIW
+A0A0H3GGE2.1_2  -------QQLNKLGT--LQQRVGNRVWAKHPVPAQSDENGAGPSGNNGIW
+Q9JMS5.1        -------KSMLDMFALQRYDIPGQHRY---------PT-LFENLYNNGMW
+Q9XD84.1        DAVLGMATAPAYVFN--SELD---NLRFRHG-----DV-MQNTRAPGGVW
+                                                                : 
+
+Q7BCK4          IRTVGGHNEHNLADRQLKT--TANRMVYQIGGDILKTNFTDHDGLHVGIM
+Q7BCK4.1        IRTVGGHNEHNLADRQLKT--TANRMVYQIGGDILKTNFTDHDGLHVGIM
+Q9JMS3.1        MRHEGGHNRWRDGSGQLKT--QSNRYVIQLGGDIAQWDWGGTNRWHLGVM
+P77286.1        MRHVGGHERSRAGDGQLNT--QANRYVLQLGGDLAQWSSNAQDRWHLGVM
+Q03155.1        MKITGGISSGKLNDGQNKT--TTNQFINQLGGDIYKFHAEQLGDFTLGIM
+P45508.2        LRVIGGDYHY-TAAGQLAQ--HEDTSTVQLSGDLFSGRWGTDGEWMLGIV
+A0A0H3GGE2.1    ARIEAAHAEFDPKQSTSRASYDADIWKFQTGIDGM-FAETASGKFIGGVY
+A0A0H3GGE2.1_1  ARIEAAHAEFDPKQSTSRASYDADIWKFQTGIDGM-FAETASGKFIGGVY
+A0A0H3GGE2.1_2  ARIEAAHAEFDPKQSTSRASYDADIWKFQTGIDGM-FAETASGKFIGGVY
+Q9JMS5.1        IQFNNNSGSNSEVYDNLKT--SYSLNTMMIGGDIYNWT-DGYNYSHIGIM
+Q9XD84.1        GRYTGSDNRISGGASS---GYTLTQNGFETGADMV-FDLSD-SSLAVGTF
+                 :                            . *         .    *  
+
+Q7BCK4          GAYGYQDSKTHNKYTSYSSRGT--VSGYTAGLYSSWFQD------EKERT
+Q7BCK4.1        GAYGYQDSKTHNKYTSYSSRGT--VSGYTAGLYSSWFQD------EKERT
+Q9JMS3.1        AGYGNNHSSTGAVRTGYHSKGS--VNGYSTGLYATWYAD------DETHN
+P77286.1        AGYANQHSNTQSNRVGYKSDGR--ISGYSAGLYATWYQN------DANKT
+Q03155.1        GGYANAKGKTINYTSNKAARNT--LDGYSVGVYGTWYQN------GENAT
+P45508.2        GGYSDNQGDSRSNMTGTRADNQ--NHGYAVGLTSSWFQH------GNQKQ
+A0A0H3GGE2.1    VQYETVSSSV----SSPFGNGSIESSGYGAGATLTWYGE----------S
+A0A0H3GGE2.1_1  VQYETVSSSV----SSPFGNGSIESSGYGAGATLTWYGE----------S
+A0A0H3GGE2.1_2  VQYETVSSSV----SSPFGNGSIESSGYGAGATLTWYGE----------S
+Q9JMS5.1        GGMGSAANKTTST-NNKRATGN--VDGYTLGLYHVFQQNISDGLNESERQ
+Q9XD84.1        FSYSDNS-IK----HARGGKSN--VDSSGGGLYATWFDN----------D
+                                  . .     .   *    :  .           
+
+Q7BCK4          GLYMDAWLQYSWFNNTVKGDGLTG----EKYSSKGITGALEAGYIYPTIR
+Q7BCK4.1        GLYMDAWLQYSWFNNTVKGDGLTG----EKYSSKGITGALEAGYIYPTIR
+Q9JMS3.1        GAYLDTWAQYGWFDNHVKGDGLPG----ESWKSKGLTASLETGYAWKIGE
+P77286.1        GAYVDSWALYNWFDNSVSSDNRSA----DDYDSRGVTASVEGGYTFEAGT
+Q03155.1        GLFAETWMQYNWFNASVKGDGLEE----EKYNLNGLTASAGGGYNLNVHT
+P45508.2        GAWLDSWLQYAWFSNDVSEQEDGT----DHYHSSGIIASLEAGYQWLPGR
+A0A0H3GGE2.1    DFYIDGVAQINWFDSDLNSATLGRQLV-DGNRAVGYSLSVETGQKIEIGE
+A0A0H3GGE2.1_1  DFYIDGVAQINWFDSDLNSATLGRQLV-DGNRAVGYSLSVETGQKIEIGE
+A0A0H3GGE2.1_2  DFYIDGVAQINWFDSDLNSATLGRQLV-DGNRAVGYSLSVETGQKIEIGE
+Q9JMS5.1        GLWTYSSIQYMDYDNSVSSTNNFK----ANYGVNGFRLTGEVGYLKNIGG
+Q9XD84.1        GYYVDGVLKYNRFNNELRTWMSDGTAVKGDYSQNGFGGSLEAGRTFSLNE
+                . :         :.  :                 *   :   *       
+
+Q7BCK4          WTAHNNIDNALYLNPQVQITRHGVKANDYIEHNGTMVTSSGGNNIQA---
+Q7BCK4.1        WTAHNNIDNALYLNPQVQITRHGVKANDYIEHNGTMVTSSGGNNIQA---
+Q9JMS3.1        FSSNYGNLNEWYVQPQAQLVWMGVKADELYESNGTLIESTGDGNVHT---
+P77286.1        FSGSEGTLNTWYVQPQAQITWMGVKDSDHTRKDGTRIETEGDGNVQT---
+Q03155.1        WTSPEGITGEFWLQPHLQAVWMGVTPDTHQEDNGTVVQGAGKNNIQT---
+P45508.2        ---------GVVIEPQAQVIYQGVQQDDFTAANRARVSQSQGDDIQT---
+A0A0H3GGE2.1    ---------GWSLTPQAQLAYSAIRFDDFKDAFDTSVSPENDHDLTG---
+A0A0H3GGE2.1_1  ---------GWSLTPQAQLAYSAIRFDDFKDAFDTSVSPENDHDLTG---
+A0A0H3GGE2.1_2  ---------GWSLTPQAQLAYSAIRFDDFKDAFDTSVSPENDHDLTG---
+Q9JMS5.1        IQP-----SDFYVEPKLYLS--------HTELSGGVVEDLQGGKITYPNS
+Q9XD84.1        ---------NAWAQPYVRTTAFRADKKEIRLNNGMKASIGATKSLQA---
+                              *                            .:     
+
+Q7BCK4          ----KLGLRTSLISQSCIDKETLRKFEPFLEV--N---------WKWS-S
+Q7BCK4.1        ----KLGLRTSLISQSCIDKETLRKFEPFLEV--N---------WKWS-S
+Q9JMS3.1        ----RLGVKTWIKRLNKMDDGKSREFSPFVEV--N---------WLHN-T
+P77286.1        ----RLGVKTYLNSHHQRDDGKQREFQPYIEA--N---------WINN-S
+Q03155.1        ----KAGIRASWKVKSTLDKDTGRRFRPYIEA--NWI---------HN-T
+P45508.2        ----RLGLHSEWR--------TAVHVIPTLDL--N---------YYHD-P
+A0A0H3GGE2.1    ----RLGLAINRDAE-WLD-AQGRRVAMHIYGIGNLY---------YGFA
+A0A0H3GGE2.1_1  ----RLGLAINRDAE-WLD-AQGRRVAMHIYGIGNLY---------YGFA
+A0A0H3GGE2.1_2  ----RLGLAINRDAE-WLD-AQGRRVAMHIYGIGNLY---------YGFA
+Q9JMS5.1        LTIIEPGVFFSYRKTHESTSNDEAMFKDYIKQ--SVVDAWFGGGYSFK-T
+Q9XD84.1        ----EAGLKLGMT----LD-VAGKEVKPYLSA--AVS---------HEFS
+                    . *:                 .   :                   .
+
+Q7BCK4          KQYGVIMNGM-SNHQIGNRNVIELKTGVGGRL-ADNLSIWGNVSQQLGNN
+Q7BCK4.1        KQYGVIMNGM-SNHQIGNRNVIELKTGVGGRL-ADNLSIWGNVSQQLGNN
+Q9JMS3.1        RDFGVRMNGE-PVYQDGTRNIGEVKTGVEGQI-NPHLNLWGNVRVQVGDK
+P77286.1        KVYAVKMNGQ-TVGREGARNLGEVRTGVEAKV-NNNLSLWGNVGVQLGDK
+Q03155.1        HEFGVKMSDD-SQLLSGSRNQGEIKTGIEGVI-TQNLSVNGGVAYQAGGH
+P45508.2        HSTEIEEDGS-TISDDAVKQRGEIKVGVTGNI-SQRVSLRGSVAWQKGSD
+A0A0H3GGE2.1    GASKVDVSSV-RFVSGNERLRGGIGLGGTYDWADSKYSLYGETRFDTSLQ
+A0A0H3GGE2.1_1  GASKVDVSSV-RFVSGNERLRGGIGLGGTYDWADSKYSLYGETRFDTSLQ
+A0A0H3GGE2.1_2  GASKVDVSSV-RFVSGNERLRGGIGLGGTYDWADSKYSLYGETRFDTSLQ
+Q9JMS5.1        GNYSRTNFDS-DMVEYNTSDNFALKSGVEFEF-LKDARLLLTSSYSINN-
+Q9XD84.1        DNNKVRINDTYDFRNDISGTTGKYGLGVNAQL-TPNAGVWAEARYENGKQ
+                        .                 *           :      . .  
+
+Q7BCK4          SYRD---TQGILGVKYTF
+Q7BCK4.1        SYRD---TQGILGVKYTF
+Q9JMS3.1        GYND---TSAMLGVKYTF
+P77286.1        GYSD---TQGMLGVKYSW
+Q03155.1        GSNA---ISGALGIKYSF
+P45508.2        DFAQ---TAGFLSMTVKW
+A0A0H3GGE2.1    NFGDSNVIAGSVGLRVRW
+A0A0H3GGE2.1_1  NFGDSNVIAGSVGLRVRW
+A0A0H3GGE2.1_2  NFGDSNVIAGSVGLRVRW
+Q9JMS5.1        -DRN---LSFILGGNYYF
+Q9XD84.1        TESP---ITGGVGFRINF
+                           :.    :
+
+
+

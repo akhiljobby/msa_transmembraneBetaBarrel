@@ -1,0 +1,510 @@
+>P0A937 
+------------------------------------------------------------
+--------------------M---------------------------------------
+------------------------------------------------------------
+--RCKTLTAAAAVL---L----M-LTAGCSTLERV-------------------------
+------VYRPDINQ-------------------------------------------GNY
+LTANDVSKIRVG-MTQQQVAYALGTPLMSDPFGT---NTWFYVFRQQPGH------EGVT
+QQTLTLTFNSSGVLTNIDN------------------KPALSGN----------------
+------------------------------------------------------------
+---------------------------------------------------------
+>UniRef100_A0A0H3FG75 Outer membrane protein assembly factor BamE n=3 Tax=Rahnella TaxID=34037 RepID=A0A0H3FG75_RAHSY
+------------------------------------------------------------
+------------------MTM---------------------------------------
+------------------------------------------------------------
+--RCKTLTAAAVAL---V----M-LTAGCSTLEKV-------------------------
+------VYRPDINQ-------------------------------------------GNY
+LSPADVQKIHTG-MTKQQVAYVLGTPMLHDPFGS---NVWYYVFRQEPGH------EGIT
+QQTLTLTFNESDTLTNIDN------------------KPKLSDQK---------------
+------------------------------------------------------------
+---------------------------------------------------------
+>UniRef100_A0A3B0Z1J3 Outer membrane beta-barrel assembly protein BamE n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0Z1J3_9ZZZZ
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--MQKLLISISVIA---S----L-FLAACSSD----------PIVN--------------
+--RLPFVYRIDIQQ-------------------------------------------GNV
+ITPEMVNQVRMG-MSKRQVQFILGAPMLIDPFHA---ERWDYVHRYNPGSD---GTAPAS
+NQRITLKF-EDDRVAQISG----------------TLLP----DPKPDTIPSNRQVTVVV
+PRQEL--ESTGVLTKLWRWIG--FGGES--------------------------------
+---------------------------------------------------------
+>UniRef100_A0A1J0RS28 Outer membrane protein assembly factor BamE n=2 Tax=Alteromonas TaxID=226 RepID=A0A1J0RS28_9ALTE
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---MKLHHLLVILG--IT----L-TSTACSN-----------------------------
+-----WIYRIDVPQ-------------------------------------------GNF
+LDQRDVEKLRVG-MTKEQVIYVLGNPVVQDSFDD---DTWYYVYDMKRGMK---KRGEDF
+QKQMVINF-VDDKVTTVEG-----------------------------------------
+-------------------------DFELSED----------------------------
+----------------------FNTPLDN----------------------------
+>UniRef100_A0A423MZ40 Outer membrane protein assembly factor BamE n=10 Tax=Pseudomonas TaxID=286 RepID=A0A423MZ40_PSEFL
+------------------------------------------------------------
+------------------MQN---------------------------------------
+------------------------------------------------------------
+--TKLLLTSFTFVG---L----L-ALAGCS------------------------------
+---FPGVYKIDIQQ-------------------------------------------GNV
+VTQDMIDQLRPG-MTRRQVRFIMGNPLLTDTFHA---DRWDYLYSLQPGG------GERQ
+QERVSVNFNSNDQLVSLSG----------------DFMPGVSRDEAILGKDSGTSVTAPA
+ENAEK--PKP--------------------EQ------------------PAKPGSLLDS
+IQKDVDGVETVP--------VPTPEPLDTSPQ-------------------------
+>UniRef100_A0A498CEA8 Beta-barrel assembly machine subunit BamE n=2 Tax=Alkalispirillum mobile TaxID=85925 RepID=A0A498CEA8_9GAMM
+------------------------------------------------------------
+--------------------M---------------------------------------
+------------------------------------------------------------
+--GKRTLFALYITT---T----L-LVTGCAQ-------------VD--------------
+--RIPFTHQRDAQQ-------------------------------------------GNI
+MTQEMVDELRPG-MSQQQVRRIMGPPAVVDPFRT---DRWDYVHTLRPGG------GSME
+KKRMTLKF-EDGRLVDISG----------------DLRPGHWEDS---------------
+------------------------------------------------------------
+---------------------------------------------------------
+>UniRef100_A0A3B0WYX1 Outer membrane beta-barrel assembly protein BamE n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0WYX1_9ZZZZ
+------------------------------------------------------------
+--------------------M---------------------------------------
+------------------------------------------------------------
+--QNNLIIINLLIA---L----L-FIAGCDP-----------------------------
+-------HRIDIQQ-------------------------------------------GNR
+ITPENFTKLKPG-MTRNQVIFILGSPLLKDEFHK---DRWDYVYYLKPGN------DPVK
+QSRVTLFFD-GDELAKIDDS---------------AFTPDVYDTKS--------------
+-------------------------MVD--KS------------------MGDQSGGGGG
+-----------------------GGGGGGHTH-------------------------
+>UniRef100_A0A495PNU2 Beta-barrel assembly machine subunit BamE n=7 Tax=Pseudomonas TaxID=286 RepID=A0A495PNU2_9PSED
+------------------------------------------------------------
+------------------MQN---------------------------------------
+------------------------------------------------------------
+--TKLLLTSLTLVG---L----L-ALAGCS------------------------------
+---FPGVYKIDIQQ-------------------------------------------GNV
+VTQDMIDQLRPG-MTRRQVRFIMGNPLIQDTFNT---NRWDYLYSLQPGG------GKRQ
+QERMSVFFNESDQLVSLSG----------------DFMPGVSRDQEILGGSSDTTVSPAT
+EPGQT--EQPA---------------AQPEEK------------------PAKPGSTEES
+IQREIDTIETTP--------VPTPAPLETR---------------------------
+>UniRef100_A0A495LZ55 Beta-barrel assembly machine subunit BamE n=2 Tax=Pseudomonas TaxID=286 RepID=A0A495LZ55_9PSED
+------------------------------------------------------------
+------------------MQN---------------------------------------
+------------------------------------------------------------
+--TKLLLTSFTFVG---L----L-ALAGCS------------------------------
+---FPGVYKIDIQQ-------------------------------------------GNV
+VTQDMIDQLRPG-MTRKQVRFIMGNPLLTDTFHA---DRWDYLYSLQPGG------GERQ
+QERISVIFNPNDQLVSLSG----------------DFMPGVSRDEAILGKDSGTNVTAPA
+EKAEQ--PKP--------------------EK------------------PVKPGSLLDQ
+IQKEVDGVETVP--------VPTPEPLDTKPQ-------------------------
+>UniRef100_A0A3B0YFQ5 Outer membrane beta-barrel assembly protein BamE n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0YFQ5_9ZZZZ
+MNGETGFFRHGLLTLLNGFVEELLNFAATSTHDVIVVVPFVHLEHRMPAFKMVTSHQPGG
+LKLGQHPVYRGQTNVFFGIQQAFVHVFGAHVARFAGFEDFEDLHPRQGDFQP---GLAQI
+TGFQCFYFPSGVFKTGYIVYHRALPKQSVPVPLL--------------------------
+--MRKLLTLITIIA---S----F-LLASCSSD----------PIVN--------------
+--RLPWVYKIEIQQ-------------------------------------------GNV
+LKQEAVDQLRTG-MTRRQVQFIMGTPLVADPFHA---NRWDYFYEYKPGTR---GKGDAR
+RDRLSLFF-EDDALIRLDG----------------TVLP----DPDALTNQPKTMASVIV
+PPQEF--VDPGILTRLWRWLT--FSGAEPEQE------------------VFRPDS----
+------------------------GPVDNHTHGH-----------------------
+>UniRef100_A0A3B0YB83 Outer membrane beta-barrel assembly protein BamE n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0YB83_9ZZZZ
+------------------------------------------------------------
+--------------------M---------------------------------------
+------------------------------------------------------------
+--QKNLIIICLLTG---L----LVLLQGCEP-----------------------------
+-------HRIDIQQ-------------------------------------------GNK
+VEPDTYEQLRKG-MTRKQVIFLLGTPLLQDAFHQ---DRWDYIYYLKPGN------EPTR
+QSRVTLHFK-DDALVEIDGS---------------AYQPEMHDNSH--------------
+-------------------------GKDPHES------------------GGSSSAMGGG
+-----------------------GGGGHGH---------------------------
+>UniRef100_A0A495V3U0 Beta-barrel assembly machine subunit BamE n=2 Tax=Thiocapsa rosea TaxID=69360 RepID=A0A495V3U0_9GAMM
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---MRKLVYISILGCLVA----L-ATAGCSRDKKPE--QYRGSVLE--------------
+--DLPFVYKMTVQQ-------------------------------------------GNI
+ITEEMVDRLELG-MNKRQVQFLLGTPLLTDFFQA---NRWDYTYTIQRGH------DPME
+IRFLTLHFQDDDSLARIEG----------------DIRP----NPARAEAREPQEMVVSV
+PDYQ---ERKGLITRALETI-----GLEPKE-----------------------------
+---------------------------------------------------------
+>UniRef100_A0A3B0Z1Z0 Outer membrane beta-barrel assembly protein BamE n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0Z1Z0_9ZZZZ
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--MRKLLTLIAIIA---S----F-SLASCSGD----------PVAS--------------
+--RLPWVYKIEIQQ-------------------------------------------GNV
+LKQDAVNQLRTG-MTRRQVQFILGTPLLADPFHA---NRWDYYYLYKPGTR---GEGKAR
+SDHLAVFF-KDDTLVRMDG----------------TILP----DPNASTEPPNRLVTVNV
+PPQEL--VNPGILTRFWRWIT--FSGTGPEQE------------------PFRPDA----
+------------------------GPVDNHTH-------------------------
+>UniRef100_A0A0Q0THI1 Outer membrane protein assembly factor BamE n=5 Tax=Burkholderiales TaxID=80840 RepID=A0A0Q0THI1_9BURK
+------------------------------------------------------------
+--------------------M---------------------------------------
+-----------------------------PVKAR--------------------------
+--CSARLGLVLLVG--AS----VAALAGCSSLDGAS--TRIASIV---------------
+---TP--YKIDVVQ-------------------------------------------GNF
+VSREQVEALQPG-MSRQQVREILGTPLVTSLFHA---DRWEYVFTLKRPG------EEAQ
+TRKLTVYF-KGDGLDRSEG----------------DPMPTETEFVATLGSRGSKSKVPVL
+EATP---------EQLARYPASQRPSASPTAP------------------PLEPASV---
+----------------------SYPPLEAPAR-------------------------
+>UniRef100_A0A1F4ERE7 Outer membrane protein assembly factor BamE n=5 RepID=A0A1F4ERE7_9BURK
+------------------------------------------------------------
+--------------------M---------------------------------------
+-----------------------------PVKAR--------------------------
+--FSARLGLVLLVG--AS----VAALAGCSSLDGAS--TRIASIV---------------
+---TP--YKIDVVQ-------------------------------------------GNF
+VSREQVEALQPG-MSRQQVREILGTPLVTSLFHA---DRWEYVFTLKRPG------EEAQ
+TRKLTVYF-KGDGLDRSEG----------------DPMPTETEFVATLGSRGSKSKVPVL
+EATP---------EQLARYPASQRPSASPTAP------------------PLEPASV---
+----------------------SYPPLEAPAR-------------------------
+>UniRef100_A0A0K2IVC1 Outer membrane protein assembly factor BamE n=4 Tax=Xanthomonadaceae TaxID=32033 RepID=A0A0K2IVC1_STEMA
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------MRNLLLVA-AVA----L-STTGCGII----------------------------
+-------YKQPIYQ-------------------------------------------GNL
+IREDAVAKLQVG-QSKQQVTALLGTPSIPDPFHA---QRWDYTSSQRVNR-----LGRTE
+VKNFTVFF-DNDNVTRWEG----------------DYFPG---NDKALAQQTVRQFGRNL
+PKDK------------------KKKGR---------------------------------
+---------------------------------------------------------
+>UniRef100_A0A2G6YDZ4 Outer membrane protein assembly factor BamE n=2 Tax=Acidovorax TaxID=12916 RepID=A0A2G6YDZ4_9BURK
+------------------------------------------------------------
+--------------------M---------------------------------------
+-----------------------------PDKAC--------------------------
+--CNARLGRILLAS--AA----LAALAACGSLDGAS--RRVASVV---------------
+---TP--YKIDIVQ-------------------------------------------GNF
+VSREQVQALQPG-MSRQQVRELLGTPLMTSLFHA---DRWEYVFTIKRPS------AEME
+SRKLTVFF-QGDALARHEG----------------DEMPSETEFVATLGSHKGKPKVPTL
+EATE---------AQLARYPARKAEAAAPQAPAA--------------ATPSEPQPA---
+----------------------RYPPLESTAR-------------------------
+>UniRef100_A0A3B0VUK1 Outer membrane beta-barrel assembly protein BamE n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0VUK1_9ZZZZ
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MA----L--LSGCSYFQ---------------------------
+------PYKTPLTQ-------------------------------------------GNV
+MTQEAIASLQEG-LSKKQVRELLGPPLGQDPFNP---NHWEYIFYSANTD-----LHSDS
+AKHLVVYF-DRDDM---------------------------------LESWKTRQKTIQL
+KEDK------------------SFFGLGVF------------------------------
+---------------------------------------------------------
+>UniRef100_A0A1N7J714 Beta-barrel assembly machine subunit BamE n=2 Tax=Rhodobacteraceae TaxID=31989 RepID=A0A1N7J714_9RHOB
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------MSSTVAPQRMA--------------------------
+--KKIALSI-ALVGMLA--------AASCTAIYR--------------------------
+------------NH-------------------------------------------GYV
+PNEEDLAQIEVGKSNQQDVAYVIGRPASKGLLQG---AGWFYVGS-RWKHYGARAPQEVE
+REVVAVSFDDKGVVSNIER----------------------------FGLEDGEVVVLSR
+RVTKSSIKGISVVRELLGSLG-RVS----------------------------AGQIVGD
+---------------------------------------------------------
+>UniRef100_A0A1I1RAJ2 Beta-barrel assembly machine subunit BamE n=2 Tax=Collimonas sp. OK412 TaxID=1801619 RepID=A0A1I1RAJ2_9BURK
+------------------------------------------------------------
+--------------------MKQQ------------------------------------
+------------------------------------------------------------
+--SNT----LR--GMRTAAFAGALLTAACA-----------ASAQDE-------------
+AVSFPDPASAYLQE-------------------------------------------GSF
+VSLENLRNVAPG-LTKNQVRELLGSPHFSEGVFGV--KTWNYIFHFRR-------GGEIV
+TCQYQVQYDDGKLLRSTYWNRQEC------------------------------------
+------------------------------------------------------EDIAKT
+---------GTP---------------------------------------------
+>UniRef100_A0A024LRH9 Small protein A, outer membrane lipoprotein n=3 Tax=Bartonella schoenbuchensis TaxID=165694 RepID=A0A024LRH9_9RHIZ
+------------------------------------------------------------
+--------------------MP---------------------HL---------------
+--------------------VNLIKHKLL-ISLF--------------------------
+---------------IAS----MAAFAGCSSMHS--------------------------
+-----LTSSQTYKE-------------------------------------------GYV
+LDQNALDSVSVG-SSQEQVLLALGTPSLKTKYDN---EVFYYISQTRYRKMRFMKTKIID
+RKVLAIYFNRNGQVARIAN----------------------------YGLQDGQIFDFIT
+QTTPTGGSDQSFLIQVVKGPA-NNSR----------------------------------
+---------------------------------------------------------
+>UniRef100_A0A2W7ND56 Beta-barrel assembly machine subunit BamE n=2 Tax=Hwanghaeicola aestuarii TaxID=568105 RepID=A0A2W7ND56_9RHOB
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----MAAAMRGVGAILLV-----LTLTACAAVYR--------------------------
+------------NH-------------------------------------------GYV
+PSDQSMATLQVGRDTREEVAQAVGRPTSTGILDT---GGWYYVES-RFRHRGYAAPEEID
+REVVAISFTDGGVLRNIER----------------------------FGLEDGRVVRLSR
+RTTDGGTQEIGFLRQLFGNVG-NLN----------------------------AADFVD-
+---------------------------------------------------------
+>UniRef100_A0A3N1MBH4 Beta-barrel assembly machine subunit BamE n=2 Tax=Stella humosa TaxID=94 RepID=A0A3N1MBH4_9PROT
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----MTVPTKILAAAVCA----GLFGAACSPIVQ--------------------------
+------------QH-------------------------------------------GNL
+IASEKLNEIRPGATTKDEVQRILGTPSTLSTFND---RSWYYVSR-RTSQVAFFAPSTES
+QESVAIDFDTSGVVAGVRQ----------------------------FDLRDSKSVELVA
+RQTPSVGKELGFLEQLIGNIG-KFNAARR-TD------------------SGNRGEI---
+---------------------------------------------------------
+>UniRef100_A0A318U3G3 Beta-barrel assembly machine subunit BamE n=2 Tax=Rhodobacter viridis TaxID=1054202 RepID=A0A318U3G3_9RHOB
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----MARFV-TVAAVLF--------VAGCTAIYQ--------------------------
+------------NH-------------------------------------------GYV
+PTEDDLAKIEVGKSSREEVTDVIGRPSSMGVLQG---SGWFYVGS-RWKYYGARAPQEID
+RQVVAITFNDKGVVENVER----------------------------FGLERGEVVVLSR
+RVTKSNIKGIGLIRELLGSFG-RLS----------------------------AGKLLDK
+---------------------------------------------------------
+>UniRef100_A0A2T6AXY3 Beta-barrel assembly machine subunit BamE n=2 Tax=Rhodobacteraceae TaxID=31989 RepID=A0A2T6AXY3_9RHOB
+------------------------------------------------------------
+--------------------MP---------------------VKGK--------GRPE-
+-----------------GTGENMASAGSSMRRIG--------------------------
+--LWLAGAL-VAGAM-----------AACAPVYR--------------------------
+------------NH-------------------------------------------GYV
+PTDDELAEVQVGADNRDSVAEKLGRPSAEGLLND---EGWFYVQS-RWRHYGAQEPQEID
+RQVVSITFDQGGVVRNVER----------------------------FGLDRGEVVVLSR
+RVTESNIKGIGFLRQIMGNLG-RFR----------------------------ADQFLQQ
+---------------------------------------------------------
+>UniRef100_A0A0F7PN63 Beta-barrel assembly machine subunit BamE n=2 Tax=Hoeflea sp. IMCC20628 TaxID=1620421 RepID=A0A0F7PN63_9RHIZ
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MRVFKATG----------------------
+----RCLRLGTAIA-VVS----ALALTGCS------------------------------
+-------TGEVFNQ-------------------------------------------GYV
+VDQTSLDLTPVG-SSREQVLLSLGTPSTTATFDN---EVFYYVSQKRTRAASFMKQKLVG
+QSVLAVYFDEEGTVKNIAN----------------------------YTLQDGRVFDMIT
+RTTPTGGLDKSFLAQILSGAG-GADGTRNSV----------------------ARSILGG
+---------------------GT----------------------------------
+>UniRef100_A0A1U7DEX3 Beta-barrel assembly machine subunit BamE n=3 Tax=Rhodobacteraceae TaxID=31989 RepID=A0A1U7DEX3_9RHOB
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------MRLQR----------------------------
+----KAMRMMVLGGLLLI-------VAGCAKIYR--------------------------
+------------NH-------------------------------------------GYV
+PTDQDLAQVRVGVDTRESLTETIGVPTSSGVIRE---TAWYYVGS-RFEQFAFRAPREIS
+REIVAISFGGNGKVRNVER----------------------------FGLEDGRVVTLSR
+RVTDSNIQGVSFLRQLFGSVG-AVN----------------------------LGQFFD-
+---------------------------------------------------------
+>UniRef100_A0A2U8X756 Outer membrane protein assembly factor BamE n=2 Tax=Methylobacterium TaxID=407 RepID=A0A2U8X756_9RHIZ
+------------------------------------------------------------
+--------------------M---------------------------------------
+------------------------------PRRF--------------------------
+--TPSLLRLAAAGLIGLS----A---AGCV------------------------------
+-------IGEEFRH-------------------------------------------GYI
+IDDAAVAQVRPG-ASAEQVLQLLGTPTTVSTVGN---KSWYYISQNTQRPVMFIGERPKD
+QRVLAVYFNAGFKVERVAL----------------------------YGEQDGKVFDFIS
+RTTPTSGGEQAFLGQLMRGLT-KFEPFGN------------------------AR-----
+---------------------------------------------------------
+>UniRef100_A0A366JHK9 Beta-barrel assembly machine subunit BamE n=2 Tax=Rhodobacter sp. 140A TaxID=2183910 RepID=A0A366JHK9_9RHOB
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------MSTGTVTRR----------------------------
+----IALAM-ALGASLL--------AAGCTAIYQ--------------------------
+------------NH-------------------------------------------GYV
+PSDEDLSQVQVGKSSRDDVAAAVGRPSASGVLEG---SAWYYVGS-RWKYYGARAPQEID
+RQVVAVSFDKTGTVANVER----------------------------FGLERGEVVVLSR
+RVTKSNIKGISVVRQLLGSLG-RVS----------------------------ATQLTQ-
+---------------------------------------------------------
+>UniRef100_A0A0P0YXV6 SmpA/OmlA domain-containing protein n=3 Tax=Aureimonas altamirensis TaxID=370622 RepID=A0A0P0YXV6_9RHIZ
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MAS----ALALAGCQ------------------------------
+-------TAEVYNQ-------------------------------------------GYI
+IDEQALSLVPVG-SSREQVLLALGSPSTTAIFDN---EVFYYISQKRVRQFAFMQPSLVD
+QRILAVYFNKDNRVDRIAN----------------------------YGLQNGELFDFVT
+RTTPTGGRDASFLGSILSEQP-DPSAIQR-T----------------------LQRDQPG
+---------------------SM----------------------------------
+>UniRef100_A0A3N4UVU5 Beta-barrel assembly machine subunit BamE n=2 Tax=Pacificibacter maritimus TaxID=762213 RepID=A0A3N4UVU5_9RHOB
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------MLKMNDTYQQTS--------------------------
+---WTGIALKAVVMLLAV-----LTLTACVAQYR--------------------------
+------------NH-------------------------------------------GYT
+PNDADLAQIVVGKDTKDTVRNAIGVPQSEGLLAD---SAWYYVRS-QFKHLGAYAPKEVD
+RQVLAISFDTSGRVSNVER----------------------------YGLEDGQVVTLSR
+RVTVSNVQGTTFLKQLFGNLG-QVS----------------------------AEQLLQ-
+---------------------------------------------------------
+>UniRef100_A0A2T5B8L8 Beta-barrel assembly machine subunit BamE n=2 Tax=Mycoplana dimorpha TaxID=28320 RepID=A0A2T5B8L8_MYCDI
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------MN---L-------------------------------
+------LRNATIAI-ALS----TTLLAGCQ------------------------------
+-------TGEVLNQ-------------------------------------------GYI
+VDEQTLALAPVG-SSREQVLLSLGTPSTTATFDN---EVFYYISQKRVRPIAFMKPKLID
+QSVLAVYFNKDGNVERLAN----------------------------YTAKDGVPFDMIS
+RTTPTGGVEQTFLGQLLKGGN-DPNA----A----------------------IRNALAG
+---------------------PQ----------------------------------
+>UniRef100_A0A1I5UJ02 Beta-barrel assembly machine subunit BamE n=2 Tax=Sphingomonas rubra TaxID=634430 RepID=A0A1I5UJ02_9SPHN
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------MRH----------------------------
+----AALCLALIAGIG---------AAGCAPLRS--------------------------
+------------HQ-------------------------------------------GYI
+VDADLVNSVQPGVDTRQSVQQVLGTPTLASQFGAG-GGDWYYVAR-DNRNYGFQTPRVRE
+QITLQISFDPAGTVTAVRR----------------------------SGVDQVARVSPYG
+KTTPTLGRQRGFFEDLFGNIG-TVGAAGGPAGG-----------------A--------G
+---------------------GRTGP-------------------------------
+>UniRef100_A0A212S7T1 Beta-barrel assembly machine subunit BamE n=2 Tax=Rhodoblastus acidophilus TaxID=1074 RepID=A0A212S7T1_RHOAC
+------------------------------------------------------------
+--------------------M---------------------------------------
+-----------------SSIANGLPRQKM-------------------G-----------
+----RAARLLTVSA-LLA----LGGLAGCSTL----------------------------
+-------DQGAIHR-------------------------------------------GYV
+FDDQLLSQVKIG-APAEQVLGILGTPTTTSTVGG---DAWYYISQRVEQPLPSMPQTVTE
+QRVYAVYFDKNKRLTRIAN----------------------------YGLEDGRVIDMTS
+RQTVSGGGESRLLQGMLKQLS-GLKY-----------------------------KMF--
+---------------------------------------------------------
+>UniRef100_A0A1M5MFJ6 Beta-barrel assembly machine subunit BamE n=2 Tax=Cognatiyoonia sediminum TaxID=1508389 RepID=A0A1M5MFJ6_9RHOB
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------MNKLRSMRMLQRT---------------------------
+----------MLVATLAL-------AIGCTPLIR--------------------------
+------------NH-------------------------------------------GYI
+PPDEDLTRIVVGQDTRESVRALVGPPSADGVQRG---GDYYYVQS-TFRTLGFFAPEEIE
+RQVLAIRFNESGVVTNIER----------------------------YGLEEGQVVVLFR
+RVTDTGVQDTTFIRQLLQSIG-RID----------------------------PGQFLGS
+---------------------DS----------------------------------
+>UniRef100_A0A1I1DXV6 Beta-barrel assembly machine subunit BamE n=2 Tax=Burkholderiaceae TaxID=119060 RepID=A0A1I1DXV6_9BURK
+------------------------------------------------------------
+--------------------MTF-------------------------------------
+------------------------------------------------------------
+--TYASRRRLATMGLIAS----LLALVGCDQQKVDEAMKKAGNVARDTWNSVKPDSQLFK
+GIEIGKSTEDDVRRQAGKPEIVWEEADGGKRLEYPRGPEGVTTWMVTTAPDGTVRTIEQV
+LTAENFQRVRPG-MSQDGIRRMLGKPTKVEAFALKQEEVWGYRWQ----------ESPAD
+RAFFNVHFNSQGVVTT-----------------------------------------TSR
+SDDPSRQGG---------------------------------------------------
+---------------------------------------------------------
+>UniRef100_A0A1X7MYY7 Beta-barrel assembly machine subunit BamE n=2 Tax=Maritimibacter sp. HL-12 TaxID=1162418 RepID=A0A1X7MYY7_9RHOB
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------MAK----------------------------
+----PGAWMKSIAALVAL-----AALVACSPVYQ--------------------------
+------------YH-------------------------------------------GFT
+PTDEDLEEIEVGLDTRTTVATIIGDPGASGLLAE---SAWYYVRS-EFKHDTFRAPEEID
+REVVAISFDDNDVVENIER----------------------------FGQERGEVVVLSR
+RVTESNIDGVSILQQLFGRGA-SMDA--------------------------LANAFR--
+---------------------------------------------------------
+>UniRef100_A0A1T3BKV3 Beta-barrel assembly machine subunit BamE n=2 Tax=Bartonella sp. WD12.1 TaxID=1933903 RepID=A0A1T3BKV3_9RHIZ
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------MHS--------------------------
+-----LTSSQTYKE-------------------------------------------GYV
+LDQNALDSVSIG-SSQEQVLLALGTPSLKTKYDN---EVFYYISQTRYRKMRFMKTKIID
+RKVLAIYFNRNGQVARIAN----------------------------YGLQDGQIFDFIT
+QTTPTGGSDQSFLIQVVKGPA-NSSR----------------------------------
+---------------------------------------------------------
+>UniRef100_A0A442W8S6 Outer membrane protein assembly factor BamE n=2 Tax=Mesorhizobium TaxID=68287 RepID=A0A442W8S6_9RHIZ
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------MRALK---I-KSTFLPRS----------------------
+----AFPRSAGAISLLVA----ASALCGCNSSKMI-------------------------
+---GDLNPSETLTQ-------------------------------------------GYV
+IDQQAIDLVPVG-SSREQVLLALGTPSTKATFDN---EAFYYISQTRKRYVAFDKPRLVD
+QKVLAVYFGEDGRVTQIAN----------------------------YGLKDGKVFDFIS
+RTTPTGGKDQSFLSQIMGGAS-KLAP-----------------------------GLPGG
+---------------------GGASPGT-----------------------------
+>UniRef100_A0A316CHJ2 Beta-barrel assembly machine subunit BamE n=3 Tax=Mesorhizobium TaxID=68287 RepID=A0A316CHJ2_RHILI
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------MRALN---F-KSTF--------------------------
+-----SSRPAGAISLLVI----VSALSACHTNKMI-------------------------
+---GDLSPSETLTQ-------------------------------------------GYV
+IDQQAIDSVPVG-SSREQVLLALGTPSTTATFDN---EAFYYISQTRKRYVAFDKPRLID
+QKVLAVYFGADGRVTQIAN----------------------------YGLKDGKMFDFVS
+RTTPTGGKDQNFLSQIINGAS-KLAP-----------------------------GIPGG
+---------------------G--TP-------------------------------
+>UniRef100_A0A286ICH0 Beta-barrel assembly machine subunit BamE n=2 Tax=Hoeflea halophila TaxID=714899 RepID=A0A286ICH0_9RHIZ
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------MPKEMS---LTIRVFKATG----------------------
+----RKMRLGAAIA-VVS----TIALGGCT------------------------------
+-------TSEVLNQ-------------------------------------------GYV
+VDETALALTPVG-SSREQVLLSLGTPSTTATFDN---EVFYYVSQKRVRGAMFMKPKLVD
+QTVLAVYFDEEGTVKQIAN----------------------------YTLQDGRVFDMIS
+RTTPTGGVDKSFLAQVMEGAT-STEASQN-M----------------------ARNILGG
+---------------------GN----------------------------------
+>UniRef100_A0A1T4P472 Beta-barrel assembly machine subunit BamE n=2 Tax=Consotaella salsifontis TaxID=1365950 RepID=A0A1T4P472_9RHIZ
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------M-IR----SA----------------------
+----RFLRPVAVCAMIGT----SAIVSGCQ------------------------------
+-------TGEVLNQ-------------------------------------------GYI
+IDEKTLEMVPVG-SSREQVLLALGSPSTTATFDN---EVFYYFSQKRVRPLAFMRPKVVD
+QHILAIYFNKDNQVGRIAN----------------------------YGLKDGKVFDFVS
+RTTPTGGADSSFLMQILSDTG-SAGGAGN-A----------------------AKGIFGG
+---------------------------------------------------------
+>UniRef100_A0A1H8KFH5 Beta-barrel assembly machine subunit BamE n=2 Tax=Rhodospirillales bacterium URHD0017 TaxID=1380357 RepID=A0A1H8KFH5_9PROT
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------MR----------------------------
+----RTVPL-VLAAA--------LLTAACDPYGD--------------------------
+------------IR-------------------------------------------GFA
+PAPGTVDKLEVGSQSREDVVRLVGSPSSVGTFNP---NVWYYITQ-KQENWGPSRPWIAE
+QDVIQITFNEQGRVANIKY----------------------------YDLKDAQNITMVS
+RITPTSGKELTVLEQILGNVG-KFSGPRQ-T--------------------GNPGAPTGG
+---------------------GP----------------------------------
+>UniRef100_A0A0Q5UHV4 Cell envelope protein SmpA n=5 Tax=Sphingomonadaceae TaxID=41297 RepID=A0A0Q5UHV4_9SPHN
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------MAPGEYMSV----------------------------
+----VSTRIVQVAAIGLV----ALASAGCTQLRS--------------------------
+------------HQ-------------------------------------------GYV
+VDTDLVNSVQPGVDNRQSVLATLGKPTIAGQFDQ---GDWYYLAR-DSRNLAFRNPRPNA
+QITLQISFDQKGTVTAIRR----------------------------GGLDQVASIKPYG
+KKTPTLGRERGFFQDLFGNIG-TVGAAGAGGGG-----------------AGNGSNTGGG
+---------------------GRDRP-------------------------------
+>UniRef100_A0A1G7ID75 Beta-barrel assembly machine subunit BamE n=2 Tax=Rhodospirillaceae TaxID=41295 RepID=A0A1G7ID75_9PROT
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------MRPPVTPSRFR--------------------------
+--S-------ALAGVALA-----VTVAACSAQVA--------------------------
+------------TH-------------------------------------------GNM
+VDVDALAKIEPGRTPQSEVLALLGSPSSQANFGE---PTWYYIGQ-RTERQAFYRPETIE
+RRVVYVDFEPTGAVKSIGT----------------------------LDLEDGKKIAIVD
+RETPTAGQRITLLKQLIGNVG-RFT----------------------------PTE----
+---------------------------------------------------------
+>UniRef100_A0A1W1VEQ6 Beta-barrel assembly machine subunit BamE n=2 Tax=Hymenobacter roseosalivarius TaxID=89967 RepID=A0A1W1VEQ6_9BACT
+------------------------------------------------------------
+--------------------MKN-------------------------------------
+------------------------------------------------------------
+--TFS----------LAA----LAALL---------------------------------
+-------------------------------------------WLL---PACTAQ--ESY
+QNAKSCAEVEIG-MSQEQVRRIMGEPTGRDTTA-APGQTWSYLFG-----------SATD
+TSPIRIEFGDDGRVKAKQC------------------AP-----------------QASG
+SERPTGN-----------------------------------------------------
+---------------------------------------------------------
+>UniRef100_A0A498CI92 Beta-barrel assembly machine subunit BamE n=2 Tax=Stenotrophomonas rhizophila TaxID=216778 RepID=A0A498CI92_9GAMM
+------------------------------------------------------------
+------------------MSMQPT------------------------------------
+------------------------------------------------------------
+--STTQVPLLRSLGLSLA----ALLLGACASHGEQRTTPSTASADTD-------------
+AASFPDPRKATLKE-------------------------------------------GLF
+VDVDNLRLFARG-MSKRQLYSLLGTPHFGEGMWGV--REWNYLFNFRSS-----PGGDYF
+TCQFKVDFDGKGIAQAAHWKPQACAAVLDPPRPPAPPAPAPMPSEPLRLAADAMFAFDSA
+VLTPEGRRNVDALLQQVRDAS-RVQTIRVIGYTDRIGSDRYNLVLSQRRAEAVRDALVAG
+---------GVPAAAIVAEGRGKADPLVQCEQAQRKALIVCLAPNRRVELSGRALPR
+>UniRef100_A0A1M7RWW5 Beta-barrel assembly machine subunit BamE n=2 Tax=Porphyrobacter sanguineus TaxID=198312 RepID=A0A1M7RWW5_9SPHN
+------------------------------------------------------------
+--------------------MR---------------------PPRRADKRRDEYGL---
+------------------TRMAKMNPQANRKR----------------------------
+----ALLRVALV--IGGA----AL-LAGCSAIRE--------------------------
+------------SR-------------------------------------------GYI
+TDPLLSQVIQPGIDNQQSVEGTLGRPTFTSQFGE---PTWYYVSS-VTGQRPFTRPRIRE
+HSVLAVRFDEAGKVIEVDR----------------------------SGVDQVVYLDPDG
+GKTPTLGRERGFLEDLFGNIG-QVGGGGMP-----------------------------G
+---------------------GPGGP-------------------------------
+>UniRef100_A0A285XMU4 Beta-barrel assembly machine subunit BamE n=2 Tax=Ensifer adhaerens TaxID=106592 RepID=A0A285XMU4_ENSAD
+------------------------------------------------------------
+--------------------M---------------------------------------
+------------------AIVSKLN---I-------------------------------
+------ARSSLLVAVAAA----AIVTSGCM------------------------------
+------GTSETINN-------------------------------------------GFI
+VDEQTLKLVPVG-SSREQVLLSLGTPSATATFDR---EVFYYISQKRERKFEFMKPSLVS
+QSVLAVYFSKNGTVEKLSN----------------------------YSMQDGKVVDMIS
+RTTPTGGTELTFLQRILSGGA-SSSS----M----------------------AKGLLSG
+---------------------GNKY--------------------------------
+>UniRef100_A0A285NHK4 Beta-barrel assembly machine subunit BamE n=2 Tax=Cohaesibacter gelatinilyticus TaxID=372072 RepID=A0A285NHK4_9RHIZ
+------------------------------------------------------------
+--------------------M---------------------------------------
+------------------TAKSELPS----RRMF--------------------------
+----KPFRVASIVL-ALS----SVALTGCL------------------------------
+-------TSETTIH-------------------------------------------GFV
+PTDYTLDEIVPG-SSQEQVLLSLGTPSTTANFGN---DVYYYISQTRKKSVAFLNSSPVA
+QTVVAVYFDDDGRVARTAK----------------------------YGLKDGRLYDFTN
+EVTPTAGKEASFLGRMLQGVG-PSSS------------------------------LFSG
+---------------------G-----------------------------------
+>UniRef100_A0A1H4IJR2 Beta-barrel assembly machine subunit BamE n=2 Tax=Phyllobacteriaceae TaxID=69277 RepID=A0A1H4IJR2_9RHIZ
+------------------------------------------------------------
+--------------------MP---------------------SLGA--------GLGQ-
+-----------------DQVASALK---L-VYPFCRRGQGLSLESLRAGDAMEMSLQVKK
+INSYPVGRTILAAGLAGA----AAVLSGCNVANT--------------------------
+-----LDARETLTQ-------------------------------------------GYV
+IDEQALELVPVG-SSREQVLLALGSPSTTATFDN---EAFYYISQKRVRGAAFMRPRLVE
+QQVLAVYFGDDERVSKIAH----------------------------YGMEDGKVFDFIS
+RTTPTGGKEQTFIGQILAGAS-KGGPP---------------------------AGLFGG
+---------------------GG----------------------------------

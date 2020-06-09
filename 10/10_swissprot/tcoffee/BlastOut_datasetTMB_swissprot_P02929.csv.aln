@@ -1,0 +1,173 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE:  ], CPU=0.21 sec, SCORE=63, Nseq=11, Len=623 
+
+P02929.2        MTLD---LPRRFP-------------------------------------
+P02929.2_1      MTLD---LPRRFP-------------------------------------
+P25945.2        MTLD---LPRRFP-------------------------------------
+P45610.1        MTLD---LPRRFP-------------------------------------
+P26185.1        MPLKKMFLNRRIS-------------------------------------
+P46383.2        MTLD---LPRRFP-------------------------------------
+Q05740.1        MQLNKFFLGRWLT-------------------------------------
+Q51368.2        MSPQPSRSPDRFSLAALAEDHPTAPAQGDESESLPCVNAQRGEPNLRVVD
+O52042.2        MNLN------RYV-------------------------------------
+O07650.1        MKTF---ISNHKN-------------------------------------
+Q3ZBU3.2        MLPA--ECSRRLV-------------------------------------
+                *                                                 
+
+P02929.2        --------------------------------------WPTLLSVCIHGA
+P02929.2_1      --------------------------------------WPTLLSVCIHGA
+P25945.2        --------------------------------------WPTLLSVGIHGA
+P45610.1        --------------------------------------WPTLLSVAIHGA
+P26185.1        --------------------------------------VPFVLSVGLHSA
+P46383.2        --------------------------------------WPTLLSVAIHGA
+Q05740.1        --------------------------------------WPLAFSVGIHGS
+Q51368.2        CSGARRDEEVAVEEVLIPYAHGSDPEDVPGEPPKSRWWLSSGAAVAMHVA
+O52042.2        --------------------------------------IAGGLSLAFHAL
+O07650.1        --------------------------------------QSSFITLFVFTP
+Q3ZBU3.2        --------------------------------------------------
+                                                                  
+
+P02929.2        VVAGLLYTSVH------QV-IELPA--P-AQPISVTMVTPADL-EPPQAV
+P02929.2_1      VVAGLLYTSVH------QV-IELPA--P-AQPISVTMVTPADL-EPPQAV
+P25945.2        VVAGLLYTSVH------QV-IELPA--P-AQPITVTMVSPADL-EPPQAV
+P45610.1        VVAGLLYTSVH------QV-IEQPS--P-TQPIEITMVAPADL-EPPP-A
+P26185.1        LVAGLLYASVK------EV-VELPK--PEDAPISVMMVNTAAMAEPPPPA
+P46383.2        VVAGLLYTSVH------QV-IEKPS--P-SQPIEITMVAPADL-EPPQAA
+Q05740.1        VIAALLYVSVE------QM-RIQPE--IEDAPIAVTMVNIDTF-AAPQPA
+Q51368.2        IIGALVWVMPT------PAELNLGHGEL-PKTMQVNFVQLEKKAEPT---
+O52042.2        L---LITTDEA------QV-FAMPAGNP-TQSVSINMVSMPKV-APAQPE
+O07650.1        LFFVFLYSKDFLHIQPNET-IKENK--F-NMAIKHFVQNSSDM-KPTQPT
+Q3ZBU3.2        --AELR-----------DA-LDSCA--E-RQ-----RQLEQSL-RVSRRL
+                    :                                         .   
+
+P02929.2        --QPPPEPV----VEPEP----EPEPIPEPPKEAPVVIEKPKPKP-----
+P02929.2_1      --QPPPEPV----VEPEP----EPEPIPEPPKEAPVVIEKPKPKP-----
+P25945.2        --QPPPEPV----VEPEPEP--EPEPIPEPPKEAPVVIEKPKPKPKP---
+P45610.1        --QPVVEPV----VEPEPEP--EPEVVPEPPKEA-VVIHKPEPKPKPKP-
+P26185.1        PAEPEP-PQ----VEPEPEP--EPEPIVEPPPKAIVKP-EP-VKPKPKP-
+P46383.2        --QPVVEPV----VEPEPEP--EPEVVPEPPKEVPVVIHKPEPKPKPKP-
+Q05740.1        AAEPQA--E----PEPEPEP--EPEPIDEAPPEPEVLP-EPVPVPIPEPV
+Q51368.2        ---PQP-PA----AAPEPTPPKIEEPKPEPPKPKPV--EKPKPKP-----
+O52042.2        --QTQTEQSKPESVKPTP----VQEVVKTPPAKPKVKPHKPKPQT-----
+O07650.1        --QTIQEPS---NVQPK-EP--VQEIKKIKPRKEKL-IAKP--KK-----
+Q3ZBU3.2        --LRVWEPA----ETPAP----EPTPGSEINKEAPSSACPPSPQD-----
+                               *                        *         
+
+P02929.2        KPKPKPVKK--------------------VQ----EQP---KRDVKP-V-
+P02929.2_1      KPKPKPVKK--------------------VQ----EQP---KRDVKP-V-
+P25945.2        KPKPKPVKK--------------------VE----EQP---KREVKP-A-
+P45610.1        KPKPKPEKK--------------------V-----EQP---KREVKP-AA
+P26185.1        KPKPK------------------------VE----KQV---KPEPKK-V-
+P46383.2        KPKPKPEKK--------------------V------EP---KREVKP-A-
+Q05740.1        KPKPKPVKK--------------------EV----KKPEVKKPDVKKTV-
+Q51368.2        KPKPKPVENAIPKAKPKPEPKPKPEPEPSTE----ASS---QPSPSS-A-
+O52042.2        VKKPVPAEQ--------------------VPSKSVAKPQP-EKVERT-A-
+O07650.1        IIPPA-NAK--------------------AI----SQP---KKDTNM-Q-
+Q3ZBU3.2        LKELELLTQ--------------------AL----EKA---VR-VRK-G-
+                                                    .             
+
+P02929.2        E-SRPASPFEN--TAPARLTSS--TATA-ATSKPVT-SVASGPR------
+P02929.2_1      E-SRPASPFEN--TAPARLTSS--TATA-ATSKPVT-SVASGPR------
+P25945.2        A-PRPASPFEN--SAPVRPTSS--TAS--ATSKPAV-SVPTGPR------
+P45610.1        E-PRPASPFENNNTAPARTAPS--TST--AAAKPTV-TAPSGPR------
+P26185.1        E-PREPSPFNN--DSPAKPIDKAPVKQAPAAPVQGN-SREVGPR------
+P46383.2        E-PRPVSPFENNNTAPARTAPS--TTA--ATAKPMT-TAPSGPK------
+Q05740.1        A-PPDDKPFKS--DEPALVSTNAPVKSAPKASVPGV-STSTGPK------
+Q51368.2        A-PPPAPTVGQ-STPGAQTAPS--GSQG-PAGLPSGSLNDSDIK------
+O52042.2        ETAQKPAPTPN--QQPSQPTAA--SQG--ITSQPIL--VDKPAL------
+O07650.1        --------------QP-IMQQQ--TPQ--ASSYQSV-ALTSNSEFLKEIK
+Q3ZBU3.2        L-SKAGEGVKA--RSLKSGSAS--TATK-ASAPPST-SRCTGSR------
+                                              :                   
+
+P02929.2        ALSRNQP------QY------------------------------PARAQ
+P02929.2_1      ALSRNQP------QY------------------------------PARAQ
+P25945.2        ALSRNQP------QY------------------------------PARAQ
+P45610.1        AISRVQP------SY------------------------------PARAQ
+P26185.1        PISRANP------LY------------------------------PPRAQ
+P46383.2        ALKRGDP------SY------------------------------PQRAQ
+Q05740.1        ALSKAKP------TY------------------------------PARAL
+Q51368.2        PLRMDPP------VY------------------------------PRMAQ
+O52042.2        VSAQVQP------RY------------------------------PRIAR
+O07650.1        SAIDEAL------IY------------------------------PRQAR
+Q3ZBU3.2        APETKPPRGVHHPWVPAKDLPGHRLLLVGDGAHMGQGAGANKPEAGLRDQ
+                                                                  
+
+P02929.2        ALR--IEGQVKVKFDVTPDGRV----------------------------
+P02929.2_1      ALR--IEGQVKVKFDVTPDGRV----------------------------
+P25945.2        ALR--IEGRVKVKFDVTSAGRV----------------------------
+P45610.1        ALR--IEGTVRVKFDVSPDGRI----------------------------
+P26185.1        ALQ--IEGNVRVQFDIDSDGRV----------------------------
+P46383.2        ALR--IEGDVRVKFDVTADGRV----------------------------
+Q05740.1        ALG--VEGQVKVQYDIDENGRV----------------------------
+Q51368.2        ARG--IEGRVKVLFTITSDGRI----------------------------
+O52042.2        KRG--IEGTVMYEIWLDAQGNQ----------------------------
+O07650.1        KMR--MSGEVLVEFTWTKEKKL----------------------------
+Q3ZBU3.2        QIVPQAASQVPEAFTLKDKGALLRLPEAFRKAASRNARLPMCASSLWAQL
+                       . *                                        
+
+P02929.2        ---------------------DNVQILSAKPANMFE--------------
+P02929.2_1      ---------------------DNVQILSAKPANMFE--------------
+P25945.2        ---------------------ENVQILSAQPANMFE--------------
+P45610.1        ---------------------DNLQILSAQPANMFE--------------
+P26185.1        ---------------------SNVRILSAEPRNMFE--------------
+P46383.2        ---------------------ENIQILSAKPANMFE--------------
+Q05740.1        ---------------------TNVRILEATPRNTFE--------------
+Q51368.2        ---------------------DDIQVLESVPSRMFD--------------
+O52042.2        ---------------------IKQQLLSSSGTEALD--------------
+O07650.1        ---------------------ENLKILKPSKYDFLN--------------
+Q3ZBU3.2        SSMQTRDSVDAAAATAKTQFLQKMQTAAGLPSSMLSAAEVGRLQKACSML
+                                      . :         :.              
+
+P02929.2        ------------------------------------------REVKNAMR
+P02929.2_1      ------------------------------------------REVKNAMR
+P25945.2        ------------------------------------------REVKNAMR
+P45610.1        ------------------------------------------REVKSAMR
+P26185.1        ------------------------------------------REVKQAMR
+P46383.2        ------------------------------------------RDVKTAMR
+Q05740.1        ------------------------------------------REVKQVMR
+Q51368.2        ------------------------------------------REVRQAMA
+O52042.2        ------------------------------------------QSALEAIK
+O07650.1        ------------------------------------------KSALETIR
+Q3ZBU3.2        RLRMREELTADPKDWTQEYRSLLTLEGLQALAGQCLHRLQELQELRSAVV
+                                                          :.   .: 
+
+P02929.2        RWR---YEPGK-----PGS--------G-IVVN-----ILFKINGTTEIQ
+P02929.2_1      RWR---YEPGK-----PGS--------G-IVVN-----ILFKINGTTEIQ
+P25945.2        KWR---YEAGK-----PGS--------G-LVVN-----IIFRLNGTAQIE
+P45610.1        RWR---YQQGR-----PGT--------G-VTMT-----IKFRLNGV-EIN
+P26185.1        KWR---YEAKE------AK--------D-RTVT-----IRFKLNGTTELN
+P46383.2        KWR---YEAGR-----PGT--------G-LTMN-----IKFRLNGV-KMD
+Q05740.1        KWR---FEAVA------AK--------D-YVTT-----VVFKIGGTTEMD
+Q51368.2        KWR---FEPRV-----SGG--------K-IVARQATKMFFFKIEKR---R
+O52042.2        QWK---FSPHI-----LDG---VPVAHR-IHIP-----IRFKLEG-----
+O07650.1        ------IASKKFPQYEKTF--------H-IKIP-----LVYKLS------
+Q3ZBU3.2        EQPQGPWPEGP-----PRAALPCGGGADPVWSP-----QLLLYSSTQELQ
+                                                                  
+
+P02929.2        --------------------------------------------------
+P02929.2_1      --------------------------------------------------
+P25945.2        --------------------------------------------------
+P45610.1        --------------------------------------------------
+P26185.1        --------------------------------------------------
+P46383.2        --------------------------------------------------
+Q05740.1        --------------------------------------------------
+Q51368.2        --------------------------------------------------
+O52042.2        --------------------------------------------------
+O07650.1        --------------------------------------------------
+Q3ZBU3.2        TLAALRLRVAMLDQQVHLEKVLMAELLPLLSEQEPLGRPWLALCRAAHCL
+                                                                  
+
+P02929.2        -----------------------
+P02929.2_1      -----------------------
+P25945.2        -----------------------
+P45610.1        -----------------------
+P26185.1        -----------------------
+P46383.2        -----------------------
+Q05740.1        -----------------------
+Q51368.2        -----------------------
+O52042.2        -----------------------
+O07650.1        -----------------------
+Q3ZBU3.2        LCEGGQRFLTVLQDEPADRLSPP
+                                       
+
+
+

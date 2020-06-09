@@ -1,0 +1,251 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE:  ], CPU=0.30 sec, SCORE=74, Nseq=11, Len=921 
+
+A1JUB7          MTKDFKISV-SAALISA-LFSSPYA-FANNDE------V------HFTAV
+A0A0T9SVX8      MTKDFKISV-SAALISA-LFSSPYA-FANNDE------V------HFTAV
+A0A0U4BQU1      MTKDFKISV-SAALISA-LFSSPYA-FAEDRD----GIP------RLSAV
+K7ZVF1          MTKDFKISV-SAALISA-LFSSPYA-FAEEPEDGNDGIP------RLSAV
+A0A0H3I0T0      MKKKLSI---A-LVCSA-LCSSAIA-ATDM---------------PYIGM
+A0A2Y8JX41      MRKRIPKNK-I-IILLS-LISI-FRVQAAIPE---GTTS------G----
+A0A379EJM0      MKKTLI----A-SLIFTSCVANSYAADATYSAGDHSK-------------
+W0HY61          MRGSLPRKAMLSYCILG-ILSA-FS-HSAIAHGPEKITPIENDEQFLTGV
+A0A2X5L0N1      MKKLFV----A-SVIFT-VSANSYAYN-SYNAGDNSQAT------DS---
+A0A3B0MKH5      MNIKKRFLM-V-VFISN-LITCSNV-------------------------
+A0A3B0MKH5_1    MNIKKRFLM-V-VFISN-LITCSNV-------------------------
+                *                   :                             
+
+A1JUB7          QISPNADPDSH--VVIF---------------------------------
+A0A0T9SVX8      QISPNSDPDSH--VMIF---------------------------------
+A0A0U4BQU1      QISPNADPELG--VGLYPARPILRPENPKLPPEKPGSRLERSRLHLAESI
+K7ZVF1          QISPNVDPKLG--VGLYPAKPILRQENPKLPPRGPQG-PEKKRARLAEAI
+A0A0H3I0T0      QTRNTADAYN----------------------------------------
+A0A2Y8JX41      -------------------------------------------------L
+A0A379EJM0      --------------------------------------------------
+W0HY61          PDPNTRNANQEGLRGIL----------------------N---------S
+A0A2X5L0N1      --------------------------------------------------
+A0A3B0MKH5      --------------------------------------------------
+A0A3B0MKH5_1    --------------------------------------------------
+                                                                  
+
+A1JUB7          QPAAEALGGTNAL--------------AKSIHSIAVGASAEAAKQAAVAV
+A0A0T9SVX8      QPEVRAPGGTNAL--------------AKGTHSIAVGASAEAAERAAVAV
+A0A0U4BQU1      LPRVPGAGGLNAS--------------AKGIHSIAIGATAEAAKEAAVAV
+K7ZVF1          QPQVLGAGGLNAR--------------AKDPYSIAIGATAEAAKPAAVAV
+A0A0H3I0T0      --------------------------------DGSIRSVEHWGSGVSDAM
+A0A2Y8JX41      AP---IALGSGSSV--------------DGDFGISIGVDA-ASKYMGTAI
+A0A379EJM0      ---------------------------ADSDYATAIGVSASATGNSSSAI
+W0HY61          NPFGVADGGLTG----------------QRTNSPAPATAA-TSGENAAVL
+A0A2X5L0N1      NA---TAIGAYANASGSSSTTIGAVSKTEGAYNTAIGSYSSSQGNSSSAI
+A0A3B0MKH5      -----------------------------------------QAKDSSLAN
+A0A3B0MKH5_1    -----------------------------------------QAKDSSLAN
+                                                              . . 
+
+A1JUB7          GAG-SIATGVNSVAIGPLS-KALGDSAVTYGAAST---AQ----------
+A0A0T9SVX8      GAG-SIATGVNSVAIGPLS-KALGDSAVTYGAGST---AQ----------
+A0A0U4BQU1      GAG-TIATGVNSVAIGPLS-KALGDSAVTYGAAST---AQ----------
+K7ZVF1          GSG-SIATGVNSVAIGPLS-KALGDSAVTYGASST---AQ----------
+A0A0H3I0T0      GDKFGYITPDNSVTKGGLW-AGDKASGITYGDVNTGVFVD----------
+A0A2Y8JX41      GIF-SESNGQMDIAIGAKANTQDGSSALAIGTKSN---VSSLPEGNTSVS
+A0A379EJM0      GAN-SSVNGHNSVAIGSFS-KASGHSSLANGAASE---SA----------
+W0HY61          PTP-PAAAASPTVAAGS-S-KATSVT-TTEPVAVT---AH----------
+A0A2X5L0N1      GAN-ANVVGNNSVAIGSFS-KVNGDSAIANGAGSE---AV----------
+A0A3B0MKH5      GPD-SVSKDFDSTAYGSYA-SAKGISSTSVGAISL---AS----------
+A0A3B0MKH5_1    GPD-SVSKDFDSTAYGSYA-SAKGISSTSVGAISL---AS----------
+                             : *         :  :                     
+
+A1JUB7          ------------------------------KDGV-AIGAR---A-FTSD-
+A0A0T9SVX8      ------------------------------KDGV-AIGAR---A-STSD-
+A0A0U4BQU1      ------------------------------KDGV-AIGAR---A-STSD-
+K7ZVF1          ------------------------------KDGV-AIGAR---A-SASD-
+A0A0H3I0T0      ------------------------------KDGA-KIK------------
+A0A2Y8JX41      GKQITKNRDNFSVISEDNDRETLKEKYGETYGAI-AIGLA---A-SSHDM
+A0A379EJM0      ------------------------------ENST-AVGAV---AKATGE-
+W0HY61          ------------------------------KESA-AVPPTPPAA-AAAA-
+A0A2X5L0N1      ------------------------------ANST-SVGAA---SKATGE-
+A0A3B0MKH5      ------------------------------KTGSSAFGQG---AYAQGE-
+A0A3B0MKH5_1    ------------------------------KTGSSAFGQG---AYAQGE-
+                                                .   .             
+
+A1JUB7          TGVAVGFNSKVD---AKNSVAIGH---------SSHV-------------
+A0A0T9SVX8      TGVAVGFNSKVD---AKNSVAIGH---------SSHV-------------
+A0A0U4BQU1      TGVAVGFNSKAD---AKNSVAIGH---------SSHV-------------
+K7ZVF1          TGVAVGFNSKVD---AQNSVAIGH---------SSHV-------------
+A0A0H3I0T0      --------------------------------------------------
+A0A2Y8JX41      FNTALGGYSTA--------------------------AAQN----ATAIG
+A0A379EJM0      NSVALGTSTSSK---GQDSIAIG---------AGAHSDMEG----AISIG
+W0HY61          SPIAVAGSSKATPVTTTESVAVTAHNESAAVPPTLPAAAAS----PIAVA
+A0A2X5L0N1      NSVAFGSSAQAT---AGDTLAIG---------VGATSNAEN----AISLG
+A0A3B0MKH5      SSLGVGFHANAE---TKDSVALG---------SNSKANRIYTDDQLNKIK
+A0A3B0MKH5_1    SSLGVGFHANAE---TKDSVALG---------SNSKANRIYTDDQLNKIK
+                                                                  
+
+A1JUB7          ---------------AVDH--DYSIAIGDRSKTDRK--------------
+A0A0T9SVX8      ---------------VVDH--DYSIAIGDRSKTDRK--------------
+A0A0U4BQU1      ---------------AVDH--DYSIAIGDRSKTDRE--------------
+K7ZVF1          ---------------AADH--GYSIAIGDHSKTDRE--------------
+A0A0H3I0T0      --------------------------------------------------
+A0A2Y8JX41      HSA------------SALA--DNSVAVGDNSIANRE--------------
+A0A379EJM0      SDS------------KAMH--MGSVSIGHASTTDRE--------------
+W0HY61          GSSKATFVTTTEPVAVTAH--NESAAVPPTHAIDTLSPAAPAENLMAPPA
+A0A2X5L0N1      SQS------------VAEH--NNSVAIGGGSTTDRE--------------
+A0A3B0MKH5      DKI------------TIDYNAKKNLTIGELSVGNLD--------------
+A0A3B0MKH5_1    DKI------------TIDYNAKKNLTIGELSVGNLD--------------
+                                                                  
+
+A1JUB7          --------------------------------------------------
+A0A0T9SVX8      --------------------------------------------------
+A0A0U4BQU1      --------------------------------------------------
+K7ZVF1          --------------------------------------------------
+A0A0H3I0T0      --------------------------------------------------
+A0A2Y8JX41      --------------------------------------------------
+A0A379EJM0      --------------------------------------------------
+W0HY61          ATPAPATAAVIKDPSSASDAESDNEKSQDKRRSKKKKKLKQAALNHAKGT
+A0A2X5L0N1      --------------------------------------------------
+A0A3B0MKH5      --------------------------------------------------
+A0A3B0MKH5_1    --------------------------------------------------
+                                                                  
+
+A1JUB7          --------------------------------------------------
+A0A0T9SVX8      --------------------------------------------------
+A0A0U4BQU1      --------------------------------------------------
+K7ZVF1          --------------------------------------------------
+A0A0H3I0T0      --------------------------------------------------
+A0A2Y8JX41      --------------------------------------------------
+A0A379EJM0      --------------------------------------------------
+W0HY61          GHAEDNAKTAADASVKHKSSVQNPAQSAGQTLEQEQAAMNARRPVDSVAA
+A0A2X5L0N1      --------------------------------------------------
+A0A3B0MKH5      --------------------------------------------------
+A0A3B0MKH5_1    --------------------------------------------------
+                                                                  
+
+A1JUB7          --------------------------------------------------
+A0A0T9SVX8      --------------------------------------------------
+A0A0U4BQU1      --------------------------------------------------
+K7ZVF1          --------------------------------------------------
+A0A0H3I0T0      --------------------------------------------------
+A0A2Y8JX41      --------------------------------------------------
+A0A379EJM0      --------------------------------------------------
+W0HY61          NAGNLTLAAGSSPSAVAQQRHGAALSRGQNINQASNPEDMFTYDPQTGVM
+A0A2X5L0N1      --------------------------------------------------
+A0A3B0MKH5      --------------------------------------------------
+A0A3B0MKH5_1    --------------------------------------------------
+                                                                  
+
+A1JUB7          --------NS---VSIGHESLNRQLTHLAAGTKDTDAVNVAQLKKEIEKT
+A0A0T9SVX8      --------NS---VSIGHESLNRQLTHLAAGTKDTDAVNVAQLKKEIEKT
+A0A0U4BQU1      --------NS---VSIGHESLNRQLTHLAAGTKDTDAVNVAQLKKEIEKT
+K7ZVF1          --------NS---VSIGHESLNRQLTHLAAGTEDTDAVNVAQLKKEMAET
+A0A0H3I0T0      --------------NTDLDVTGNTIKNLKDGVNDGDAVNVSQLNESAEST
+A0A2Y8JX41      --------NT---LSVGNTYRKRQITNVASGTEENDAVNVSQLNKSQNES
+A0A379EJM0      --------DS---VSFGNENTTRQLTKVKAGTMDTDAVNVKQLKDHTALE
+W0HY61          HVGENAVGTT---ISIAGRQGDRGITGLADGVHNNDAANVGQLNR-----
+A0A2X5L0N1      --------YS---VSFGTGNTNRQLTHVAAGTEDTDGVNVKQLKDYTGNE
+A0A3B0MKH5      --------GYVGVNSVGQYKTFRQITNVAPATQNEDATNLIQVKDLIDDK
+A0A3B0MKH5_1    --------GYVGVNSVGQYKTFRQITNVAPATQNEDATNLIQVKDLIDDK
+                              .       . :. :  .. : *..*: *::      
+
+A1JUB7          QVNANK------KSA-----------------EVLG--------------
+A0A0T9SVX8      QENANK------KSA-----------------EVLG--------------
+A0A0U4BQU1      QENTNK------KSA-----------------ELLANANAYADNKSSSVL
+K7ZVF1          L-------------------------------------------------
+A0A0H3I0T0      IKTANSY--TDGKAS-----------------EALNTANNYADSKASDTL
+A0A2Y8JX41      IQKAV----------ELI---NN----------------------EAE--
+A0A379EJM0      ITNNNKV--INQRMKEVVQLGQK------AANNAERNANDYTDNQINKNN
+W0HY61          --------------------------------------------------
+A0A2X5L0N1      IAKNNTV--INQNIN-----------------NAKNESLAYTDQQVTKNN
+A0A3B0MKH5      LSSLNDLKSLDKIKSESEGMKNKIAENENTAGESVTHINEYKDQASSSA-
+A0A3B0MKH5_1    LSSLNDLKSLDKIKSESEGMKNKIAENENTAGESVTHINEYKDQASSSA-
+                                                                  
+
+A1JUB7          -IANNYTDSKSAETLENARKEAFDLSN----DALDMAKKHSNSVARTTLE
+A0A0T9SVX8      -IANNYTDSKSAETLENARKEAFDLSN----DALDMAKKHSNSVARTTLE
+A0A0U4BQU1      GIANNYTDSKSAETLENARKEAFAQSK----DVLNMAKAHSNSVARTTLE
+K7ZVF1          ---------------ENARKETLAQSN----DVLDAAKKHSNSVARTTLE
+A0A0H3I0T0      NTANGYADSKASETLNTANGYADGKAS----EALNTANNYADSKASDTLN
+A0A2Y8JX41      -------------SRANADKNILDY-----------ANNYTDRI------
+A0A379EJM0      ME--------INQNIETSKNEAMQAGQKAANNAEKNANNYTDSKIT----
+W0HY61          --------------------------------------------------
+A0A2X5L0N1      AV--------INQNINNAKNESLAYTD----QQV-----------T----
+A0A3B0MKH5      ---------------EAAKAY-EDSAK----DASNKADNYKIA-AE----
+A0A3B0MKH5_1    ---------------EAAKAY-EDSAK----DASNKADNYKIA-AE----
+                                                                  
+
+A1JUB7          ---------------TAEEHTNKKSAETLARANVYAD-------------
+A0A0T9SVX8      ---------------TAEEHTNKKSAETLASANVYAD-------------
+A0A0U4BQU1      TAEEHANSVARTTLETAEEHANKKSAEALASANVYAD-------------
+K7ZVF1          ---------------TAEEHANKKSAEALVSAKVYAD-------------
+A0A0H3I0T0      TANGYADSKASETLNTANGYADGKASEALNTANNYAD-------------
+A0A2Y8JX41      --------------------------------------------------
+A0A379EJM0      K-N---NMVINQNI-------ETSKNEA----------------------
+W0HY61          --------------------------------------------------
+A0A2X5L0N1      K-N---NAVINQNI-------NNAKNES----LAYTDQQ-----------
+A0A3B0MKH5      E-A---KVVIN-GI-------ESRANNALAATTKYQDDAKIASEATIKNR
+A0A3B0MKH5_1    E-A---KVVIN-GI-------ESRANNALAATTKYQDDAKIASEATIKNR
+                                                                  
+
+A1JUB7          ------------------------------SK-S-SHTLQTANSYTDVTV
+A0A0T9SVX8      ------------------------------SK-S-SHTLKTANSYTDVTV
+A0A0U4BQU1      ------------------------------SK-S-SHTLKTANSYTDVTV
+K7ZVF1          ------------------------------SN-S-SHTLKTANSYTDVTV
+A0A0H3I0T0      ------------------------------SK-A-SATLNTANGYADGKA
+A0A2Y8JX41      ----------------------------VENG-S-KNTF-----------
+A0A379EJM0      --------------------------IQAGQKAA-NNAEKNANNYTDSKI
+W0HY61          --------------------------------------------------
+A0A2X5L0N1      ---------------------VTKNNAVINQN-I-NNAKSESMAYTDQEV
+A0A3B0MKH5      DDTNLLVKEIQRTVSGKMLTKTDDTNIYIGKD-LPQTTLSVSNNTVNRVI
+A0A3B0MKH5_1    DDTNLLVKEIQRTVSGKMLTKTDDTNIYIGKD-LPQTTLSVSNNTVNRVI
+                                                                  
+
+A1JUB7          S-------------------------------------------------
+A0A0T9SVX8      S-------------------------------------------------
+A0A0U4BQU1      S-------------------------------------------------
+K7ZVF1          S-------------------------------------------------
+A0A0H3I0T0      SEALNTANGYADGKASEALNTANGYADGKA-------SEAL----NTANG
+A0A2Y8JX41      ---------------------------------------------SQAK-
+A0A379EJM0      NK----NNMVINQNI-----------DNTKKEIIQLGEKSINNVKKESI-
+W0HY61          ------------------------------------------------V-
+A0A2X5L0N1      TK----NN-------------------GVI-------NKNIQSAKQESF-
+A0A3B0MKH5      AG---VAN-------------------GKR------DNEAVNFSQLESV-
+A0A3B0MKH5_1    AG---VAN-------------------GKR------DNEAVNFSQLESV-
+                                                                  
+
+A1JUB7          ---NSTKKAIRESNQYTDHKFR--------QLDNRLDKLDTRVDKGLASS
+A0A0T9SVX8      ---NSTKKAIRESNQYTDHKFH--------QLDNRLDKLDTRVDKGLASS
+A0A0U4BQU1      ---NSTKKAIRESNQYTDHKFR--------QLDNRLDKLDTRVDKGLASS
+K7ZVF1          ---SSTKKAISESNQYTDHKFS--------QLDNRLDKLDKRVDKGLASS
+A0A0H3I0T0      YADGKASEALNTANNYTDSKVSATLRSANAYTDKSINRLERKVNRGLAST
+A0A2Y8JX41      ---KYTDKSITSLKNYTDSRFK--------ELKHKLDAQDKKFERGLASS
+A0A379EJM0      ---AYTDAKFNQIDNRINSSFQ--------QLNDKIDENAKKANAGIASV
+W0HY61          ---NNTATSAQALAQKNTARIK--------DIENKLSKTNTKIDRGLAAS
+A0A2X5L0N1      ---AYTDTKFNQINGKINSTFK--------QLNDKIEANAKKANAGIASV
+A0A3B0MKH5      ---KNIANHAKDISQKNNSRIS--------SLENELSKTNTKIERGLATS
+A0A3B0MKH5_1    ---KNIANHAKDISQKNNSRIS--------SLENELSKTNTKIERGLATS
+                                    .           .. :.    : : *:*: 
+
+A1JUB7          AALNSLFQPYG-VGKVNFTAGVGGYRSSQALAIGSGYRVNESVALKAGVA
+A0A0T9SVX8      AALNSLFQPYG-VGKVNFTAGVGGYRSSQALAIGSGYRVNESVALKAGVA
+A0A0U4BQU1      AALNSLFQPYG-VGKVNFTAGVGGYRSSQALAIGSGYRVNENVALKAGVA
+K7ZVF1          AALNSLFQPYG-VGKVNFTAGVGGYRSSQALAIGSGYRVNESVALKAGVA
+A0A0H3I0T0      AALSGLFQPYG-VGKFNFSAGVGGYRDESAIAMGSGYRFNENVAVKMGVS
+A0A2Y8JX41      AAISGLFQPYT-VGTFNMTVGIGGYRDESAVAVGTGYRFNNNIAAKAGMA
+A0A379EJM0      AAMTNI--PYVNYQKFSVGAGLGNYRNGNAIAVGMQYKLNENTHVRASTS
+W0HY61          AALTGLFQPYG-VGKINFTAGMGGYGSSQAIAVGSGYRISENTAFKAGVA
+A0A2X5L0N1      AAMTNI--PYVNNQTFSAGVGVGNYRNGNAVAVGVQYKLNENTNIRASSS
+A0A3B0MKH5      AALNGLFQPYG-VGKMNMTAAIGGYGSSQALAVGTGYRVDENVAFKAGIA
+A0A3B0MKH5_1    AALNGLFQPYG-VGKMNMTAAIGGYGSSQALAVGTGYRVDENVAFKAGIA
+                **:..:  **    ...  ..:*.* . .*:*:*  *:..:.   : . :
+
+A1JUB7          YA--G--SSDVMYNASFNIEW
+A0A0T9SVX8      YA--G--SSDVMYNASFNIEW
+A0A0U4BQU1      YA--G--SSDVMYNASFNIEW
+K7ZVF1          YA--G--SSNVMYNASFNIEW
+A0A0H3I0T0      MSAEG--ISSAMYNASVNVEW
+A0A2Y8JX41      AS--TGDSSAVMYNASVNFEW
+A0A379EJM0      WN--S--SDSAVFGGGIAIGW
+W0HY61          YS--G--GSNVMYNASFNLEW
+A0A2X5L0N1      WN--N--TDGAVIGGGIAVGW
+A0A3B0MKH5      YS--G--ENDVMYNASFNIEW
+A0A3B0MKH5_1    YS--G--ENDVMYNASFNIEW
+                        . .: .... . *
+
+
+

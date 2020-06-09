@@ -1,0 +1,355 @@
+CLUSTAL FORMAT for T-COFFEE dev_root@20190610_17:01 [http://www.tcoffee.org] [MODE: psicoffee ], CPU=0.52 sec, SCORE=71, Nseq=11, Len=1325 
+
+P02931                   MMKRNILAVIVPALLVAGTANAA--EIYNKDGNKVDLYGKAVGL--HYFS
+UniRef100_UPI000EB43C75  MLKLVSRTICLSLIGLFNPLEAF--QKHQKDGFFIEA-GFETGL--LEGT
+UniRef100_A0A1H1GF16     MKNLILGVALV-----AGSFTFAQKATSKSITYGVKA-GLNVAS--VSKD
+UniRef100_UPI000C313673  MLRFVSKTICL--IGLFNPLEAF--QKHQKDGFFIEA-GFETGL--LEGT
+UniRef100_UPI000EB0E3BC  MLKLVSRTICLSLIGLFNPLEAF--QKHQKDGFFIEA-GFETGL--LEGT
+UniRef100_UPI000C3003EB  MLRFVSKTICLSLIGLFNPLEAF--QKHQKDGFFIEA-GFETGL--LEGA
+UniRef100_UPI000991A9E3  MRKLFIPLLL------F---SAL--EANEKNGFFIEA-GFETGL--LEGT
+UniRef100_UPI000EB56171  MLRFVSKTICLSLIGLFNPLEAF--QKHQKDGFFIEA-GFETGL--LEGV
+UniRef100_UPI000EABB7C0  MLRFVSKTICLSLIGLFNPLEAF--QKHQKDGFFIEA-GFETGL--LEGV
+UniRef100_A0A1Y6KJK9     MSLQLIATLS------RTPFLTRKR--AQR--SW-RM-AWLAGTALVAIT
+UniRef100_A0A1H8FVW7     MKKLMMIAALL-----VATVSAN--AQFEAGTFSL---------------
+                         *                           :                     
+
+P02931                   KGNGENSYGGN---------------------------------------
+UniRef100_UPI000EB43C75  QTKE-QTITQNTQNTQNTQKIYENPLTHPQTKEQPKEQNKSDIATPQSAY
+UniRef100_A0A1H1GF16     NTSD-SQSSKV------G--------------------------------
+UniRef100_UPI000C313673  QTKE-EATAQN------TQKIQKNPLTHSQIKEQPKEQNKSDTATPQSVY
+UniRef100_UPI000EB0E3BC  QTKE-EATAQN------AQKIYENPLTHPQTKEQPKEQNKSDTATPQSTY
+UniRef100_UPI000C3003EB  QTKE-EATAQN------TQKIQKNPLTHPQIKEQPKEQNKSDTATPQSVY
+UniRef100_UPI000991A9E3  QTQE-KRHT-----------------------------------TTKNTY
+UniRef100_UPI000EB56171  QTKE-EAIAQN------TQKIQKNPLTHPR----------EQPATAQSAY
+UniRef100_UPI000EABB7C0  QTKE-EATAQN------TQKVYENPLTHPQS----KEQNKSDTATPQSAY
+UniRef100_A0A1Y6KJK9     NSAH--AIDVA------S--------------------------------
+UniRef100_A0A1H8FVW7     --------------------------------------------------
+                                                                           
+
+P02931                   ------------------------G-DMTYA-RLGFKGETQINSDLTGYG
+UniRef100_UPI000EB43C75  GKY-YIPQSTILEKATELFTTDNIENGLTFY-SQNPVYANMVNGSVTIQN
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  GRY-YIQKSTIVKKASALFTTKNIP-NLTFD-SLNPVYASAANGSVTIQN
+UniRef100_UPI000EB0E3BC  GKY-YIPQSTILEKATELFTTDNIENGLTFY-SQSPVYANMVNGSVTIQN
+UniRef100_UPI000C3003EB  GRY-YIQKSAIVKKASALFTTKNIP-NLTFD-SLNPVYASAANGSVTIQN
+UniRef100_UPI000991A9E3  AIYNYLPTDSVLKRAANLFTDAKSISQLNFS-SLSPIKVLYIGGQLTIEN
+UniRef100_UPI000EB56171  GKY-YIPKSAILKKASALFTTKNIP-NLTFD-SLNPVYASAANGSVTIQN
+UniRef100_UPI000EABB7C0  GKY-YIPQSTILEKATELFTTDNIENGLTFY-SQSPVYANMVNGSVTIQN
+UniRef100_A0A1Y6KJK9     --------------------------QADWDTAVAAVAAAGANSTVSINF
+UniRef100_A0A1H8FVW7     --------------------------------------------------
+                                                                           
+
+P02931                   QWEYNFQ-------------------------------------------
+UniRef100_UPI000EB43C75  FLPYNLNNVELSFKDAQGKVVNLGVIE-TIPKDSQ-IILPASLFNDSEFE
+UniRef100_A0A1H1GF16     --------------FNVGA------FA-NIPVATSFSVQPEVL-------
+UniRef100_UPI000C313673  FLPYDLSNVELTFKDKQGRVIHLGVIE-TIPKQSQ-ITLPASLFNDPELN
+UniRef100_UPI000EB0E3BC  FLPYNLNNVELSFKDAQGKVVNLGVIE-TIPKDSQ-IILPASLFNDSEFE
+UniRef100_UPI000C3003EB  FLPYDLSNVELTFKDKQGRVIHLGVIE-TIPKQSQ-ITLPASLFNDPELN
+UniRef100_UPI000991A9E3  FLPYNLSNVKLSFTDAQGNAIDLGVIE-TIPKHSK-IVLPGEAFDSLKEA
+UniRef100_UPI000EB56171  FLPYDLSNVELTFKDHQGRVINLGVIE-TIPKQSQ-IILPASLFNDPELN
+UniRef100_UPI000EABB7C0  FLPYNLNNVELSFKDAQGKVVNLGVIE-TIPKDSQ-IILPASLFNDSEFE
+UniRef100_A0A1Y6KJK9     TAGFTLSSSMSALVANAGN------VTVNITGNN-NTLNGAST-------
+UniRef100_A0A1H8FVW7     -----------------------------QPKIG-GVISKVSN-------
+                                                                           
+
+P02931                   --------------------------------------------------
+UniRef100_UPI000EB43C75  -----QADSFNYQQLKATATPFSDLGTKSLFEKLSQITTNVTMSYENADT
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  DPELLKKDPFVFQQLKATATPFSDLGTKSLFDKLSQITTHVVMSYENANN
+UniRef100_UPI000EB0E3BC  -----QADSFNYQQLQATATQFSDANTQSLFEKLSQITTNVTMSYENVDT
+UniRef100_UPI000C3003EB  DPELLKKDPFVFQQLKATATPFSDLGTKSLFDKLSQITTHVVMSYENANN
+UniRef100_UPI000991A9E3  FDK-IGPYTFFFPKFEATSTSISDTNTQRVFETLNKIKTNLIMKYSNENP
+UniRef100_UPI000EB56171  DPELLKKDPFVFQQLKATATPFSDLSTKSLFDKLSQITTHVVMNYENANN
+UniRef100_UPI000EABB7C0  -----QADSFNYQQLQATATQFSDANTQSLFEKLSKITTNVTMSYENADT
+UniRef100_A0A1Y6KJK9     --------------------------------------------------
+UniRef100_A0A1H8FVW7     --------------------------------------------------
+                                                                           
+
+P02931                   ----G--------NNSEGADAQTGNKTRLAFAGLKYADVGSFD-------
+UniRef100_UPI000EB43C75  NNFKG--------NCHDCVSDFTP-QTAEELTNLMLDMIAVFDSK-----
+UniRef100_A0A1H1GF16     ------------------------------FSQYGSKY------------
+UniRef100_UPI000C313673  NNFKG--------NCTNCMSDFTP-QTAEELTNLMLNMIAVFDSK-----
+UniRef100_UPI000EB0E3BC  NNFKG--------NCHDCVSDFTP-QTAEELTNLMLDMMAVFDSK-----
+UniRef100_UPI000C3003EB  NNFKG--------NCTNCMSDFTP-QTAEELTNLMLNMIAVFDSK-----
+UniRef100_UPI000991A9E3  NNFNTCPYNNNGNTKNDCWQNFTP-QTAEEFTNLMLNMIAVLDSQ-----
+UniRef100_UPI000EB56171  NNFKG--------NCTNCVSDFTP-QTAEQLTNLMLNMIAVFDTK-----
+UniRef100_UPI000EABB7C0  NNFKG--------NCHDCVSDFTP-QTAEELTNLMLDMIAVFDSK-----
+UniRef100_A0A1Y6KJK9     --------------YQGIQVSGTN-APVVTISNLTINAMRARGGNGGGGG
+UniRef100_A0A1H8FVW7     ------------------------------MPDIKIPTAAGVSLD-----
+                                                       :.                  
+
+P02931                   --------------------------------------------------
+UniRef100_UPI000EB43C75  ------------------SW---------EE-------------------
+UniRef100_A0A1H1GF16     ----------------------DK--------------------------
+UniRef100_UPI000C313673  ------------------AW---------KE-------------------
+UniRef100_UPI000EB0E3BC  ------------------SW---------EE-------------------
+UniRef100_UPI000C3003EB  ------------------AW---------KE-------------------
+UniRef100_UPI000991A9E3  ------------------SW---------GD-------------------
+UniRef100_UPI000EB56171  ------------------AW---------KE-------------------
+UniRef100_UPI000EABB7C0  ------------------SW---------EE-------------------
+UniRef100_A0A1Y6KJK9     DGGGGGGLGAGGGLFVASGASVTIDGVSFTNNAAVGGNGGSAGSHSGGAG
+UniRef100_A0A1H8FVW7     --------------ADKSF---YA--------------------------
+                                                                           
+
+P02931                   --------------------------------------------------
+UniRef100_UPI000EB43C75  ------AVLNAPFQFSNSPSECGSDFPKCVNPFNNGRVAPI-YEKYVLTP
+UniRef100_A0A1H1GF16     -----------------------------------KILGHK---------
+UniRef100_UPI000C313673  ------AILNAPFQFSNSSSECGSDYPKCVNPFNNGRVAHI-YEHYVLTP
+UniRef100_UPI000EB0E3BC  ------AVLNAPFQFSNSPSECGSDFPKCVNPFNNGRVAPI-YEKYVLTP
+UniRef100_UPI000C3003EB  ------AILNAPFQFSNSSSECGSDYPKCVNPFNNGRVAHI-YEHYVLTP
+UniRef100_UPI000991A9E3  ------AILNAPFEFTNSSTDCDSDPSKCVNPGVNGRVDTKVDQQYILNK
+UniRef100_UPI000EB56171  ------AILNAPFQFSNSSSECGSDYPKCVNPFNNGRVAHI-YEHYVLTP
+UniRef100_UPI000EABB7C0  ------AVLNAPFQFSNSPSECGSDFPKCVNPFNNGRVAPI-YEKYVLTP
+UniRef100_A0A1Y6KJK9     GGALNGGTGGTPPGGSGTGGAGGVGASATLFPGNGGVAGTG---------
+UniRef100_A0A1H8FVW7     -----------------------------------GALIGV---------
+                                                                           
+
+P02931                   --------------------------------------------------
+UniRef100_UPI000EB43C75  QSVIDVFRRTINLEVNILK-SGFVGLGYELD--DNDGN------------
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  QSVVDAFRRAINLEVNIMK-SGFVGLGYELD--EGDGN------------
+UniRef100_UPI000EB0E3BC  QSVIDAFRRTINLEVNILK-SGFVGLGYELD--DNDGN------------
+UniRef100_UPI000C3003EB  QSVIDAFRRAINLEVNIMK-SGFVGLGYELD--EGDGN------------
+UniRef100_UPI000991A9E3  QGIINNFRKKIEIDAVVLKNSGVVGLANGYGNDGEYGT------------
+UniRef100_UPI000EB56171  KSVVDAFRRAINLEVNILK-SGFVGLGYELD--DGDGN------------
+UniRef100_UPI000EABB7C0  QSVIDAFRRAINLEVNILK-SGFVGLGYELD--DGDGN------------
+UniRef100_A0A1Y6KJK9     ------------GGINTAN-GGTGGTGGTGG--GGGGGGAATNTFAGGAG
+UniRef100_A0A1H8FVW7     ------------E-------------------------------------
+                                                                           
+
+P02931                   ------------------------YGRNYGVVYDALGYTDMLPEF-----
+UniRef100_UPI000EB43C75  -----------LGIEASALNPEKLFGKNLNKV-DIVELRDIIHEF-----
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  -----------LAIMASALNPEKLFGKNLDKI-DLNKLRDIIHEF-----
+UniRef100_UPI000EB0E3BC  -----------LGIEASALNPEKLFGKTLNKV-DIVELRDIIHEF-----
+UniRef100_UPI000C3003EB  -----------LAIMASALNPKKLFGKNLDKI-DLNELRDIIHEF-----
+UniRef100_UPI000991A9E3  -----------LGVEAYALEPQKLFGNDLKTI-NLEDLRTILHEF-----
+UniRef100_UPI000EB56171  -----------LAITASALNPEKLFGKNLNQI-DLNELRDIIHEF-----
+UniRef100_UPI000EABB7C0  -----------LAITASALNPEKLFGKNLDKI-DLNELRDIIHEF-----
+UniRef100_A0A1Y6KJK9     GAGGFGGGGGGGGIGG---------------------------TFPQAGA
+UniRef100_A0A1H8FVW7     --A----------------------------------------EY-----
+                                                                           
+
+P02931                   GGDTAYSDDFFVGRVGGVATYRNSNFFGLVDGLNFAVQYLGKNERDTARR
+UniRef100_UPI000EB43C75  SHTKGYTHN-------GNMTYQRVRLCQ----------------------
+UniRef100_A0A1H1GF16     -----FSYA-------NNLNYIAV--------------------------
+UniRef100_UPI000C313673  SHTKGYTHN-------GNMTYQRVRLCQ----------------------
+UniRef100_UPI000EB0E3BC  SHTKGYTHN-------GNMTYQRVRLCQ----------------------
+UniRef100_UPI000C3003EB  SHTKGYTHN-------GNMTYQRVRLCQ----------------------
+UniRef100_UPI000991A9E3  SHTKGYGHN-------GNMTYQRVPVMK----------------------
+UniRef100_UPI000EB56171  SHTKGYTHN-------GNMTYQRVRLCQ----------------------
+UniRef100_UPI000EABB7C0  SHTKGYTHN-------GNMTYQRVRLCQ----------------------
+UniRef100_A0A1Y6KJK9     GGTGGYG-------------------------------------------
+UniRef100_A0A1H8FVW7     QLADMFSLA-------AGLNFAMQ--------------------------
+                              :                                            
+
+P02931                   SNGDGVGGSISYEYEGFGIVGAYGAADRTNLQEAQPLGNGKKAEQWATGL
+UniRef100_UPI000EB43C75  ------------ENGGAIQECEGGKEELVNGKEELKFTNGKEVKD-QDGY
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  ------------EGNGPEVRCEGGHEVEKNGKEELEFSNGHEVRD-HDGY
+UniRef100_UPI000EB0E3BC  ------------ENGGAIQECEGGKEELVNGKEELKFTNGKEVKD-QDGY
+UniRef100_UPI000C3003EB  ------------EGNGPEVRCEGGHEVEKNGKEELEFSNGHEVRD-HDGY
+UniRef100_UPI000991A9E3  ------------DGQ-------------------VEKDNSGKPKD-SDGL
+UniRef100_UPI000EB56171  ------------KDGGALQECEGGKEVEKNGTKELEFTNGKEVKD-QDGY
+UniRef100_UPI000EABB7C0  ------------KDGGALQECEGGKEVEKNGTKELEFTNGKEVKD-QDGY
+UniRef100_A0A1Y6KJK9     -------------------AGDGGDGNNG--PGSGGAGYGGAVFV-MDGA
+UniRef100_A0A1H8FVW7     -------------------GCQWEDTELK--------IGGE---------
+                                                                           
+
+P02931                   KYDANNI--Y-------LAANYGE--------------------------
+UniRef100_UPI000EB43C75  TYDVCSF--YKDNRQVYTAGNYPD-----SI-------------------
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  DYNVCSR--FGGKNQPAFPSNYPN-----SI-------------------
+UniRef100_UPI000EB0E3BC  TYNVCSF--YKDNHQVYTAGNYPN-----SI-------------------
+UniRef100_UPI000C3003EB  DYNVCSR--FGGKNQPAFPSNYPN-----SI-------------------
+UniRef100_UPI000991A9E3  PYNVCSL--YGGQGQSAFPSNYPN-----SI-------------------
+UniRef100_UPI000EB56171  TYNVCSF--YKDSRQAYTAGNYPD-----SI-------------------
+UniRef100_UPI000EABB7C0  TYNVCSF--YKDSHQAYTAGNYPD-----FI-------------------
+UniRef100_A0A1Y6KJK9     TLTVKTSTTFSGNSTQAGTGGTPVAAKGQDLYINGATQVVTFQINSGSAT
+UniRef100_A0A1H8FVW7     --------------------------------------------------
+                                                                           
+
+P02931                   --------------------------------------------------
+UniRef100_UPI000EB43C75  -----------------YHDCSHVPAGLVGVTTAVW--------------
+UniRef100_A0A1H1GF16     ------------------------------------PVMLQYNALPNLY-
+UniRef100_UPI000C313673  -----------------YTNCAQVPAGLIGVTTAVW--------------
+UniRef100_UPI000EB0E3BC  -----------------YTNCAQVPAGLIGVTTAVW--------------
+UniRef100_UPI000C3003EB  -----------------YTNCAQVPAGLIGVTTAVW--------------
+UniRef100_UPI000991A9E3  -----------------YHNCADVPAGFLGVTAAVW--------------
+UniRef100_UPI000EB56171  -----------------YHDCSHVPAGLIGVTTAVW--------------
+UniRef100_UPI000EABB7C0  -----------------YHDCSHVPAGLIGVTTAVW--------------
+UniRef100_A0A1Y6KJK9     FGGSTQTTQGNIAGEGGIAKTGAGTLTFTGTNTYSGATTVNAGTLLVNGT
+UniRef100_A0A1H8FVW7     ------------------------------------SLKLKDNKIQLNY-
+                                                                           
+
+P02931                   --------------------------------------------------
+UniRef100_UPI000EB43C75  ---------------------------------------------QQL--
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  ---------------------------------------------QQL--
+UniRef100_UPI000EB0E3BC  ---------------------------------------------QQL--
+UniRef100_UPI000C3003EB  ---------------------------------------------QQL--
+UniRef100_UPI000991A9E3  ---------------------------------------------QQL--
+UniRef100_UPI000EB56171  ---------------------------------------------QQL--
+UniRef100_UPI000EABB7C0  ---------------------------------------------QQL--
+UniRef100_A0A1Y6KJK9     LTNSATTINNGGTFGGTGTVNNVTVASGGTFAPGSGIAGTTMAVQGSLAF
+UniRef100_A0A1H8FVW7     --------------------------------------------------
+                                                                           
+
+P02931                   --------------------------------------------------
+UniRef100_UPI000EB43C75  --------------------------------------------------
+UniRef100_A0A1H1GF16     --------------------LEAGPEFGFLVGSKV---------------
+UniRef100_UPI000C313673  --------------------------------------------------
+UniRef100_UPI000EB0E3BC  --------------------------------------------------
+UniRef100_UPI000C3003EB  --------------------------------------------------
+UniRef100_UPI000991A9E3  --------------------------------------------------
+UniRef100_UPI000EB56171  --------------------------------------------------
+UniRef100_UPI000EABB7C0  --------------------------------------------------
+UniRef100_A0A1Y6KJK9     ASGAIYLVQVDPSTASRANATSATLGGATVNASFAAGSYAVKQYVILQTT
+UniRef100_A0A1H8FVW7     --------------------LNLPIVANVYL-------------------
+                                                                           
+
+P02931                   --------------------------------------TRNATP------
+UniRef100_UPI000EB43C75  -------------------------------------INQNALP------
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  -------------------------------------INQNALP------
+UniRef100_UPI000EB0E3BC  -------------------------------------INQNALP------
+UniRef100_UPI000C3003EB  -------------------------------------INQNALP------
+UniRef100_UPI000991A9E3  -------------------------------------INQNALP------
+UniRef100_UPI000EB56171  -------------------------------------INQNALP------
+UniRef100_UPI000EABB7C0  -------------------------------------INQNALP------
+UniRef100_A0A1Y6KJK9     GGVSGTFGSVVNTNLPSGFSTSLSYDANNVYLNLGLGFTPPSGPLTTNQA
+UniRef100_A0A1H8FVW7     --------------------------------------------------
+                                                                           
+
+P02931                   -----------------ITNKFTNT-------------------------
+UniRef100_UPI000EB43C75  -----------------I--NFANL-------------------------
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  -----------------I--NFANL-------------------------
+UniRef100_UPI000EB0E3BC  -----------------I--NFANL-------------------------
+UniRef100_UPI000C3003EB  -----------------I--NFANL-------------------------
+UniRef100_UPI000991A9E3  -----------------I--NYANL-------------------------
+UniRef100_UPI000EB56171  -----------------I--NFANL-------------------------
+UniRef100_UPI000EABB7C0  -----------------I--NFANL-------------------------
+UniRef100_A0A1Y6KJK9     NVGNALTNYFNRNGSIPL--VFGTLTPAGLNQISGQAATSTQQTTFNAMT
+UniRef100_A0A1H8FVW7     --------------------------------------------------
+                                                                           
+
+P02931                   -----------------------SGFANK-TQDVLLVAQ-----------
+UniRef100_UPI000EB43C75  -----------------------NSQTNH-LNAGLNAQN-----------
+UniRef100_A0A1H1GF16     -------KIK----------------------------------------
+UniRef100_UPI000C313673  -----------------------SSQANY-LDASLNAKA-----------
+UniRef100_UPI000EB0E3BC  -----------------------SSQANY-LDASLNARA-----------
+UniRef100_UPI000C3003EB  -----------------------SSQANY-LDASLNAKA-----------
+UniRef100_UPI000991A9E3  -----------------------GSQTNYNLNASLNTQD-----------
+UniRef100_UPI000EB56171  -----------------------NSQTNH-LNAGLNAQN-----------
+UniRef100_UPI000EABB7C0  -----------------------SSQANY-LDANLNAQN-----------
+UniRef100_A0A1Y6KJK9     QFMGALTDTFGAGRGDGAAGPGPTAFADET-DQANAYATNGRGRNGAERD
+UniRef100_A0A1H8FVW7     --------------------------------------------------
+                                                                           
+
+P02931                   -------------------YQFDFGLRPSIAYTKS--K--------AKDV
+UniRef100_UPI000EB43C75  -------------------F--ATSMVSAIAQNFS--TTST--TTYRSSS
+UniRef100_A0A1H1GF16     ------------------------------------DETAN--NVLAEGK
+UniRef100_UPI000C313673  -------------------F--VGSVFNAFNQSFL--T--------SSAQ
+UniRef100_UPI000EB0E3BC  -------------------F--VGSVFNAFNQSFL--T--------SSAQ
+UniRef100_UPI000C3003EB  -------------------F--VGSVFSAFNQSFL--T--------SSAQ
+UniRef100_UPI000991A9E3  -------------------L--ANSMLNTIQKTFV--TSSVTNHYFSSAS
+UniRef100_UPI000EB56171  -------------------F--ATSMVSAIAQNFS--TTST--TTYRSSS
+UniRef100_UPI000EABB7C0  -------------------F--ATSMVSAIVQNFS--TTST--TTYRSSS
+UniRef100_A0A1Y6KJK9     AYAMLTKAPAADAARRWSVW----------AAGFGGSQTTD--GNAALGS
+UniRef100_A0A1H8FVW7     --------------------------------------------------
+                                                                           
+
+P02931                   EGIGDVDLVNYFEVGATYYFNKNMS-------------------------
+UniRef100_UPI000EB43C75  KNFRSPIVGVNVKIGYQHYFNNYIGLAYYGIIQYNYAKAVNEKVQQLSYG
+UniRef100_A0A1H1GF16     ADVKSFNLGLGLGAGYYFTQNIG---------------------------
+UniRef100_UPI000C313673  QSFRSPILGVNVKIGYQHYFNDYIGLAYYGIIKYNYAQANDEKIQQLSYG
+UniRef100_UPI000EB0E3BC  QSFRSPILGANVKIGYQHYFNDYIGLAYYGIIKYNYAQTNNEKIQQLSYG
+UniRef100_UPI000C3003EB  QSFRSPILGVNVKIGYQHYFNDYIGLAYYGIIKYNYAQANDEKIQQLSYG
+UniRef100_UPI000991A9E3  QSFRSPILGVNAKIGYQNYFNDFIGLAYYGIIKYNYSKAINQKFQQLSYG
+UniRef100_UPI000EB56171  KNFRSPIVGANVKIGYQHYFNDYIGLAYYGIIQYNYAKAVNEKVQQLSYG
+UniRef100_UPI000EABB7C0  KNFRSPIVGANVKIGYQHYFNDYIGLAYYGIIQYNYAKAVNEKIQQLSYG
+UniRef100_A0A1Y6KJK9     NTTTSTLYGTAVGFDYRLSPSTV---------------------------
+UniRef100_A0A1H8FVW7     ------FKGFAVKTGVQLGFLLS----------------AKRKY------
+                                       .                                   
+
+P02931                   ----TYVDYIINQI------------------------------------
+UniRef100_UPI000EB43C75  AGIDLLLDFITTHA---------------SSFGVFGGLRGLYNDYHALNQ
+UniRef100_A0A1H1GF16     -----------------------------VTVRYVAGLTDIQKTKPVGSD
+UniRef100_UPI000C313673  GGMDVLFDFITTYTHKKQ--DNPTKKVFASSFGVFGGLRGLYNSYYVFNQ
+UniRef100_UPI000EB0E3BC  VGMDVLFDFITNYTNEKNPKNNLTKKVFTSSLGVFGGLRGLYNSYYVFNQ
+UniRef100_UPI000C3003EB  GGMDVLFDFITTYTHKKQ--DNPTKKVFASSFGVFGGLRGLYNSYYVFNQ
+UniRef100_UPI000991A9E3  GGIDLLLDFITTYS---------------NKNSP----------------
+UniRef100_UPI000EB56171  AGIDLLLDFITTHA---------------SSFGVFGGLRGLYNDYHALNQ
+UniRef100_UPI000EABB7C0  AGIDLLLDFITTHA---------------SSFGVFGGLRGLYNDYHALNQ
+UniRef100_A0A1Y6KJK9     -----------------------------AGFALAGGGT-----SFSVAN
+UniRef100_A0A1H8FVW7     -----------------------------DMTGSIGGSSATVKYDEDVKD
+                                                                           
+
+P02931                   -DSDNKLGV-----------------------------------------
+UniRef100_UPI000EB43C75  SKGNGSLNAVT-GF------------------------------------
+UniRef100_A0A1H1GF16     S-------------------------------------------------
+UniRef100_UPI000C313673  IKGSGNLDIVT-GF------------------------------------
+UniRef100_UPI000EB0E3BC  VKGSGNLDIVT-GF------------------------------------
+UniRef100_UPI000C3003EB  VKGSGNLDIVT-GF------------------------------------
+UniRef100_UPI000991A9E3  --------------------------------------------------
+UniRef100_UPI000EB56171  SKGNGSLNAVT-GF------------------------------------
+UniRef100_UPI000EABB7C0  SKGNGSLNAVT-GF------------------------------------
+UniRef100_A0A1Y6KJK9     ALGSGRSDLFQAGGFVRHTLGPAYITAALAYGWQDVTTNRTVTVAGIDQL
+UniRef100_A0A1H8FVW7     QCKKFDVSIPI-GV------------------------------------
+                                                                           
+
+P02931                   --------------------------------------------------
+UniRef100_UPI000EB43C75  ---------------NYLHNHSKY--------------------------
+UniRef100_A0A1H1GF16     ------------------VKN-----------------------------
+UniRef100_UPI000C313673  ---------------NYRYKHSKY--------------------------
+UniRef100_UPI000EB0E3BC  ---------------NYRYKHSKY--------------------------
+UniRef100_UPI000C3003EB  ---------------NYRYKHSKY--------------------------
+UniRef100_UPI000991A9E3  --------------------------------------------------
+UniRef100_UPI000EB56171  ---------------NYLHNHSKY--------------------------
+UniRef100_UPI000EABB7C0  ---------------NYLHNHSKY--------------------------
+UniRef100_A0A1Y6KJK9     RAQFKASSWSGRLEGGYRVLWPAIGIGLTPYAAGQFTTFDLPAYAEQAVA
+UniRef100_A0A1H8FVW7     ---------------SYQVPTVPVYIDAR---------------------
+                                                                           
+
+P02931                   --------------------------------------------------
+UniRef100_UPI000EB43C75  --------------------------------------------------
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  --------------------------------------------------
+UniRef100_UPI000EB0E3BC  --------------------------------------------------
+UniRef100_UPI000C3003EB  --------------------------------------------------
+UniRef100_UPI000991A9E3  --------------------------------------------------
+UniRef100_UPI000EB56171  --------------------------------------------------
+UniRef100_UPI000EABB7C0  --------------------------------------------------
+UniRef100_A0A1Y6KJK9     GANTFALAYGSRSVTAPRTELGLRTDKAFAMPDGVLTLRGRFAWAHDYTT
+UniRef100_A0A1H8FVW7     --------------------------------------------------
+                                                                           
+
+P02931                   --------------------------------------------------
+UniRef100_UPI000EB43C75  ------------------------------SIGVSIPLIQRDIKIASISG
+UniRef100_A0A1H1GF16     --------------------------------------------------
+UniRef100_UPI000C313673  ------------------------------SVGISVPLIQNDIKIASSNG
+UniRef100_UPI000EB0E3BC  ------------------------------SIGISVPLIQNDIKIASNNG
+UniRef100_UPI000C3003EB  ------------------------------SVGISVPLIQNDIKIASNNG
+UniRef100_UPI000991A9E3  --------------------------------------------------
+UniRef100_UPI000EB56171  ------------------------------SIGVSIPLIQRDIKIASISG
+UniRef100_UPI000EABB7C0  ------------------------------SIGVSIPLIQRDIKIASISG
+UniRef100_A0A1Y6KJK9     GRTLTPTFQTLPGASFVANGAQQAADRALVSATAEMKWMNNWSAALTFDG
+UniRef100_A0A1H8FVW7     -----------------------------YNLGLTKIVKDI-------DE
+                                                                           
+
+P02931                   -----------GSDDTVAVGIVYQF
+UniRef100_UPI000EB43C75  AYMDSLILHEGVSHFKVFFNYGWVF
+UniRef100_A0A1H1GF16     ----NV--------FQVGVAYK--F
+UniRef100_UPI000C313673  IYADSVVLNEGGSHFKVFFNYGWIF
+UniRef100_UPI000EB0E3BC  IYANSVVLNEGGSHFKVFFNYGWVF
+UniRef100_UPI000C3003EB  IYADSVVLNEGGSHFKVFFNYGWIF
+UniRef100_UPI000991A9E3  -------------------------
+UniRef100_UPI000EB56171  AYMDSLILHEGASHFKVFFNYGWIF
+UniRef100_UPI000EABB7C0  AYMDSLILHERVSHFKVFFNYGWVF
+UniRef100_A0A1Y6KJK9     EFANISRSYG----GKGVVRYS--W
+UniRef100_A0A1H8FVW7     SVKNQV--------FQLTVGYKFAL
+                                                  
+
+
+
